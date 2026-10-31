@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.normalizedMetricJetCurvature_receiver' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.metric_field_response_jet_exhaustion' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metric_field_response_normalized_germ_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.metric_field_response_translated_coefficients_constant' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

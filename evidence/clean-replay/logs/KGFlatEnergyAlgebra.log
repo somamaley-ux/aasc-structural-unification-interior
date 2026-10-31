@@ -1,0 +1,20 @@
+KGFlatEnergyAlgebra.lean:65:15: warning: This simp argument is unused:
+  flatKGEnergy
+
+Hint: Omit it from the simp argument list.
+  simp only [̵f̵l̵a̵t̵K̵G̵E̵n̵e̵r̵g̵y̵,̵p̵o̵w̵_̵o̵n̵e̵,̵N̵a̵t̵.̵c̵a̵s̵t̵_̵o̵f̵N̵a̵t̵]̵[̲p̲o̲w̲_̲o̲n̲e̲,̲ ̲N̲a̲t̲.̲c̲a̲s̲t̲_̲o̲f̲N̲a̲t̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFlatEnergyAlgebra.lean:65:28: warning: This simp argument is unused:
+  pow_one
+
+Hint: Omit it from the simp argument list.
+  simp only [̵f̵l̵a̵t̵K̵G̵E̵n̵e̵r̵g̵y̵,̵p̵o̵w̵_̵o̵n̵e̵,̵N̵a̵t̵.̵c̵a̵s̵t̵_̵o̵f̵N̵a̵t̵]̵[̲f̲l̲a̲t̲K̲G̲E̲n̲e̲r̲g̲y̲,̲ ̲N̲a̲t̲.̲c̲a̲s̲t̲_̲o̲f̲N̲a̲t̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFlatEnergyAlgebra.lean:64:93: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+KGFlatEnergyAlgebra.lean:66:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

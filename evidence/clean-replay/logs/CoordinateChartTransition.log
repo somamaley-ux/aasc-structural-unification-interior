@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.metric_pullback_congr_map_eventually' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinate_derivative_of_frame_jacobian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartMap_analytic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartMap_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartInverse_at_point' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartInverse_analytic' depends on axioms: [propext, Classical.choice, Quot.sound]

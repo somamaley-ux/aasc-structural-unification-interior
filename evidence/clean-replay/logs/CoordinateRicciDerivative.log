@@ -1,0 +1,17 @@
+'AASCSemanticExhaustion.c3_normal_coordinateRicci_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_coordinateScalar_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_coordinateRicci_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c3_normal_coordinateScalar_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.canonical_metric_contraction_diagonal' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_coordinateRicci_partial_diagonal' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_coordinateScalar_partial_diagonal' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

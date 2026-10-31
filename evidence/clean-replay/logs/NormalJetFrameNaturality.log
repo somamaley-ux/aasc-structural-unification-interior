@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.pullbackFour_flat' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_smul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_middle' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.sum_three_rotate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_cycle' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalJet_frame_natural' depends on axioms: [propext, Classical.choice, Quot.sound]

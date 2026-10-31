@@ -1,0 +1,6 @@
+KGOriginalDerivativeWickAssembly.lean:23:16: warning: unused variable `hu`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KGOriginalDerivativeWickAssembly.lean:23:45: warning: unused variable `hv`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

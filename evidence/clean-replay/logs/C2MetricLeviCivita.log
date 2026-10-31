@@ -1,0 +1,24 @@
+'AASCSemanticExhaustion.c2_metric_lowerChristoffel_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normalized_metric_lowerChristoffel_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normalized_metric_christoffel_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normalized_metric_christoffel_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normalized_metric_christoffel_fderiv' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normalized_metric_leviCivita_curvature' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normalizedLeviCivitaCurvature_eq_jet' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_actual_normalized_metric_response_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

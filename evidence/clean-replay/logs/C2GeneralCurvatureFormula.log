@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.c2_lowerChristoffel_curl' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_lowered_curvature_with_derivative_corrections' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.compatible_metric_partial_connection_product' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_general_coordinate_curvature_formula' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

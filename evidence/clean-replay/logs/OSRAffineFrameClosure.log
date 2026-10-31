@@ -1,0 +1,7 @@
+OSRAffineFrameClosure.lean:25:32: warning: This simp argument is unused:
+  map_sub
+
+Hint: Omit it from the simp argument list.
+  simp [̵f̵r̵a̵m̵e̵I̵n̵v̵e̵r̵s̵e̵,̵f̵r̵a̵m̵e̵E̵v̵e̵n̵t̵,̵m̵a̵p̵_̵s̵u̵b̵,̵s̵u̵b̵_̵e̵q̵_̵a̵d̵d̵_̵n̵e̵g̵]̵[̲f̲r̲a̲m̲e̲I̲n̲v̲e̲r̲s̲e̲,̲ ̲f̲r̲a̲m̲e̲E̲v̲e̲n̲t̲,̲ ̲s̲u̲b̲_̲e̲q̲_̲a̲d̲d̲_̲n̲e̲g̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

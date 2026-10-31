@@ -1,0 +1,14 @@
+'AASCSemanticExhaustion.native_covariant_stress_jet_body' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_covariant_stress_jet_first_coefficient' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_stress_divergence_first_coefficient' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_square_zero_evaluation_components' depends on axioms: [propext, Quot.sound]
+'AASCSemanticExhaustion.native_covariant_stress_jet_evaluation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_stress_divergence_jet_evaluation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

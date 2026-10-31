@@ -1,0 +1,14 @@
+KGOriginalPairAdjointness.lean:29:8: warning: This simp argument is unused:
+  star_mul
+
+Hint: Omit it from the simp argument list.
+  simp [star_m̵u̵l̵,̵s̵t̵a̵r̵_̵pow]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGOriginalPairAdjointness.lean:29:17: warning: This simp argument is unused:
+  star_pow
+
+Hint: Omit it from the simp argument list.
+  simp [star_mul,̵s̵t̵a̵r̵_̵p̵o̵w̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

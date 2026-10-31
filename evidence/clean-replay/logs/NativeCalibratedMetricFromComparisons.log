@@ -1,0 +1,10 @@
+'AASCMetricConstruction.comparison_unit_lorentz_det' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.reconstruct_null_answers' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.constructed_null_receipt_quadratic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.constructed_null_receipt_determinant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.original_null_and_positive_clock_construct_unique_nondegenerate_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.every_original_comparison_query_is_necessary' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.pullbackFour_neg' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_last_swap' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.sum_four_pair_swap' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_pair_swap' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_cycle_twice' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_preserves_curvature_laws' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

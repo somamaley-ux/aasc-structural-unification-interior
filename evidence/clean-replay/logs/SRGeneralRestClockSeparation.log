@@ -1,0 +1,27 @@
+SRGeneralRestClockSeparation.lean:18:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_positive_quadratic_minimizer_unique`:
+  [FiniteDimensional ℝ V]
+  [Nontrivial V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] [Nontrivial V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRGeneralRestClockSeparation.lean:39:8: warning: automatically included section variable(s) unused in theorem `_private.SRGeneralRestClockSeparation.0.AASCMetricConstruction.sr_sum_mem_cone`:
+  [NormedSpace ℝ V]
+  [FiniteDimensional ℝ V]
+  [Nontrivial V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [NormedSpace ℝ V] [FiniteDimensional ℝ V] [Nontrivial V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRGeneralRestClockSeparation.lean:77:35: warning: unused variable `convex`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCMetricConstruction.sr_positive_quadratic_minimizer_unique' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_pointed_cone_excludes_zero_convex_hull_of_nonzero_records' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_positive_clock_of_general_original_rest_action' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

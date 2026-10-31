@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.compact_supported_multiplier_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_test_multiplier_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_test_multiplier_support' depends on axioms: [propext, Classical.choice, Quot.sound]

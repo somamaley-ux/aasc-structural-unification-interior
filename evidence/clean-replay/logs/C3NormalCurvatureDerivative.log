@@ -1,0 +1,12 @@
+'AASCSemanticExhaustion.c3_normalized_metric_c2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c3_metric_second_partial_differentiableAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_hessian_curvature_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c3_normal_metric_curvature_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_metric_curvature_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c3_normal_metric_differential_bianchi' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

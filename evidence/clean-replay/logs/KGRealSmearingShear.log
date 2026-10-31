@@ -1,0 +1,13 @@
+KGRealSmearingShear.lean:40:4: warning: This simp argument is unused:
+  inv_mul_cancel₀ (fourierWaveScale_pos a).ne'
+
+Hint: Omit it from the simp argument list.
+  simp only [̵u̵n̵s̵c̵a̵l̵e̵d̵F̵r̵e̵q̵u̵e̵n̵c̵y̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵s̵,̵s̵h̵e̵l̵l̵F̵r̵e̵q̵u̵e̵n̵c̵y̵,̵s̵h̵e̵l̵l̵C̵o̵v̵e̵c̵t̵o̵r̵_̵e̵q̵_̵j̵o̵i̵n̵,̵
+  ̵ ̵ ̵ ̵ ̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵s̵m̵u̵l̵_̵a̵p̵p̵l̵y̵,̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵E̵q̵u̵i̵v̵.̵c̵o̵e̵_̵c̵o̵e̵,̵m̵a̵p̵_̵s̵m̵u̵l̵,̵
+  ̵ ̵ ̵ ̵ ̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵E̵q̵u̵i̵v̵.̵s̵y̵m̵m̵_̵a̵p̵p̵l̵y̵_̵a̵p̵p̵l̵y̵,̵s̵m̵u̵l̵_̵s̵m̵u̵l̵,̵
+  ̵ ̵ ̵ ̵ ̵i̵n̵v̵_̵m̵u̵l̵_̵c̵a̵n̵c̵e̵l̵₀̵[̲u̲n̲s̲c̲a̲l̲e̲d̲F̲r̲e̲q̲u̲e̲n̲c̲y̲C̲o̲o̲r̲d̲i̲n̲a̲t̲e̲s̲,̲ ̲s̲h̲e̲l̲l̲F̲r̲e̲q̲u̲e̲n̲c̲y̲,̲ ̲s̲h̲e̲l̲l̲C̲o̲v̲e̲c̲t̲o̲r̲_̲e̲q̲_̲j̲o̲i̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲C̲o̲n̲t̲i̲n̲u̲o̲u̲s̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲s̲m̲u̲l̲_̲a̲p̲p̲l̲y̲,̲ ̲C̲o̲n̲t̲i̲n̲u̲o̲u̲s̲L̲i̲n̲e̲a̲r̲E̲q̲u̲i̲v̲.̲c̲o̲e̲_̲c̲o̲e̲,̲ ̲m̲a̲p̲_̲s̲m̲u̲l̲,̲
+  ̲ ̲ ̲ ̲ ̲C̲o̲n̲t̲i̲n̲u̲o̲u̲s̲L̲i̲n̲e̲a̲r̲E̲q̲u̲i̲v̲.̲s̲y̲m̲m̲_̲a̲p̲p̲l̲y̲_̲a̲p̲p̲l̲y̲,̲ ̲s̲m̲u̲l̲_̲s̲m̲u̲l̲,̲ ̲m̲u̲l̲_̲i̲n̲v̲_̲c̲a̲n̲c̲e̲l̲₀̲ (fourierWaveScale_pos a̵)̵.̵n̵e̵'̵,̵m̵u̵l̵_̵i̵n̵v̵_̵c̵a̵n̵c̵e̵l̵₀̵ ̵(̵f̵o̵u̵r̵i̵e̵r̵W̵a̵v̵e̵S̵c̵a̵l̵e̵_̵p̵o̵s̵ ̵a̵)̵.̵n̵e̵'̵,̵o̵n̵e̵_̵s̵m̵u̵l̵]̵a̲)̲.̲n̲e̲'̲,̲
+  ̲ ̲ ̲ ̲ ̲o̲n̲e̲_̲s̲m̲u̲l̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

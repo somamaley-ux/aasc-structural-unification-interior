@@ -1,0 +1,9 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_original_event_frame_is_constructed_affine' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_original_admitted_frame_metric_displacement_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_original_admitted_frame_transports_actual_clock_event' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

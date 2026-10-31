@@ -1,0 +1,20 @@
+Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+CubicCoordinateCalculus.lean:75:4: warning: This simp argument is unused:
+  mul_add
+
+Hint: Omit it from the simp argument list.
+  simp [cubicDerivative, coordinateProjection, Pi.single_apply,
+  ̵  ̵ ̵ ̵m̵u̵l̵_̵a̵d̵d̵,̵ ̵Finset.sum_add_distrib, mul_ite]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.cubicPolynomial_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubicPolynomial_fderiv' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubicPolynomial_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubicDerivative_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubicPolynomial_smooth' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.symmetric_cubic_derivative_basis' depends on axioms: [propext, Classical.choice, Quot.sound]

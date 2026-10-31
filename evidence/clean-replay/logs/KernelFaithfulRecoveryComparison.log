@@ -1,0 +1,183 @@
+KernelFaithfulRecoveryComparison.lean:34:46: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:50:55: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:54:55: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:56:53: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:61:13: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:61:40: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:65:13: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:65:40: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:69:13: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:69:40: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:72:55: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:76:54: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:90:54: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:95:13: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:95:40: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:99:13: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:99:40: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:102:57: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:106:50: warning: unused variable `hc`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:107:43: warning: unused variable `hf`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:107:56: warning: unused variable `hz`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:111:46: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:111:73: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:115:5: warning: unused variable `hf`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:115:18: warning: unused variable `hz`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:115:39: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:115:66: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:125:50: warning: unused variable `hx`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:125:67: warning: unused variable `hz`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:127:101: warning: unused variable `hx`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:127:118: warning: unused variable `hz`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:128:13: warning: unused variable `hT`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:128:40: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:138:5: warning: unused variable `compact`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:138:29: warning: unused variable `interior`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:141:30: warning: unused variable `compact`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:142:5: warning: unused variable `interior`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:153:5: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:157:26: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:164:26: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:168:26: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:182:30: warning: unused variable `compact`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:183:5: warning: unused variable `interior`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:190:30: warning: unused variable `compact`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:191:5: warning: unused variable `interior`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:201:75: warning: unused variable `compact`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:207:5: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:208:5: warning: unused variable `small`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:216:25: warning: unused variable `hB`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:216:38: warning: unused variable `pointBound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:217:5: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:217:45: warning: unused variable `small`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:221:5: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:221:42: warning: unused variable `order`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:230:5: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:230:56: warning: unused variable `margin`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:231:5: warning: unused variable `he`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:232:13: warning: unused variable `hs`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:236:5: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:236:48: warning: unused variable `order`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulRecoveryComparison.lean:237:5: warning: unused variable `margin`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

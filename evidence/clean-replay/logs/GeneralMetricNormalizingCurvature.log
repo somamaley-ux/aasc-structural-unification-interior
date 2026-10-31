@@ -1,0 +1,15 @@
+'AASCSemanticExhaustion.c2_general_normalizing_metric_partial_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_general_normalizing_metric_first_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_general_normalizing_metric_regular' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.general_normalizing_metric_value' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_first_flat_metric_curvature' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalizing_metric_hessian' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalizing_actual_curvature_preserved' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

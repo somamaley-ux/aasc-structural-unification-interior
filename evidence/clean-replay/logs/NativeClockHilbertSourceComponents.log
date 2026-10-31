@@ -1,0 +1,34 @@
+NativeClockHilbertSourceComponents.lean:21:32: warning: This simp argument is unused:
+  ContinuousLinearMap.sum_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵r̵e̵p̵r̵e̵s̵e̵n̵t̵e̵d̵M̵e̵t̵r̵i̵c̵S̵o̵u̵r̵c̵e̵,̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵s̵u̵m̵_̵a̵p̵p̵l̵y̵,̵
+  ̵ ̵ ̵ ̵ ̵c̵o̵m̵p̵a̵c̵t̵_̵m̵e̵t̵r̵i̵c̵_̵t̵e̵s̵t̵_̵p̵r̵o̵j̵e̵c̵t̵i̵o̵n̵_̵i̵n̵s̵e̵r̵t̵i̵o̵n̵,̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵c̵o̵m̵p̵_̵a̵p̵p̵l̵y̵]̵[̲r̲e̲p̲r̲e̲s̲e̲n̲t̲e̲d̲M̲e̲t̲r̲i̲c̲S̲o̲u̲r̲c̲e̲,̲ ̲c̲o̲m̲p̲a̲c̲t̲_̲m̲e̲t̲r̲i̲c̲_̲t̲e̲s̲t̲_̲p̲r̲o̲j̲e̲c̲t̲i̲o̲n̲_̲i̲n̲s̲e̲r̲t̲i̲o̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲C̲o̲n̲t̲i̲n̲u̲o̲u̲s̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲c̲o̲m̲p̲_̲a̲p̲p̲l̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NativeClockHilbertSourceComponents.lean:22:45: warning: This simp argument is unused:
+  ContinuousLinearMap.comp_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵r̵e̵p̵r̵e̵s̵e̵n̵t̵e̵d̵M̵e̵t̵r̵i̵c̵S̵o̵u̵r̵c̵e̵,̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵s̵u̵m̵_̵a̵p̵p̵l̵y̵,̵
+  ̵ ̵ ̵ ̵ ̵c̵o̵m̵p̵a̵c̵t̵_̵m̵e̵t̵r̵i̵c̵_̵t̵e̵s̵t̵_̵p̵r̵o̵j̵e̵c̵t̵i̵o̵n̵_̵i̵n̵s̵e̵r̵t̵i̵o̵n̵,̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵c̵o̵m̵p̵_̵a̵p̵p̵l̵y̵]̵[̲r̲e̲p̲r̲e̲s̲e̲n̲t̲e̲d̲M̲e̲t̲r̲i̲c̲S̲o̲u̲r̲c̲e̲,̲ ̲C̲o̲n̲t̲i̲n̲u̲o̲u̲s̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲s̲u̲m̲_̲a̲p̲p̲l̲y̲,̲
+  ̲ ̲ ̲ ̲ ̲c̲o̲m̲p̲a̲c̲t̲_̲m̲e̲t̲r̲i̲c̲_̲t̲e̲s̲t̲_̲p̲r̲o̲j̲e̲c̲t̲i̲o̲n̲_̲i̲n̲s̲e̲r̲t̲i̲o̲n̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.native_component_functionals_reconstructed' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_clock_constructed_source_integral_components' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_lorentz_frame_determinant_negative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_raise_source_matrix_identity' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_clock_coefficient_is_actual_raised_density' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_scalar_clock_actual_source_represents_hilbert_density' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

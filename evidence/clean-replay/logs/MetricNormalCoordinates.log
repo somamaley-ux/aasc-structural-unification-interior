@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.normalCoordinateCorrection_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalizingCoordinateMap_local_chart' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalizingCoordinateMap_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalizingCoordinateMap_jacobian' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalizing_metric_partial_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalizing_metric_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.natural_response_normalizing_chart' depends on axioms: [propext, Classical.choice, Quot.sound]

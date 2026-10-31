@@ -1,0 +1,9 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.joint_passive_registered_operation_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.joint_passive_every_finite_first_failure_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.licensed_sr_clock_extension_frame_naturality' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

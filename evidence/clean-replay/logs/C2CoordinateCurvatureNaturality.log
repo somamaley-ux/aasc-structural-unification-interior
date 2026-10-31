@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.coordinateJacobian_of_derivative_equiv' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.frame_metric_pullback_nondegenerate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_coordinate_leviCivita_curvature_natural_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

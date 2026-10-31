@@ -1,0 +1,16 @@
+KGConcreteCauchyTimeDynamics.lean:33:59: warning: This simp argument is unused:
+  abs_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [norm_mul, ̲Complex.norm_real, ̲Real.norm_eq_abs, ̲abs_m̵u̵l̵,̵a̵b̵s̵_̵neg,
+        abs_of_pos (spatialOmega_pos a ξ)]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGConcreteCauchyTimeDynamics.lean:56:23: warning: This simp argument is unused:
+  abs_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [spatialSineCoefficient, ̲sineCauchyCoefficient, ̲norm_mul, ̲Complex.norm_real,
+        Real.norm_eq_abs, ̲abs_m̵u̵l̵,̵a̵b̵s̵_̵inv, ̲abs_of_pos (spatialOmega_pos a ξ)]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

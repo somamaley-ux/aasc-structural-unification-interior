@@ -1,0 +1,13 @@
+SKGStressRegularity.lean:50:41: warning: This simp argument is unused:
+  Fin.sum_univ_succ
+
+Hint: Omit it from the simp argument list.
+  simp [metric, Matrix.diagonal_apply,̵ ̵F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+SKGStressRegularity.lean:52:2: warning: 'all_goals ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+SKGStressRegularity.lean:52:12: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`

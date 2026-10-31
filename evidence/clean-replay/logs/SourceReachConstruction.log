@@ -1,0 +1,11 @@
+'AASCMetricConstruction.original_mem_completedReach' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.finiteReach_iff_original_ledger' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.add_mem_completedReach' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.smul_mem_completedReach' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.weak_clock_extends_to_completedReach' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.increment_map_preserves_completedReach' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.source_increments_construct_compact_clock_section' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

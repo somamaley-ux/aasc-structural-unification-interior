@@ -1,0 +1,5 @@
+'AASCSemanticExhaustion.metricHessianResponseAt_origin' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metricHessianResponseAt_translation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.translated_metric_response_coefficients_constant' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.semantic_linear_response_classification' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.semantic_affine_response_normal_form' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.semantic_affine_response_unique_normal_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

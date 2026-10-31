@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "packages": [
+    {
+      "package": "aesop",
+      "upstream": "https://github.com/leanprover-community/aesop",
+      "declared_revision": "f642a64c76df8ba9cb53dba3b919425a0c2aeaf1",
+      "actual_head": "f642a64c76df8ba9cb53dba3b919425a0c2aeaf1",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 136,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 136
+    },
+    {
+      "package": "batteries",
+      "upstream": "https://github.com/leanprover-community/batteries",
+      "declared_revision": "495c008c3e3f4fb4256ff5582ddb3abf3198026f",
+      "actual_head": "495c008c3e3f4fb4256ff5582ddb3abf3198026f",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 87,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 87
+    },
+    {
+      "package": "importGraph",
+      "upstream": "https://github.com/leanprover-community/import-graph",
+      "declared_revision": "85b59af46828c029a9168f2f9c35119bd0721e6e",
+      "actual_head": "85b59af46828c029a9168f2f9c35119bd0721e6e",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 11,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 11
+    },
+    {
+      "package": "LeanSearchClient",
+      "upstream": "https://github.com/leanprover-community/LeanSearchClient",
+      "declared_revision": "c5d5b8fe6e5158def25cd28eb94e4141ad97c843",
+      "actual_head": "c5d5b8fe6e5158def25cd28eb94e4141ad97c843",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 5,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 5
+    },
+    {
+      "package": "mathlib",
+      "upstream": "https://github.com/leanprover-community/mathlib4.git",
+      "declared_revision": "8f9d9cff6bd728b17a24e163c9402775d9e6a365",
+      "actual_head": "8f9d9cff6bd728b17a24e163c9402775d9e6a365",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 3133,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 3133
+    },
+    {
+      "package": "plausible",
+      "upstream": "https://github.com/leanprover-community/plausible",
+      "declared_revision": "55c8532eb21ec9f6d565d51d96b8ca50bd1fbef3",
+      "actual_head": "55c8532eb21ec9f6d565d51d96b8ca50bd1fbef3",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 12,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 12
+    },
+    {
+      "package": "proofwidgets",
+      "upstream": "https://github.com/leanprover-community/ProofWidgets4",
+      "declared_revision": "be3b2e63b1bbf496c478cef98b86972a37c1417d",
+      "actual_head": "be3b2e63b1bbf496c478cef98b86972a37c1417d",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 13,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 13
+    },
+    {
+      "package": "Qq",
+      "upstream": "https://github.com/leanprover-community/quote4",
+      "declared_revision": "b8f98e9087e02c8553945a2c5abf07cec8e798c3",
+      "actual_head": "b8f98e9087e02c8553945a2c5abf07cec8e798c3",
+      "tracked_changes": false,
+      "exported_source_and_notice_files_verified_against_git_blobs": 15,
+      "files_requiring_crlf_to_lf_normalization_for_git_comparison": 15
+    }
+  ],
+  "scope": "Read-only original checkout HEAD/status checks and exported dependency file comparisons with pinned Git tree blobs, allowing only CRLF checkout conversion. Export bytes are unchanged from the sealed package. Dependency binary provenance remains the accepted retained-binary receipt."
+}

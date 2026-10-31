@@ -1,0 +1,27 @@
+EHKGDiamondDomain.lean:82:29: warning: This simp argument is unused:
+  quadratic_scalar_multiple
+
+Hint: Omit it from the simp argument list.
+  simp [timeConformalMetric, q̵u̵a̵d̵r̵a̵t̵i̵c̵_̵s̵c̵a̵l̵a̵r̵_̵m̵u̵l̵t̵i̵p̵l̵e̵,̵ ̵wickMatrixQuadratic, timeUnitNormal, Fin.sum_univ_succ,
+  ̲  ̲ ̲ ̲Pi.single_apply, secantScale, metric, Matrix.diagonal_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGDiamondDomain.lean:83:4: warning: This simp argument is unused:
+  Fin.sum_univ_succ
+
+Hint: Omit it from the simp argument list.
+  simp [timeConformalMetric, quadratic_scalar_multiple, wickMatrixQuadratic, timeUnitNormal,
+      F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵,̵ ̵Pi.single_apply, secantScale, metric, Matrix.diagonal_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGDiamondDomain.lean:93:70: warning: This simp argument is unused:
+  Fin.sum_univ_succ
+
+Hint: Omit it from the simp argument list.
+  simp [coordinateMetricPairing, timeConformalMetric, timeUnitNormal, F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵,̵Pi.single_apply, metric,
+  ̲  ̲ ̲ ̲Matrix.diagonal_apply, spatial]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGDiamondDomain.lean:97:5: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

@@ -1,0 +1,3 @@
+KGWickMetricAdmissibility.lean:47:2: warning: Try `simp at hx` instead of `simpa using hx`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`

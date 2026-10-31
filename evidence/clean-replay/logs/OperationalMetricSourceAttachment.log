@@ -1,0 +1,11 @@
+'AASCSemanticExhaustion.operational_response_of_incident' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.operational_response_graph' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.operational_response_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.operational_response_smul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.operational_metric_functional_exists_unique' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.operational_metric_zero_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.no_operational_attachment_of_missing_probe' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

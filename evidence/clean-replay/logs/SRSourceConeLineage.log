@@ -1,0 +1,39 @@
+SRSourceConeLineage.lean:20:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_finite_original_reach_convex`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRSourceConeLineage.lean:28:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_original_comparison_preserves_full_completed_cone`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRSourceConeLineage.lean:72:14: warning: unused variable `v`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCMetricConstruction.sr_finite_original_reach_convex' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_completed_original_reach_convex' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_original_comparison_preserves_full_completed_cone' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_source_constructs_unique_spatial_lorentz_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_source_spatial_positive' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_source_spatial_recovers_full_clock_body' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_source_lorentz_recovers_every_original_completed_query' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_source_constructed_lorentz_nondegenerate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_source_metric_fibres_are_exact_full_original_cone_profiles' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_source_constructed_metric_unique_injective_public_kernel_descent' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

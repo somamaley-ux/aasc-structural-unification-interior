@@ -1,0 +1,22 @@
+'AASC.KernelReference.Foundation.failureBoundary_iff_legacy_nondegenerate' does not depend on any axioms
+'AASC.KernelReference.Foundation.actualIncidence_iff_admissible_locus' does not depend on any axioms
+'AASC.KernelReference.Foundation.actual_reference_qualifies' does not depend on any axioms
+'AASC.KernelReference.Foundation.actualIncidence_has_canonical_standing' does not depend on any axioms
+'AASC.KernelReference.Foundation.determinate_actual_reference' does not depend on any axioms
+'AASC.KernelReference.Foundation.legacy_regime_nondegenerate_iff_both' does not depend on any axioms
+'AASC.KernelReference.Foundation.OriginalPerformance.retainsOriginal_iff_eq' does not depend on any axioms
+'AASC.KernelReference.Foundation.OriginalPerformance.new_success_does_not_replace_original' does not depend on any axioms
+'AASC.KernelReference.Foundation.OriginalPerformance.incident_answers_agree' does not depend on any axioms
+'AASC.KernelReference.Foundation.ObservationWork.missing_work_excludes_complete_realization' does not depend on any axioms
+'AASC.KernelReference.Foundation.ObservationWork.required_distinction_cannot_be_erased' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.positiveOnly_actual' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.positiveOnly_determinate' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.positiveOnly_no_failureBoundary' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.failureOnly_no_actual' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.repaired_does_not_retain_original' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.assisted_changes_conditions' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.failed_trial_occurrence_has_standing' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.success_report_of_first_is_unwarranted' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.equal_report_does_not_identify_original' does not depend on any axioms
+'AASC.KernelReference.Foundation.Examples.ordinary_failed_trial_and_full_regime_profile' depends on axioms: [propext]
+'AASC.KernelReference.Foundation.Examples.erasing_trial_identity_loses_required_work' does not depend on any axioms

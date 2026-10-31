@@ -1,0 +1,6 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_clock_use_rebase' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_clock_use_extension' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

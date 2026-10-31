@@ -1,0 +1,9 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.licensed_joint_sr_has_actual_valid_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.licensed_sr_same_original_preparation_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.licensed_sr_complete_registered_reference_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

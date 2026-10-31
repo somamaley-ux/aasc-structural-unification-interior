@@ -1,0 +1,3 @@
+'AASCKleinGordon.phaseAER_restricted_kernel_radical' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCKleinGordon.phaseAER_q_surjective' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCKleinGordon.phaseAER_horizontal_nondegenerate' depends on axioms: [propext, Classical.choice, Quot.sound]

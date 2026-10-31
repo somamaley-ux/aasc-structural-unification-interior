@@ -1,0 +1,6 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_original_source_calibrated_frames_preserve_constructed_metric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_admitted_frames_preserve_same_source_derived_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

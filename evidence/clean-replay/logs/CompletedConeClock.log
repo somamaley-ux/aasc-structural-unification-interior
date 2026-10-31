@@ -1,0 +1,5 @@
+'AASCMetricConstruction.finite_comparison_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.clock_section_nonempty' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.clock_section_compact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.positive_clock_of_finite_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.strict_clock_iff_finite_bound' depends on axioms: [propext, Classical.choice, Quot.sound]

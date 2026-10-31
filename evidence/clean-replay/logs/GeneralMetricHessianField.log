@@ -1,0 +1,13 @@
+'AASCSemanticExhaustion.hessianMetricPolynomial_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_smooth' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_fderiv' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_first_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_second' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_nonsingular_neighborhood' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_normal_agrees' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

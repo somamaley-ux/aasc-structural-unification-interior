@@ -1,0 +1,5 @@
+'AASCSemanticExhaustion.c3_scalarPartial_c2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarThirdPartial_swap_last' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarThirdPartial_swap_first' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateThirdJet_cubic_laws' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c3_coordinateJacobian_c2' depends on axioms: [propext, Classical.choice, Quot.sound]

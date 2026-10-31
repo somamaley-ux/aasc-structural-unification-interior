@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "source_modules": 1056,
+  "sources_with_exact_hash_in_accepted_manifests": 1054,
+  "sources_verified_via_accepted_compiled_object_identity": [
+    {
+      "module": "EHKGCurvedOperand",
+      "source_sha256": "1c73e02f76db1ea1837d91f6d2867f9dc7148e1a67c4e0fdf8ea6338ec2adefa",
+      "accepted_object_sha256": "926f5b98cf34ab188334dba3743d32a345bce4fa2cb382404a2bcd010cf13a7a",
+      "fresh_object_match": true
+    },
+    {
+      "module": "EHKGCurvatureWitness",
+      "source_sha256": "aa66c14926056d810475b501e8487ed32b2dbf1375477b3e0e5e9327a691658b",
+      "accepted_object_sha256": "34a1706a8435dfda7388d2289ce9517f11814d606267f912cfbcd5695ca675ad",
+      "fresh_object_match": true
+    }
+  ],
+  "scope": "1,054 source hashes occur directly in accepted endpoint/milestone seal file maps or accepted base/connected source ledgers. Two early Stage 1 source hashes are not directly enumerated there; their formal content is checked by fresh compilation to the exact accepted object hashes, themselves pinned by the accepted Stage 4 input bindings. This distinction is preserved rather than claiming direct source-byte manifest coverage for those two files."
+}

@@ -1,0 +1,3 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_actual_original_spatial_rotations_align_every_frame_column' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,21 @@
+KernelFaithfulCurvedKGEndpoints.lean:29:54: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulCurvedKGEndpoints.lean:142:5: warning: unused variable `nonzero`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulCurvedKGEndpoints.lean:154:41: warning: unused variable `nonzeroFirst`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulCurvedKGEndpoints.lean:156:5: warning: unused variable `matchingFirst`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulCurvedKGEndpoints.lean:157:42: warning: unused variable `nonzeroSecond`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulCurvedKGEndpoints.lean:159:5: warning: unused variable `matchingSecond`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulCurvedKGEndpoints.lean:164:5: warning: unused variable `nonzero`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

@@ -1,0 +1,17 @@
+CoordinateMetricNaturality.lean:63:65: warning: This simp argument is unused:
+  eq_comm
+
+Hint: Omit it from the simp argument list.
+  simp [coordinateProjection, Pi.single_apply, Matrix.one_apply,̵ ̵e̵q̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.smoothCoordinateAt_of_derivative_equiv' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.cubicCoordinateMap_smoothCoordinateAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.translation_smoothCoordinateAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.translation_coordinate_jacobian' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.translation_metric_pullback' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metric_response_translation' depends on axioms: [propext, Classical.choice, Quot.sound]

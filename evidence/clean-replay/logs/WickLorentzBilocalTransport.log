@@ -1,0 +1,44 @@
+WickLorentzBilocalTransport.lean:48:51: warning: This simp argument is unused:
+  Fin.cons_zero
+
+Hint: Omit it from the simp argument list.
+  simp [wickCoreChannelFrequency0, Fin.cons_z̵e̵r̵o̵,̵ ̵F̵i̵n̵.̵c̵o̵n̵s_̵s̵ucc,
+  ̵  ̵ ̵ ̵Pi.neg_apply, inner_neg_right,
+  ̲  ̲ ̲ ̲wickShellFrequencyAt, shellFrequency, inner_smul_right,
+  ̵  ̵ ̵ ̵spacetimeLorentz_inner_shellCovector,
+  ̲  ̲ ̲ ̲particleLorentzMap]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickLorentzBilocalTransport.lean:48:66: warning: This simp argument is unused:
+  Fin.cons_succ
+
+Hint: Omit it from the simp argument list.
+  simp [wickCoreChannelFrequency0, Fin.cons_zero, F̵i̵n̵.̵c̵o̵n̵s̵_̵s̵u̵c̵c̵,̵
+  ̵ ̵ ̵ ̵ ̵Pi.neg_apply, inner_neg_right,
+  ̲  ̲ ̲ ̲wickShellFrequencyAt, shellFrequency, inner_smul_right,
+  ̵  ̵ ̵ ̵spacetimeLorentz_inner_shellCovector,
+  ̲  ̲ ̲ ̲particleLorentzMap]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickLorentzBilocalTransport.lean:56:51: warning: This simp argument is unused:
+  Fin.cons_zero
+
+Hint: Omit it from the simp argument list.
+  simp [wickCoreChannelFrequency1, Fin.cons_z̵e̵r̵o̵,̵ ̵F̵i̵n̵.̵c̵o̵n̵s_̵s̵ucc,
+  ̵  ̵ ̵ ̵Pi.neg_apply, inner_neg_right,
+  ̲  ̲ ̲ ̲wickShellFrequencyAt, shellFrequency, inner_smul_right,
+  ̵  ̵ ̵ ̵spacetimeLorentz_inner_shellCovector,
+  ̲  ̲ ̲ ̲particleLorentzMap]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickLorentzBilocalTransport.lean:56:66: warning: This simp argument is unused:
+  Fin.cons_succ
+
+Hint: Omit it from the simp argument list.
+  simp [wickCoreChannelFrequency1, Fin.cons_zero, F̵i̵n̵.̵c̵o̵n̵s̵_̵s̵u̵c̵c̵,̵
+  ̵ ̵ ̵ ̵ ̵Pi.neg_apply, inner_neg_right,
+  ̲  ̲ ̲ ̲wickShellFrequencyAt, shellFrequency, inner_smul_right,
+  ̵  ̵ ̵ ̵spacetimeLorentz_inner_shellCovector,
+  ̲  ̲ ̲ ̲particleLorentzMap]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

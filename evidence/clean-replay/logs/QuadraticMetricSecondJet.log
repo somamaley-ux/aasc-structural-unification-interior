@@ -1,0 +1,30 @@
+QuadraticMetricSecondJet.lean:57:13: warning: This simp argument is unused:
+  ContinuousLinearEquiv.refl_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [ContinuousLinearE̵q̵u̵i̵v̵.̵r̵e̵f̵l̵_̵a̵p̵p̵l̵y̵,̵ ̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵Map.id_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+QuadraticMetricSecondJet.lean:106:53: warning: This simp argument is unused:
+  zero_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [hj0, hb0, hj1, hb1, hj2, hb2, mul_zero, z̵e̵r̵o̵_̵m̵u̵l̵,̵ ̵add_zero, zero_add] at hW
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+QuadraticMetricSecondJet.lean:113:77: warning: This simp argument is unused:
+  add_mul
+
+Hint: Omit it from the simp argument list.
+  simp [Matrix.one_apply, ite_mul, mul_ite, Finset.sum_add_distrib, mul_add,̵ ̵a̵d̵d̵_̵m̵u̵l̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.c2_local_scalarPartial_mul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_local_scalarSecondPartial_triple' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_quadratic_identity_composition_first' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_quadratic_identity_composition_second' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_quadratic_identity_metric_second' depends on axioms: [propext, Classical.choice, Quot.sound]

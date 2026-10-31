@@ -1,0 +1,3 @@
+KGOneParticleHilbert.lean:97:4: warning: Try `simp at hv` instead of `simpa using hv`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`

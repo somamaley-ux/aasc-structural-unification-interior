@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.actual_normal_second_jet_identification' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.curvature_of_actual_normal_second_jet' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.smooth_symmetric_nonsingular_metric_jet_realization' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

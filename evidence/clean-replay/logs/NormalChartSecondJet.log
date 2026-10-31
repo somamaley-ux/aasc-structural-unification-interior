@@ -1,0 +1,30 @@
+NormalChartSecondJet.lean:46:52: warning: This simp argument is unused:
+  add_zero
+
+Hint: Omit it from the simp argument list.
+  simp only [ContinuousLinearMap.sum_apply, ContinuousLinearMap.smul_apply,
+      ContinuousLinearMap.add_apply, ContinuousLinearMap.zero_apply, smul_eq_mul,
+  ̵  ̵ ̵ ̵Pi.mul_apply, Fzero,
+  ̲  ̲ ̲ ̲germ.2.2.1, hj0, mul_zero,̵ ̵a̵d̵d̵_̵z̵e̵r̵o̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NormalChartSecondJet.lean:47:35: warning: This simp argument is unused:
+  mul_ite
+
+Hint: Omit it from the simp argument list.
+  simp [Matrix.one_apply, ite_mul, m̵u̵l̵_̵i̵t̵e̵,̵ ̵Finset.sum_add_distrib]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NormalChartSecondJet.lean:47:68: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+'AASCSemanticExhaustion.coordinate_second_partial_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.general_identity_first_jet_metric_partial' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normal_metric_identity_frame_forces_second_jet' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normal_chart_identity_frame_curvature_transport' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

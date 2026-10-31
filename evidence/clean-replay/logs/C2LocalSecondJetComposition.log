@@ -1,0 +1,17 @@
+C2LocalSecondJetComposition.lean:80:46: warning: This simp argument is unused:
+  zero_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [scalarPartial, firstf, firsth, firstk, hd,
+  ̵  ̵ ̵ ̵ContinuousLinearMap.zero_apply, mul_zero,
+  ̲ z̵e̵r̵o̵_̵m̵u̵l̵,̵  ̲ ̲add_zero]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.c2_local_scalarSecondPartial_comp' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_local_scalarSecondPartial_comp_flat_identity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_local_scalarFirstJet_comp_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_local_scalarSecondPartial_triple_flat' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

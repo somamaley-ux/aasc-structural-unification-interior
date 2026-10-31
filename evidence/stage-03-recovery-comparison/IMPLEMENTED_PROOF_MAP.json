@@ -1,0 +1,688 @@
+{
+  "root": "AASCKleinGordon.RecoveryComparison.kernel_faithful_recovery_comparison",
+  "root_signature": "(a : Parameters) (s kappa Lambda : Real) (coupling : kappa != 0) : KernelFaithfulRecoveryComparison a s kappa Lambda",
+  "root_source_sha256": "2467f9dcf9eb0ad188840132abfbebec24f7fda462be7fea525f7c1a10a6fd30",
+  "root_fields": [
+    "retained_stage2",
+    "retained_original_license",
+    "receipt_dispersion_error_exact",
+    "receipt_original_energy_error",
+    "receipt_momentum_cutoff_ae",
+    "receipt_momentum_cutoff_contraction",
+    "receipt_momentum_cutoff_idempotent",
+    "receipt_momentum_cutoff_strong_exhaustion",
+    "receipt_momentum_cutoff_evolution_bound",
+    "receipt_cutoff_evolution_operator_bound",
+    "receipt_momentum_evolution_tail_bound",
+    "receipt_momentum_compact_time_strong",
+    "receipt_original_covariant_compact_time_strong",
+    "receipt_original_isolated_compact_time_strong",
+    "receipt_original_covariant_cutoff_bound",
+    "receipt_original_isolated_cutoff_bound",
+    "receipt_actual_covariant_preparation_evolution_square",
+    "receipt_actual_isolated_preparation_evolution_square",
+    "receipt_spatial_cutoff_evolution_bound",
+    "receipt_spatial_compact_time_strong",
+    "receipt_original_core_compact_time_strong",
+    "receipt_momentum_linear_observation_bound",
+    "receipt_momentum_probability_bound",
+    "receipt_spatial_linear_observation_compact_time",
+    "receipt_spatial_probability_compact_time",
+    "receipt_original_core_comparison_readout",
+    "receipt_original_core_comparison_is_normalized_overlap",
+    "receipt_original_numeric_comparison_compact_time",
+    "receipt_same_data_initial_values",
+    "receipt_same_data_initial_time_jets",
+    "receipt_compact_leaf_has_common_slab",
+    "receipt_same_data_local_evolved_comparison",
+    "receipt_same_data_initial_all_jets",
+    "receipt_same_initial_metric",
+    "receipt_same_data_initial_density",
+    "receipt_same_data_initial_canonical_momentum",
+    "receipt_same_data_initial_stress",
+    "receipt_evaluation_domain_exact",
+    "receipt_evaluation_first_domain_failure_exact",
+    "receipt_curved_value_reader_is_original",
+    "receipt_actual_evaluation_comparison",
+    "receipt_same_data_physical_time_comparison",
+    "receipt_actual_dilation_derivative",
+    "receipt_actual_dilation_pullback_formula",
+    "receipt_compact_dilation_receiving_domain",
+    "receipt_normalized_metric_quadratic_error",
+    "receipt_source_origin_matches_constructed_sr_form",
+    "receipt_scaled_duration_integrand_error",
+    "receipt_fixed_metric_scaled_path_comparison",
+    "receipt_scaled_future_timelike",
+    "receipt_guarded_scaled_geometric_duration",
+    "receipt_kg_nr_spatial_evolved_complete_original_record",
+    "receipt_kg_nr_spatial_evolved_original_reference",
+    "receipt_kg_nr_spatial_evolved_original_first_failure",
+    "receipt_kg_nr_spatial_evolved_original_source_attachment",
+    "receipt_kg_nr_spatial_exact_generator",
+    "receipt_kg_nr_spatial_kinetic_weak_graph",
+    "receipt_kg_source_free_s36_comparator_endpoint"
+  ],
+  "root_field_count": 58,
+  "receipts": [
+    {
+      "field": "receipt_dispersion_error_exact",
+      "theorem": "AASCKleinGordon.RecoveryComparison.dispersion_error_exact",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCDispersionError.lean",
+      "source_sha256": "214cdb2f5d18280e28089e248eba469eebcbca27f5d86d6d1a57b8ba762c1587",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c) (p : Momentum),\n    kgNRKineticEnergy a p - kgNRDispersion a c p =\n      momentumSq p ^ 2 /\n        (2*a.mass*c^2*(Real.sqrt (a.mass^2+momentumSq p/c^2)+a.mass)^2)"
+    },
+    {
+      "field": "receipt_original_energy_error",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_energy_error",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCDispersionError.lean",
+      "source_sha256": "214cdb2f5d18280e28089e248eba469eebcbca27f5d86d6d1a57b8ba762c1587",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c) (p : Momentum),\n    0 ≤ kgNRKineticEnergy a p - (energy (kgNRParameters a c hc) p - a.mass*c^2) ∧\n    kgNRKineticEnergy a p - (energy (kgNRParameters a c hc) p - a.mass*c^2) ≤\n      momentumSq p^2/(8*a.mass^3*c^2)"
+    },
+    {
+      "field": "receipt_momentum_cutoff_ae",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_cutoff_ae",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCMomentumCutoff.lean",
+      "source_sha256": "e5a036cbfd8d5cd7af0fb488c5c9aa0cbe678b8e7941285bbf200126f4e634e6",
+      "fixed_root_a": false,
+      "type_text": "∀ (P : ℝ) (f : KGNRMomentumHilbert),\n    momentumCutoff P f =ᵐ[volume] (fun p => cutoffSymbol P p * f p)"
+    },
+    {
+      "field": "receipt_momentum_cutoff_contraction",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_cutoff_contraction",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCMomentumCutoff.lean",
+      "source_sha256": "e5a036cbfd8d5cd7af0fb488c5c9aa0cbe678b8e7941285bbf200126f4e634e6",
+      "fixed_root_a": false,
+      "type_text": "∀ (P : ℝ) (f : KGNRMomentumHilbert),\n    ‖momentumCutoff P f‖ ≤ ‖f‖"
+    },
+    {
+      "field": "receipt_momentum_cutoff_idempotent",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_cutoff_idempotent",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCMomentumCutoff.lean",
+      "source_sha256": "e5a036cbfd8d5cd7af0fb488c5c9aa0cbe678b8e7941285bbf200126f4e634e6",
+      "fixed_root_a": false,
+      "type_text": "∀ (P : ℝ) (f : KGNRMomentumHilbert),\n    momentumCutoff P (momentumCutoff P f) = momentumCutoff P f"
+    },
+    {
+      "field": "receipt_momentum_cutoff_strong_exhaustion",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_cutoff_strong_exhaustion",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCMomentumCutoff.lean",
+      "source_sha256": "e5a036cbfd8d5cd7af0fb488c5c9aa0cbe678b8e7941285bbf200126f4e634e6",
+      "fixed_root_a": false,
+      "type_text": "∀ (f : KGNRMomentumHilbert),\n    Tendsto (fun P : ℝ => momentumCutoff P f) atTop (𝓝 f)"
+    },
+    {
+      "field": "receipt_momentum_cutoff_evolution_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_cutoff_evolution_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCQuantitativeMomentum.lean",
+      "source_sha256": "832fe9c19213dfd9741c7979d9895fdbae3000488a3f761ac74f41371b2dde17",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t P : ℝ) (f : KGNRMomentumHilbert),\n    ‖kgNRMomentumFlow a c t (momentumCutoff P f)-kgNRFreeMomentumFlow a t (momentumCutoff P f)‖ ≤\n      min 2 (cutoffError a c t P)*‖f‖"
+    },
+    {
+      "field": "receipt_cutoff_evolution_operator_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.cutoff_evolution_operator_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCQuantitativeMomentum.lean",
+      "source_sha256": "832fe9c19213dfd9741c7979d9895fdbae3000488a3f761ac74f41371b2dde17",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c) (t P : ℝ),\n    ‖cutoffEvolutionDifference a c t P‖ ≤ min 2 (cutoffError a c t P)"
+    },
+    {
+      "field": "receipt_momentum_evolution_tail_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_evolution_tail_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCQuantitativeMomentum.lean",
+      "source_sha256": "832fe9c19213dfd9741c7979d9895fdbae3000488a3f761ac74f41371b2dde17",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t P : ℝ) (f : KGNRMomentumHilbert),\n    ‖kgNRMomentumFlow a c t f-kgNRFreeMomentumFlow a t f‖ ≤\n      cutoffError a c t P*‖f‖+2*‖f-momentumCutoff P f‖"
+    },
+    {
+      "field": "receipt_momentum_compact_time_strong",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_compact_time_strong",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCUniformMomentum.lean",
+      "source_sha256": "3116882dec0bee2ceed0e13b2070748bb9b3a2bb3a261f779d19627c400fe385",
+      "fixed_root_a": true,
+      "type_text": "∀ (f : KGNRMomentumHilbert)\n    (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      ‖kgNRMomentumFlow a c t f-kgNRFreeMomentumFlow a t f‖ < epsilon"
+    },
+    {
+      "field": "receipt_original_covariant_compact_time_strong",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_covariant_compact_time_strong",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCUniformMomentum.lean",
+      "source_sha256": "3116882dec0bee2ceed0e13b2070748bb9b3a2bb3a261f779d19627c400fe385",
+      "fixed_root_a": true,
+      "type_text": "∀ (f : KGNRMomentumHilbert)\n    (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      ‖kgTransportedOriginalRestFlow a c t f-kgNRFreeMomentumFlow a t f‖ < epsilon"
+    },
+    {
+      "field": "receipt_original_isolated_compact_time_strong",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_isolated_compact_time_strong",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCUniformMomentum.lean",
+      "source_sha256": "3116882dec0bee2ceed0e13b2070748bb9b3a2bb3a261f779d19627c400fe385",
+      "fixed_root_a": true,
+      "type_text": "∀ (f : KGNRMomentumHilbert)\n    (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      ‖kgTransportedIsolatedRestFlow a c t f-kgNRFreeMomentumFlow a t f‖ < epsilon"
+    },
+    {
+      "field": "receipt_original_covariant_cutoff_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_covariant_cutoff_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCUniformMomentum.lean",
+      "source_sha256": "3116882dec0bee2ceed0e13b2070748bb9b3a2bb3a261f779d19627c400fe385",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t P : ℝ) (f : KGNRMomentumHilbert),\n    ‖kgTransportedOriginalRestFlow a c t (momentumCutoff P f)-\n      kgNRFreeMomentumFlow a t (momentumCutoff P f)‖ ≤ min 2 (cutoffError a c t P)*‖f‖"
+    },
+    {
+      "field": "receipt_original_isolated_cutoff_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_isolated_cutoff_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCUniformMomentum.lean",
+      "source_sha256": "3116882dec0bee2ceed0e13b2070748bb9b3a2bb3a261f779d19627c400fe385",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t P : ℝ) (f : KGNRMomentumHilbert),\n    ‖kgTransportedIsolatedRestFlow a c t (momentumCutoff P f)-\n      kgNRFreeMomentumFlow a t (momentumCutoff P f)‖ ≤ min 2 (cutoffError a c t P)*‖f‖"
+    },
+    {
+      "field": "receipt_actual_covariant_preparation_evolution_square",
+      "theorem": "AASCKleinGordon.RecoveryComparison.actual_covariant_preparation_evolution_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCFourierRecovery.lean",
+      "source_sha256": "d3e952c17bc044b273a57ba948eaa1b9abeeee8137887398c5c821a3f872e690",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t : ℝ) (f : KGNRMomentumHilbert),\n    kgCovariantMomentumUnitary (kgNRParameters a c hc)\n      (kgNRActualCovariantRestFlow a c hc t (covariantRecoveryPreparation a c hc f)) =\n      kgNRMomentumFlow a c t f"
+    },
+    {
+      "field": "receipt_actual_isolated_preparation_evolution_square",
+      "theorem": "AASCKleinGordon.RecoveryComparison.actual_isolated_preparation_evolution_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCFourierRecovery.lean",
+      "source_sha256": "d3e952c17bc044b273a57ba948eaa1b9abeeee8137887398c5c821a3f872e690",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t : ℝ) (f : KGNRMomentumHilbert),\n    kgIsolatedMomentumUnitary (kgNRParameters a c hc)\n      (kgNRActualIsolatedRestFlow a c hc t (isolatedRecoveryPreparation a c hc f)) =\n      kgNRMomentumFlow a c t f"
+    },
+    {
+      "field": "receipt_spatial_cutoff_evolution_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.spatial_cutoff_evolution_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCFourierRecovery.lean",
+      "source_sha256": "d3e952c17bc044b273a57ba948eaa1b9abeeee8137887398c5c821a3f872e690",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t P : ℝ) (f : KGNRSpatialHilbert),\n    ‖kgOriginalRestSpatialFlow a c t (spatialCutoff a P f)-\n      kgNRSpatialFreeFlow a t (spatialCutoff a P f)‖ ≤ min 2 (cutoffError a c t P)*‖f‖"
+    },
+    {
+      "field": "receipt_spatial_compact_time_strong",
+      "theorem": "AASCKleinGordon.RecoveryComparison.spatial_compact_time_strong",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCFourierRecovery.lean",
+      "source_sha256": "d3e952c17bc044b273a57ba948eaa1b9abeeee8137887398c5c821a3f872e690",
+      "fixed_root_a": true,
+      "type_text": "∀ (f : KGNRSpatialHilbert)\n    (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      ‖kgOriginalRestSpatialFlow a c t f-kgNRSpatialFreeFlow a t f‖ < epsilon"
+    },
+    {
+      "field": "receipt_original_core_compact_time_strong",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_core_compact_time_strong",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCFourierRecovery.lean",
+      "source_sha256": "d3e952c17bc044b273a57ba948eaa1b9abeeee8137887398c5c821a3f872e690",
+      "fixed_root_a": true,
+      "type_text": "∀ (x : kgOriginalSpatialCore a)\n    (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      ‖kgOriginalRestSpatialFlow a c t x.val-(kgNRSpatialCoreFlow a t x).val‖ < epsilon"
+    },
+    {
+      "field": "receipt_momentum_linear_observation_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_linear_observation_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCObservationBounds.lean",
+      "source_sha256": "bb149651c2908806c64e6a1aa01a68f9569cf8a1e59f94115604c6a0ac7a1214",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t P : ℝ) (f : KGNRMomentumHilbert) (L : KGNRMomentumHilbert →L[ℂ] ℂ),\n    ‖L (kgNRMomentumFlow a c t f)-L (kgNRFreeMomentumFlow a t f)‖ ≤\n      ‖L‖*(cutoffError a c t P*‖f‖+2*‖f-momentumCutoff P f‖)"
+    },
+    {
+      "field": "receipt_momentum_probability_bound",
+      "theorem": "AASCKleinGordon.RecoveryComparison.momentum_probability_bound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCObservationBounds.lean",
+      "source_sha256": "bb149651c2908806c64e6a1aa01a68f9569cf8a1e59f94115604c6a0ac7a1214",
+      "fixed_root_a": true,
+      "type_text": "∀ (c : ℝ) (hc : 0 < c)\n    (t P : ℝ) (f z : KGNRMomentumHilbert) (hf : ‖f‖=1) (hz : ‖z‖=1),\n    |‖inner ℂ z (kgNRMomentumFlow a c t f)‖^2-‖inner ℂ z (kgNRFreeMomentumFlow a t f)‖^2| ≤\n      2*(cutoffError a c t P*‖f‖+2*‖f-momentumCutoff P f‖)"
+    },
+    {
+      "field": "receipt_spatial_linear_observation_compact_time",
+      "theorem": "AASCKleinGordon.RecoveryComparison.spatial_linear_observation_compact_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCObservationBounds.lean",
+      "source_sha256": "bb149651c2908806c64e6a1aa01a68f9569cf8a1e59f94115604c6a0ac7a1214",
+      "fixed_root_a": true,
+      "type_text": "∀ (f : KGNRSpatialHilbert)\n    (L : KGNRSpatialHilbert →L[ℂ] ℂ) (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      ‖L (kgOriginalRestSpatialFlow a c t f)-L (kgNRSpatialFreeFlow a t f)‖ < epsilon"
+    },
+    {
+      "field": "receipt_spatial_probability_compact_time",
+      "theorem": "AASCKleinGordon.RecoveryComparison.spatial_probability_compact_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCObservationBounds.lean",
+      "source_sha256": "bb149651c2908806c64e6a1aa01a68f9569cf8a1e59f94115604c6a0ac7a1214",
+      "fixed_root_a": true,
+      "type_text": "∀ (f z : KGNRSpatialHilbert)\n    (hf : ‖f‖=1) (hz : ‖z‖=1) (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      |‖inner ℂ z (kgOriginalRestSpatialFlow a c t f)‖^2-\n        ‖inner ℂ z (kgNRSpatialFreeFlow a t f)‖^2| < epsilon"
+    },
+    {
+      "field": "receipt_original_core_comparison_readout",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_core_comparison_readout",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCOriginalComparisonReadout.lean",
+      "source_sha256": "5135973aae2ee5d5a0426daad7dcd3074d13f324520988dcd319120cf3a6ce94",
+      "fixed_root_a": true,
+      "type_text": "∀ (s t : ℝ) (Ω : Opens CoordinatePoint)\n    (x z : PureVector (kgOriginalSpatialCore a)),\n    kgSpatialSourceRecord a s Ω (rayMap _ (PureVector.mapUnitary (kgNRSpatialCoreFlow a t) x))\n      (.reverseComparison (kgPureIsometryMap (K := fockCoreDomain a) (kgSpatialCoreOriginalEmbedding a) z)) =\n        .comparison (originalCoreComparisonValue a t x z)"
+    },
+    {
+      "field": "receipt_original_core_comparison_is_normalized_overlap",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_core_comparison_is_normalized_overlap",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCOriginalComparisonReadout.lean",
+      "source_sha256": "5135973aae2ee5d5a0426daad7dcd3074d13f324520988dcd319120cf3a6ce94",
+      "fixed_root_a": true,
+      "type_text": "∀ (t : ℝ)\n    (x z : PureVector (kgOriginalSpatialCore a)) (hx : ‖x.val‖=1) (hz : ‖z.val‖=1),\n    originalCoreComparisonValue a t x z = ‖inner ℂ z.val.val (kgNRSpatialFreeFlow a t x.val.val)‖^2"
+    },
+    {
+      "field": "receipt_original_numeric_comparison_compact_time",
+      "theorem": "AASCKleinGordon.RecoveryComparison.original_numeric_comparison_compact_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCOriginalComparisonReadout.lean",
+      "source_sha256": "5135973aae2ee5d5a0426daad7dcd3074d13f324520988dcd319120cf3a6ce94",
+      "fixed_root_a": true,
+      "type_text": "∀ (x z : PureVector (kgOriginalSpatialCore a)) (hx : ‖x.val‖=1) (hz : ‖z.val‖=1)\n    (T : ℝ) (hT : 0 ≤ T) (epsilon : ℝ) (positive : 0 < epsilon),\n    ∀ᶠ c : ℝ in atTop, ∀ t : ℝ, |t| ≤ T →\n      |‖inner ℂ z.val.val (kgOriginalRestSpatialFlow a c t x.val.val)‖^2-\n        originalCoreComparisonValue a t x z| < epsilon"
+    },
+    {
+      "field": "receipt_same_data_initial_values",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_initial_values",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCSameDataFields.lean",
+      "source_sha256": "b0ea749f47cee61164df2ae6f3b07a30dfcc1f40b027984a8fe55a76bc37d2a7",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a) (x : KGSpatialSpace),\n    sourceField a f h (spaceTimePoint 0 x) = flatComparisonField a f h (spaceTimePoint 0 x)"
+    },
+    {
+      "field": "receipt_same_data_initial_time_jets",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_initial_time_jets",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCSameDataFields.lean",
+      "source_sha256": "b0ea749f47cee61164df2ae6f3b07a30dfcc1f40b027984a8fe55a76bc37d2a7",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a) (x : KGSpatialSpace),\n    scalarPartial (sourceField a f h) (spaceTimePoint 0 x) 0 =\n      scalarPartial (flatComparisonField a f h) (spaceTimePoint 0 x) 0"
+    },
+    {
+      "field": "receipt_compact_leaf_has_common_slab",
+      "theorem": "AASCKleinGordon.RecoveryComparison.compact_leaf_has_common_slab",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCSameDataFields.lean",
+      "source_sha256": "b0ea749f47cee61164df2ae6f3b07a30dfcc1f40b027984a8fe55a76bc37d2a7",
+      "fixed_root_a": true,
+      "type_text": "∀ (K : Set KGSpatialSpace)\n    (compact : IsCompact K) (interior : K ⊆ centralLeafDomain (conformalFrequency a)),\n    ∃ r : ℝ, 0 < r ∧ ∀ t : ℝ, |t| ≤ r → ∀ x ∈ K, spaceTimePoint t x ∈ sourceDomain a"
+    },
+    {
+      "field": "receipt_same_data_local_evolved_comparison",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_local_evolved_comparison",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCSameDataFields.lean",
+      "source_sha256": "b0ea749f47cee61164df2ae6f3b07a30dfcc1f40b027984a8fe55a76bc37d2a7",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (K : Set KGSpatialSpace) (compact : IsCompact K)\n    (interior : K ⊆ centralLeafDomain (conformalFrequency a)),\n    ∃ r C : ℝ, 0 < r ∧ 0 ≤ C ∧\n      (∀ t : ℝ, |t| ≤ r → ∀ x ∈ K, spaceTimePoint t x ∈ sourceDomain a) ∧\n      ∀ t : ℝ, |t| ≤ r → ∀ x ∈ K,\n        |sourceField a f h (spaceTimePoint t x)-flatComparisonField a f h (spaceTimePoint t x)| ≤ C*t^2 ∧\n        |scalarPartial (sourceField a f h) (spaceTimePoint t x) 0-\n          scalarPartial (flatComparisonField a f h) (spaceTimePoint t x) 0| ≤ C*|t|"
+    },
+    {
+      "field": "receipt_same_data_initial_all_jets",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_initial_all_jets",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCInitialSourceComparison.lean",
+      "source_sha256": "4b99ac02a9ab9637a8f7be61fb756fa425f0efa9ed5cf8ffec87d32619ef0d84",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a) (x : KGSpatialSpace),\n    scalarPartial (sourceField a f h) (centralLeafPoint x) =\n      scalarPartial (flatComparisonField a f h) (centralLeafPoint x)"
+    },
+    {
+      "field": "receipt_same_initial_metric",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_initial_metric",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCInitialSourceComparison.lean",
+      "source_sha256": "4b99ac02a9ab9637a8f7be61fb756fa425f0efa9ed5cf8ffec87d32619ef0d84",
+      "fixed_root_a": true,
+      "type_text": "∀ (x : KGSpatialSpace)\n    (inside : x ∈ centralLeafDomain (conformalFrequency a)),\n    sourceMetric a (centralLeafPoint x) =\n      originalEHActMetric (0 : MetricSourceProbe (⊤ : Opens CoordinatePoint)) (centralLeafPoint x)"
+    },
+    {
+      "field": "receipt_same_data_initial_density",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_initial_density",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCInitialSourceComparison.lean",
+      "source_sha256": "4b99ac02a9ab9637a8f7be61fb756fa425f0efa9ed5cf8ffec87d32619ef0d84",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (x : KGSpatialSpace) (inside : x ∈ centralLeafDomain (conformalFrequency a)),\n    sameEHScalarDensity a (sourceField a f h) (centralLeafPoint x) =\n      nativeRealClockDensity\n        (originalEHActMetric (0 : MetricSourceProbe (⊤ : Opens CoordinatePoint)) (centralLeafPoint x))\n        (scalarPartial (flatComparisonField a f h) (centralLeafPoint x))\n        (flatComparisonField a f h (centralLeafPoint x)) (massWaveNumber a^2)"
+    },
+    {
+      "field": "receipt_same_data_initial_canonical_momentum",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_initial_canonical_momentum",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCInitialSourceComparison.lean",
+      "source_sha256": "4b99ac02a9ab9637a8f7be61fb756fa425f0efa9ed5cf8ffec87d32619ef0d84",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (x : KGSpatialSpace) (inside : x ∈ centralLeafDomain (conformalFrequency a)),\n    actualScalarCanonicalMomentum a (sourceField a f h) (centralLeafPoint x) =\n      scalarCanonicalMomentum 1 (scalarPartial (flatComparisonField a f h) (centralLeafPoint x) 0)"
+    },
+    {
+      "field": "receipt_same_data_initial_stress",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_initial_stress",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCInitialSourceComparison.lean",
+      "source_sha256": "4b99ac02a9ab9637a8f7be61fb756fa425f0efa9ed5cf8ffec87d32619ef0d84",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (x : KGSpatialSpace) (inside : x ∈ centralLeafDomain (conformalFrequency a)),\n    sameSourceStress a (sourceField a f h) (centralLeafPoint x) =\n      scalarFieldStress (originalEHActMetric (0 : MetricSourceProbe (⊤ : Opens CoordinatePoint)))\n        (flatComparisonField a f h) (massWaveNumber a^2) (centralLeafPoint x)"
+    },
+    {
+      "field": "receipt_evaluation_domain_exact",
+      "theorem": "AASCKleinGordon.RecoveryComparison.evaluation_domain_exact",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCRealEvaluationReaders.lean",
+      "source_sha256": "8164bed568d423f0f9db192e7a5bce9ebc43d8b2948548e0eae72e598b0fdf1c",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (curved : Bool) (q : EvaluationQuestion),\n    (evaluationRead a f h curved q).isSome = true ↔ q.2 ∈ sourceDomain a"
+    },
+    {
+      "field": "receipt_evaluation_first_domain_failure_exact",
+      "theorem": "AASCKleinGordon.RecoveryComparison.evaluation_first_domain_failure_exact",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCRealEvaluationReaders.lean",
+      "source_sha256": "8164bed568d423f0f9db192e7a5bce9ebc43d8b2948548e0eae72e598b0fdf1c",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (questions : List EvaluationQuestion),\n    evaluationFirstFailure a f h true questions = evaluationFirstFailure a f h false questions"
+    },
+    {
+      "field": "receipt_curved_value_reader_is_original",
+      "theorem": "AASCKleinGordon.RecoveryComparison.curved_value_reader_is_original",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCRealEvaluationReaders.lean",
+      "source_sha256": "8164bed568d423f0f9db192e7a5bce9ebc43d8b2948548e0eae72e598b0fdf1c",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a) (p : CoordinatePoint),\n    evaluationRead a f h true (.value,p) =\n      scalarQuestionAnswer a (initialCurvedScalarUseState a f h) (.value p)"
+    },
+    {
+      "field": "receipt_actual_evaluation_comparison",
+      "theorem": "AASCKleinGordon.RecoveryComparison.actual_evaluation_comparison",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCRealEvaluationReaders.lean",
+      "source_sha256": "8164bed568d423f0f9db192e7a5bce9ebc43d8b2948548e0eae72e598b0fdf1c",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (K : Set KGSpatialSpace) (compact : IsCompact K)\n    (interior : K ⊆ centralLeafDomain (conformalFrequency a)),\n    ∃ r C : ℝ, 0 < r ∧ 0 ≤ C ∧ ∀ t : ℝ, |t| ≤ r → ∀ x ∈ K,\n      (∃ u v : ℝ, evaluationRead a f h true (.value,spaceTimePoint t x)=some u ∧\n        evaluationRead a f h false (.value,spaceTimePoint t x)=some v ∧ |u-v| ≤ C*t^2) ∧\n      (∃ u v : ℝ, evaluationRead a f h true (.coordinateTimeJet,spaceTimePoint t x)=some u ∧\n        evaluationRead a f h false (.coordinateTimeJet,spaceTimePoint t x)=some v ∧ |u-v| ≤ C*|t|)"
+    },
+    {
+      "field": "receipt_same_data_physical_time_comparison",
+      "theorem": "AASCKleinGordon.RecoveryComparison.same_data_physical_time_comparison",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCRealEvaluationReaders.lean",
+      "source_sha256": "8164bed568d423f0f9db192e7a5bce9ebc43d8b2948548e0eae72e598b0fdf1c",
+      "fixed_root_a": true,
+      "type_text": "∀ (f h : CurvedCauchyDatum a)\n    (K : Set KGSpatialSpace) (compact : IsCompact K)\n    (interior : K ⊆ centralLeafDomain (conformalFrequency a)),\n    ∃ r C : ℝ, 0 < r ∧ 0 ≤ C ∧ ∀ t : ℝ, |t| ≤ r → ∀ x ∈ K,\n      spaceTimePoint (a.speed*t) x ∈ sourceDomain a ∧\n      |sourceField a f h (spaceTimePoint (a.speed*t) x)-flatComparisonField a f h (spaceTimePoint (a.speed*t) x)| ≤ C*t^2 ∧\n      |deriv (fun s => sourceField a f h (spaceTimePoint (a.speed*s) x)) t-\n        deriv (fun s => flatComparisonField a f h (spaceTimePoint (a.speed*s) x)) t| ≤ C*|t|"
+    },
+    {
+      "field": "receipt_actual_dilation_derivative",
+      "theorem": "AASCKleinGordon.RecoveryComparison.actual_dilation_derivative",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCDilationDomain.lean",
+      "source_sha256": "6ac9c55367c7eb0230f61c64d68f8aad3ea51efc1dc9446ded047e8082d713eb",
+      "fixed_root_a": false,
+      "type_text": "∀ (epsilon : ℝ) (y : CoordinatePoint),\n    HasFDerivAt (fun p : CoordinatePoint => epsilon • p) (dilationCLM epsilon) y"
+    },
+    {
+      "field": "receipt_actual_dilation_pullback_formula",
+      "theorem": "AASCKleinGordon.RecoveryComparison.actual_dilation_pullback_formula",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCDilationDomain.lean",
+      "source_sha256": "6ac9c55367c7eb0230f61c64d68f8aad3ea51efc1dc9446ded047e8082d713eb",
+      "fixed_root_a": true,
+      "type_text": "∀ (epsilon : ℝ) (y : CoordinatePoint),\n    actualDilationPullback a epsilon y = epsilon^2 • normalizedRescaledMetric a epsilon y"
+    },
+    {
+      "field": "receipt_compact_dilation_receiving_domain",
+      "theorem": "AASCKleinGordon.RecoveryComparison.compact_dilation_receiving_domain",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCDilationDomain.lean",
+      "source_sha256": "6ac9c55367c7eb0230f61c64d68f8aad3ea51efc1dc9446ded047e8082d713eb",
+      "fixed_root_a": true,
+      "type_text": "∀ (K : Set CoordinatePoint) (compact : IsCompact K),\n    ∃ epsilon0 B : ℝ, 0 < epsilon0 ∧ 0 < B ∧\n      (∀ y ∈ K, diamondGauge y ≤ B) ∧\n      ∀ epsilon : ℝ, 0 ≤ epsilon → epsilon ≤ epsilon0 → ∀ y ∈ K,\n        epsilon • y ∈ sourceDomain a ∧ |conformalFrequency a*(epsilon • y) 0| ≤ (1:ℝ)/2"
+    },
+    {
+      "field": "receipt_normalized_metric_quadratic_error",
+      "theorem": "AASCKleinGordon.RecoveryComparison.normalized_metric_quadratic_error",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCMetricObservationBounds.lean",
+      "source_sha256": "e522ca14317ff14c238eaceff9f75561081194aa859faa15c7aa97a8e9cf41f2",
+      "fixed_root_a": true,
+      "type_text": "∀ (epsilon : ℝ) (y v : CoordinatePoint)\n    (inside : epsilon • y ∈ sourceDomain a)\n    (small : |conformalFrequency a*(epsilon • y) 0| ≤ (1:ℝ)/2),\n    |wickMatrixQuadratic (normalizedRescaledMetric a epsilon y) v-wickMatrixQuadratic metric v| ≤\n      6*(conformalFrequency a*(epsilon • y) 0)^2*|wickMatrixQuadratic metric v|"
+    },
+    {
+      "field": "receipt_source_origin_matches_constructed_sr_form",
+      "theorem": "AASCKleinGordon.RecoveryComparison.source_origin_matches_constructed_sr_form",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCMetricObservationBounds.lean",
+      "source_sha256": "e522ca14317ff14c238eaceff9f75561081194aa859faa15c7aa97a8e9cf41f2",
+      "fixed_root_a": true,
+      "type_text": "∀ (z : AASCKleinGordon.CanonicalLicensing.SRIntegration.SREvent),\n    comparisonQuadratic (sourceMetric a 0)\n      (AASCKleinGordon.CanonicalLicensing.SRIntegration.srEventCoordinates z) =\n      -AASCKleinGordon.CanonicalLicensing.SRIntegration.srOriginalOrderQuadratic z"
+    },
+    {
+      "field": "receipt_scaled_duration_integrand_error",
+      "theorem": "AASCKleinGordon.RecoveryComparison.scaled_duration_integrand_error",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCDurationComparison.lean",
+      "source_sha256": "1eca8f9ecc4298a7416e15cdea9585286c906bd0e722a7629ab9a68469ff0c6a",
+      "fixed_root_a": true,
+      "type_text": "∀ (epsilon B : ℝ) (p v : CoordinatePoint)\n    (_he : 0 ≤ epsilon) (hB : 0 ≤ B) (pointBound : |p 0| ≤ B)\n    (inside : epsilon • p ∈ sourceDomain a) (small : |conformalFrequency a*(epsilon • p) 0| ≤ (1:ℝ)/2),\n    |durationRate a (normalizedRescaledMetric a epsilon p) v-durationRate a metric v| ≤\n      (2*conformalFrequency a^2*B^2)*epsilon^2*durationRate a metric v"
+    },
+    {
+      "field": "receipt_fixed_metric_scaled_path_comparison",
+      "theorem": "AASCKleinGordon.RecoveryComparison.fixed_metric_scaled_path_comparison",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCDurationComparison.lean",
+      "source_sha256": "1eca8f9ecc4298a7416e15cdea9585286c906bd0e722a7629ab9a68469ff0c6a",
+      "fixed_root_a": true,
+      "type_text": "∀ (y : ℝ → CoordinatePoint)\n    (regular : ContDiff ℝ 1 y) (b e : ℝ) (order : b ≤ e),\n    ∃ epsilon0 C : ℝ, 0 < epsilon0 ∧ 0 ≤ C ∧\n      ∀ epsilon : ℝ, 0 ≤ epsilon → epsilon ≤ epsilon0 →\n        (∀ s ∈ Icc b e, epsilon • y s ∈ sourceDomain a) ∧\n        |(∫ s in b..e, durationRate a (normalizedRescaledMetric a epsilon (y s)) (deriv y s))-\n          (∫ s in b..e, durationRate a metric (deriv y s))| ≤ C*epsilon^2 ∧\n        (∫ s in b..e, durationRate a (sourceMetric a (epsilon • y s)) (deriv (fun t => epsilon • y t) s)) =\n          epsilon*(∫ s in b..e, durationRate a (normalizedRescaledMetric a epsilon (y s)) (deriv y s))"
+    },
+    {
+      "field": "receipt_scaled_future_timelike",
+      "theorem": "AASCKleinGordon.RecoveryComparison.scaled_future_timelike",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCGuardedGeometricDuration.lean",
+      "source_sha256": "0443ca0f5cc1d036b8e3e04243e5f83860f8b752fae0c286c590ccc4e91688de",
+      "fixed_root_a": true,
+      "type_text": "∀ (y : ℝ → CoordinatePoint)\n    (regular : ContDiff ℝ 1 y) (b e delta epsilon : ℝ) (margin : futureTimelikeMargin y b e delta)\n    (he : 0 < epsilon) (_domain : ∀ s ∈ Icc b e, epsilon • y s ∈ sourceDomain a)\n    (s : ℝ) (hs : s ∈ Icc b e),\n    0 < deriv (fun t => epsilon • y t) s 0 ∧\n      wickMatrixQuadratic (sourceMetric a (epsilon • y s)) (deriv (fun t => epsilon • y t) s) < 0"
+    },
+    {
+      "field": "receipt_guarded_scaled_geometric_duration",
+      "theorem": "AASCKleinGordon.RecoveryComparison.guarded_scaled_geometric_duration",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\src\\RCGuardedGeometricDuration.lean",
+      "source_sha256": "0443ca0f5cc1d036b8e3e04243e5f83860f8b752fae0c286c590ccc4e91688de",
+      "fixed_root_a": true,
+      "type_text": "∀ (y : ℝ → CoordinatePoint)\n    (regular : ContDiff ℝ 1 y) (b e delta : ℝ) (order : b ≤ e)\n    (margin : futureTimelikeMargin y b e delta),\n    ∃ epsilon0 C : ℝ, 0 < epsilon0 ∧ 0 ≤ C ∧ ∀ epsilon : ℝ, 0 < epsilon → epsilon ≤ epsilon0 →\n      geometricDurationApplicable a (fun t => epsilon • y t) b e ∧\n      ∃ value : ℝ, geometricDurationRead a (fun t => epsilon • y t) b e = some value ∧\n        |value-epsilon*(∫ s in b..e, durationRate a metric (deriv y s))| ≤ C*epsilon^3"
+    },
+    {
+      "field": "receipt_kg_nr_spatial_evolved_complete_original_record",
+      "theorem": "AASCKleinGordon.kg_nr_spatial_evolved_complete_original_record",
+      "source": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\baseline-src\\KGNRSourceRecordTransport.lean",
+      "source_sha256": "d1f6ed563be28644e77c17ec9c987bd1adef7b6e9a436fdb30015696c53ec51b",
+      "fixed_root_a": true,
+      "type_text": "∀ (s t : ℝ)\n    (Ω : Opens CoordinatePoint) (x : PureVector (kgOriginalSpatialCore a))\n    (q : KGFamilyQuestion a Ω (kgOriginalObject a)),\n    kgSpatialSourceRecord a s Ω\n      (rayMap _ (PureVector.mapUnitary (kgNRSpatialCoreFlow a t) x)) q =\n      kgFamilyOutput a s Ω (kgOriginalObject a) (kgNRSpatialOriginalPreparation a t x) q"
+    },
+    {
+      "field": "receipt_kg_nr_spatial_evolved_original_reference",
+      "theorem": "AASCKleinGordon.kg_nr_spatial_evolved_original_reference",
+      "source": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\baseline-src\\KGNRSourceRecordTransport.lean",
+      "source_sha256": "d1f6ed563be28644e77c17ec9c987bd1adef7b6e9a436fdb30015696c53ec51b",
+      "fixed_root_a": true,
+      "type_text": "∀ (s t : ℝ)\n    (Ω : Opens CoordinatePoint) (x : PureVector (kgOriginalSpatialCore a))\n    (q : RegisteredQuestion (KGFamilyQuestion a Ω (kgOriginalObject a))),\n    kgSpatialSourceReference a s Ω\n      (rayMap _ (PureVector.mapUnitary (kgNRSpatialCoreFlow a t) x)) q =\n      (kgRawRegisteredOrbit a s Ω (kgOriginalObject a)).references.referenceAt\n        (kgNRSpatialOriginalPreparation a t x) q"
+    },
+    {
+      "field": "receipt_kg_nr_spatial_evolved_original_first_failure",
+      "theorem": "AASCKleinGordon.kg_nr_spatial_evolved_original_first_failure",
+      "source": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\baseline-src\\KGNRSourceRecordTransport.lean",
+      "source_sha256": "d1f6ed563be28644e77c17ec9c987bd1adef7b6e9a436fdb30015696c53ec51b",
+      "fixed_root_a": true,
+      "type_text": "∀ (s t : ℝ)\n    (Ω : Opens CoordinatePoint) (x : PureVector (kgOriginalSpatialCore a))\n    (word : List (KGFamilyQuestion a Ω (kgOriginalObject a))),\n    kgFirstFailure (kgSpatialSourceRecord a s Ω\n      (rayMap _ (PureVector.mapUnitary (kgNRSpatialCoreFlow a t) x))) word =\n      kgFirstFailure (kgFamilyOutput a s Ω (kgOriginalObject a)\n        (kgNRSpatialOriginalPreparation a t x)) word"
+    },
+    {
+      "field": "receipt_kg_nr_spatial_evolved_original_source_attachment",
+      "theorem": "AASCKleinGordon.kg_nr_spatial_evolved_original_source_attachment",
+      "source": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\baseline-src\\KGNRSourceRecordTransport.lean",
+      "source_sha256": "d1f6ed563be28644e77c17ec9c987bd1adef7b6e9a436fdb30015696c53ec51b",
+      "fixed_root_a": true,
+      "type_text": "∀ (s t : ℝ)\n    (Ω : Opens CoordinatePoint) (x : PureVector (kgOriginalSpatialCore a)),\n    kgW9OriginalResponse a s Ω\n      (rayMap _ (kgNRSpatialOriginalPreparation a t x)) =\n      (wickMetricPathF a s Ω (wickMetricPathPiA a s Ω\n        (wickCommonRoleSourcePresentation a s Ω\n          (kgOriginalQuantumToRay a (rayMap _ (kgNRSpatialOriginalPreparation a t x)))))).val"
+    },
+    {
+      "field": "receipt_kg_nr_spatial_exact_generator",
+      "theorem": "AASCKleinGordon.kg_nr_spatial_exact_generator",
+      "source": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\baseline-src\\KGNRFreeExactGenerator.lean",
+      "source_sha256": "7b8ec1656a2419c484b60bf2e2c37a83ae67fcf367eb49d418e38a3dd9948cd0",
+      "fixed_root_a": true,
+      "type_text": "GlobalCharge.ExactGenerator (Translation.coefficient a.hbar)\n      (kgNRSpatialFreeFlow a) (kgNRSpatialKinetic a)"
+    },
+    {
+      "field": "receipt_kg_nr_spatial_kinetic_weak_graph",
+      "theorem": "AASCKleinGordon.kg_nr_spatial_kinetic_weak_graph",
+      "source": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\baseline-src\\KGSpatialKineticDomain.lean",
+      "source_sha256": "c5ea12776934ec176beb08fc4e643498b1929d6b8b22131564498f902eda34a4",
+      "fixed_root_a": true,
+      "type_text": "∀ (f g : KGNRSpatialHilbert),\n    (f,g) ∈ (kgNRSpatialKinetic a).graph ↔ kgSpatialWeakKineticGraph a f g"
+    },
+    {
+      "field": "receipt_kg_source_free_s36_comparator_endpoint",
+      "theorem": "AASCKleinGordon.kg_source_free_s36_comparator_endpoint",
+      "source": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\baseline-src\\KGS36FreeComparatorAssembly.lean",
+      "source_sha256": "2ae99f83a32805ad712a1e708d1094b8bd013917385e5c9b3609da3794ff4396",
+      "fixed_root_a": true,
+      "type_text": "∀ (s : ℝ) (Ω : Opens CoordinatePoint),\n    KGNRReceivingQS a s Ω ∧\n    KGFreeInertialDispersion a (kgNRFreeComparator a) ∧\n    (∀ (H : KGNRSpatialHilbert →ₗ.[ℂ] KGNRSpatialHilbert)\n      (C : KGScalarFreeComparator H),\n      KGFreeAnchoredDispersionAt a C → H = kgNRSpatialKinetic a) ∧\n    (∀ (H : KGNRSpatialHilbert →ₗ.[ℂ] KGNRSpatialHilbert)\n      (W : KGScalarSSQ1Witness a H (0 : KGSpatialSpace → ℝ)),\n      KGFreeInertialDispersion a (kgScalarFreeComparatorOfSSQ1 a W) →\n        H = kgNRSpatialKinetic a)"
+    }
+  ],
+  "completion_groups": [
+    {
+      "milestone": "M1",
+      "modules": [
+        "RCDispersionError",
+        "RCMomentumCutoff",
+        "RCQuantitativeMomentum"
+      ],
+      "assumptions": "Positive m and hbar inherited from Parameters; c>0. Fixed full momentum L2 carrier. Cutoff is the spectral indicator momentumSq p <= P^2, with estimates valid even for real P and physical ball interpretation for P>=0.",
+      "construction": "Exact original rest-subtracted energy error, nonnegative rationalized remainder <= momentumSq(p)^2/(8*m^3*c^2). Constructed bounded-linear spectral projection, contraction, idempotence, DCT strong exhaustion, vector and operator estimates min(2, |t| P^4/(8*hbar*m^3*c^2)).",
+      "boundary": "Sharp cutoffs are auxiliary full-L2 maps; no original preparation-core closure is inferred."
+    },
+    {
+      "milestone": "M2",
+      "modules": [
+        "RCUniformMomentum",
+        "RCFourierRecovery"
+      ],
+      "assumptions": "Fixed vector f and bounded time radius T>=0; m,hbar fixed while positive c tends to infinity through the actual kgNRParameters family. Actual c-dependent covariant/isolated inverse normalizations and physical Fourier map are used.",
+      "construction": "Cutoff-plus-tail estimate yields strong convergence uniform for |t|<=T. Actual original covariant and isolated preparation/evolution squares, quantitative cutoff bounds, transported uniform recovery, physical spatial carrier and original invariant core; inherited exact free generator/test graph is retained.",
+      "boundary": "No full-space operator-norm convergence, interacting NR limit, varying-curvature comparison or full Fock contraction."
+    },
+    {
+      "milestone": "M3",
+      "modules": [
+        "RCObservationBounds",
+        "RCOriginalComparisonReadout"
+      ],
+      "assumptions": "Bounded complex-linear observations, or explicitly unit-normalized state/probe vectors. Original comparison readout uses actual original source-core preparations and their explicit norm-one domain.",
+      "construction": "Norm-based linear and squared-overlap estimates and compact-time convergence. The limiting numeric probability is identified with the actual retained original comparison answer. Exact limiting record, reference, first-failure and source-attachment endpoints remain inherited exact squares.",
+      "boundary": "Analytic convergence does not identify arbitrary finite-c Option/discrete/threshold observations or complete original records."
+    },
+    {
+      "milestone": "M4",
+      "modules": [
+        "RCLocalTaylor",
+        "RCSameDataFields",
+        "RCInitialSourceComparison",
+        "RCConformalScaleBounds",
+        "RCDilationDomain",
+        "RCMetricObservationBounds",
+        "RCDurationComparison",
+        "RCGuardedGeometricDuration",
+        "RCRealEvaluationReaders"
+      ],
+      "assumptions": "Fixed Parameters a and arbitrary same compact smooth real Cauchy pair f,h. Compact K contained in the central leaf gives a proved common slab. Duration requires a C1 path, ordered compact interval, positive future-timelike margin, and positive epsilon in a constructed receiving range.",
+      "construction": "Actual curved and H=0 fields share initial values and all four first partial derivatives, giving constructed local C*t^2/C*|t| errors and physical-time adapter t=x0/c. Actual initial density, canonical momentum and stress agree. Dilation derivative/pullback and common domain are proved; actual metric quadratic observations have O(epsilon^2) error. Guarded geometric duration proves applicability, successful query and O(epsilon^3) physical error. Restricted actual value/jet readers share domain guards and first domain failure, with quantitative successful answers.",
+      "boundary": "The generic duration guard is broader than the C1 domain proved by the theorem. No independent physical clock occupation/calibration, complete curved/flat source-record equality, fixed-mass curvature-to-zero solution family, or claim that u(epsilon*y) solves the normalized metric equation at unchanged mass."
+    },
+    {
+      "milestone": "M5",
+      "modules": [
+        "KernelFaithfulRecoveryComparison"
+      ],
+      "assumptions": "Root takes Parameters a, real s,kappa,Lambda and kappa!=0. It constructs the accepted Stage2 endpoint and canonical licensing root rather than receiving them as output premises. Quantified subtheorem hypotheses are explicit in the 58 fields.",
+      "construction": "Constraint-first composition from the Kernel and downstream Kernel-faithful machinery; every new receipt is a proved theorem. Checked environment audits all new declarations, type/value axiom closure and concrete proof-value paths; fresh replay binds retained imports and runtime inputs.",
+      "boundary": "Standard classical Lean foundational axioms only. Fresh empty-output replay reuses bound retained dependencies; it is not a clean-machine bootstrap or public release."
+    }
+  ],
+  "dependency_direction": "Kernel and downstream Kernel-faithful machinery, constraint first. No reverse inference of constraint architecture from coisotropy, a reduced form, metric/PDE success or an unverified specialization.",
+  "direct_imports": {
+    "KernelFaithfulRecoveryComparison": [
+      "RCDispersionError",
+      "RCMomentumCutoff",
+      "RCQuantitativeMomentum",
+      "RCUniformMomentum",
+      "RCFourierRecovery",
+      "RCObservationBounds",
+      "RCOriginalComparisonReadout",
+      "RCSameDataFields",
+      "RCInitialSourceComparison",
+      "RCRealEvaluationReaders",
+      "RCDilationDomain",
+      "RCMetricObservationBounds",
+      "RCDurationComparison",
+      "RCGuardedGeometricDuration",
+      "KernelFaithfulSameActionKGSource",
+      "KGS36FreeComparatorAssembly"
+    ],
+    "RCConformalScaleBounds": [
+      "RCInitialSourceComparison",
+      "Mathlib.Analysis.SpecialFunctions.Trigonometric.Deriv"
+    ],
+    "RCDilationDomain": [
+      "RCConformalScaleBounds"
+    ],
+    "RCDispersionError": [
+      "KGWeightedMomentumDynamics",
+      "Mathlib.Analysis.SpecialFunctions.Trigonometric.Bounds"
+    ],
+    "RCDurationComparison": [
+      "RCDilationDomain",
+      "Mathlib.MeasureTheory.Integral.IntervalIntegral.Basic"
+    ],
+    "RCFourierRecovery": [
+      "RCUniformMomentum",
+      "KGNRSourceRecordTransport",
+      "KGNRFreeReceivingAssembly"
+    ],
+    "RCGuardedGeometricDuration": [
+      "RCDurationComparison"
+    ],
+    "RCInitialSourceComparison": [
+      "RCSameDataFields",
+      "SRCommonFlatGeometry"
+    ],
+    "RCLocalTaylor": [
+      "Mathlib.Analysis.Calculus.MeanValue"
+    ],
+    "RCMetricObservationBounds": [
+      "RCDilationDomain"
+    ],
+    "RCMomentumCutoff": [
+      "RCDispersionError"
+    ],
+    "RCObservationBounds": [
+      "RCFourierRecovery"
+    ],
+    "RCOriginalComparisonReadout": [
+      "RCObservationBounds"
+    ],
+    "RCQuantitativeMomentum": [
+      "RCMomentumCutoff"
+    ],
+    "RCRealEvaluationReaders": [
+      "RCInitialSourceComparison"
+    ],
+    "RCSameDataFields": [
+      "RCLocalTaylor",
+      "KernelFaithfulSameActionKGSource",
+      "EHKGFlatLocalRecovery",
+      "Mathlib.Analysis.Normed.Group.Bounded"
+    ],
+    "RCUniformMomentum": [
+      "RCQuantitativeMomentum"
+    ]
+  },
+  "source_hashes": {
+    "KernelFaithfulRecoveryComparison": "2467f9dcf9eb0ad188840132abfbebec24f7fda462be7fea525f7c1a10a6fd30",
+    "RCConformalScaleBounds": "32e5412b7b0bae49d17301f2de948d9ea422176927ab72c94482581383bf3961",
+    "RCDilationDomain": "6ac9c55367c7eb0230f61c64d68f8aad3ea51efc1dc9446ded047e8082d713eb",
+    "RCDispersionError": "214cdb2f5d18280e28089e248eba469eebcbca27f5d86d6d1a57b8ba762c1587",
+    "RCDurationComparison": "1eca8f9ecc4298a7416e15cdea9585286c906bd0e722a7629ab9a68469ff0c6a",
+    "RCFourierRecovery": "d3e952c17bc044b273a57ba948eaa1b9abeeee8137887398c5c821a3f872e690",
+    "RCGuardedGeometricDuration": "0443ca0f5cc1d036b8e3e04243e5f83860f8b752fae0c286c590ccc4e91688de",
+    "RCInitialSourceComparison": "4b99ac02a9ab9637a8f7be61fb756fa425f0efa9ed5cf8ffec87d32619ef0d84",
+    "RCLocalTaylor": "21d03e3fee59465e02da6ea4a4f8f18ba3059d36b8aa07a2ab9dd9594b58504d",
+    "RCMetricObservationBounds": "e522ca14317ff14c238eaceff9f75561081194aa859faa15c7aa97a8e9cf41f2",
+    "RCMomentumCutoff": "e5a036cbfd8d5cd7af0fb488c5c9aa0cbe678b8e7941285bbf200126f4e634e6",
+    "RCObservationBounds": "bb149651c2908806c64e6a1aa01a68f9569cf8a1e59f94115604c6a0ac7a1214",
+    "RCOriginalComparisonReadout": "5135973aae2ee5d5a0426daad7dcd3074d13f324520988dcd319120cf3a6ce94",
+    "RCQuantitativeMomentum": "832fe9c19213dfd9741c7979d9895fdbae3000488a3f761ac74f41371b2dde17",
+    "RCRealEvaluationReaders": "8164bed568d423f0f9db192e7a5bce9ebc43d8b2948548e0eae72e598b0fdf1c",
+    "RCSameDataFields": "b0ea749f47cee61164df2ae6f3b07a30dfcc1f40b027984a8fe55a76bc37d2a7",
+    "RCUniformMomentum": "3116882dec0bee2ceed0e13b2070748bb9b3a2bb3a261f779d19627c400fe385"
+  },
+  "contract_sha256": "aaba7820db6cfdd7bbace23290e6ecab65d44a9b03b885670eb2c79b27e61a55",
+  "frozen_inputs_sha256": "c8876664cd758a2fa2e7267a457fee580116aa4a84028b730fb41788aebf5059",
+  "replay_result_sha256": "34d10a03973c2d0576c46ccd075e3ab3d34f882f4b282193d64787beb283b855",
+  "continuum_scope": "This declared continuum construction does not require reconstruction by taking a discrete/lattice regulator continuum limit. The c-to-infinity quantum recovery and epsilon-to-zero local observation comparison are distinct analytic limits; no arbitrary continuum-limit or quantum-gravity problem is solved.",
+  "strongest_claim": "A private machine-checked constraint-first construction from the Kernel and downstream Kernel-faithful machinery, retaining canonical licensing and same-action scalar-source endpoints, with quantitative flat nonrelativistic recovery and controlled local metric, field and guarded-duration comparisons on their stated domains.",
+  "reserved_claims": [
+    "universal metric minimality or uniqueness",
+    "coupled Einstein-KG development or constraints",
+    "quantum backreaction",
+    "arbitrary curved backgrounds",
+    "public archive availability for Stage3",
+    "independent clock-apparatus occupation",
+    "clean-machine full dependency bootstrap"
+  ],
+  "status": "Compiled and freshly replayed proof map for independent final review; consult final review and acceptance seal for acceptance.",
+  "driver_sha256": "66ca2a212680bac7ce4c1ec4f236e0002f1831f84b69dcaede0f3215cbd19b7a"
+}

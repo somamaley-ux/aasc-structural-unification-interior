@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.residualCoordinateMap_c3' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.residualCoordinateMap_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.residualCoordinateMap_first' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.residualCoordinateMap_pullback_eventually' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normal_chart_frame_curvature_transport' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

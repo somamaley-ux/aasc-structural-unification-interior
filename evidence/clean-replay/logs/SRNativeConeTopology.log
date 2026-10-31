@@ -1,0 +1,12 @@
+SRNativeConeTopology.lean:12:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.SRIntegration.sr_native_future_cone_interior`:
+  [NormedSpace ℝ E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [NormedSpace ℝ E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.SRIntegration.sr_exact_original_cone_frame_preserves_boundary' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.SRIntegration.sr_exact_original_cone_frame_preserves_strict_clock_body' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

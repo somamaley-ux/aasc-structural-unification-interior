@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.local_cubic_metric_pullback_first' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_cubic_metric_pullback_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_cubic_metric_pullback_second' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.loweredCubicCoordinate_laws' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_cubic_metric_hessian_difference_gauge' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normalized_leviCivita_cubic_transport' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

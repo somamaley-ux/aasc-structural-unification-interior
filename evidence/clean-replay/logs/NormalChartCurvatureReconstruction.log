@@ -1,0 +1,16 @@
+NormalChartCurvatureReconstruction.lean:20:43: warning: This simp argument is unused:
+  eq_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Matrix.one_apply, Pi.single_apply,̵ ̵e̵q̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.coordinateFrameMatrix_mul_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateFrameMatrix_right_inverse' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateFrameMatrix_left_inverse' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartTransition_inverse_frame_equation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.reconstructedCoordinateCurvature_frame_independent' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

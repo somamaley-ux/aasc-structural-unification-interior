@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.coordinate_divergence_germ_congruence' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.scalar_source_matching_implies_geometric_conservation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.scalar_source_matching_locks_geometric_coefficients' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

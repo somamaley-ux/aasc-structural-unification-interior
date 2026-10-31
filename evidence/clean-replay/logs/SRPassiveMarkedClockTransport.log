@@ -1,0 +1,6 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_same_marked_clock_event_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_same_marked_clock_reading_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

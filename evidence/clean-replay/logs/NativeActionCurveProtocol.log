@@ -1,0 +1,25 @@
+NativeActionCurveProtocol.lean:42:0: warning: automatically included section variable(s) unused in theorem `AASCSemanticExhaustion.native_action_curve_locally_admitted`:
+  [IsTopologicalAddGroup P]
+  [ContinuousSMul ℝ P]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsTopologicalAddGroup P] [ContinuousSMul ℝ P] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+NativeActionCurveProtocol.lean:48:0: warning: automatically included section variable(s) unused in theorem `AASCSemanticExhaustion.native_action_hadamard_curve_derivative`:
+  [IsTopologicalAddGroup P]
+  [ContinuousSMul ℝ P]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsTopologicalAddGroup P] [ContinuousSMul ℝ P] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCSemanticExhaustion.nativeStraightActionCurve' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_curve_locally_admitted' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_hadamard_curve_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_curve_output_receipt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.nativeActionOperationalIncidence' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_operational_response_is_directional' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_protocol_completeness' depends on axioms: [propext, Classical.choice, Quot.sound]

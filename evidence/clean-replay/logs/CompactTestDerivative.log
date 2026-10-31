@@ -1,0 +1,5 @@
+'AASCSemanticExhaustion.compact_supported_fderiv_seminorm_bound' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.compact_test_fderiv_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_test_fderiv_support' depends on axioms: [propext, Classical.choice, Quot.sound]

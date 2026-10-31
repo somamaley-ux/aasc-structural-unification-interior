@@ -1,0 +1,14 @@
+'AASCSemanticExhaustion.original_smooth_normalized_is_c2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.originalNormalizedCurvature' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.original_normalized_curvature_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.original_normalized_curvature_smul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.OriginalCurvatureFirstResponse' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.original_curvature_first_response_derives_metric_affinity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.original_curvature_response_derives_regular_core' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.original_curvature_general_response_has_unique_einstein_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

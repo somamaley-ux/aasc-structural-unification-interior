@@ -1,0 +1,7 @@
+KGOriginalWickVacuumBaseline.lean:11:61: warning: This simp argument is unused:
+  hn0
+
+Hint: Omit it from the simp argument list.
+  simp [vacuumCore, DirectSum.lof_eq_of, DirectSum.of_apply, h̵n̵0̵,̵ ̵Ne.symm hn0]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

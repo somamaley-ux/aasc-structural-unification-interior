@@ -1,0 +1,12 @@
+NativeActionDirectionalDifferential.lean:34:32: warning: This simp argument is unused:
+  zero_smul
+
+Hint: Omit it from the simp argument list.
+  simp only [mul_one, mul_zero, z̵e̵r̵o̵_̵smul,̵ ̵s̵m̵u̵l̵_zero, add_zero] at hh
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.native_action_pair_ray_hasDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_directional_hasDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_directional_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_directional_smul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.nativeActionDifferential' depends on axioms: [propext, Classical.choice, Quot.sound]

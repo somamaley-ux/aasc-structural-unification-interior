@@ -1,0 +1,38 @@
+SRNativeFiniteReflectionProtocol.lean:17:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_positive_rest_clock_is_occupied`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeFiniteReflectionProtocol.lean:52:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_balanced_reflection_preserves_total_momentum_and_endpoint`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_native_positive_rest_clock_is_occupied' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_rest_clock_actual_coasting_record' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_positive_energy_ray_is_original_future_null' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_balanced_reflection_preserves_total_momentum_and_endpoint' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_protocol_forward_leg_is_original_ray' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_protocol_return_leg_is_original_ray' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_compensating_ray_has_actual_shared_endpoint' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_every_finite_roundtrip_has_same_source_clock_and_ray_records' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,5 @@
+'AASCSemanticExhaustion.lowerConnection_torsion_free' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compatible_connection_lowered' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compatible_torsion_free_koszul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.raise_lower_connection' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinate_leviCivita_unique' depends on axioms: [propext, Classical.choice, Quot.sound]

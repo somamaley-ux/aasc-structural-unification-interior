@@ -1,0 +1,7 @@
+KGParticleProductTransport.lean:33:69: warning: This simp argument is unused:
+  Fin.succAbove_zero
+
+Hint: Omit it from the simp argument list.
+  simp [MeasurableEquiv.piFinSuccAbove, joinParticleCoordinates,̵ ̵F̵i̵n̵.̵s̵u̵c̵c̵A̵b̵o̵v̵e̵_̵z̵e̵r̵o̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

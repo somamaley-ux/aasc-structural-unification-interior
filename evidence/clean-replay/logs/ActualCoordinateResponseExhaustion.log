@@ -1,0 +1,6 @@
+'AASCSemanticExhaustion.framedActualConnectionCurvature_eq_normal_chart' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.admissible_c2_actual_coordinate_response_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

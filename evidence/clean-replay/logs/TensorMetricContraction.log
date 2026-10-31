@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.matrixContraction_eq_trace' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.matrixContraction_pullback' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_matrix_slice' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.tensorRicci_pullback' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.ricciResponse_eq_tensorRicci' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarCurvatureResponse_eq_contraction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

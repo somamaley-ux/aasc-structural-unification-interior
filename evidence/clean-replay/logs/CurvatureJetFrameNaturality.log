@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.pullbackFour_sub' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_first_swap' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvatureOfNormalHessian_pullback' depends on axioms: [propext, Classical.choice, Quot.sound]

@@ -1,0 +1,323 @@
+{
+  "original_sha256": "c41ab995f3ed380326a9cf55ac0c6d3976578eff076d30bb4e3607bfb5794d80",
+  "content": {
+    "created_utc": "2026-10-31T12:47:00.380726+00:00",
+    "status": "READ_ONLY_ACCEPTED_PRE5A_BASELINE_INVENTORY_NO_EXPORT_OR_PUBLICATION",
+    "exact_accepted_endpoints": [
+      {
+        "subject": "Common-Kernel canonical licensing to actual EH/Einstein response and constructed free Schrodinger receiving",
+        "endpoint": "AASCKleinGordon.CanonicalLicensing.kernel_faithful_canonical_licensing_to_eh_and_free_schrodinger",
+        "status": "accepted_bounded_composition_private",
+        "seal": {
+          "path": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\COMPOSITION_ACCEPTED.json",
+          "sha256": "52fdb8d6fe0d22cdae504f07234b93992265197126af88b91869ef457664b9ae"
+        },
+        "root_type": null,
+        "declared_scope": "See exact source/independent scope review bound by seal",
+        "new_public_release": false,
+        "verification_evidence": {
+          "new_production_modules": 10,
+          "baseline_modules": 839,
+          "root_receipt_fields": 49,
+          "compiled_declarations": 252,
+          "official_public_axiom_reports": 230,
+          "axioms": [
+            "Classical.choice",
+            "Quot.sound",
+            "propext"
+          ],
+          "fresh_replay_new_production_modules": 10,
+          "fresh_replay_audit_modules": 1,
+          "fresh_replay_all_objects_byte_identical": true,
+          "lint_warnings": 16,
+          "full_local_839_rebuild_executed": false,
+          "toolchain_library_bootstrap_executed": false,
+          "originals_and_public_export_content_unchanged": true,
+          "public_release_performed": false,
+          "blockers_in_declared_bounded_scope": []
+        }
+      },
+      {
+        "subject": "Native special-relativistic geometry, clocks and same-source canonical licensing/EH/scalar integration",
+        "endpoint": "AASCKleinGordon.CanonicalLicensing.SRIntegration.kernel_faithful_native_sr_canonical_licensing_eh_scalar",
+        "status": "accepted-private-native-branch",
+        "seal": {
+          "path": "SOURCE\\physical-work\\sr-full-integration-20261019\\ACCEPTED.json",
+          "sha256": "be0d2aed146fd62f716359aa22362e61a99590d94d6b8319d5df8d1e3abf611c"
+        },
+        "root_type": null,
+        "declared_scope": "See exact source/independent scope review bound by seal",
+        "new_public_release": false,
+        "verification_evidence": {
+          "accepted_utc": "2026-10-19T09:15:58.038957+00:00",
+          "root_source_sha256": "4dfb7e260467ef5dac85f4058486d055964f921a36991711857b8ff30f0f2a75",
+          "scope_sha256": "5250ed75f6b23e2a73559a5dcb8ef050caf9555a10dba1b9d983d3f7dec2b19f",
+          "audit_result_sha256": "15becfdfbacd24ec6840c9e3e53b004bf44d0c5ccca71e6819262859a08c9cdc",
+          "replay_result_sha256": "2d77a54e8e694d41300329d0cc79a530bc60a0d0c23d471753da1d15417f4401",
+          "independent_review_sha256": "be4dffdb23bb70c4d8b8bf07fd86cc8f29c1dd86c4602277850bf79e40755644",
+          "public_release": false,
+          "bounded_scope_only": true
+        }
+      },
+      {
+        "subject": "Controlled nonflat same-admitted-EH-metric real Klein-Gordon Cauchy construction",
+        "endpoint": "AASCKleinGordon.CurvedKG.kernel_faithful_same_eh_curved_kg_complete",
+        "status": "accepted",
+        "seal": {
+          "path": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\ACCEPTED.json",
+          "sha256": "29e0eee230f1c2cc4a6606f2bb57c759af014fa4c87ebefb34b5e3557a9f7738"
+        },
+        "root_type": "CompleteKernelFaithfulCurvedKGEndpoints a s",
+        "declared_scope": "Private Stage1 controlled nonflat same-admitted-EH-metric real KG Cauchy construction and actual action/use/continuation integration; not arbitrary curved backgrounds, coupled sourcing, general SR/NR recovery, universal metric minimality or quantum gravity.",
+        "new_public_release": false,
+        "verification_evidence": {
+          "root_type": "CompleteKernelFaithfulCurvedKGEndpoints a s",
+          "base_fields": 46,
+          "additional_completion_fields": 3,
+          "production_modules": 70,
+          "replayed_objects": 71,
+          "declarations": 1194,
+          "private_generated": 372,
+          "axioms": [
+            "propext",
+            "Classical.choice",
+            "Quot.sound"
+          ],
+          "root_value_closure": 69603,
+          "proof_value_reports": 21,
+          "compiler": "SOURCE\\kr1\\bundle\\vendor\\toolchain\\bin\\lean.exe",
+          "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+          "inputs_sha256": "9679c8d7329df86b42b418f83d625fb3ffe3a7f1bef455952d76ab727150f835",
+          "replay_sha256": "bfc1e907364422b0f8673bc80a67b24a8f9f5215eb8e1833fc93c2a887a1e3e7",
+          "independent_review_sha256": "3e241c0277ba288e02714e895ae514d4d382d934e2ac8641a563319354ac8ec7",
+          "preservation_sha256": "b91b4f9b78d02f2f397d16a9b9cd3a733048688cd853be7747741cf0fa7f38e7",
+          "new_public_release": false,
+          "new_full_dependency_or_toolchain_bootstrap": false,
+          "next_stage": "Stage2 remains unstarted; report at the stage gate before advancing."
+        }
+      },
+      {
+        "subject": "Same-action scalar stress source, balance/Ward/exchange/Hamiltonian and conditional sourced Einstein receiving",
+        "endpoint": "AASCKleinGordon.SameActionSource.kernel_faithful_same_action_kg_source",
+        "status": "accepted",
+        "seal": {
+          "path": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-02-same-action-source\\ACCEPTED.json",
+          "sha256": "8079598b7ad478bd9a6cca40e3a81483f78c1f3bf7ec096bfe5e714bf949d35f"
+        },
+        "root_type": "SameActionKGSourceEndpoints a s kappa Lambda",
+        "declared_scope": "Private same-action real scalar source construction on the exact retained nonflat admitted EH metric, with derived curved stress balance/Ward/exchange/Hamiltonian and conditional sourced Einstein/actual receiver/reader attachment. No coupled-development or quantum backreaction claim.",
+        "new_public_release": false,
+        "verification_evidence": {
+          "root_type": "SameActionKGSourceEndpoints a s kappa Lambda",
+          "root_field_count": 49,
+          "production_modules": 29,
+          "replayed_objects": 30,
+          "declarations": 544,
+          "private_generated": 161,
+          "axioms": [
+            "propext",
+            "Quot.sound",
+            "Classical.choice"
+          ],
+          "exact_axiom_traversal_constants": 71370,
+          "proof_value_reports": 14,
+          "root_value_closure": 70032,
+          "compiler": "SOURCE\\kr1\\bundle\\vendor\\toolchain\\bin\\lean.exe",
+          "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+          "root_source_sha256": "8def7560ad8e06e55f5091e138c8d16fe3e94842d696231deef8b96af1d3bbf5",
+          "root_object_sha256": "f04a750f9661ddbbb18b7aaecee33a73542757ca94f5eba7d00210c773734019",
+          "frozen_inputs_sha256": "36248b4f0fcfaa5f19f6b97b4a992a310335d498487eb23d99d10c730d4abb1d",
+          "replay_sha256": "34c124713232a46d47a8f10a5028b143cae99ba5ba04d31ea8c69c4fc43248e6",
+          "input_bindings_sha256": "dbca611e40fb3ffb095aa809399e593c9199dcee4d8a0071edfc49be2ebda5c5",
+          "independent_review_sha256": "7829dbc3071d1ca9949902e2239ce6fdb94642371c102e6699f7357a6cea11b5",
+          "proof_map_sha256": "da824b3b7f157f85621ca556eb27274e65d9653f14195284b4031c6390780fb9",
+          "preservation_sha256": "d8e7ad7b18b52bc4d9edfe4ef7dc17a5479eaffe2ff0775572438bb689c6a3d9",
+          "retained_stage1_seal_sha256": "29e0eee230f1c2cc4a6606f2bb57c759af014fa4c87ebefb34b5e3557a9f7738",
+          "roadmap_sha256": "d1907f8c23d3c769f7fe94e08cebccd8264030da80f211b0756d9d2b7c5078fe",
+          "new_public_release": false,
+          "new_full_dependency_or_toolchain_bootstrap": false,
+          "next_stage": "Stage3 remains unstarted; report at this stage gate before advancing."
+        }
+      },
+      {
+        "subject": "Quantitative flat nonrelativistic recovery and controlled local metric/field/guarded-duration comparison",
+        "endpoint": "AASCKleinGordon.RecoveryComparison.kernel_faithful_recovery_comparison",
+        "status": "accepted",
+        "seal": {
+          "path": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-03-recovery-comparison\\ACCEPTED.json",
+          "sha256": "d60be7e3c7e09760c1b67bfdfa2050a0353a764a1fa598e79d5a74652bc5a604"
+        },
+        "root_type": "KernelFaithfulRecoveryComparison a s kappa Lambda",
+        "declared_scope": "A private machine-checked constraint-first construction from the Kernel and downstream Kernel-faithful machinery, retaining canonical licensing and same-action scalar-source endpoints, with quantitative flat nonrelativistic recovery and controlled local metric, field and guarded-duration comparisons on their stated domains.",
+        "new_public_release": false,
+        "verification_evidence": {
+          "root_type": "KernelFaithfulRecoveryComparison a s kappa Lambda",
+          "root_field_count": 58,
+          "production_modules": 17,
+          "replayed_objects": 18,
+          "declarations": 244,
+          "private_generated": 60,
+          "axioms": [
+            "propext",
+            "Quot.sound",
+            "Classical.choice"
+          ],
+          "exact_axiom_traversal_constants": 71428,
+          "proof_value_reports": 15,
+          "compiler": "SOURCE\\kr1\\bundle\\vendor\\toolchain\\bin\\lean.exe",
+          "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+          "root_source_sha256": "2467f9dcf9eb0ad188840132abfbebec24f7fda462be7fea525f7c1a10a6fd30",
+          "root_object_sha256": "74c1acc867c39e3c9be7eeeff7def083fd5b7577008b111c3a16f2c4f72705b1",
+          "frozen_inputs_sha256": "c8876664cd758a2fa2e7267a457fee580116aa4a84028b730fb41788aebf5059",
+          "replay_sha256": "34d10a03973c2d0576c46ccd075e3ab3d34f882f4b282193d64787beb283b855",
+          "input_bindings_sha256": "f259070c779af016d57eeff00d10b4d5611caad6aefbdd3fddbda44ee9a89aa7",
+          "independent_review_sha256": "aa26d7a177b9c1e3a46279f476af49a26a85ef6fc6e12c0a69b02260c28969d9",
+          "proof_map_sha256": "49ad5c92fb88e2b40432cab2d701040393f151385a2fbed81487166c65c9401a",
+          "preservation_sha256": "a3e3e5edab9a2b64e187a0d852049c4296b14c0849cac6f65cf6b9358755753a",
+          "retained_stage2_seal_sha256": "8079598b7ad478bd9a6cca40e3a81483f78c1f3bf7ec096bfe5e714bf949d35f",
+          "contract_sha256": "aaba7820db6cfdd7bbace23290e6ecab65d44a9b03b885670eb2c79b27e61a55",
+          "new_public_release": false,
+          "new_full_dependency_or_toolchain_bootstrap": false
+        }
+      },
+      {
+        "subject": "Operational SR with continuous coasting clocks, occupied finite radar/ruler/network apparatus and faithful old-source retention",
+        "endpoint": "AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr",
+        "status": "accepted_private_stage4",
+        "seal": {
+          "path": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\ACCEPTED.json",
+          "sha256": "4a430c541d1a6d0795b67dcf844b971f19d0b508062f9645ef98eb93c6f2e71b"
+        },
+        "root_type": "AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr (a : Parameters) (s kappa Lambda : ℝ) (coupling : kappa ≠ 0) : KernelFaithfulOperationalSR a s kappa Lambda",
+        "declared_scope": "A private machine-checked Lean 4 operational SR construction, composed from the Kernel and downstream Kernel-faithful machinery, with actual continuous coasting clocks, occupied finite radar/ruler protocols and explicit source/licensing/domain/failure maps; freshly replayed against pinned retained dependencies at its stated branch hypotheses.",
+        "new_public_release": false,
+        "verification_evidence": {
+          "root_field_count": 229,
+          "frozen_inputs_sha256": "881a9faa57f7f3cb26a587c05e2e02139ff40db6e57951b23b5f977c4eb5ec52",
+          "replay_result_sha256": "d21fe1c0e08d60a5802c5e9154a0687504ffffc76a2ac3a3f5992423efd39f50",
+          "independent_final_review_sha256": "9af9fe6f627dd3c2b3bb8e4ce0c3c25c57d017a9bcc65b8e42d155b937da06cf",
+          "substantive_summary_sha256": "be78e0efe96bde75a4274be5b332ace8a7e2e078a387381fdb7403889b0a33f3",
+          "predecessor_stage3_seal_sha256": "d60be7e3c7e09760c1b67bfdfa2050a0353a764a1fa598e79d5a74652bc5a604"
+        }
+      }
+    ],
+    "common_kernel_link": {
+      "source": {
+        "path": "SOURCE\\physical-work\\connected-canonical-licensing-20261019\\src\\KernelFaithfulLicensedEndpoints.lean",
+        "sha256": "191f4e2cf9aee99667587feca217e1a0947faece14e4e1bfaeb42883f0146cd4"
+      },
+      "constructor": "kernel_faithful_canonical_licensing_to_eh_and_free_schrodinger",
+      "derived_fields": [
+        "constraint_first_source",
+        "current_free_receiving",
+        "geometric_einstein_receiving",
+        "receipt_current_metric_use_constructs_kernel_and_canonical_license",
+        "receipt_receiver_has_actual_canonical_license"
+      ],
+      "licensing_result": "DerivedKernelRoles of canonicalRegime(originalIncidence D), AMetricLicensingDiscipline, FiveLicensingConclusions D and actual constructedLicensing of the SAME original task/use meaning. These are constructed fields, not assumed endpoint results.",
+      "retention": [
+        "AASCKleinGordon.RecoveryComparison.kernel_faithful_recovery_comparison a s kappa Lambda coupling",
+        "For every old open Omega, AASCKleinGordon.CanonicalLicensing.SRIntegration.kernel_faithful_native_sr_canonical_licensing_eh_scalar a s Omega"
+      ],
+      "same_source_boundaries": "The native SR root and Stage4 retain the canonical EH/scalar branch and actual same-metric/preparation/reference maps; stage3->stage2->stage1 seal identities checked here."
+    },
+    "assumptions_and_limits": {
+      "root_parameters": "Parameters has positive mass, speed and hbar; s, kappa and Lambda are real; kappa is nonzero. No desired duration, comparison coverage, protocol compatibility, license or apparatus existence is a root premise.",
+      "stage4_original_field_hypotheses": [
+        "Native flat SREvent is R x EuclideanSpace R (Fin 3), with source form t^2-norm(x)^2 and native supplied comparison subgroup.",
+        "Clock base rest energy mu0 is positive and actual total mu0+J is positive; U.time>0 and q(U)=1; use windows are ordered.",
+        "Abstract ideal response is conditional on its certified interval domain, same-ray local addition/subdivision, positivity, admitted same-event comparisons with rest coverage, and one positive rest calibration. Its native Hamiltonian inhabitant is separately constructed.",
+        "Networks retain arbitrary original licensed scalar preparation and admitted EH operand as independent source data; the special flat metric identification uses the zero EH operand.",
+        "Successful radar uses require registered distinct sites, positive signal energy, nonnegative correctly recorded delay, resources, ordered windows and complete actual ray/clock segment coverage; proper open-domain successful examples and finite all-pairs occupants are constructed.",
+        "Measuring queries use an admitted frame and selected actual endpoint events at equal measuring time within their device windows; arbitrary-axis and subluminal boost laws are proved at that scope.",
+        "Dimensionful adapters require a common positive speed c, beta=v/c and v^2<c^2; physical readings/durations divide normalized readings by c.",
+        "Synchronization has one common origin on each undirected component generated by actual successful reads; no global connectivity or reverse executed protocol is presumed."
+      ],
+      "EH": "Actual admitted original metric/projection and declared Einstein-response classification envelope. Does not prove a unique physical metric or spacetime solution. Sourced Einstein conclusion is conditional as stated.",
+      "QM": "Constructed declared continuum L2/Fourier free isolated scalar sector and exact domain/weak graph; free V=0, positive mass/speed/hbar and controlled rest-subtracted nonrelativistic contraction. No all-potential/generalQFT/quantumgravity claim.",
+      "curved_branch": "Controlled nonflat KG and same-action source; not arbitrary curved backgrounds or a global coupled Einstein-KG development/backreaction theorem.",
+      "SR": "Native3+1 event space is declared; actual calibration/domain/resource/window hypotheses remain. Driven/accelerated and general curved apparatus remain separate.",
+      "standard_axioms": [
+        "propext",
+        "Quot.sound",
+        "Classical.choice"
+      ]
+    },
+    "premetric_unification_capstone_identification": {
+      "verified_common_kernel_capstone": "AASCKleinGordon.CanonicalLicensing.kernel_faithful_canonical_licensing_to_eh_and_free_schrodinger",
+      "verified_scope": "The exact accepted bounded private common-kernel/canonical-licensing EH/free-Schrodinger composition, later retained by nativeSR and operationalSR.",
+      "wider_paper_level_capstone_not_certified_from_a_label": "The older physical-work/baseline/AASCStack/CapstoneObligations.lean contains a certificate-to-conjunction interface receiving its six obligations. Its presence is not evidence that the entire widerUnus/Gravity/A-D paper-level realization chain was constructed. This inventory does not equate it with the accepted49-field connected root or claim corpuswide absence of another capstone.",
+      "older_interface_source": {
+        "path": "SOURCE\\physical-work\\baseline\\AASCStack\\CapstoneObligations.lean",
+        "sha256": "9af1f849b931210cc21f6b36bb0ba9864c1948529ea8bd0c0463b80eb0784f70"
+      }
+    },
+    "verification_and_reuse": {
+      "Stage4_summary": {
+        "path": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\STAGE04_SUBSTANTIVE_SUMMARY.json",
+        "sha256": "be78e0efe96bde75a4274be5b332ace8a7e2e078a387381fdb7403889b0a33f3"
+      },
+      "stage4_new_artifacts": {
+        "production_modules": 43,
+        "audit_modules": 1,
+        "generated_object_files": 44,
+        "generated_artifact_kinds": {
+          ".olean": 44,
+          ".olean.private": 0,
+          ".olean.server": 0
+        },
+        "byte_identical_all": true,
+        "declarations": 1261,
+        "private_or_generated": 285,
+        "proof_value_groups": 23,
+        "exact_type_value_axiom_union": {
+          "axioms": [
+            "propext",
+            "Quot.sound",
+            "Classical.choice"
+          ],
+          "checked_constant_count": 72626,
+          "scope": "Exact transitive union of types and values for every selected declaration; not per-declaration exact lists"
+        }
+      },
+      "stage4_declared_reuse": {
+        "retained_primary_objects": 6291,
+        "split_companions": 10558,
+        "toolchain_runtime_bin_files": 19,
+        "scope": "Hashed existing retained imports/runtime; no clean-machine bootstrap, dependency/toolchain rebuild or fresh .ir/.ilean claim."
+      },
+      "compiler_version": "Lean 4.28.0, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b",
+      "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+      "mathlib_revision": "8f9d9cff6bd728b17a24e163c9402775d9e6a365",
+      "stage4_bindings": {
+        "path": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\fresh-replay-001\\INPUT_BINDINGS.json",
+        "sha256": "f45daf844971b4d01c1b9680268261de353ea3f19aef5a46612cfe1aff8c61c1"
+      },
+      "retained_import_count": 6291,
+      "SSM_imports": [],
+      "base_replay_receipt": {
+        "path": "SOURCE\\kr1\\REPLAY_RECEIPT.json",
+        "sha256": "6ddfc5994d929a42563a6e85d227263fa123d752646fd2da34a88b0121940612"
+      },
+      "base_replay_scope": {
+        "project_source_count": 786,
+        "fresh_project_objects": 786,
+        "status": "passed_with_warnings",
+        "dependency_binaries_rebuilt": false,
+        "all_project_imports_fresh": true,
+        "dependency_rebuild_claim": false
+      },
+      "no_build_or_broad_reaudit_in_this_inventory": true
+    },
+    "portable_export_limits": [
+      "No new repository, export, push or publication was made or authorized by this inventory.",
+      "Existingkr1 bundle has relative replay for786 base project sources onWindowsx86-64, with reused pinnedLean/mathlib binaries. It is not the later completeStage4 export.",
+      "A later standalone baseline must package the exact connected/SR/stage1-4 consumed source/dependency closure, licence files, root entrypoints, assumptions/scope and accepted evidence, convert later absolute workspace bindings to relative paths, and perform one isolated fresh replay.",
+      "No clean-machine toolchain/mathlib source bootstrap or cross-platform reproducibility was established by the retained binary replay.",
+      "Stage4 retainedimport manifest has noSSM modules;5A partial results are excluded from the proposed baseline inventory."
+    ],
+    "publication_held": true,
+    "original_sources_or_settings_modified": false
+  },
+  "transformation": "Absolute original source prefix replaced with SOURCE. Historical inventory, not current permission or replay status."
+}

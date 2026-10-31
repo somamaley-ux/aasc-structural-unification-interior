@@ -1,0 +1,20 @@
+'AASCMetricityLicensingConstruction.originalMetricLocal' does not depend on any axioms
+'AASCMetricityLicensingConstruction.original_safe_has_qualification' does not depend on any axioms
+'AASCMetricityLicensingConstruction.original_safe_successor' does not depend on any axioms
+'AASCMetricityLicensingConstruction.OriginalSoundRegion' does not depend on any axioms
+'AASCMetricityLicensingConstruction.original_sound_region_is_safe' does not depend on any axioms
+'AASCMetricityLicensingConstruction.original_safe_region_is_sound' does not depend on any axioms
+'AASCMetricityLicensingConstruction.canonicalMetricLicense' does not depend on any axioms
+'AASCMetricityLicensingConstruction.canonical_license_has_original_qualification' does not depend on any axioms
+'AASCMetricityLicensingConstruction.every_original_sound_region_is_in_canonical_license' does not depend on any axioms
+'AASCMetricityLicensingConstruction.safe_use_preserves_original_edge_and_successor_license' does not depend on any axioms
+'AASCMetricityLicensingConstruction.SafeOriginalMetricRecords' does not depend on any axioms
+'AASCMetricityLicensingConstruction.completeLicensedObservation' does not depend on any axioms
+'AASCMetricityLicensingConstruction.CanonicalLicensingReceiver' does not depend on any axioms
+'AASCMetricityLicensingConstruction.presentSafeOriginalUse' does not depend on any axioms
+'AASCMetricityLicensingConstruction.constructed_receipt_preserves_every_original_answer' does not depend on any axioms
+'AASCMetricityLicensingConstruction.constructed_receiver_exactly_presents_canonical_license' does not depend on any axioms
+'AASCMetricityLicensingConstruction.constructed_receiver_is_unique_exact_complete_content_receiver' depends on axioms: [Classical.choice,
+ Quot.sound]
+'AASCMetricityLicensingConstruction.faithful_original_consumer_supplies_license' does not depend on any axioms
+'AASCMetricityLicensingConstruction.original_prerequisite_placement_and_positive_use_imply_local_boundary' does not depend on any axioms

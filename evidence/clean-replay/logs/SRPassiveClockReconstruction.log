@@ -1,0 +1,6 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_reconstructed_clock_has_actual_hamiltonian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_reconstructed_clock_has_transported_proper_tangent' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

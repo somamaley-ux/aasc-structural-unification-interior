@@ -1,0 +1,14 @@
+OSRNetworkSource.lean:217:59: warning: This simp argument is unused:
+  Option.map_map
+
+Hint: Omit it from the simp argument list.
+  simp [̵n̵e̵t̵w̵o̵r̵k̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵n̵e̵t̵w̵o̵r̵k̵D̵a̵t̵a̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵O̵p̵t̵i̵o̵n̵.̵m̵a̵p̵_̵m̵a̵p̵,̵F̵u̵n̵c̵t̵i̵o̵n̵.̵c̵o̵m̵p̵_̵d̵e̵f̵]̵[̲n̲e̲t̲w̲o̲r̲k̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲n̲e̲t̲w̲o̲r̲k̲D̲a̲t̲a̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲F̲u̲n̲c̲t̲i̲o̲n̲.̲c̲o̲m̲p̲_̲d̲e̲f̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+OSRNetworkSource.lean:217:74: warning: This simp argument is unused:
+  Function.comp_def
+
+Hint: Omit it from the simp argument list.
+  simp [̵n̵e̵t̵w̵o̵r̵k̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵n̵e̵t̵w̵o̵r̵k̵D̵a̵t̵a̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵O̵p̵t̵i̵o̵n̵.̵m̵a̵p̵_̵m̵a̵p̵,̵F̵u̵n̵c̵t̵i̵o̵n̵.̵c̵o̵m̵p̵_̵d̵e̵f̵]̵[̲n̲e̲t̲w̲o̲r̲k̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲n̲e̲t̲w̲o̲r̲k̲D̲a̲t̲a̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲O̲p̲t̲i̲o̲n̲.̲m̲a̲p̲_̲m̲a̲p̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

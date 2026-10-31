@@ -1,0 +1,11 @@
+RicciSemanticOperators.lean:46:18: warning: This simp argument is unused:
+  Matrix.diagonal_apply
+
+Hint: Omit it from the simp argument list.
+  simp [metric, M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵a̵p̵p̵l̵y̵,̵ ̵h, Ne.symm h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.ricciResponse_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarMetricResponse_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.ricci_response_vector' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalar_metric_response_vector' depends on axioms: [propext, Classical.choice, Quot.sound]

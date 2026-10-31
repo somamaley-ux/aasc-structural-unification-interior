@@ -1,0 +1,6 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_every_finite_original_pulse_protocol_has_frame_natural_legs' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_every_finite_original_return_tick_has_same_source_frame_reading' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,9 @@
+'AASC.KernelReference.DependentConservation.output_eq_of_same_bearer_query' does not depend on any axioms
+'AASC.KernelReference.DependentConservation.profile_eq_of_same_bearer' depends on axioms: [Quot.sound]
+'AASC.KernelReference.DependentConservation.all_profiles_eq_of_same_bearer' depends on axioms: [Quot.sound]
+'AASC.KernelReference.DependentConservation.discordance_excludes_joint_incidence' does not depend on any axioms
+'AASC.KernelReference.DependentConservation.discordant_answer_not_incident' does not depend on any axioms
+'AASC.KernelReference.DependentConservation.completeOutcome_determinate' does not depend on any axioms
+'AASC.KernelReference.DependentConservation.completeOutcome_none_iff' does not depend on any axioms
+'AASC.KernelReference.DependentConservation.complete_outcome_conservation' does not depend on any axioms
+'AASC.KernelReference.DependentConservation.known_result_excludes_absent_outcome' does not depend on any axioms

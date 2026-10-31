@@ -1,0 +1,7 @@
+EHKGScalarEnergyBalance.lean:99:59: warning: This simp argument is unused:
+  pow_one
+
+Hint: Omit it from the simp argument list.
+  simp only [flatScalarResidual, jetPosition, jetVelocity, p̵o̵w̵_̵o̵n̵e̵,̵ ̵Nat.cast_ofNat]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

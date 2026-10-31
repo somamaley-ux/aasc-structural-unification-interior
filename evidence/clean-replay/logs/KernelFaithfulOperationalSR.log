@@ -1,0 +1,2382 @@
+KernelFaithfulOperationalSR.lean:61:5: warning: unused variable `outgoing`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:62:5: warning: unused variable `recorded_wait`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:66:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:67:5: warning: unused variable `read`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:73:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:76:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:79:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:80:5: warning: unused variable `domain`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:82:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:82:70: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:84:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:84:83: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:84:146: warning: unused variable `openDomain`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:86:58: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:86:90: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:88:34: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:88:66: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:90:35: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:90:67: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:92:37: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:92:69: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:94:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:94:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:96:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:96:70: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:98:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:98:82: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:98:113: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:101:33: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:101:65: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:103:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:103:79: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:105:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:105:79: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:107:44: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:107:76: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:108:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:108:76: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:110:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:110:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:112:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:112:70: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:115:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:115:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:116:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:116:76: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:125:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:125:87: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:126:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:126:76: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:130:127: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:131:49: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:138:43: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:138:75: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:138:106: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:139:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:141:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:141:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:141:101: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:142:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:145:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:145:86: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:145:109: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:146:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:149:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:149:84: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:149:107: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:150:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:153:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:153:86: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:153:109: warning: unused variable `base`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:153:126: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:154:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:155:5: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:158:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:158:97: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:159:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:159:76: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:163:82: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:169:90: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:175:84: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:175:103: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:176:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:176:76: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:181:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:190:87: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:201:23: warning: unused variable `path`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:204:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:205:5: warning: unused variable `reads`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:207:23: warning: unused variable `connected`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:210:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:211:5: warning: unused variable `reads`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:215:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:215:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:217:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:217:84: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:217:107: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:218:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:220:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:220:87: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:220:110: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:221:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:223:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:223:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:223:100: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:224:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:226:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:226:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:226:101: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:227:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:230:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:230:80: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:230:103: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:231:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:233:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:233:85: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:233:108: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:234:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:236:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:236:84: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:236:107: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:237:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:237:76: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:239:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:239:88: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:239:111: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:240:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:245:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:257:5: warning: unused variable `reads`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:262:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:263:5: warning: unused variable `reads`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:265:23: warning: unused variable `path`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:268:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:269:37: warning: unused variable `regP`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:269:68: warning: unused variable `regQ`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:270:5: warning: unused variable `readP`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:271:5: warning: unused variable `readQ`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:272:5: warning: unused variable `fromEq`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:272:36: warning: unused variable `toEq`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:274:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:274:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:277:57: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:277:89: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:278:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:280:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:280:86: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:280:111: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:283:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:283:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:285:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:285:72: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:288:5: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:289:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:290:5: warning: unused variable `registered`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:297:55: warning: unused variable `unregistered`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:316:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:316:72: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:317:35: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:317:67: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:319:122: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:321:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:321:86: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:322:19: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:322:46: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:324:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:324:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:325:5: warning: unused variable `insideD`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:325:33: warning: unused variable `insideE`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:325:61: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:327:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:327:74: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:331:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:331:83: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:333:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:333:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:337:61: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:337:93: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:338:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:341:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:341:83: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:342:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:350:104: warning: unused variable `subluminal`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:355:21: warning: unused variable `simultaneous`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:358:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:358:81: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:359:5: warning: unused variable `positiveMass`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:365:60: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:365:92: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:368:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:368:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:368:96: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:394:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:400:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:400:75: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:406:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:406:72: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:408:44: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:408:76: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:410:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:410:73: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:411:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:411:24: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:413:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:413:74: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:414:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:414:24: warning: unused variable `calibratedDomain`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:414:58: warning: unused variable `calibrated`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:415:13: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:415:45: warning: unused variable `hn`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:417:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:417:85: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:418:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:418:24: warning: unused variable `calibratedDomain`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:418:58: warning: unused variable `calibrated`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:419:13: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:421:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:421:85: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:421:106: warning: unused variable `base`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:422:27: warning: unused variable `admittedB`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:423:5: warning: unused variable `admittedA`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:424:30: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:431:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:431:83: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:431:104: warning: unused variable `base`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:432:25: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:433:30: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:437:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:458:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:458:80: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:458:111: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:460:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:460:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:462:65: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:462:97: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:463:5: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:466:59: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:466:91: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:467:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:469:65: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:469:97: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:472:61: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:472:93: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:473:5: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:475:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:475:82: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:479:36: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:479:68: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:481:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:481:87: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:481:110: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:482:19: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:484:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:484:74: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:484:97: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:485:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:485:51: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:487:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:487:70: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:487:101: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:489:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:489:80: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:489:103: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:490:25: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:490:81: warning: unused variable `inside`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:492:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:492:87: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:492:110: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:493:19: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:497:71: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:497:103: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:498:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:498:48: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:499:19: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:503:37: warning: unused variable `step`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:509:39: warning: unused variable `step`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:513:61: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:513:93: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:514:21: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:517:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:523:5: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:526:5: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:526:27: warning: unused variable `exit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:549:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:549:42: warning: unused variable `step`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:552:39: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:553:5: warning: unused variable `step`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:556:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:560:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:571:109: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:572:49: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:574:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:574:87: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:576:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:576:74: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:599:37: warning: unused variable `step`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:602:5: warning: unused variable `step`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:610:72: warning: unused variable `ordered`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:615:5: warning: unused variable `sites`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:615:35: warning: unused variable `phases`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:615:72: warning: unused variable `ordered`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:616:5: warning: unused variable `schedule`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:620:122: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:624:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:631:118: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:655:5: warning: unused variable `failed`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:659:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:664:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:669:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:675:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:704:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:704:85: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:704:108: warning: unused variable `base`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:704:125: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:710:43: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:710:75: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:710:102: warning: unused variable `length`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:710:126: warning: unused variable `delay`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:716:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:716:79: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:718:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:718:88: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:718:115: warning: unused variable `length`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:719:5: warning: unused variable `delay`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:719:27: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:722:57: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:722:89: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:722:116: warning: unused variable `energy`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:723:5: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:730:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:730:80: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:731:5: warning: unused variable `distinct`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:735:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:735:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:736:5: warning: unused variable `positive_i`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:736:47: warning: unused variable `positive_j`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:743:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:743:80: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:744:5: warning: unused variable `midpoint`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:744:38: warning: unused variable `delay`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:746:36: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:746:68: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:748:36: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:748:68: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:749:5: warning: unused variable `closed`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:751:82: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:751:114: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:752:5: warning: unused variable `r`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:753:5: warning: unused variable `H`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:754:21: warning: unused variable `distinct`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:754:40: warning: unused variable `phaseX`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:754:47: warning: unused variable `phaseY`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:755:26: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:766:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:766:81: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:766:102: warning: unused variable `speed`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:766:118: warning: unused variable `velocity`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:768:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:768:85: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:768:106: warning: unused variable `speed`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:768:122: warning: unused variable `forward`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:770:67: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:770:99: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:770:122: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:771:19: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:771:75: warning: unused variable `speed`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:774:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:774:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:775:5: warning: unused variable `positive_i`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:775:47: warning: unused variable `positive_j`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:776:31: warning: unused variable `speed`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:781:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:781:85: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:782:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:783:31: warning: unused variable `speed`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:791:5: warning: unused variable `registered`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:792:5: warning: unused variable `distinct`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:792:64: warning: unused variable `energy`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:793:5: warning: unused variable `delay`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:793:33: warning: unused variable `start`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:794:5: warning: unused variable `finish`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:796:92: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:796:103: warning: unused variable `r`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:797:5: warning: unused variable `H`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:800:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:800:73: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:801:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:804:5: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:807:126: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:808:51: warning: unused variable `sound`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:811:61: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:811:93: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:811:120: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:814:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:814:83: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:816:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:816:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:819:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:819:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:821:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:821:70: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:822:5: warning: unused variable `pin`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:822:40: warning: unused variable `qin`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:824:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:824:88: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:824:115: warning: unused variable `length`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:825:5: warning: unused variable `delay`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:828:58: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:828:90: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:829:27: warning: unused variable `same_offsets`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:830:15: warning: unused variable `path`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:832:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:832:88: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:833:5: warning: unused variable `same_offsets`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:835:31: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:835:63: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:836:33: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:836:65: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:837:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:839:35: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:839:67: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:840:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:842:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:842:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:843:5: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:843:57: warning: unused variable `ordered`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:845:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:845:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:845:99: warning: unused variable `base`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:846:38: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:847:17: warning: unused variable `ordered`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:847:57: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:850:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:850:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:851:5: warning: unused variable `positive_i`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:851:47: warning: unused variable `positive_j`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:854:36: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:854:68: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:854:93: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:856:34: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:856:66: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:856:91: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:858:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:858:81: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:858:106: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:860:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:860:84: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:860:109: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:862:34: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:862:66: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:864:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:864:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:866:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:866:72: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:869:105: warning: unused variable `r`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:870:5: warning: unused variable `H`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:871:35: warning: unused variable `phase`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:872:5: warning: unused variable `distinct`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:872:36: warning: unused variable `emit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:872:60: warning: unused variable `wait`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:872:79: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:876:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:876:82: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:877:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:877:76: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:879:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:879:73: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:883:62: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:883:94: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:884:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:884:76: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:887:66: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:887:98: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:888:5: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:891:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:891:86: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:892:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:892:76: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:897:62: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:897:94: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:899:5: warning: unused variable `proper`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:899:76: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:901:5: warning: unused variable `domain`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:906:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:906:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:908:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:908:71: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:909:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:909:77: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:909:108: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:912:43: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:912:75: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:912:100: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:914:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:914:86: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:914:117: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:915:19: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:917:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:917:80: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:917:111: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:920:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:920:74: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:920:99: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:920:131: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:922:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:922:78: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:922:103: warning: unused variable `unit`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:922:135: warning: unused variable `positive`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:924:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:924:81: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:925:5: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:925:61: warning: unused variable `future`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:926:5: warning: unused variable `atRest`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:928:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:928:72: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:928:103: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:931:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:931:79: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:931:110: warning: unused variable `admitted`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:940:68: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:940:74: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:945:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:945:46: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:946:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:946:59: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:947:60: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:947:66: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:948:36: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:948:42: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:949:37: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:949:43: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:950:39: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:950:45: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:951:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:951:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:952:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:952:46: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:953:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:953:58: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:954:35: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:954:41: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:955:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:955:55: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:956:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:956:55: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:957:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:957:52: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:958:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:958:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:959:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:959:46: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:960:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:960:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:961:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:961:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:962:57: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:962:63: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:964:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:964:51: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:965:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:965:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:966:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:966:62: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:967:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:967:60: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:968:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:968:62: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:969:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:970:58: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:971:66: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:972:60: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:973:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:974:63: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:978:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:978:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:979:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:979:60: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:980:57: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:980:63: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:981:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:981:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:982:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:982:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:983:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:983:56: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:984:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:984:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:985:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:985:60: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:986:58: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:986:64: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:987:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:992:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:992:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:993:59: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:993:65: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:994:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:994:62: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:995:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:995:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:996:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:996:48: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1002:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1002:48: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1003:37: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1003:43: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1004:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1004:51: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1005:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1005:62: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1006:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1006:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1007:44: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1007:50: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1008:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1008:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1009:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1009:59: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1010:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1010:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1011:63: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1011:69: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1012:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1012:59: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1013:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1013:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1014:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1014:58: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1015:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1015:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1016:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1016:57: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1017:62: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1017:68: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1018:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1018:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1027:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1027:48: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1028:46: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1028:52: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1029:43: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1029:49: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1030:44: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1030:50: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1031:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1031:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1032:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1032:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1033:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1033:59: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1038:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1038:56: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1039:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1039:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1040:67: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1040:73: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1041:61: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1041:67: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1042:67: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1042:73: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1043:63: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1043:69: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1044:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1044:58: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1045:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1045:44: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1046:57: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1046:63: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1047:44: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1047:50: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1048:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1048:46: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1049:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1049:56: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1050:57: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1050:63: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1051:73: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1051:79: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1055:63: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1055:69: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1073:57: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1073:63: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1074:44: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1074:50: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1106:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1106:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1107:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1107:51: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1108:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1108:55: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1109:58: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1109:64: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1110:59: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1110:65: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1111:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1111:56: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1112:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1112:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1113:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1113:56: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1114:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1114:44: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1115:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1115:44: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1116:84: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1116:90: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1118:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1118:57: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1119:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1119:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1120:69: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1120:75: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1121:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1121:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1122:55: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1122:61: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1124:68: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1125:43: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1125:49: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1128:63: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1128:69: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1129:53: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1129:59: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1130:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1130:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1131:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1131:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1132:40: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1132:46: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1133:58: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1133:64: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1134:60: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1134:66: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1135:58: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1135:64: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1136:33: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1136:39: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1137:35: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1137:41: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1138:37: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1138:43: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1139:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1139:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1140:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1140:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1141:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1141:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1142:38: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1142:44: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1143:36: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1143:42: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1144:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1144:57: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1145:54: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1145:60: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1146:36: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1146:42: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1147:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1147:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1148:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1148:48: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1150:52: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1150:58: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1151:43: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1151:49: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1152:64: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1152:70: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1153:68: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1153:74: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1154:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1154:62: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1155:64: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1155:70: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1156:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1156:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1157:41: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1157:47: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1158:47: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1158:53: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1159:45: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1159:51: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1160:56: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1160:62: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1161:50: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1161:56: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1162:44: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1162:50: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1163:48: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1163:54: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1164:51: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1164:57: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1165:42: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1165:48: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1166:49: warning: unused variable `Omega`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulOperationalSR.lean:1166:55: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

@@ -1,0 +1,6 @@
+'AASCSemanticExhaustion.hessianMetricPolynomial_normalized' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_flat' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metric_response_hessian_affine_from_first_response' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.metric_response_hessian_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]

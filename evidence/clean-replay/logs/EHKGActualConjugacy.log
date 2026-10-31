@@ -1,0 +1,10 @@
+EHKGActualConjugacy.lean:40:64: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [hc, hd, P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵ ̵eq_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGActualConjugacy.lean:82:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

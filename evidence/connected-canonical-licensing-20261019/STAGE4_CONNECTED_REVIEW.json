@@ -1,0 +1,105 @@
+{
+  "outcome": "accepted_bounded_scope",
+  "scope": "Stage 4 mathematical composition: actual canonical licensed KG/EH and invariant-core free scalar receiving tasks connected by the same original preparation, complete record and registered-reference maps.",
+  "reviewed_at_utc": "2026-10-19T05:05:40.001752+00:00",
+  "audit_receipt_sha256": "4ab204de82d711f394db89de103b63cf6f0f81f3399dc1e2efe14ebf8b14466c",
+  "input_sha256": {
+    "STAGE1_ACCEPTED.json": "434f7ae8f1465562139ca4bb1abd9eeaa0d42dbfc22b509f7f5b7499622bb284",
+    "STAGE1_REVIEW.json": "6f7128e0985e40a7cbe4458dfa11cefe7681804912906a4c75bfb7d3e637c5db",
+    "STAGE2_EH_REVIEW.json": "b1a770fa83439b77677936cd70ab86bb5d3558a79d9a7872aa4a10138b7e3255",
+    "STAGE3_SCALAR_REVIEW.json": "19c6a9ce8ca61d196305262a5be0503b3832c9d4e656167fb95e6e403a48a9b8",
+    "DEPENDENCIES.json": "b00c804be28f637ce6e8b6132e4122a3631daf7411be9700703253eb56ec2e53",
+    "compile_stage.py": "66d795b8d3ac967752821447bc2b845576b52353f641fa8c19972cf0841aed7f",
+    "ROOT_FIELD_BINDINGS.json": "9035a839a67e54885e393fe3addd89c43d3ec58be9233a9b8b24acc37b87d55a",
+    "assemble_connected_root.py": "3992ec60136cf4e9dd82a3c751c2acb5a6398f722ce67228b4ddece4561c5587",
+    "COMPOSITION_SCOPE.md": "fa87d5f19e858ac16b3f5ad80194e908062153e0507c27cf6b581b6f3b2c9079",
+    "src/KGLicensedScalarEndpoint.lean": "c1fad67dbf8d0652ab16df5439be01fa9c3cf153826c85cb66cfe9383c3170da",
+    "build/KGLicensedScalarEndpoint.olean": "f2c20f3db3489a0838a12dd7f501e5adad98c4d9aa2de1c15cc73c5ce6949d42",
+    "logs/KGLicensedScalarEndpoint.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "receipts/KGLicensedScalarEndpoint.json": "cf7c6ca37026743db51705c213e34d02ad61a9ca22607f171f3b3817c1d7e824",
+    "src/KGCommonLicensedPreparation.lean": "4f63846a508d51c8da870864d92c39fc8d1772c78280537eb590bbd2f73cfa22",
+    "build/KGCommonLicensedPreparation.olean": "cc06d7fb474c591cc97dfd723da618e6a0ab028d86cd283f9a14638bf0064ae8",
+    "logs/KGCommonLicensedPreparation.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "receipts/KGCommonLicensedPreparation.json": "d3ed17738a4fd69d5d5a40399964d57f2fc5ce87c57ba0a8d8f1ee9b189c680f",
+    "src/KGCommonLicensedEvolution.lean": "2fa8f01b908c99d4a45faf997f8fb1ed637c4c01dec57c301f2076614a6be062",
+    "build/KGCommonLicensedEvolution.olean": "4d44c443ff3e172386854399fc62da23dce2f1a85899d08b0796cef82810f000",
+    "logs/KGCommonLicensedEvolution.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "receipts/KGCommonLicensedEvolution.json": "ba64fd72e50ea9d77518c859ff41d8d6fd855a739838f36f271b43ba43aa9897",
+    "src/KernelFaithfulLicensedEndpoints.lean": "191f4e2cf9aee99667587feca217e1a0947faece14e4e1bfaeb42883f0146cd4",
+    "build/KernelFaithfulLicensedEndpoints.olean": "668e8973baf7960052bc8b2d7ed0be49d558a1d7808f2963c4f2dd74a54ac02f",
+    "logs/KernelFaithfulLicensedEndpoints.log": "7430dc3ea45bbd1b19603ff79a08db3d3ce921e0a7c70831420db034736182af",
+    "receipts/KernelFaithfulLicensedEndpoints.json": "1531f8ee087e278366c8401f31d56ac6f23271662b4213bca458745dde108502",
+    "src/Stage4ConnectedAudit.lean": "2ad3a69e94114baaa48d89807ff2550c9378fc5f7f27a15dcb97306cd4365f23",
+    "build/Stage4ConnectedAudit.olean": "2d09c382dd7ad398bf78751ad4bf115c2eee4232a808fc8f64eb73f8d058245b",
+    "logs/Stage4ConnectedAudit.log": "2979fc4a9b30384e5b311fa702f607e57fc3d8e8e547dd220c87ff3c7bd07cb7",
+    "receipts/Stage4ConnectedAudit.json": "4ab204de82d711f394db89de103b63cf6f0f81f3399dc1e2efe14ebf8b14466c"
+  },
+  "blockers": [],
+  "exact_root": "AASCKleinGordon.CanonicalLicensing.kernel_faithful_canonical_licensing_to_eh_and_free_schrodinger",
+  "checked_evidence": {
+    "new_mathematical_modules": 4,
+    "explicit_named_theorems": 12,
+    "explicit_source_roots": 16,
+    "compiled_selected_declarations_including_private_generated": 70,
+    "independent_official_public_collectAxioms_reports": 69,
+    "public_reports_by_module": {
+      "KGLicensedScalarEndpoint": 4,
+      "KGCommonLicensedPreparation": 7,
+      "KGCommonLicensedEvolution": 3,
+      "KernelFaithfulLicensedEndpoints": 55
+    },
+    "axiom_union": [
+      "Classical.choice",
+      "Quot.sound",
+      "propext"
+    ],
+    "actual_root_proof_reachable_constants": 66526,
+    "required_actual_proof_dependencies_found": 7,
+    "required_dependencies": [
+      "AASCKleinGordon.kg_constraint_first_standing_source",
+      "AASCMetricityOriginalAssembly.kernel_ametric_canonical_metric_licensing",
+      "AASCKleinGordon.restricted_original_eh_kernel_einstein_receiving",
+      "AASCKleinGordon.kg_nr_spatial_exact_generator",
+      "AASCKleinGordon.kg_free_calibrated_comparator_eq",
+      "AASCKleinGordon.CanonicalLicensing.common_original_registered_reference_square",
+      "AASCKleinGordon.CanonicalLicensing.common_evolved_original_preparation_square"
+    ],
+    "source_root_coverage": "All 16 explicit roots appear exactly once in the official report set under their defining modules. The final proposition has 49 proof fields; all 46 generated receipt assignments and the three leading source/endpoint assignments were inspected.",
+    "audit_policy": "Inspected the selected-module scan including private/generated declarations, rejection of axiom/opaque/unsafe/type-or-value sorry, independent official collectAxioms per public root, final builtin root axiom report and actual compiled proof-value dependency traversal.",
+    "bindings": "Independently rehashed all five build/audit receipt source/frozen-source/object/log triplets, installed copies, exact commands and first-resolved direct imports. All prior Stage 1, EH and scalar independent review input bindings remain unchanged.",
+    "diagnostics": "Common preparation, evolution and scalar endpoint production logs empty. Final composed-root log has exactly 16 unused proof-binder lint warnings, confined to coupling/rejected/calibration/dispersion in proposition fields; no error/PANIC/sorry. Connected audit log contains reports, counts, dependency markers and builtin axiom output only.",
+    "review_execution": "Ordinary file/hash and source inspection only; no compiler, audit, replay or supplied helper execution."
+  },
+  "substantive_findings": [
+    "The final proposition is proved by actual existing and newly constructed terms; its 49 fields are conclusions, not an input certificate. Parameters, source parameter and region are its only outer arguments; coupling nonzero and arbitrary-comparator calibration remain explicitly quantified conditions inside the proposition.",
+    "This is a connected receipt theorem in the agreed separate-projection scope, rather than an unrelated conjunction of two endpoint roots: actual canonical licensed receivers map into the retained EH and scalar recipients, with proven original readout/coverage/continuation squares, and an actual common original preparation carries both branches.",
+    "The common map uses the actual isometric embedding of the declared scalar .kg core into the original KG carrier, together with an independently admitted metric operand. It proves equality of quantum preparation, actual metric operand, complete old records and registered Option-reference answers. Failed registered uses are not silently replaced by successful answers.",
+    "The evolved common-preparation square uses the actual NR invariant-core evolution and its original preparation map. Every nonzero declared core preparation and every admitted metric operand have an explicit licensed presentation. This is the stated core coverage, not universal EH-history or Fock-preparation coverage.",
+    "EH action, first variation and represented geometric source are tied to the same metric read from the full canonical receiver; the accepted unique active Einstein-form classification is included for that same constructed response. The coarse EH source profile is not used to recover a metric or continuation.",
+    "The scalar endpoint includes the actual free SSQ1 witness, reference inertial dispersion, zero-potential full domain, exact generator and complete weak graph through the licensed descriptor. Other comparator equality remains conditional on the precise accepted finite-jet class and explicit dispersion calibration.",
+    "The dependency direction is constraint first, from the Kernel and downstream Kernel-faithful machinery. Actual source incidence, task warrants, receiving maps and analytic proofs do the work; reduced geometry, coisotropy, shared imports or necessity alone do not replace those proofs.",
+    "No tagged combined task or joint cross-branch dynamics is needed for this separate-projection claim. The two actual task instances and proved common-source diagram provide the stated connection while their continuation operations remain distinct."
+  ],
+  "limitations": [
+    "The common-source diagram is restricted to the invariant original one-particle core and independently admitted compact metric operand, with empty initial EH histories. It does not surject onto every EH history or every original KG/Fock preparation.",
+    "Scalar NR time evolution is not an EH observe/vary/frame append and is not asserted to be a new Einstein metric evolution. No cross-branch interleaving, matter matching, background interaction, backreaction or simultaneous Einstein-scalar solution is claimed.",
+    "The EH source is the geometric action first variation, not CSP-C matter T. Einstein coefficient uniqueness is uniqueness for the fixed constructed operator under its proved analytic hypotheses; it is not a preferred metric, interface-order minimum or unique global spacetime solution.",
+    "Parameters supply positive mass/speed/hbar and the fixed declared continuum/KG/free branch; the theorem does not select their values, dimensionality, carriers or action from bare objecthood alone.",
+    "The complete weak operator graph is a full spatial Hilbert-space statement, but licensed state coverage and the shared original source remain on the declared core. No completed tensor/full-Fock reduction or general all-paper SSQ1 equivalence is inferred.",
+    "Original histories keep their retained registered failure semantics. Scalar finite-question-word first-failure reindexing is distinct from append-only past failure retention. No full corpus R2/gravity role, burden, boundary, AER process or all-candidate coverage follows.",
+    "The continuum description is constructed on declared continuum carriers; this does not solve every continuum-limit or quantum-gravity problem. No additional global minimum or full-interior reunion gate has been introduced.",
+    "Cached accepted dependencies remain reused. Fresh connected replay, full-local source replay, compiler/library bootstrap, public release and whole-project completion are outside this mathematical acceptance.",
+    "Public links/status in COMPOSITION_SCOPE.md were read as bound parent-provided scope evidence, not independently fetched or byte-verified by this reviewer in this pass."
+  ],
+  "replay_preflight_separate": {
+    "accepted_as_execution_evidence": false,
+    "status": "No replay has been executed or accepted by this reviewer. Static preflight of replay_connected.py found verification gaps sent to the parent before execution.",
+    "required_hardening": [
+      "Reject exit-zero error/PANIC diagnostics and classify warnings/object differences honestly.",
+      "Recheck fresh source/object/log/receipt outputs and original new sources/receipts, metadata/helper/compiler pins at close.",
+      "Check direct imports against expected old/fresh object identities, and re-resolve/recheck every binding at close."
+    ],
+    "safety_assessment": "Fresh output containment/no-overwrite and argument-list subprocess calls are non-destructive in the inspected helper. Helper changes and actual replay receipt require separate review."
+  },
+  "endpoint_gates_closed": []
+}

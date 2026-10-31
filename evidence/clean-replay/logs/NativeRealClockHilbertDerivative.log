@@ -1,0 +1,19 @@
+NativeRealClockHilbertDerivative.lean:31:19: warning: unused variable `hInv`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+NativeRealClockHilbertDerivative.lean:61:21: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeRealClockHilbertDerivative.lean:61:58: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+'AASCSemanticExhaustion.native_real_clock_kinetic_trace' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_real_clock_stress_trace_identity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_real_clock_hilbert_density_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_real_clock_stress_is_actual_scalar_stress' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

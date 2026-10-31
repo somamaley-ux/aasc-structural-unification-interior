@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.cubic_jacobian_smooth' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubic_metric_pullback_value' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubic_metric_pullback_hasFDerivAt_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.cubic_metric_pullback_first_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubic_metric_pullback_second' depends on axioms: [propext, Classical.choice, Quot.sound]

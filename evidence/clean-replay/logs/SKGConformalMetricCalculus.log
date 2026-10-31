@@ -1,0 +1,27 @@
+SKGConformalMetricCalculus.lean:29:51: warning: This simp argument is unused:
+  Fin.sum_univ_succ
+
+Hint: Omit it from the simp argument list.
+  simp [scalarConformalMetric, Matrix.mul_apply, F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵,̵metric, Matrix.diagonal_apply, nonzero]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+SKGConformalMetricCalculus.lean:68:41: warning: This simp argument is unused:
+  Fin.sum_univ_succ
+
+Hint: Omit it from the simp argument list.
+  simp [metric, Matrix.diagonal_apply,̵ ̵F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+SKGConformalMetricCalculus.lean:76:41: warning: This simp argument is unused:
+  mul_assoc
+
+Hint: Omit it from the simp argument list.
+  simp only [scalarFlatKinetic, pow_two,̵ ̵m̵u̵l̵_̵a̵s̵s̵o̵c̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+SKGConformalMetricCalculus.lean:102:6: warning: 'ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+SKGConformalMetricCalculus.lean:102:6: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`

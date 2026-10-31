@@ -1,0 +1,5 @@
+'AASCSemanticExhaustion.hessianCurvatureResponse_affine' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianCurvatureResponse_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessianCurvatureResponse_covariant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_response_normal_form' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_response_unique_normal_form' depends on axioms: [propext, Classical.choice, Quot.sound]

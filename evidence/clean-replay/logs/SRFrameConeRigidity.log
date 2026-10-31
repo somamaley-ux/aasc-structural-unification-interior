@@ -1,0 +1,3 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_exact_completed_source_cone_constructs_positive_conformal_frame' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

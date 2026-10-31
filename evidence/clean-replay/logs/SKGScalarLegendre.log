@@ -1,0 +1,38 @@
+SKGScalarLegendre.lean:34:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SKGScalarLegendre.lean:41:40: warning: This simp argument is unused:
+  scalarCanonicalLagrangian
+
+Hint: Omit it from the simp argument list.
+  simp only [scalarCanonicalL̵a̵g̵r̵a̵n̵g̵i̵a̵n̵,̵ ̵s̵c̵a̵l̵a̵r̵C̵a̵n̵o̵n̵i̵c̵a̵l̵Momentum, id_eq]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+SKGScalarLegendre.lean:41:25: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SKGScalarLegendre.lean:41:99: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SKGScalarLegendre.lean:69:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SKGScalarLegendre.lean:75:40: warning: This simp argument is unused:
+  scalarCanonicalHamiltonian
+
+Hint: Omit it from the simp argument list.
+  simp only [̵s̵c̵a̵l̵a̵r̵C̵a̵n̵o̵n̵i̵c̵a̵l̵H̵a̵m̵i̵l̵t̵o̵n̵i̵a̵n̵,̵ ̵i̵d̵_̵e̵q̵]̵[̲i̲d̲_̲e̲q̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+SKGScalarLegendre.lean:75:25: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SKGScalarLegendre.lean:75:75: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SKGScalarLegendre.lean:83:88: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SKGScalarLegendre.lean:86:82: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

@@ -1,0 +1,7 @@
+{
+  "project_manifest_sha256": "663d977afa21c76b471b9681e7aa0244b5401b67d8612164afd41bf0e8ac2dff",
+  "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+  "prior_elapsed_seconds": 767,
+  "checkpointed_fresh_objects": 150,
+  "note": "Checkpoint bootstrapped from this task's interrupted clean source compilation. All included objects match accepted hashes and have per-module compile logs; the remaining modules will compile on resume."
+}

@@ -1,0 +1,19 @@
+LinearResponseIdentification.lean:14:43: warning: This simp argument is unused:
+  Fin.val_mk
+
+Hint: Omit it from the simp argument list.
+  simp only ̵[̵F̵i̵n̵.̵v̵a̵l̵_̵m̵k̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.response_vector_entry' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.responseCoefficient_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.responseCoefficient_smul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.symmetric_response_coefficient_injective' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.linear_response_from_coefficient_equations' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.contraction_response_coefficients_unique' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

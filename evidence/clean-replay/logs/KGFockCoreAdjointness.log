@@ -1,0 +1,41 @@
+KGFockCoreAdjointness.lean:40:61: warning: This simp argument is unused:
+  Pi.single_eq_of_ne h
+
+Hint: Omit it from the simp argument list.
+  simp [lp.inner_single_left, lp.single_apply, Pi.single_eq_of_ne h̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵e̵q̵_̵o̵f̵_̵n̵e̵ ̵h', h, Ne.symm h,
+  ̲  ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲h', Ne.symm h']
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFockCoreAdjointness.lean:41:18: warning: This simp argument is unused:
+  Pi.single_eq_of_ne h'
+
+Hint: Omit it from the simp argument list.
+  simp [lp.inner_single_left, lp.single_apply, Pi.single_eq_of_ne h, P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵e̵q̵_̵o̵f̵_̵n̵e̵ ̵h̵'̵,̵ ̵h, Ne.symm h, h',
+  ̲  ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲Ne.symm h']
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFockCoreAdjointness.lean:41:41: warning: This simp argument is unused:
+  h
+
+Hint: Omit it from the simp argument list.
+  simp [lp.inner_single_left, lp.single_apply, Pi.single_eq_of_ne h,
+                    Pi.single_eq_of_ne h', h̵,̵ ̵Ne.symm h, h', Ne.symm h']
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFockCoreAdjointness.lean:41:55: warning: This simp argument is unused:
+  h'
+
+Hint: Omit it from the simp argument list.
+  simp [lp.inner_single_left, lp.single_apply, Pi.single_eq_of_ne h,
+                    Pi.single_eq_of_ne h', h, Ne.symm h, h̵'̵,̵ ̵Ne.symm h']
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFockCoreAdjointness.lean:41:59: warning: This simp argument is unused:
+  Ne.symm h'
+
+Hint: Omit it from the simp argument list.
+  simp [lp.inner_single_left, lp.single_apply, Pi.single_eq_of_ne h,
+                    Pi.single_eq_of_ne h', h, Ne.symm h, h',̵ ̵N̵e̵.̵s̵y̵m̵m̵ ̵h̵'̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

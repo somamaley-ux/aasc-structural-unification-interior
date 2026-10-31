@@ -1,0 +1,16 @@
+OSRObservationPassive.lean:20:79: warning: This simp argument is unused:
+  List.map_map
+
+Hint: Omit it from the simp argument list.
+  simp [actualRadarAnswer, ̲passiveNetworkData, ̲requestRelay, ̲transportRadarAnswer,L̵i̵s̵t̵.̵m̵a̵p̵_̵m̵a̵p̵,̵
+      Function.comp_def, ̲frame_event_composition]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+OSRObservationPassive.lean:21:4: warning: This simp argument is unused:
+  Function.comp_def
+
+Hint: Omit it from the simp argument list.
+  simp [actualRadarAnswer, ̲passiveNetworkData, ̲requestRelay, ̲transportRadarAnswer, ̲List.map_map,
+      F̵u̵n̵c̵t̵i̵o̵n̵.̵c̵o̵m̵p̵_̵d̵e̵f,̵f̵rame_event_composition]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

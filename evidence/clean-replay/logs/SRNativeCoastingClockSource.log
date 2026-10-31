@@ -1,0 +1,51 @@
+SRNativeCoastingClockSource.lean:36:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_clock_internal_energy_is_in_same_body_mass`:
+  [NormedAddCommGroup E]
+  [InnerProductSpace ℝ E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [NormedAddCommGroup E] [InnerProductSpace ℝ E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeCoastingClockSource.lean:39:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_clock_hamiltonian_positive`:
+  [InnerProductSpace ℝ E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [InnerProductSpace ℝ E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeCoastingClockSource.lean:44:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_clock_hamiltonian_square`:
+  [InnerProductSpace ℝ E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [InnerProductSpace ℝ E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeCoastingClockSource.lean:66:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_rest_clock_has_rate_one`:
+  [InnerProductSpace ℝ E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [InnerProductSpace ℝ E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_native_clock_internal_energy_is_in_same_body_mass' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_clock_hamiltonian_positive' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_native_clock_hamiltonian_square' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_native_clock_actual_velocity_subluminal' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_clock_reading_rate_positive_bounded' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_rest_clock_has_rate_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_native_coasting_flow_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_native_coasting_flow_composition' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_all_original_marked_coasting_records_recovered' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_coasting_source_quotient_surjective' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_coasting_exact_full_original_state_phase_identity_fibres' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_coasting_unique_exact_public_kernel_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

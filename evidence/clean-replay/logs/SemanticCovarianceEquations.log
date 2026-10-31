@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.curvature_transport_basis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.response_generator_covariance' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.response_generator_equation' depends on axioms: [propext, Classical.choice, Quot.sound]

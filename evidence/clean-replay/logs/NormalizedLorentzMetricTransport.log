@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.normalized_lorentz_pullback_first' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalized_lorentz_pullback_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_metric_lorentz_composition_second' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normalized_lorentz_pullback_second' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalized_lorentz_hessian_transport' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalized_leviCivita_lorentz_transport' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

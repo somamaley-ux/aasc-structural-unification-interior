@@ -1,0 +1,32 @@
+'AASC.KernelReference.EqualityPatterns.invariant_binary_off_diagonal_constant' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.invariant_binary_diagonal_constant' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.invariant_binary_unique_normal_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.no_invariant_strict_total_order' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.partition_realized_iff_embedding' depends on axioms: [propext, Quot.sound]
+'AASC.KernelReference.EqualityPatterns.partition_realized_iff_block_count' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.finite_partial_equiv_extends' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.samePattern_iff_permutation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.invariant_unique_factorization' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.pattern_factor_is_invariant' depends on axioms: [Quot.sound]
+'AASC.KernelReference.EqualityPatterns.invariant_unary_constant' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.EqualityPatterns.no_permutation_fixed_point' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

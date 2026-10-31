@@ -1,0 +1,25 @@
+SRNativeClockLicensing.lean:18:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_clock_redescription_preserves_every_original_marked_record`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_native_clock_redescription_preserves_every_original_marked_record' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_clock_original_use_domain_and_answer_preserved' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_clock_every_finite_declared_redescription_is_safe' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_clock_greatest_original_safe_region_computed' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_physical_rest_duration_safe_region_is_nonempty' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_real_interval_calibration_equals_actual_rest_clock_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

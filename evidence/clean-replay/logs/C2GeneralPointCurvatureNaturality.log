@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.target_shifted_coordinate_jacobian' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.target_shifted_metric_pullback_eventually' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_coordinate_leviCivita_curvature_natural_at_target' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

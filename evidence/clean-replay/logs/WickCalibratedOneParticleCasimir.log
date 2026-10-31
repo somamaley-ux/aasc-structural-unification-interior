@@ -1,0 +1,7 @@
+WickCalibratedOneParticleCasimir.lean:50:51: warning: This simp argument is unused:
+  hn
+
+Hint: Omit it from the simp argument list.
+  simp [DirectSum.lof_eq_of, ̲DirectSum.of_apply,h̵n̵,̵ ̲Ne.symm hn]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

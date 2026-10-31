@@ -1,0 +1,6 @@
+'AASCMetricConstruction.SRIntegration.sr_scaled_boost_half_turn_produces_pure_dilation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.SRIntegration.sr_same_original_rest_tick_eliminates_scaled_boost' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

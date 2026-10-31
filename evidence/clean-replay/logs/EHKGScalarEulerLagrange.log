@@ -1,0 +1,25 @@
+EHKGScalarEulerLagrange.lean:65:14: warning: This simp argument is unused:
+  Function.comp_def
+
+Hint: Omit it from the simp argument list.
+  simp [hi, F̵u̵n̵c̵t̵i̵o̵n̵.̵c̵o̵m̵p̵_̵d̵e̵f̵,̵ ̵Pi.single_apply, ContinuousLinearMap.add_apply, ContinuousLinearMap.smul_apply,
+  ̲  ̲ ̲ ̲ ̲ ̲smul_eq_mul, eq_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGScalarEulerLagrange.lean:65:33: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [hi, Function.comp_def, P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵ ̵ContinuousLinearMap.add_apply, ContinuousLinearMap.smul_apply,
+  ̲  ̲ ̲ ̲ ̲ ̲smul_eq_mul, eq_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGScalarEulerLagrange.lean:69:5: warning: unused variable `regularU`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+EHKGScalarEulerLagrange.lean:69:40: warning: unused variable `regularD`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+EHKGScalarEulerLagrange.lean:97:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

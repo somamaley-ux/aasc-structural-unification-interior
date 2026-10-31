@@ -1,0 +1,12 @@
+'AASCSemanticExhaustion.native_action_metric_functional_matches_every_original_protocol' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_metric_functional_graph_is_original_response' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_operational_and_constructed_functionals_agree' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_source_exists_unique_from_original_protocols' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

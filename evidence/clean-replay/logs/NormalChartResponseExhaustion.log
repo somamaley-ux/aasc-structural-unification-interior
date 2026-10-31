@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.coordinateMetricPullback_identity' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.affineCoordinateMap_origin_refl' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalizingCoordinateMap_retraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pointNormalizedMetric_retraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalizedMetric_identity_frame' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalChartCurvature_retraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metric_response_normal_chart_envelope_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

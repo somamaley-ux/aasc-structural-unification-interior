@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.lowerChristoffel_metric_twojet_congr' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.leviCivita_metric_twojet_congr' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_general_curvature_twojet_congr' depends on axioms: [propext, Classical.choice, Quot.sound]

@@ -1,0 +1,9 @@
+KGFockBoundedMultipliers.lean:43:41: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KGFockBoundedMultipliers.lean:47:41: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KGFockBoundedMultipliers.lean:51:41: warning: unused variable `n`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

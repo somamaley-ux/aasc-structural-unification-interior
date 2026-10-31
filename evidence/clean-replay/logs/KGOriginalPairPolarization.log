@@ -1,0 +1,16 @@
+KGOriginalPairPolarization.lean:53:40: warning: This simp argument is unused:
+  hsI
+
+Hint: Omit it from the simp argument list.
+  simp only [̵o̵r̵i̵g̵i̵n̵a̵l̵P̵a̵i̵r̵D̵i̵a̵g̵o̵n̵a̵l̵,̵o̵r̵i̵g̵i̵n̵a̵l̵P̵a̵i̵r̵F̵o̵r̵m̵,̵m̵a̵p̵_̵a̵d̵d̵,̵m̵a̵p̵_̵s̵u̵b̵,̵m̵a̵p̵_̵s̵m̵u̵l̵,̵
+  ̵ ̵ ̵ ̵ ̵i̵n̵n̵e̵r̵_̵a̵d̵d̵_̵l̵e̵f̵t̵,̵i̵n̵n̵e̵r̵_̵a̵d̵d̵_̵r̵i̵g̵h̵t̵,̵i̵n̵n̵e̵r̵_̵s̵u̵b̵_̵l̵e̵f̵t̵,̵i̵n̵n̵e̵r̵_̵s̵u̵b̵_̵r̵i̵g̵h̵t̵,̵
+  ̵ ̵ ̵ ̵ ̵i̵n̵n̵e̵r̵_̵s̵m̵u̵l̵_̵l̵e̵f̵t̵,̵i̵n̵n̵e̵r̵_̵s̵m̵u̵l̵_̵r̵i̵g̵h̵t̵,̵h̵I̵,̵h̵s̵I̵]̵[̲o̲r̲i̲g̲i̲n̲a̲l̲P̲a̲i̲r̲D̲i̲a̲g̲o̲n̲a̲l̲,̲ ̲o̲r̲i̲g̲i̲n̲a̲l̲P̲a̲i̲r̲F̲o̲r̲m̲,̲ ̲m̲a̲p̲_̲a̲d̲d̲,̲ ̲m̲a̲p̲_̲s̲u̲b̲,̲ ̲m̲a̲p̲_̲s̲m̲u̲l̲,̲ ̲i̲n̲n̲e̲r̲_̲a̲d̲d̲_̲l̲e̲f̲t̲,̲
+  ̲ ̲ ̲ ̲ ̲i̲n̲n̲e̲r̲_̲a̲d̲d̲_̲r̲i̲g̲h̲t̲,̲ ̲i̲n̲n̲e̲r̲_̲s̲u̲b̲_̲l̲e̲f̲t̲,̲ ̲i̲n̲n̲e̲r̲_̲s̲u̲b̲_̲r̲i̲g̲h̲t̲,̲ ̲i̲n̲n̲e̲r̲_̲s̲m̲u̲l̲_̲l̲e̲f̲t̲,̲ ̲i̲n̲n̲e̲r̲_̲s̲m̲u̲l̲_̲r̲i̲g̲h̲t̲,̲ ̲h̲I̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGOriginalPairPolarization.lean:54:10: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+KGOriginalPairPolarization.lean:54:39: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

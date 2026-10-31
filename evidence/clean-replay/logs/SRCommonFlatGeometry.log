@@ -1,0 +1,6 @@
+SRCommonFlatGeometry.lean:48:2: warning: 'norm_num [Matrix.vecCons, Fin.cons, Fin.cases, Fin.succ, Fin.instOfNat, Fin.ofNat]' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_source_derived_form_matches_actual_zero_eh_operand' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

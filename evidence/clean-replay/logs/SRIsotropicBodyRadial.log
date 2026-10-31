@@ -1,0 +1,9 @@
+'AASCMetricConstruction.sr_gauge_normalization_on_full_boundary' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_full_isotropy_fixes_quadratic_boundary_radius' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_isotropic_invariant_form_normalizes_to_full_body' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

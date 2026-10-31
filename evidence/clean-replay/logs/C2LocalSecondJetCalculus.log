@@ -1,0 +1,12 @@
+'AASCSemanticExhaustion.c2_local_scalarSecondPartial_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_local_scalarSecondPartial_const_mul' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_local_linear_composition_second' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_local_linear_composition_second_coordinates' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_local_scalarPartial_differentiableAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_local_scalarSecondPartial_mul' depends on axioms: [propext, Classical.choice, Quot.sound]

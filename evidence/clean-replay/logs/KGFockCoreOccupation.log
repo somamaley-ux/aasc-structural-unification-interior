@@ -1,0 +1,28 @@
+KGFockCoreOccupation.lean:19:28: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵l̵p̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵e̵q̵_̵o̵f̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵o̵f̵_̵a̵p̵p̵l̵y̵,̵h̵,̵N̵e̵.̵s̵y̵m̵m̵[̲l̲p̲.̲s̲i̲n̲g̲l̲e̲_̲a̲p̲p̲l̲y̲,̲ ̲D̲i̲r̲e̲c̲t̲S̲u̲m̲.̲l̲o̲f̲_̲e̲q̲_̲o̲f̲,̲ ̲D̲i̲r̲e̲c̲t̲S̲u̲m̲.̲o̲f̲_̲a̲p̲p̲l̲y̲,̲ ̲h̲,̲ ̲N̲e̲.̲s̲y̲m̲m̲ h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFockCoreOccupation.lean:19:44: warning: This simp argument is unused:
+  DirectSum.lof_eq_of
+
+Hint: Omit it from the simp argument list.
+  simp [̵l̵p̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵e̵q̵_̵o̵f̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵o̵f̵_̵a̵p̵p̵l̵y̵,̵h̵,̵N̵e̵.̵s̵y̵m̵m̵[̲l̲p̲.̲s̲i̲n̲g̲l̲e̲_̲a̲p̲p̲l̲y̲,̲ ̲P̲i̲.̲s̲i̲n̲g̲l̲e̲_̲a̲p̲p̲l̲y̲,̲ ̲D̲i̲r̲e̲c̲t̲S̲u̲m̲.̲o̲f̲_̲a̲p̲p̲l̲y̲,̲ ̲h̲,̲ ̲N̲e̲.̲s̲y̲m̲m̲ h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFockCoreOccupation.lean:21:36: warning: This simp argument is unused:
+  DFinsupp.add_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [̵m̵a̵p̵_̵a̵d̵d̵,̵l̵p̵.̵c̵o̵e̵F̵n̵_̵a̵d̵d̵,̵D̵F̵i̵n̵s̵u̵p̵p̵.̵a̵d̵d̵_̵a̵p̵p̵l̵y̵,̵P̵i̵.̵a̵d̵d̵_̵a̵p̵p̵l̵y̵,̵h̵x̵,̵h̵y̵]̵[̲m̲a̲p̲_̲a̲d̲d̲,̲ ̲l̲p̲.̲c̲o̲e̲F̲n̲_̲a̲d̲d̲,̲ ̲P̲i̲.̲a̲d̲d̲_̲a̲p̲p̲l̲y̲,̲ ̲h̲x̲,̲ ̲h̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGFockCoreOccupation.lean:50:43: warning: This simp argument is unused:
+  Measure.pi_univ
+
+Hint: Omit it from the simp argument list.
+  simp [particleMeasure,̵M̵e̵a̵s̵u̵r̵e̵.̵p̵i̵_̵u̵n̵i̵v̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

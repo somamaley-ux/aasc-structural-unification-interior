@@ -1,0 +1,15 @@
+KGWeylCoherentKernel.lean:40:48: warning: This simp argument is unused:
+  Complex.ofReal_neg
+
+Hint: Omit it from the simp argument list.
+  simp only [̵w̵e̵y̵l̵C̵o̵h̵e̵r̵e̵n̵t̵I̵m̵a̵g̵e̵,̵m̵a̵p̵_̵z̵e̵r̵o̵,̵i̵n̵n̵e̵r̵_̵z̵e̵r̵o̵_̵r̵i̵g̵h̵t̵,̵s̵u̵b̵_̵z̵e̵r̵o̵,̵z̵e̵r̵o̵_̵a̵d̵d̵,̵
+  ̵ ̵ ̵ ̵ ̵n̵o̵r̵m̵a̵l̵i̵z̵e̵d̵C̵o̵h̵e̵r̵e̵n̵t̵V̵e̵c̵t̵o̵r̵,̵C̵o̵m̵p̵l̵e̵x̵.̵o̵f̵R̵e̵a̵l̵_̵e̵x̵p̵,̵C̵o̵m̵p̵l̵e̵x̵.̵o̵f̵R̵e̵a̵l̵_̵n̵e̵g̵]̵[̲w̲e̲y̲l̲C̲o̲h̲e̲r̲e̲n̲t̲I̲m̲a̲g̲e̲,̲ ̲m̲a̲p̲_̲z̲e̲r̲o̲,̲ ̲i̲n̲n̲e̲r̲_̲z̲e̲r̲o̲_̲r̲i̲g̲h̲t̲,̲ ̲s̲u̲b̲_̲z̲e̲r̲o̲,̲ ̲z̲e̲r̲o̲_̲a̲d̲d̲,̲
+  ̲ ̲ ̲ ̲ ̲n̲o̲r̲m̲a̲l̲i̲z̲e̲d̲C̲o̲h̲e̲r̲e̲n̲t̲V̲e̲c̲t̲o̲r̲,̲ ̲C̲o̲m̲p̲l̲e̲x̲.̲o̲f̲R̲e̲a̲l̲_̲e̲x̲p̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWeylCoherentKernel.lean:41:10: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+KGWeylCoherentKernel.lean:41:24: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

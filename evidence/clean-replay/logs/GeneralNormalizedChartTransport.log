@@ -1,0 +1,27 @@
+GeneralNormalizedChartTransport.lean:19:43: warning: This simp argument is unused:
+  eq_comm
+
+Hint: Omit it from the simp argument list.
+  simp [Matrix.one_apply, Pi.single_apply,̵ ̵e̵q̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.identity_second_jet_jacobian' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.identity_second_jet_actual_local_chart' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_coordinateMetricPullback_c2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.identity_second_jet_metric_pullback_first' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.identity_second_jet_metric_pullback_germ' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.identity_second_jet_metric_pullback_second' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.identity_second_jet_metric_hessian_gauge' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_leviCivita_identity_second_jet_transport' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

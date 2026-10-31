@@ -1,0 +1,15 @@
+'AASCSemanticExhaustion.hessianConnectionDerivative_torsion' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_metric_reconstruction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_curvature_connection_formula' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.flat_hessian_connection_cubic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.flat_hessian_has_cubic_coordinate_gauge' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.cubic_coordinate_gauge_flat' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvature_kernel_iff_cubic_coordinate_gauge' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.hessian_normal_residual_is_gauge' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_response_curvature_factorization' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,8 @@
+EHKGCommonActionAxes.lean:41:68: warning: This simp argument is unused:
+  nativeScalarClockGradient
+
+Hint: Omit it from the simp argument list.
+  simp only [sameEHJointRelativeAction, zero_mul, add_zero, nativeScalarClockRelativeAction,
+  ̲  ̲ ̲ ̲nativeActualClockMetricAction, n̵a̵t̵i̵v̵e̵S̵c̵a̵l̵a̵r̵C̵l̵o̵c̵k̵G̵r̵a̵d̵i̵e̵n̵t̵,̵sameEHScalarDensity]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

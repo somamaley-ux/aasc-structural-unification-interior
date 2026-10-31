@@ -1,0 +1,30 @@
+NormalSourceDensityConversion.lean:47:4: warning: This simp argument is unused:
+  zero_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [scalarPartial, hd, ContinuousLinearMap.add_apply, ContinuousLinearMap.sum_apply,
+      ContinuousLinearMap.smul_apply, smul_eq_mul, ContinuousLinearMap.zero_apply, mul_zero,
+  ̵  ̵ ̵ ̵z̵e̵r̵o̵_̵m̵u̵l̵,̵ ̵add_zero,
+  ̲  ̲ ̲ ̲zero_add, Pi.mul_apply, c2_normal_metric_volume_value g germ,
+  ̵  ̵ ̵ ̵one_mul, germ.2.2.1,
+  ̲  ̲ ̲ ̲canonical_metric_inverse]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NormalSourceDensityConversion.lean:47:24: warning: This simp argument is unused:
+  zero_add
+
+Hint: Omit it from the simp argument list.
+  simp only [scalarPartial, hd, ContinuousLinearMap.add_apply, ContinuousLinearMap.sum_apply,
+      ContinuousLinearMap.smul_apply, smul_eq_mul, ContinuousLinearMap.zero_apply, mul_zero, ̲z̲e̲r̲o̲_̲m̲u̲l̲,̲
+      z̵e̵r̵o̵_̵m̵u̵l̵,̵ ̵add_̵z̵e̵r̵o̵_̲z̲e̲r̲o̲, z̵e̵r̵o̵_̵a̵d̵d̵,̵ ̵Pi.mul_apply, c2_normal_metric_volume_value g germ,
+  ̵  ̵ ̵ ̵one_mul, germ.2.2.1,
+  ̲  ̲ ̲ ̲canonical_metric_inverse]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.canonical_metric_raised_two_diagonal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normal_raised_density_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normal_raised_density_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normal_classical_density_current' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normal_density_current_eq_covariant_divergence' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

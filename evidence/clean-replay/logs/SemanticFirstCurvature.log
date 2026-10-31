@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.response_linear_decomposition' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pullbackFour_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.covariance_forces_unique_metric_baseline' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.response_linearPart_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.response_linearPart_covariant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.semantic_first_response_reduction' depends on axioms: [propext, Classical.choice, Quot.sound]

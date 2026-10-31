@@ -1,0 +1,19 @@
+SRConstructedIntervalCalibration.lean:16:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_normalized_original_interval_receipt_strictly_preserves_order`:
+  [ZeroLEOneClass A]
+  [NeZero 1]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [ZeroLEOneClass A] [NeZero 1] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_normalized_original_interval_receipt_strictly_preserves_order' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_rational_interval_comparisons_fix_each_real_answer' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_same_original_interval_order_and_unit_force_same_duration' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_archimedean_interval_group_constructs_unique_calibrated_duration' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

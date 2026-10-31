@@ -1,0 +1,9 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.joint_finite_protocol_source_valid' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.licensed_finite_protocol_actual_clock_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.licensed_finite_protocol_every_same_event_return_reading' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

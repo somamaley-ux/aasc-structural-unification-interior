@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.raisedCubicCoordinate_laws' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.raisedCubicCoordinate_lower' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.raisedCubicCoordinate_lower_right' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_metric_scalarSecond' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubic_gauge_actual_twojet' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metric_response_hessian_gauge_from_naturality' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

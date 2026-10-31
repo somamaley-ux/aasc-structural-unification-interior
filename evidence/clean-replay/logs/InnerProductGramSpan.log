@@ -1,0 +1,8 @@
+InnerProductGramSpan.lean:44:49: warning: This simp argument is unused:
+  Submodule.liftQ_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [gramSpanLinearMap, ̲LinearMap.comp_apply, ̲LinearEquiv.coe_toLinearMap,
+      LinearMap.quotKerEquivRange_symm_apply_image,̵S̵u̵b̵m̵o̵d̵u̵l̵e̵.̵l̵i̵f̵t̵Q̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

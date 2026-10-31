@@ -1,0 +1,5 @@
+'AASCSemanticExhaustion.scalarPartial_const_mul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarPartial_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarPartial_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarSecondPartial_const_mul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarSecondPartial_sum' depends on axioms: [propext, Classical.choice, Quot.sound]

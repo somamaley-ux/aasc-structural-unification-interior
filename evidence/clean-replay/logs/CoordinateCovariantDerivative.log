@@ -1,0 +1,5 @@
+'AASCSemanticExhaustion.coordinate_covariant_add_direction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinate_covariant_smul_direction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinate_covariant_add_field' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinate_covariant_leibniz' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinate_covariant_torsion' depends on axioms: [propext, Classical.choice, Quot.sound]

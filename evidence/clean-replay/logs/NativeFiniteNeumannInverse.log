@@ -1,0 +1,24 @@
+NativeFiniteNeumannInverse.lean:36:13: warning: unused variable `rightBody`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+NativeFiniteNeumannInverse.lean:44:46: warning: unused variable `leftBody`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCSemanticExhaustion.native_finite_neumann_left' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_finite_neumann_right' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_nilpotent_perturbation_inverse_right' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_nilpotent_perturbation_inverse_left' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_nilpotent_perturbation_inverse_unique' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_square_zero_inverse_first_correction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_exterior_pair_square_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_csp_degree_two_coefficient_square_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

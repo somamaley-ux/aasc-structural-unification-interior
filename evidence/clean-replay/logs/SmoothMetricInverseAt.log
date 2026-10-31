@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.smooth_metric_det_differentiableAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smooth_metric_adjugate_differentiableAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.smooth_metric_inverse_differentiableAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.smooth_metric_partial_differentiableAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

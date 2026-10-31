@@ -1,0 +1,261 @@
+{
+  "root": "AASCKleinGordon.SameActionSource.kernel_faithful_same_action_kg_source",
+  "root_signature": "(a : Parameters) (s kappa Lambda : Real) (coupling : kappa != 0) : SameActionKGSourceEndpoints a s kappa Lambda",
+  "root_source_sha256": "8def7560ad8e06e55f5091e138c8d16fe3e94842d696231deef8b96af1d3bbf5",
+  "dependency_direction": "Kernel and downstream Kernel-faithful machinery, constraint first. Complete accepted Stage1/old49/old44 roots are retained. No reversed deduction of upstream architecture from reduced form, coisotropy, metric, source or PDE success.",
+  "source_contract_sha256": "c6149fd32542ab8053cada520bf8f2d94df603a7d793bdae4b220a4ce0ca236b",
+  "source_map_v1_sha256": "3d1dca4c94e45e7686294772b9d2457d6aa9a0163c31491d916965bdeca54376",
+  "supplement_v2_sha256": "448878a7aa0b183551b092369802fee24b998978d2e561a87bee7329f9852404",
+  "completion_groups": [
+    {
+      "conclusion": 1,
+      "theorems": [
+        "AASCKleinGordon.SameActionSource.same_metric_ray_admitted_and_nondegenerate",
+        "AASCKleinGordon.SameActionSource.same_metric_ray_actual_tangent",
+        "AASCKleinGordon.SameActionSource.same_action_scalar_metric_derivative",
+        "AASCKleinGordon.SameActionSource.same_action_scalar_response_graph",
+        "AASCKleinGordon.SameActionSource.same_action_scalar_actual_source_unique",
+        "AASCKleinGordon.SameActionSource.same_action_source_represents_actual_stress",
+        "AASCKleinGordon.SameActionSource.same_action_response_lf_continuous"
+      ],
+      "assumptions": "Parameters a have the retained positive mass/speed/hbar. u is globally C2 for the actual compact action/CLM source. Compact symmetric smooth probes lie in sourceDomain a. No tensor, source equality, covariance/Hadamard receipt, conservation or Einstein equation is supplied.",
+      "reader": "Actual ordinary ray output -> derived continuous-linear functional -> unique symmetric ten-component source -> actual raised stress density. All compact symmetric tangents are covered by the admitted original-operand straight-ray germ; arbitrary LF action curves are not claimed."
+    },
+    {
+      "conclusion": 2,
+      "theorems": [
+        "AASCKleinGordon.SameActionSource.occupied_source_stress_positive",
+        "AASCKleinGordon.SameActionSource.occupied_actual_compact_metric_response",
+        "AASCKleinGordon.SameActionSource.scalar_source_reader_square",
+        "AASCKleinGordon.SameActionSource.scalar_response_local",
+        "AASCKleinGordon.SameActionSource.scalar_ray_output_local"
+      ],
+      "assumptions": "Occupied compact Cauchy value datum is the existing smooth bump with value one at the origin and zero initial normal-velocity datum. Local extension comparison assumes two globally C2 extensions equal on an open support region. Smooth stress/density statements assume global C-infinity.",
+      "reader": "The nonzero example is the actual Stage1 field. No zero-field witness or assumed nonzero bridge. Point/density/functional/source-pair/derivative readers retain metric, field and receiving-domain data."
+    },
+    {
+      "conclusion": 3,
+      "theorems": [
+        "AASCKleinGordon.SameActionSource.same_metric_scalar_stress_off_shell",
+        "AASCKleinGordon.SameActionSource.constructed_scalar_stress_conserved",
+        "AASCKleinGordon.SameActionSource.actual_scalar_source_density_pairing",
+        "AASCKleinGordon.SameActionSource.constructed_scalar_source_distribution_closed",
+        "AASCKleinGordon.SameActionSource.actual_scalar_compact_lie_ray_stationary"
+      ],
+      "assumptions": "Off-shell identity uses actual C2 field germs at each point and actual Levi-Civita coefficients of the fixed positive conformal metric. On-shell specialization uses the proved Stage1 PDE on D for every compact datum. Compact Ward tests have support inside D.",
+      "reader": "Actual covariant divergence -> actual coordinate tensor-density current -> real compact integration by parts -> distribution divergence -> negative Lie-pairing Ward identity -> actual stationary Lie-test ray."
+    },
+    {
+      "conclusion": 4,
+      "theorems": [
+        "AASCKleinGordon.SameActionSource.scalar_actual_density_kinetic_mass_split",
+        "AASCKleinGordon.SameActionSource.scalar_actual_action_kinetic_mass_split",
+        "AASCKleinGordon.SameActionSource.actual_sector_source_reader_square",
+        "AASCKleinGordon.SameActionSource.kinetic_action_source_represents_actual_stress",
+        "AASCKleinGordon.SameActionSource.mass_action_source_represents_actual_stress",
+        "AASCKleinGordon.SameActionSource.kinetic_scalar_off_shell_balance",
+        "AASCKleinGordon.SameActionSource.mass_scalar_actual_balance",
+        "AASCKleinGordon.SameActionSource.constructed_scalar_opposite_exchange",
+        "AASCKleinGordon.SameActionSource.finite_balanced_exchange_total"
+      ],
+      "assumptions": "The kinetic sector is the same actual scalar action at zero mass; the mass sector is the one-time difference, with proved pure-potential point-density identity. Actual source derivatives and stress representations identify both sectors. Finite balanced incidence algebra explicitly receives sector residual/external/current identities; it is not an analytic proof for arbitrary matter sectors.",
+      "reader": "Each actual sector action -> actual derivative/CLM -> its own actual stress density; their actual covariant divergences have equal/opposite mass exchange on shell. Individual marginal conservation is not asserted."
+    },
+    {
+      "conclusion": 5,
+      "theorems": [
+        "AASCKleinGordon.SameActionSource.same_density_scalar_canonical_lagrangian",
+        "AASCKleinGordon.SameActionSource.same_density_scalar_regular_legendre",
+        "AASCKleinGordon.SameActionSource.same_density_scalar_hamiltonian",
+        "AASCKleinGordon.SameActionSource.independent_hamilton_pair_iff_same_kg",
+        "AASCKleinGordon.SameActionSource.spatial_hamiltonian_euler_derivative",
+        "AASCKleinGordon.SameActionSource.actual_scalar_spatial_hamiltonian_derivative",
+        "AASCKleinGordon.SameActionSource.constructed_scalar_spatial_hamiltonian_force",
+        "AASCKleinGordon.SameActionSource.scalar_source_normal_unit",
+        "AASCKleinGordon.SameActionSource.scalar_normal_energy_is_actual_contraction",
+        "AASCKleinGordon.SameActionSource.scalar_normal_momentum_is_actual_contraction",
+        "AASCKleinGordon.SameActionSource.actual_scalar_hamiltonian_is_time_energy",
+        "AASCKleinGordon.SameActionSource.scalar_canonical_momentum_projection",
+        "AASCKleinGordon.SameActionSource.scalar_spatial_stress_projection",
+        "AASCKleinGordon.SameActionSource.scalar_physical_time_derivative"
+      ],
+      "assumptions": "Regular positive scalar Legendre coefficient is actual sourceFactor=lambda=A^2. Velocity coordinate is x0=c*t. Independent momentum equivalence holds on an open receiving region; the first equation derives equality on that region before differentiating it. Spatial compact field variations hold momentum and background fixed. Actual relative Hamiltonian integrands are integrable; no finite unvaried global Hamiltonian is assumed. Constructed force equation requires variation support to embed into D.",
+      "reader": "Same scalar density -> actual velocity derivative/Hessian/inverse -> Legendre Hamiltonian -> independent canonical phase pair equivalent to same KG -> real spatial Euler derivative with compact IBP -> actual normal energy/momentum/spatial stress and explicit factor c."
+    },
+    {
+      "conclusion": 6,
+      "theorems": [
+        "AASCKleinGordon.SameActionSource.same_total_ray_actual_derivative",
+        "AASCKleinGordon.SameActionSource.total_stationary_iff_pointwise_density",
+        "AASCKleinGordon.SameActionSource.same_total_density_geometric_balance",
+        "AASCKleinGordon.SameActionSource.actual_total_metric_stationarity_iff_sourced_einstein",
+        "AASCKleinGordon.SameActionSource.licensed_eh_receiver_is_negative_actual_matter_source"
+      ],
+      "assumptions": "kappa is nonzero; Lambda is any real number. The scalar is globally smooth. Total metric stationarity is an explicit conditional hypothesis over ALL compact symmetric metric rays. Neither source equality nor the Einstein equation is a receiving premise. Stationarity is not proved for the fixed Stage1 background with every scalar datum.",
+      "reader": "Actual same-ray EH plus matter relative action -> actual derivative sum -> all-test density separation -> actual sourced Einstein equation on D. The already existing licensed EH source receiver is tested on lifted compact probes and equals the NEGATIVE of actual matter source in this covariant-metric convention. This is not an identification with the old quantum source."
+    },
+    {
+      "conclusion": 7,
+      "theorems": [
+        "AASCKleinGordon.SameActionSource.licensed_source_retains_complete_predecessor",
+        "AASCKleinGordon.SameActionSource.licensed_source_complete_record_square",
+        "AASCKleinGordon.SameActionSource.licensed_source_empty_word_actual_readers",
+        "AASCKleinGordon.SameActionSource.scalar_source_restriction_compatibility",
+        "AASCKleinGordon.SameActionSource.scalar_source_records_and_failures_local",
+        "AASCKleinGordon.SameActionSource.licensed_source_continuation_square",
+        "AASCKleinGordon.SameActionSource.scalar_source_metric_change_failed",
+        "AASCKleinGordon.SameActionSource.scalar_source_outside_failed"
+      ],
+      "assumptions": "Source reader state is RegularScalarSourceState: an existing local scalar history plus an explicit globally smooth extension. This condition is proved/retained for initial states, restrictions and constructed continuations; it is not inferred for all locally smooth histories. Read points must belong to the receiving domain and compact response supports must be contained there. Original readout metric must be the proved same sourceMetric. Continuation uses the existing nonzero-scale/contained-domain/matching-trace conditions.",
+      "reader": "Complete earlier licensed record and scalar-program transcript survive as the first component. Added source questions observe the explicitly supplied history independently of that transcript, not the state returned by the program, and do not claim prior failures suppress the added observations. Local extension, restriction, contained continuation and applicable first-failure preservation are proved."
+    }
+  ],
+  "direct_imports": {
+    "KernelFaithfulSameActionKGSource": [
+      "SKGMetricRayCompletion",
+      "SKGStressProjections",
+      "SKGSectorSourceRepresentation",
+      "SKGIndependentHamiltonPair",
+      "SKGOriginalSourceAttachment"
+    ],
+    "SKGActualMatterSource": [
+      "SKGMetricRayProtocol",
+      "SKGScalarStressBalance"
+    ],
+    "SKGCompactWard": [
+      "SKGConformalDensityCurrent"
+    ],
+    "SKGConformalDensityCurrent": [
+      "SKGStressRegularity"
+    ],
+    "SKGConformalMetricCalculus": [
+      "EHKGCommonActionAxes",
+      "NativeClockHilbertSourceComponents"
+    ],
+    "SKGGravitationalReceiver": [
+      "SKGSourcedEinstein"
+    ],
+    "SKGIndependentHamiltonPair": [
+      "SKGScalarHamiltonian"
+    ],
+    "SKGKineticMassActions": [
+      "SKGCompactWard"
+    ],
+    "SKGMetricRayCompletion": [
+      "SKGMetricRayProtocol"
+    ],
+    "SKGMetricRayProtocol": [
+      "SKGSameMetricRegularity"
+    ],
+    "SKGOriginalSourceAttachment": [
+      "SKGSourceUseReaders",
+      "SKGGravitationalReceiver"
+    ],
+    "SKGSameMetricRegularity": [
+      "SKGConformalMetricCalculus",
+      "KernelFaithfulCurvedKGCompletion"
+    ],
+    "SKGScalarExchange": [
+      "SKGKineticMassActions"
+    ],
+    "SKGScalarHamiltonian": [
+      "SKGScalarLegendre"
+    ],
+    "SKGScalarLegendre": [
+      "SKGSameMetricRegularity",
+      "SKGScalarStressDerivative"
+    ],
+    "SKGScalarStressBalance": [
+      "SKGScalarStressDerivative",
+      "SKGSameMetricRegularity"
+    ],
+    "SKGScalarStressDerivative": [
+      "SKGScalarStressJetAlgebra"
+    ],
+    "SKGScalarStressJetAlgebra": [
+      "SKGConformalMetricCalculus"
+    ],
+    "SKGSectorSourceRepresentation": [
+      "SKGScalarExchange"
+    ],
+    "SKGSourceLocality": [
+      "SKGCompactWard"
+    ],
+    "SKGSourceOccupation": [
+      "SKGCompactWard",
+      "RegularSourceTestSeparation"
+    ],
+    "SKGSourceUseReaders": [
+      "SKGSourceLocality"
+    ],
+    "SKGSourcedEinstein": [
+      "SKGTotalActionSource",
+      "OriginalEHGeometricNaturality"
+    ],
+    "SKGSpatialCalculus": [
+      "SKGScalarHamiltonian"
+    ],
+    "SKGSpatialHamiltonian": [
+      "SKGSpatialCalculus"
+    ],
+    "SKGSpatialSlice": [
+      "SKGSpatialHamiltonian"
+    ],
+    "SKGStressProjections": [
+      "SKGSourceOccupation",
+      "SKGSpatialSlice"
+    ],
+    "SKGStressRegularity": [
+      "SKGActualMatterSource"
+    ],
+    "SKGTotalActionSource": [
+      "SKGSourceOccupation",
+      "OriginalEHGeometricTensor"
+    ]
+  },
+  "source_hashes": {
+    "KernelFaithfulSameActionKGSource": "8def7560ad8e06e55f5091e138c8d16fe3e94842d696231deef8b96af1d3bbf5",
+    "SKGActualMatterSource": "59655e3fb18110ad2bd7ba6cdb30038f9d6cc58ad52166b6be1c5d7b552d0b6c",
+    "SKGCompactWard": "1f09ae67850121d3bebd26579ef461b862498f888e2ac7191098435a290c682e",
+    "SKGConformalDensityCurrent": "6b0c9befe3eb7f7dd952b8328d0abca71885730fa9de8acccd3b7a3eed7bbcff",
+    "SKGConformalMetricCalculus": "cef7cf483f007369d2a6f1d5153bbeab75a5072dd4f1907615312c5bb8acaae8",
+    "SKGGravitationalReceiver": "856f6d28fef3e045ab296e05011e9735561c6210c0a9605bd4b4d57bab38ab6d",
+    "SKGIndependentHamiltonPair": "da793420beaa5669b546296378cee00cededbb0c413f277c7a195db8ca5d74c0",
+    "SKGKineticMassActions": "9e6c27283f5659facda3a64470a12ac4af2fe239a4f93d48ac665caca0ad83b5",
+    "SKGMetricRayCompletion": "5b33cf3ab6c04950b63cd774549a956f5065bb3da2f3afe4f0cde7d8b089481a",
+    "SKGMetricRayProtocol": "db4ead9773617164395c94c2acee8debd943f0c5a5b27ba2f896209e0b4243f0",
+    "SKGOriginalSourceAttachment": "f3f6c68e52e2f6b9d98fbb0bebddc2aa6f024ef2cbc802673782fc2314be758a",
+    "SKGSameMetricRegularity": "bc6f18ebf82a9ce253c3f5117b4f8c3bd41edf96824147c88030350136e88dc7",
+    "SKGScalarExchange": "55cb2e2b5205ae65ff1e315c1779b522617246155e54a784b18ba9782a3c923f",
+    "SKGScalarHamiltonian": "5ca3ea6649e43829988e4d1cd9d13decfc1c6ee9d1ff88177188a73a113f76ce",
+    "SKGScalarLegendre": "a5b73cb66fbe159a7852e1b2e3d326e9a956c7012f5bd9dbe600e007db092223",
+    "SKGScalarStressBalance": "527df956d601c67ca0f8e9c7221b809106ae263d5bf7eadd60fef4352e4b7d4b",
+    "SKGScalarStressDerivative": "f0a66f76de4ac5fb7994e2ca31e8820d6dfcc7991eb9e3bbd8cef67f7cffca39",
+    "SKGScalarStressJetAlgebra": "6ea76f8a63ffcb3ad6a2a807758fd84821061c8244c2742e5a08d7547a684082",
+    "SKGSectorSourceRepresentation": "efb255e45c17e22e779cd3534f0abbdf5f897f8ca970596018e86dbf0e8c456a",
+    "SKGSourceLocality": "3c9d46a07ada464e08cad8301ee45d565d86a2892dd9c6ad23b71d6ba4286788",
+    "SKGSourceOccupation": "2e4e72f5da3b7776f0459597c8448a4fd96b44d6d3d94adf9a5fd6fd813330f1",
+    "SKGSourceUseReaders": "e328db24d4e0726560e01a842eb01459a1bed0a138cc2cc3e703551a4af7f1e9",
+    "SKGSourcedEinstein": "f3e767758991f960acc29397ba59731b38d3bb1690fa56468b2f3c754821f4cf",
+    "SKGSpatialCalculus": "f0037f8509db6860e9240131025610b18b761bb4a132a582d989b54f8f4782aa",
+    "SKGSpatialHamiltonian": "fc5e848fe7637f535297854a5bbd394d9539f48b8ade57d7d31dc8459f2abfd5",
+    "SKGSpatialSlice": "c4c9758a74e16572a06801c939ddf5b9e4b056d9b0dfb4b99e6adc67fe755bc3",
+    "SKGStressProjections": "9bfe22be637fa30fabc249d4fba0fe36e58b5af495064232002c236aa0335ec6",
+    "SKGStressRegularity": "17d2a22ed67b223442048c23a1c925fc263713214eecf028fc7da3ed0833d8cb",
+    "SKGTotalActionSource": "46a9742529bf677da2e244494391471d54a9498caebfcecf1b9a8af0a04dcf1c"
+  },
+  "continuum_scope": "This declared smooth four-coordinate construction requires no reconstruction by taking a discretization/lattice/triangulation limit. Ordinary continuum analysis and its mathematical limits remain in use. It does not solve arbitrary continuum-limit or quantum-gravity problems.",
+  "excluded_claims": [
+    "arbitrary curved backgrounds",
+    "coupled Einstein-KG development/constraint solution",
+    "WDW Src_phi inhabitant",
+    "quantum expectation-value or renormalized backreaction",
+    "arbitrary LF Hadamard action curves",
+    "arbitrary interleaved metric-change transport",
+    "universal unique physical metric/minimality across undeclared realizations",
+    "public release of Stage2",
+    "clean-machine dependency/toolchain bootstrap"
+  ],
+  "current_status": "Concrete source/proof map for final review; consult acceptance/replay receipts for verification status.",
+  "driver_sha256": "b411c28b4ba2455ed37a0e3bb49c8e806a5a8d94b7f7461e6d89a0c97a61ac19"
+}

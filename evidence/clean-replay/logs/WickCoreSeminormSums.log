@@ -1,0 +1,7 @@
+WickCoreSeminormSums.lean:24:41: warning: This simp argument is unused:
+  DirectSum.lof_apply
+
+Hint: Omit it from the simp argument list.
+  simp [wickCoreSchwartzProjectionLM,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

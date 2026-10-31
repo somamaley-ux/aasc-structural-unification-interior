@@ -1,0 +1,4 @@
+'AASCMetricConstruction.positive_clock_of_finite_rest_action' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.finite_rest_action_constructs_clock_section' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

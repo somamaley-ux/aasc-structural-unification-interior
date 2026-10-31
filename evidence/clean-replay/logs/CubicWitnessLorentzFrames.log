@@ -1,0 +1,22 @@
+CubicWitnessLorentzFrames.lean:34:47: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+CubicWitnessLorentzFrames.lean:35:36: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+CubicWitnessLorentzFrames.lean:35:49: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+CubicWitnessLorentzFrames.lean:54:49: warning: This simp argument is unused:
+  Matrix.diagonal_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵w̵,̵m̵e̵t̵r̵i̵c̵,̵M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵a̵p̵p̵l̵y̵]̵[̲w̲,̲ ̲m̲e̲t̲r̲i̲c̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.diagonalCoordinateEquiv_frame_matrix' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubic_witness_metric_diagonal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubic_witness_lorentz_frame' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubic_witness_lorentz_frames_near_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

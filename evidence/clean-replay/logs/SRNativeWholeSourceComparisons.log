@@ -1,0 +1,76 @@
+SRNativeWholeSourceComparisons.lean:17:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_rest_preserves_actual_body_hamiltonian`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeWholeSourceComparisons.lean:23:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_rest_commutes_with_complete_coasting_flow`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeWholeSourceComparisons.lean:47:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_rest_preserves_original_clock_use_domains_and_answers`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeWholeSourceComparisons.lean:54:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_rest_transports_original_ray_and_reflection_records`:
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeWholeSourceComparisons.lean:68:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_translation_transports_complete_original_records`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeWholeSourceComparisons.lean:80:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_whole_translation_comparison_has_no_double_identity`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeWholeSourceComparisons.lean:85:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_whole_translation_event_action_free_and_transitive`:
+  [InnerProductSpace ℝ E]
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [InnerProductSpace ℝ E] [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_native_rest_preserves_actual_body_hamiltonian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_rest_commutes_with_complete_coasting_flow' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_rest_transports_all_original_marked_records' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_rest_preserves_original_clock_use_domains_and_answers' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_rest_transports_original_ray_and_reflection_records' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_translation_transports_complete_original_records' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_whole_translation_comparison_has_no_double_identity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_whole_translation_event_action_free_and_transitive' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_entire_clock_translation_action_has_exact_event_action_profile' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

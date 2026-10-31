@@ -1,0 +1,31 @@
+WickDerivativeComponentExpansion.lean:11:35: warning: This simp argument is unused:
+  EuclideanSpace.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [spacetimeCoordinateVector, E̵u̵c̵l̵i̵d̵e̵a̵n̵S̵p̵a̵c̵e̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵ ̵Pi.single_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickDerivativeComponentExpansion.lean:45:15: warning: This simp argument is unused:
+  map_sum
+
+Hint: Omit it from the simp argument list.
+  simp only [map_su̵m,̵ ̵m̵a̵p̵_̵s̵m̵ul, RCLike.real_smul_eq_coe_mul, Finset.mul_sum,
+        originalFirstDerivativeWickBilocalCore_fderiv_right, mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickDerivativeComponentExpansion.lean:45:24: warning: This simp argument is unused:
+  map_smul
+
+Hint: Omit it from the simp argument list.
+  simp only [map_sum, m̵a̵p̵_̵s̵m̵u̵l̵,̵ ̵RCLike.real_smul_eq_coe_mul, Finset.mul_sum,
+        originalFirstDerivativeWickBilocalCore_fderiv_right, mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickDerivativeComponentExpansion.lean:45:34: warning: This simp argument is unused:
+  RCLike.real_smul_eq_coe_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [map_sum, map_smul, R̵C̵L̵i̵k̵e̵.̵r̵e̵a̵l̵_̵s̵m̵u̵l̵_̵e̵q̵_̵c̵o̵e̵_̵m̵u̵l̵,̵ ̵Finset.mul_sum,
+        originalFirstDerivativeWickBilocalCore_fderiv_right, mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

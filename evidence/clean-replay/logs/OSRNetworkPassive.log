@@ -1,0 +1,44 @@
+OSRNetworkPassive.lean:76:48: warning: This simp argument is unused:
+  Option.map_map
+
+Hint: Omit it from the simp argument list.
+  simp [̵p̵a̵s̵s̵i̵v̵e̵N̵e̵t̵w̵o̵r̵k̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵n̵e̵t̵w̵o̵r̵k̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵n̵e̵t̵w̵o̵r̵k̵D̵a̵t̵a̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵p̵a̵s̵s̵i̵v̵e̵N̵e̵t̵w̵o̵r̵k̵,̵p̵a̵s̵s̵i̵v̵e̵N̵e̵t̵w̵o̵r̵k̵D̵a̵t̵a̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵←̵f̵r̵a̵m̵e̵_̵e̵v̵e̵n̵t̵_̵c̵o̵m̵p̵o̵s̵i̵t̵i̵o̵n̵,̵a̵c̵t̵u̵a̵l̵_̵s̵e̵g̵m̵e̵n̵t̵_̵d̵o̵m̵a̵i̵n̵_̵t̵r̵a̵n̵s̵p̵o̵r̵t̵,̵i̵n̵v̵e̵r̵s̵e̵_̵c̵h̵a̵r̵t̵_̵d̵o̵m̵a̵i̵n̵_̵i̵m̵a̵g̵e̵,̵r̵e̵q̵u̵e̵s̵t̵R̵e̵l̵a̵y̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵r̵e̵q̵u̵e̵s̵t̵D̵o̵m̵a̵i̵n̵,̵m̵e̵a̵s̵u̵r̵i̵n̵g̵D̵o̵m̵a̵i̵n̵,̵r̵u̵l̵e̵r̵D̵o̵m̵a̵i̵n̵,̵O̵p̵t̵i̵o̵n̵.̵m̵a̵p̵_̵m̵a̵p̵,̵F̵u̵n̵c̵t̵i̵o̵n̵.̵c̵o̵m̵p̵_̵d̵e̵f̵]̵[̲p̲a̲s̲s̲i̲v̲e̲N̲e̲t̲w̲o̲r̲k̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲n̲e̲t̲w̲o̲r̲k̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲n̲e̲t̲w̲o̲r̲k̲D̲a̲t̲a̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲p̲a̲s̲s̲i̲v̲e̲N̲e̲t̲w̲o̲r̲k̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲p̲a̲s̲s̲i̲v̲e̲N̲e̲t̲w̲o̲r̲k̲D̲a̲t̲a̲,̲ ̲←̲ ̲f̲r̲a̲m̲e̲_̲e̲v̲e̲n̲t̲_̲c̲o̲m̲p̲o̲s̲i̲t̲i̲o̲n̲,̲ ̲a̲c̲t̲u̲a̲l̲_̲s̲e̲g̲m̲e̲n̲t̲_̲d̲o̲m̲a̲i̲n̲_̲t̲r̲a̲n̲s̲p̲o̲r̲t̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲i̲n̲v̲e̲r̲s̲e̲_̲c̲h̲a̲r̲t̲_̲d̲o̲m̲a̲i̲n̲_̲i̲m̲a̲g̲e̲,̲ ̲r̲e̲q̲u̲e̲s̲t̲R̲e̲l̲a̲y̲,̲ ̲r̲e̲q̲u̲e̲s̲t̲D̲o̲m̲a̲i̲n̲,̲ ̲m̲e̲a̲s̲u̲r̲i̲n̲g̲D̲o̲m̲a̲i̲n̲,̲ ̲r̲u̲l̲e̲r̲D̲o̲m̲a̲i̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲F̲u̲n̲c̲t̲i̲o̲n̲.̲c̲o̲m̲p̲_̲d̲e̲f̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+OSRNetworkPassive.lean:76:63: warning: This simp argument is unused:
+  Function.comp_def
+
+Hint: Omit it from the simp argument list.
+  simp [̵p̵a̵s̵s̵i̵v̵e̵N̵e̵t̵w̵o̵r̵k̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵n̵e̵t̵w̵o̵r̵k̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵n̵e̵t̵w̵o̵r̵k̵D̵a̵t̵a̵O̵p̵e̵r̵a̵t̵i̵o̵n̵,̵p̵a̵s̵s̵i̵v̵e̵N̵e̵t̵w̵o̵r̵k̵,̵p̵a̵s̵s̵i̵v̵e̵N̵e̵t̵w̵o̵r̵k̵D̵a̵t̵a̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵←̵f̵r̵a̵m̵e̵_̵e̵v̵e̵n̵t̵_̵c̵o̵m̵p̵o̵s̵i̵t̵i̵o̵n̵,̵a̵c̵t̵u̵a̵l̵_̵s̵e̵g̵m̵e̵n̵t̵_̵d̵o̵m̵a̵i̵n̵_̵t̵r̵a̵n̵s̵p̵o̵r̵t̵,̵i̵n̵v̵e̵r̵s̵e̵_̵c̵h̵a̵r̵t̵_̵d̵o̵m̵a̵i̵n̵_̵i̵m̵a̵g̵e̵,̵r̵e̵q̵u̵e̵s̵t̵R̵e̵l̵a̵y̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵r̵e̵q̵u̵e̵s̵t̵D̵o̵m̵a̵i̵n̵,̵m̵e̵a̵s̵u̵r̵i̵n̵g̵D̵o̵m̵a̵i̵n̵,̵r̵u̵l̵e̵r̵D̵o̵m̵a̵i̵n̵,̵O̵p̵t̵i̵o̵n̵.̵m̵a̵p̵_̵m̵a̵p̵,̵F̵u̵n̵c̵t̵i̵o̵n̵.̵c̵o̵m̵p̵_̵d̵e̵f̵]̵[̲p̲a̲s̲s̲i̲v̲e̲N̲e̲t̲w̲o̲r̲k̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲n̲e̲t̲w̲o̲r̲k̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲n̲e̲t̲w̲o̲r̲k̲D̲a̲t̲a̲O̲p̲e̲r̲a̲t̲i̲o̲n̲,̲ ̲p̲a̲s̲s̲i̲v̲e̲N̲e̲t̲w̲o̲r̲k̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲p̲a̲s̲s̲i̲v̲e̲N̲e̲t̲w̲o̲r̲k̲D̲a̲t̲a̲,̲ ̲←̲ ̲f̲r̲a̲m̲e̲_̲e̲v̲e̲n̲t̲_̲c̲o̲m̲p̲o̲s̲i̲t̲i̲o̲n̲,̲ ̲a̲c̲t̲u̲a̲l̲_̲s̲e̲g̲m̲e̲n̲t̲_̲d̲o̲m̲a̲i̲n̲_̲t̲r̲a̲n̲s̲p̲o̲r̲t̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲i̲n̲v̲e̲r̲s̲e̲_̲c̲h̲a̲r̲t̲_̲d̲o̲m̲a̲i̲n̲_̲i̲m̲a̲g̲e̲,̲ ̲r̲e̲q̲u̲e̲s̲t̲R̲e̲l̲a̲y̲,̲ ̲r̲e̲q̲u̲e̲s̲t̲D̲o̲m̲a̲i̲n̲,̲ ̲m̲e̲a̲s̲u̲r̲i̲n̲g̲D̲o̲m̲a̲i̲n̲,̲ ̲r̲u̲l̲e̲r̲D̲o̲m̲a̲i̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲O̲p̲t̲i̲o̲n̲.̲m̲a̲p̲_̲m̲a̲p̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+OSRNetworkPassive.lean:83:23: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+OSRNetworkPassive.lean:83:38: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+OSRNetworkPassive.lean:103:20: warning: This simp argument is unused:
+  step
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵s̵t̵e̵p̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+OSRNetworkPassive.lean:105:17: warning: This simp argument is unused:
+  step
+
+Hint: Omit it from the simp argument list.
+  simp only [s̵t̵e̵p̵,̵Option.map_some]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

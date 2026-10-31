@@ -1,0 +1,9 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.joint_clock_rebase_complete_context_profile' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.joint_first_failure_square' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.joint_old_receiver_preparation_coverage' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

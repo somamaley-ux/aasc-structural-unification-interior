@@ -1,0 +1,15 @@
+CoordinateConnectionCurvature.lean:26:4: warning: This simp argument is unused:
+  ite_mul
+
+Hint: Omit it from the simp argument list.
+  simp [coordinateCovariantDerivative, coordinateBasisField, Pi.single_apply,
+  ̵  ̵ ̵ ̵i̵t̵e̵_̵mul,̵ ̵m̵u̵l̵_ite]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.covariant_derivative_coordinate_basis' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.coordinate_basis_lie_bracket' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.connection_curvature_is_covariant_commutator' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

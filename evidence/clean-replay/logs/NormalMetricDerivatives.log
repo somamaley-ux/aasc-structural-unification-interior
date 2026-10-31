@@ -1,0 +1,6 @@
+'AASCSemanticExhaustion.normalMetricPolynomial_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalMetricPolynomial_fderiv' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalMetricDerivative_at_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalMetricPolynomial_first_derivative_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.metricPartial_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.lowerChristoffel_torsion_free' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.leviCivita_torsion_free' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.leviCivita_lowering' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.lowerChristoffel_metric_compatibility' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.leviCivita_metric_compatible' depends on axioms: [propext, Classical.choice, Quot.sound]

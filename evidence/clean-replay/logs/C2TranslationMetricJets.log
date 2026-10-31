@@ -1,0 +1,6 @@
+'AASCSemanticExhaustion.translation_vector_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.translation_vector_second_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_translated_scalar_first' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_translated_scalar_second' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_metric_translated_regular' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_coordinate_curvature_translation' depends on axioms: [propext, Classical.choice, Quot.sound]

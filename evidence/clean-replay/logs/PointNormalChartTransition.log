@@ -1,0 +1,17 @@
+'AASCSemanticExhaustion.pointNormalChartInverse_right_inverse' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartTransition_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartTransition_analytic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartTransition_comp_eventually' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartTransition_metric_eventually' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_point_normal_chart_curvature_comparison' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.pointNormalChartTransition_frame_equation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

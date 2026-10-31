@@ -1,0 +1,3 @@
+'AASCMetricConstruction.sr_arbitrary_finite_dimensional_isotropic_body_constructs_unique_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

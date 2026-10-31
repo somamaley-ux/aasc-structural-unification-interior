@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.coordinate_vector_second_derivative_component' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.quadratic_coordinate_jacobian_second_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.quadratic_identity_vector_second_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

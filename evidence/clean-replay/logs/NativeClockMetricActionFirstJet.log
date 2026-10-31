@@ -1,0 +1,98 @@
+NativeClockMetricActionFirstJet.lean:35:4: warning: 'norm_num [Fin.lt_def, Fin.castSucc]' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+NativeClockMetricActionFirstJet.lean:35:4: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+NativeClockMetricActionFirstJet.lean:33:27: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:34:34: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:42:68: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:43:34: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:43:72: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:52:31: warning: This simp argument is unused:
+  DualNumber.snd_mul
+
+Hint: Omit it from the simp argument list.
+  simp [̵n̵a̵t̵i̵v̵e̵C̵l̵o̵c̵k̵V̵o̵l̵u̵m̵e̵J̵e̵t̵,̵D̵u̵a̵l̵N̵u̵m̵b̵e̵r̵.̵s̵n̵d̵_̵m̵u̵l̵,̵n̵a̵t̵i̵v̵e̵_̵c̵l̵o̵c̵k̵_̵m̵e̵t̵r̵i̵c̵_̵d̵e̵t̵e̵r̵m̵i̵n̵a̵n̵t̵_̵f̵i̵r̵s̵t̵_̵c̵o̵e̵f̵f̵i̵c̵i̵e̵n̵t̵]̵[̲n̲a̲t̲i̲v̲e̲C̲l̲o̲c̲k̲V̲o̲l̲u̲m̲e̲J̲e̲t̲,̲ ̲n̲a̲t̲i̲v̲e̲_̲c̲l̲o̲c̲k̲_̲m̲e̲t̲r̲i̲c̲_̲d̲e̲t̲e̲r̲m̲i̲n̲a̲n̲t̲_̲f̲i̲r̲s̲t̲_̲c̲o̲e̲f̲f̲i̲c̲i̲e̲n̲t̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NativeClockMetricActionFirstJet.lean:81:40: warning: This simp argument is unused:
+  DualNumber.snd_mul
+
+Hint: Omit it from the simp argument list.
+  simp [nativeClockMetricJet, ̲nativeBodyMatrixEmbed, ̲nativeExteriorCoefficientMatrix, ̲ε,
+          TrivSqZeroExt.algebraMap_eq_inl,̵D̵u̵a̵l̵N̵u̵m̵b̵e̵r̵.̵s̵n̵d̵_̵m̵u̵l̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NativeClockMetricActionFirstJet.lean:87:40: warning: This simp argument is unused:
+  DualNumber.snd_mul
+
+Hint: Omit it from the simp argument list.
+  simp [nativeClockInverseJet, ̲nativeBodyMatrixEmbed, ̲nativeExteriorCoefficientMatrix, ̲ε,
+          TrivSqZeroExt.algebraMap_eq_inl,̵D̵u̵a̵l̵N̵u̵m̵b̵e̵r̵.̵s̵n̵d̵_̵m̵u̵l̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NativeClockMetricActionFirstJet.lean:73:8: warning: '(try simp only [Fin.ext_iff])' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+NativeClockMetricActionFirstJet.lean:73:42: warning: 'norm_num' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+NativeClockMetricActionFirstJet.lean:73:8: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+NativeClockMetricActionFirstJet.lean:73:42: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+NativeClockMetricActionFirstJet.lean:110:4: warning: 'norm_num [Fin.lt_def, Fin.castSucc]' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+NativeClockMetricActionFirstJet.lean:108:86: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:109:34: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:109:72: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeClockMetricActionFirstJet.lean:117:6: warning: '(try simp only [Fin.ext_iff])' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+NativeClockMetricActionFirstJet.lean:117:40: warning: 'norm_num' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+NativeClockMetricActionFirstJet.lean:117:6: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+NativeClockMetricActionFirstJet.lean:117:40: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+'AASCSemanticExhaustion.native_clock_metric_determinant_body' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_clock_metric_determinant_first_coefficient' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_clock_volume_is_exact_square_root' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_clock_volume_unique_body_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_clock_metric_inverse_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_clock_actual_metric_lagrangian_coefficient' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_clock_normal_metric_eq_canonical' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_clock_computed_stress_is_actual_scalar_stress' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,23 @@
+RegularLorentzResponseCore.lean:134:9: warning: unused variable `symmetric`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+RegularLorentzResponseCore.lean:134:46: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+RegularLorentzResponseCore.lean:135:9: warning: unused variable `frame`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCSemanticExhaustion.c2_normalized_is_lorentz' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_receiver_is_c2_lorentz' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_lorentz_of_normal_value' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.regular_lorentz_hessian_gauge' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.regular_lorentz_hessian_covariance' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.regular_lorentz_response_jet_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_lorentz_c2_normalized_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_lorentz_coordinate_response_normal_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

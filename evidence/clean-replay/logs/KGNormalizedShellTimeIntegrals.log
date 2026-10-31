@@ -1,0 +1,12 @@
+KGNormalizedShellTimeIntegrals.lean:27:6: warning: 'ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+KGNormalizedShellTimeIntegrals.lean:27:6: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+KGNormalizedShellTimeIntegrals.lean:35:6: warning: 'ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+KGNormalizedShellTimeIntegrals.lean:35:6: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`

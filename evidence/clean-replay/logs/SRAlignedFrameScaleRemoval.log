@@ -1,0 +1,3 @@
+'AASCMetricConstruction.SRIntegration.sr_aligned_original_frame_constructs_scaled_boost' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

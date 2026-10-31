@@ -1,0 +1,37 @@
+'AASC.KernelReference.NecessityRealization.exact_reader_preserves_original_profile' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.canonical_reader_exact' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.exists_exact_reader_iff' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.fibre_collision_excludes_exact_reader' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.no_exact_reader_iff_fibre_collision' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.NecessityRealization.exact_iff_no_omission_or_surplus' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.NecessityRealization.not_exact_iff_omission_or_surplus' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.NecessityRealization.exact_readers_agree_on_realized_image' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.unique_reader_on_realized_image' depends on axioms: [propext, Quot.sound]
+'AASC.KernelReference.NecessityRealization.exists_identity_reader_iff' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.unique_original_reconstruction' depends on axioms: [Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.NecessityRealization.unique_original_reconstruction_iff' depends on axioms: [Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.NecessityRealization.original_identity_supports_every_profile' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.identity_reader_supports_every_profile' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.identity_probes_reindex' depends on axioms: [Quot.sound]
+'AASC.KernelReference.NecessityRealization.output_point_profile_agrees_iff' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.exists_output_point_reader_iff' depends on axioms: [propext]
+'AASC.KernelReference.NecessityRealization.erasure_loses_original_work_iff' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.NecessityRealization.erasure_of_exact_encoding_has_new_collision' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.NecessityRealization.reconstructed_storage_preserves_exactness' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.Examples.redundant_presentations_need_not_be_injective' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.Examples.constant_answers_do_not_retain_identity' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.Examples.bad_reader_leaves_original_incidence_actual' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.Examples.positive_coverage_does_not_exclude_surplus' does not depend on any axioms
+'AASC.KernelReference.NecessityRealization.Examples.deleting_constant_storage_keeps_all_original_predicates' does not depend on any axioms

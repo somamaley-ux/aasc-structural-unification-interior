@@ -1,0 +1,11 @@
+SRExactSourceRefinement.lean:60:46: warning: unused variable `r`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCMetricConstruction.sr_complete_contexts_retain_every_original_coordinate' does not depend on any axioms
+'AASCMetricConstruction.sr_registered_partial_operation_has_unique_exact_context_descent' depends on axioms: [propext,
+ Quot.sound]
+'AASCMetricConstruction.srSourceRefinementForget' depends on axioms: [propext, Quot.sound]
+'AASCMetricConstruction.sr_refinement_forget_original_profile_commutes' depends on axioms: [propext, Quot.sound]
+'AASCMetricConstruction.sr_refinement_forget_is_surjective_on_original_attained_domain' depends on axioms: [propext,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_selection_and_failure_are_not_created_by_refinement' does not depend on any axioms

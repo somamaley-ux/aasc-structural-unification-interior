@@ -1,0 +1,14 @@
+'AASCMetricConstruction.comparison_quadratic_eq_dot' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.comparison_quadratic_pullback' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.reconstructed_frame_receipt_symmetric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.reconstructed_frame_receipt_recovers_original_queries' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.original_transported_queries_determine_unique_symmetric_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.constructed_frame_null_clock_receipt_nondegenerate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

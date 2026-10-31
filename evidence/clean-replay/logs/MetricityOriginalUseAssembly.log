@@ -1,0 +1,42 @@
+'AASCMetricityOriginalAssembly.ProfileValue' does not depend on any axioms
+'AASCMetricityOriginalAssembly.OriginalMetricTask' does not depend on any axioms
+'AASCMetricityOriginalAssembly.originalIncidence' does not depend on any axioms
+'AASCMetricityOriginalAssembly.completeOriginalProfile' does not depend on any axioms
+'AASCMetricityOriginalAssembly.OriginalReadiness' does not depend on any axioms
+'AASCMetricityOriginalAssembly.originalLocalTest' does not depend on any axioms
+'AASCMetricityOriginalAssembly.declaredOriginalEdge' does not depend on any axioms
+'AASCMetricityOriginalAssembly.originalEdgeTest' does not depend on any axioms
+'AASCMetricityOriginalAssembly.canonicalSafeUses' does not depend on any axioms
+'AASCMetricityOriginalAssembly.originalSafetyOperator' does not depend on any axioms
+'AASCMetricityOriginalAssembly.constructedLicensing' does not depend on any axioms
+'AASCMetricityOriginalAssembly.originalDescriptorEquivalent' does not depend on any axioms
+'AASCMetricityOriginalAssembly.original_safety_operator_monotone' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricityOriginalAssembly.original_safety_postfixed_iff_sound' does not depend on any axioms
+'AASCMetricityOriginalAssembly.original_safe_uses_are_fixed' depends on axioms: [propext, Quot.sound]
+'AASCMetricityOriginalAssembly.original_safe_uses_are_union_of_all_sound_regions' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricityOriginalAssembly.licensing_exact_original_safe_projection' does not depend on any axioms
+'AASCMetricityOriginalAssembly.licensed_original_incidence_witness' does not depend on any axioms
+'AASCMetricityOriginalAssembly.L1_licensed_act_has_original_standing' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricityOriginalAssembly.safe_redescription_has_same_original_ground' does not depend on any axioms
+'AASCMetricityOriginalAssembly.safe_redescription_has_equal_complete_profile' depends on axioms: [Quot.sound]
+'AASCMetricityOriginalAssembly.L2_every_required_redescription_is_licensed' depends on axioms: [Quot.sound]
+'AASCMetricityOriginalAssembly.L3_original_boundary_work_and_context_are_preserved' depends on axioms: [Quot.sound]
+'AASCMetricityOriginalAssembly.L4_every_declared_finite_path_retains_original_warrants' does not depend on any axioms
+'AASCMetricityOriginalAssembly.L5_licensing_cannot_supply_a_missing_original_incidence' does not depend on any axioms
+'AASCMetricityOriginalAssembly.L5_retaining_original_subject_precludes_retroactive_repair' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricityOriginalAssembly.FiveLicensingConclusions' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricityOriginalAssembly.canonical_original_use_construction_proves_L1_through_L5' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricityOriginalAssembly.canonical_licensing_contains_every_original_sound_region' does not depend on any axioms
+'AASCMetricityOriginalAssembly.kernel_ametric_canonical_metric_licensing' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

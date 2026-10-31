@@ -1,0 +1,31 @@
+NativeExteriorMetricFirstCorrection.lean:39:0: warning: automatically included section variable(s) unused in theorem `AASCSemanticExhaustion.native_body_matrix_embed_mul`:
+  [DecidableEq ι]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq ι] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+NativeExteriorMetricFirstCorrection.lean:44:0: warning: automatically included section variable(s) unused in theorem `AASCSemanticExhaustion.native_body_times_exterior_coefficient`:
+  [DecidableEq ι]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq ι] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+NativeExteriorMetricFirstCorrection.lean:51:0: warning: automatically included section variable(s) unused in theorem `AASCSemanticExhaustion.native_coefficient_times_body`:
+  [DecidableEq ι]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq ι] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCSemanticExhaustion.native_coefficient_entry_product_zero' depends on axioms: [propext]
+'AASCSemanticExhaustion.native_coefficient_matrix_square_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_body_matrix_embed_mul' depends on axioms: [propext, Quot.sound]
+'AASCSemanticExhaustion.native_body_times_exterior_coefficient' depends on axioms: [propext, Quot.sound]
+'AASCSemanticExhaustion.native_coefficient_times_body' depends on axioms: [propext, Quot.sound]
+'AASCSemanticExhaustion.native_exterior_metric_inverse_degree_two' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_csp_exterior_metric_inverse_degree_two' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

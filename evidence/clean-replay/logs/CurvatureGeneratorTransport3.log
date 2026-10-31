@@ -1,0 +1,15 @@
+CurvatureGeneratorTransport3.lean:33:15: warning: This simp argument is unused:
+  pullbackFour
+
+Hint: Omit it from the simp argument list.
+  simp only [̵p̵u̵l̵l̵b̵a̵c̵k̵F̵o̵u̵r̵,̵ ̵F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵f̵o̵u̵r̵]̵[̲F̲i̲n̲.̲s̲u̲m̲_̲u̲n̲i̲v̲_̲f̲o̲u̲r̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+CurvatureGeneratorTransport3.lean:33:29: warning: This simp argument is unused:
+  Fin.sum_univ_four
+
+Hint: Omit it from the simp argument list.
+  simp only [pullbackFour,̵ ̵F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵f̵o̵u̵r̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.curvature_generator_transport_3' depends on axioms: [propext, Classical.choice, Quot.sound]

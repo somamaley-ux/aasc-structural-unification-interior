@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.lorentz_adjoint_left_inverse' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalized_chart_jacobian_preserves_metric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.coordinate_derivative_of_lorentz_jacobian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normal_chart_curvature_transport' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normal_chart_actual_local_inverse' depends on axioms: [propext, Classical.choice, Quot.sound]

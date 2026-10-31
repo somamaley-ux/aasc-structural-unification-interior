@@ -1,0 +1,6 @@
+WickCovariantRigging.lean:41:8: warning: 'ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+WickCovariantRigging.lean:41:8: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`

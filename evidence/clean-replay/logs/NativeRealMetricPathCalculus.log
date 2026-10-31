@@ -1,0 +1,12 @@
+'AASCSemanticExhaustion.native_real_metric_inverse_path_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_real_metric_inverse_entry_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_real_identity_determinant_path_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_real_metric_determinant_path_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

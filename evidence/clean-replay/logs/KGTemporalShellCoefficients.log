@@ -1,0 +1,20 @@
+KGTemporalShellCoefficients.lean:64:10: warning: This simp argument is unused:
+  temporalShellSine
+
+Hint: Omit it from the simp argument list.
+  simp [̵t̵e̵m̵p̵o̵r̵a̵l̵S̵h̵e̵l̵l̵S̵i̵n̵e̵,̵t̵e̵m̵p̵o̵r̵a̵l̵S̵h̵e̵l̵l̵C̵o̵s̵i̵n̵e̵,̵m̵u̵l̵_̵c̵o̵m̵m̵]̵[̲t̲e̲m̲p̲o̲r̲a̲l̲S̲h̲e̲l̲l̲C̲o̲s̲i̲n̲e̲,̲ ̲m̲u̲l̲_̲c̲o̲m̲m̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGTemporalShellCoefficients.lean:63:80: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+KGTemporalShellCoefficients.lean:70:28: warning: This simp argument is unused:
+  temporalShellCosine
+
+Hint: Omit it from the simp argument list.
+  simp [̵t̵e̵m̵p̵o̵r̵a̵l̵S̵h̵e̵l̵l̵S̵i̵n̵e̵,̵t̵e̵m̵p̵o̵r̵a̵l̵S̵h̵e̵l̵l̵C̵o̵s̵i̵n̵e̵,̵m̵u̵l̵_̵c̵o̵m̵m̵]̵[̲t̲e̲m̲p̲o̲r̲a̲l̲S̲h̲e̲l̲l̲S̲i̲n̲e̲,̲ ̲m̲u̲l̲_̲c̲o̲m̲m̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGTemporalShellCoefficients.lean:69:80: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

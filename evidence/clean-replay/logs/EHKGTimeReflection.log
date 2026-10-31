@@ -1,0 +1,14 @@
+EHKGTimeReflection.lean:44:10: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵,̵ ̵e̵q̵u̵a̵l̵,̵[̲e̲q̲u̲a̲l̲,̲ Ne.symm equal]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGTimeReflection.lean:44:34: warning: This simp argument is unused:
+  Ne.symm equal
+
+Hint: Omit it from the simp argument list.
+  simp [Pi.single_apply, equal,̵ ̵N̵e̵.̵s̵y̵m̵m̵ ̵e̵q̵u̵a̵l̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

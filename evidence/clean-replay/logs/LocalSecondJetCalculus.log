@@ -1,0 +1,16 @@
+LocalSecondJetCalculus.lean:90:13: warning: This simp argument is unused:
+  smul_eq_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [s̵m̵u̵l̵_̵e̵q̵_̵m̵u̵l̵,̵ ̵Finset.mul_sum, mul_assoc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.local_scalarSecondPartial_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_scalarSecondPartial_const_mul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_linear_composition_second' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.continuousBilinear_four_coordinates' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_linear_composition_second_coordinates' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.local_scalarPartial_differentiableAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.local_scalarSecondPartial_mul' depends on axioms: [propext, Classical.choice, Quot.sound]

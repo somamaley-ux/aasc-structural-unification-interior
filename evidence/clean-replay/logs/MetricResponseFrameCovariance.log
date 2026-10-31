@@ -1,0 +1,4 @@
+'AASCSemanticExhaustion.lorentz_frame_actual_twojet' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metric_response_hessian_covariant_from_naturality' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.normalMetricHessian_metric_symmetry' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalMetricHessian_derivative_symmetry' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.curvature_of_constructed_normal_hessian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.algebraic_normal_jet_curvature_surjective' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

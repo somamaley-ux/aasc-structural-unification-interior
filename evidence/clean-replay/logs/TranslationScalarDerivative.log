@@ -1,0 +1,17 @@
+TranslationScalarDerivative.lean:21:21: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+TranslationScalarDerivative.lean:37:74: warning: This simp argument is unused:
+  norm_mul
+
+Hint: Omit it from the simp argument list.
+  simp [phaseSlope,̵n̵o̵r̵m̵_̵m̵u̵l̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+TranslationScalarDerivative.lean:44:20: warning: This simp argument is unused:
+  norm_div
+
+Hint: Omit it from the simp argument list.
+  simp [coefficient,̵n̵o̵r̵m̵_̵d̵i̵v̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

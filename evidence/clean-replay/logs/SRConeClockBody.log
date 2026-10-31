@@ -1,0 +1,33 @@
+SRConeClockBody.lean:21:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_spatial_clock_zero`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRConeClockBody.lean:24:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_clock_body_closed`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRConeClockBody.lean:28:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_clock_body_convex`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRConeClockBody.lean:39:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_clock_body_zero_interior`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_spatial_clock_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_clock_body_closed' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_clock_body_convex' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_clock_body_zero_interior' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_clock_body_compact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.srRestOnClockKernel' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_original_rest_preserves_constructed_clock_body' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

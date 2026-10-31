@@ -1,0 +1,3 @@
+EHKGContainedContinuation.lean:41:23: warning: unused variable `p`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

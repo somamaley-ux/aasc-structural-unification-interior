@@ -1,0 +1,19 @@
+WickOriginalLorentzMetricDomain.lean:66:51: warning: This simp argument is unused:
+  Matrix.diagonal_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵w̵i̵c̵k̵F̵l̵a̵t̵M̵e̵t̵r̵i̵c̵,̵n̵a̵t̵i̵v̵e̵C̵l̵o̵c̵k̵N̵o̵r̵m̵a̵l̵M̵e̵t̵r̵i̵c̵,̵M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵a̵p̵p̵l̵y̵,̵n̵e̵]̵[̲w̲i̲c̲k̲F̲l̲a̲t̲M̲e̲t̲r̲i̲c̲,̲ ̲n̲a̲t̲i̲v̲e̲C̲l̲o̲c̲k̲N̲o̲r̲m̲a̲l̲M̲e̲t̲r̲i̲c̲,̲ ̲n̲e̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickOriginalLorentzMetricDomain.lean:55:8: warning: '(try simp only [Fin.ext_iff])' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+WickOriginalLorentzMetricDomain.lean:55:42: warning: 'norm_num' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+WickOriginalLorentzMetricDomain.lean:55:8: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+WickOriginalLorentzMetricDomain.lean:55:42: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`

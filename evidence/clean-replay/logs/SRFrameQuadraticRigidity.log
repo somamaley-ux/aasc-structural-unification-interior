@@ -1,0 +1,6 @@
+'AASCMetricConstruction.SRIntegration.sr_original_null_boundary_queries_force_conformal_frame' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.SRIntegration.sr_calibrated_rest_frame_has_unit_conformal_scale' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

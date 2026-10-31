@@ -1,0 +1,56 @@
+EHKGCoordinateCauchy.lean:25:33: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [coordinate_split_time,̵ ̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGCoordinateCauchy.lean:29:20: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [Fin.tail,̵ ̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGCoordinateCauchy.lean:35:33: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [coordinate_split_time,̵ ̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGCoordinateCauchy.lean:73:63: warning: This simp argument is unused:
+  Prod.fst
+
+Hint: Omit it from the simp argument list.
+  simp only [flatCoordinateField, coordinate_split_time_curve, Prod.f̵st̵,̵ ̵P̵r̵o̵d̵.̵s̵nd]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGCoordinateCauchy.lean:73:73: warning: This simp argument is unused:
+  Prod.snd
+
+Hint: Omit it from the simp argument list.
+  simp only [flatCoordinateField, coordinate_split_time_curve, Prod.fst,̵ ̵P̵r̵o̵d̵.̵s̵n̵d̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGCoordinateCauchy.lean:90:64: warning: This simp argument is unused:
+  Prod.fst
+
+Hint: Omit it from the simp argument list.
+  simp only [flatCoordinateField, coordinate_split_space_curve, Prod.f̵st̵,̵ ̵P̵r̵o̵d̵.̵s̵nd]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGCoordinateCauchy.lean:90:74: warning: This simp argument is unused:
+  Prod.snd
+
+Hint: Omit it from the simp argument list.
+  simp only [flatCoordinateField, coordinate_split_space_curve, Prod.fst,̵ ̵P̵r̵o̵d̵.̵s̵n̵d̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGCoordinateCauchy.lean:114:96: warning: This simp argument is unused:
+  add_comm
+
+Hint: Omit it from the simp argument list.
+  simp [fullFlatPosition, fullFlatAcceleration, map_neg, coordinate_split_time, sub_eq_add_neg,̵ ̵a̵d̵d̵_̵c̵o̵m̵m̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

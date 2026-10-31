@@ -1,0 +1,22 @@
+'AASCSemanticExhaustion.native_metric_restricted_action_finite_regular' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_matter_restricted_action_finite_regular' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_metric_restricted_action_hadamard' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.nativeTestActionFunctional' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_joint_action_first_variation_split' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_covariant_action_off_shell_noether' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_source_off_shell_divergence' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_internal_equations_imply_closed_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

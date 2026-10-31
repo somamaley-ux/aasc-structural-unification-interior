@@ -1,0 +1,30 @@
+L2SubspaceRealMultiplication.lean:19:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.Multiplication.subspaceBoundedB_injective`:
+  [CompleteSpace ↥S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CompleteSpace ↥S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+L2SubspaceRealMultiplication.lean:27:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.Multiplication.subspaceBounded_commute`:
+  [CompleteSpace ↥S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CompleteSpace ↥S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+L2SubspaceRealMultiplication.lean:35:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.Multiplication.subspaceBounded_normalized`:
+  [CompleteSpace ↥S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CompleteSpace ↥S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+L2SubspaceRealMultiplication.lean:43:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.Multiplication.subspaceBoundedA_symmetric`:
+  [CompleteSpace ↥S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CompleteSpace ↥S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+L2SubspaceRealMultiplication.lean:49:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.Multiplication.subspaceBoundedB_symmetric`:
+  [CompleteSpace ↥S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CompleteSpace ↥S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`

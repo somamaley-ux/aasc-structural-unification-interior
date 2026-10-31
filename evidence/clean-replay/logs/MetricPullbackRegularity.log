@@ -1,0 +1,4 @@
+'AASCSemanticExhaustion.coordinateMetricPullback_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateJacobian_contDiffAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateMetricPullback_contDiffAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadratic_metric_pullback_value' depends on axioms: [propext, Classical.choice, Quot.sound]

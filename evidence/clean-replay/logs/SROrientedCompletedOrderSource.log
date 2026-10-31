@@ -1,0 +1,19 @@
+SROrientedCompletedOrderSource.lean:41:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_original_ray_completed_order_is_antisymmetric`:
+  [FiniteDimensional ℝ E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.srOrientationPreservingRestSubgroup' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_oriented_ray_rest_group' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.srOrientedRaySpacetimeRest' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_native_original_ray_completed_order_is_antisymmetric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_proper_rotations_have_no_fixed_spatial_vector' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.srNativeOrientedCompletedOrderSource' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_native_oriented_completed_order_derives_strict_clock_and_lorentz_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

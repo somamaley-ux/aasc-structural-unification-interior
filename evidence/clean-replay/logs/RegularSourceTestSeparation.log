@@ -1,0 +1,13 @@
+'AASCSemanticExhaustion.continuous_scalar_source_tests_separate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.compact_vector_test_insertion_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.regular_density_current_term_continuous' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_density_current_scalar_pairing' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_distributional_closure_implies_pointwise_density_current' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

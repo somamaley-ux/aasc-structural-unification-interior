@@ -1,0 +1,9 @@
+'AASCMetricConstruction.srNativeOriginalTranslationOrbitDiffeomorph' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_bundled_orbit_retains_actual_original_translation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_comparison_one_parameter_is_smooth' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

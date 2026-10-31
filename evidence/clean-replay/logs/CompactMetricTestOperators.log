@@ -1,0 +1,11 @@
+'AASCSemanticExhaustion.compact_scalar_partial_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalar_source_test_sum_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smooth_metric_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smooth_lower_christoffel' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_metric_lie_component_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_covariant_gradient_component_apply' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.compact_lie_eq_covariant_gradient_operators' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

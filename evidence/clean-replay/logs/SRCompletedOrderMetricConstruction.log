@@ -1,0 +1,19 @@
+SRCompletedOrderMetricConstruction.lean:41:9: warning: unused variable `u`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+SRCompletedOrderMetricConstruction.lean:41:14: warning: unused variable `v`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+SRCompletedOrderMetricConstruction.lean:42:14: warning: unused variable `v`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCMetricConstruction.sr_original_completed_order_source_derives_strict_clock' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.srCompletedOrderToConeSource' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_completed_order_constructs_unique_full_lorentz_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_completed_order_constructed_lorentz_form_nondegenerate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

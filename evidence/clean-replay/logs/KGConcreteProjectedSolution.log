@@ -1,0 +1,9 @@
+KGConcreteProjectedSolution.lean:102:11: warning: unused variable `t`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KGConcreteProjectedSolution.lean:103:11: warning: unused variable `t`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KGConcreteProjectedSolution.lean:103:13: warning: unused variable `i`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

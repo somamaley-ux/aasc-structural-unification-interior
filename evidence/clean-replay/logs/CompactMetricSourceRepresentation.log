@@ -1,0 +1,12 @@
+'AASCSemanticExhaustion.compact_metric_test_decomposition' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_metric_test_projection_insertion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.symmetric_source_weight_ne_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.constructed_metric_source_represents' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metric_source_pairing_insertion' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.constructed_metric_source_unique' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.constructed_metric_source_exists_unique' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.symmetric_source_full_matrix_pairing' depends on axioms: [propext, Classical.choice, Quot.sound]

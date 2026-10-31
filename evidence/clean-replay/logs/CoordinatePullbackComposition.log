@@ -1,0 +1,6 @@
+'AASCSemanticExhaustion.fderiv_vector_component' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateJacobian_vector' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateJacobian_comp' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateMetricPullback_matrix' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinateMetricPullback_comp' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smoothCoordinateAt_comp' depends on axioms: [propext, Classical.choice, Quot.sound]

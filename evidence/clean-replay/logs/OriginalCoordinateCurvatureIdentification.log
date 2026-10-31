@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.inverse_frame_metric_recovery' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.lorentz_frame_metric_recovery' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.lorentz_frame_metric_nondegenerate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalChartCurvature_eq_actual_pullback' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.reconstructedCoordinateCurvature_eq_original_connection' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

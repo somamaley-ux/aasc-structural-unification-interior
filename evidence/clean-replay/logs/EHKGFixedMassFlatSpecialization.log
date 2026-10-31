@@ -1,0 +1,21 @@
+EHKGFixedMassFlatSpecialization.lean:26:40: warning: This simp argument is unused:
+  zero_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [one_pow, inv_one, one_mul, zero_m̵u̵l̵,̵ ̵z̵e̵r̵o̵_̵div, sub_zero, flatScalarResidual]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGFixedMassFlatSpecialization.lean:26:50: warning: This simp argument is unused:
+  zero_div
+
+Hint: Omit it from the simp argument list.
+  simp only [one_pow, inv_one, one_mul, zero_mul, z̵e̵r̵o̵_̵d̵i̵v̵,̵ ̵sub_zero, flatScalarResidual]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+EHKGFixedMassFlatSpecialization.lean:26:60: warning: This simp argument is unused:
+  sub_zero
+
+Hint: Omit it from the simp argument list.
+  simp only [one_pow, inv_one, one_mul, zero_mul, zero_div, s̵u̵b̵_̵z̵e̵r̵o̵,̵ ̵flatScalarResidual]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

@@ -1,0 +1,11 @@
+LorentzMetricPullbackJet.lean:69:29: warning: This simp argument is unused:
+  zero_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [hc, mul_zero, zero_m̵u̵l̵,̵ ̵z̵e̵r̵o̵_̵add, add_zero] at ht
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.matrix_pullback_double_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.lorentz_metric_pullback_value' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.lorentz_metric_pullback_first_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.lorentz_metric_pullback_second' depends on axioms: [propext, Classical.choice, Quot.sound]

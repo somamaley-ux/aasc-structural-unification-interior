@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-19",
+  "candidate_only_until_final_audit_review_replay": true,
+  "root": "AASCKleinGordon.CurvedKG.kernel_faithful_same_eh_curved_kg_complete",
+  "root_type": "CompleteKernelFaithfulCurvedKGEndpoints a s",
+  "parameters": [
+    "a.mass>0",
+    "a.speed>0",
+    "a.hbar>0",
+    "s real"
+  ],
+  "ancestry": "Kernel and downstream Kernel-faithful machinery; constraint first",
+  "structure": "Preserves 46-field base candidate and adds three fields: actual H0 local uniqueness, central support equality and compact support system.",
+  "review_requested": "/root/sr_source_milestone_review; completion amendment review pending",
+  "successful_records": [
+    {
+      "module": "EHKGConstructedSliceContinuation",
+      "containing_attempt": "117",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGConstructedSliceContinuation.lean",
+      "source_sha256": "bcf044791437e1dc0ffd9fd363219ba7a9b9d82b84f73153218fd57aa2a8452d",
+      "object_sha256": "25a19239c9e72b1eb3f2d852dc5f320b531a305ce603223c1fea8755b7890136",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "EHKGContinuationLaws",
+      "containing_attempt": "118",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGContinuationLaws.lean",
+      "source_sha256": "e27e74f29c0108a35ae7e511b72ba66da8a5c3e0e188bb2faeb06c8b54f37679",
+      "object_sha256": "abc5c51ab800756408fa448681decc6469f587b7292c14ff0b730935799be458",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "EHKGCauchyObservationFaithful",
+      "containing_attempt": "120",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGCauchyObservationFaithful.lean",
+      "source_sha256": "870d7159b675e787574eefa7fa4b467226ebd6d72bd210e6b0f3531fc35f32ba",
+      "object_sha256": "3e40b44bc8d547d03767289a3eaa1d84a955e241cd76b06f423f7716fc5c410e",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "EHKGFiniteContinuationUse",
+      "containing_attempt": "122",
+      "containing_status": "failed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGFiniteContinuationUse.lean",
+      "source_sha256": "10849377ca26f9302fd9e5509b7fbf5e51d084387c5623ec2e8d67f0852e0ff8",
+      "object_sha256": "3f3eb90584c14bf7fb6b66ec46871e7447c893f2fae07cf8180363cced1d2428",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "EHKGOccupiedCauchyData",
+      "containing_attempt": "123",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGOccupiedCauchyData.lean",
+      "source_sha256": "6c85b92aeb3403940eb609e6e33a371b1584d9df7215ef738bea5d502f7a798d",
+      "object_sha256": "5c05aac7ec44d448f8b9ae9928839b0a8d8d2a6fa8e7301e872dc66e217ea49d",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "EHKGOriginalAttachedUse",
+      "containing_attempt": "124",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGOriginalAttachedUse.lean",
+      "source_sha256": "e42eacf3cdedb2ab825cebffcfc6e57d3e6e61b8a82d822206c2e4e1f1043fe1",
+      "object_sha256": "eba497ac151df5e89c9f44347a559271697bf43d9d5b3860512b0bd541964ccd",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "KernelFaithfulCurvedKGEndpoints",
+      "containing_attempt": "126",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\KernelFaithfulCurvedKGEndpoints.lean",
+      "source_sha256": "30a7b9cea4f98d2ab77572837e819c2fb4f93cad1fc913e5a0dc0bb5b478f9a8",
+      "object_sha256": "98fb90c4e3159a917edaa5a48503910066692e2e4cf884f19880915a43390a6c",
+      "log_sha256": "63728ed05806d2e379de3590903f9178770f61bb94b2241079f6e4470bf0646a"
+    },
+    {
+      "module": "EHKGFlatLocalRecovery",
+      "containing_attempt": "129",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGFlatLocalRecovery.lean",
+      "source_sha256": "ef01a51d7f7c392f79319af80d49c4aeb40591f39ced5559e79105214e530939",
+      "object_sha256": "1cf3587581da273323dee257b77b248d758bb1aeeaa612d0c5f320a4291f82d9",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "EHKGCentralSupportSystem",
+      "containing_attempt": "129",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\EHKGCentralSupportSystem.lean",
+      "source_sha256": "6da621d4fa52d14d966462a1191a07bff9efe81d7a7276b69e9d22b319707467",
+      "object_sha256": "7c11212c12f8b122e1bda9ec0ad7dda38d2a9dfcfaf616e459a6fb5cd3535687",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "module": "KernelFaithfulCurvedKGCompletion",
+      "containing_attempt": "130",
+      "containing_status": "passed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-01-curved-kg\\conformal-evolution-003\\src\\KernelFaithfulCurvedKGCompletion.lean",
+      "source_sha256": "d451bc07d22bc4c6b4444ec9b00b777def29c02634d65fc4cec5349857075f36",
+      "object_sha256": "1f5c98459687bebdef0e6e5fef31f2e32a12de58c3f2daefde172f0ba3e6897c",
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "full_audit": "EHKGStage01CompletionAudit; running; no success asserted",
+  "replay": "Prepared driver generator only; not run",
+  "preservation": "118 composition and504 SR entries plus1034 public export files freshly rehashed unchanged; manifest unchanged; no fresh HEAD/remote check",
+  "remaining": [
+    "Successful full compiled declarations/axioms/proof-value audit",
+    "Final independent source-faithful review",
+    "Fresh isolated all-new-module replay using exact retained inputs/runtime",
+    "Final preservation receipt and scoped stage acceptance"
+  ]
+}

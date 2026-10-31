@@ -1,0 +1,16 @@
+SRAffineFrameFromOriginalTranslations.lean:14:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_normalized_original_translations_determine_all_displacement_answers`:
+  [NormedSpace ℝ V]
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [NormedSpace ℝ V] [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_normalized_original_translations_determine_all_displacement_answers' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_constructed_frame_linear_map_bijective' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_frame_has_unique_constructed_affine_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

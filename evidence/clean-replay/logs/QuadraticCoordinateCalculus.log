@@ -1,0 +1,19 @@
+QuadraticCoordinateCalculus.lean:48:37: warning: This simp argument is unused:
+  ite_mul
+
+Hint: Omit it from the simp argument list.
+  simp [quadraticSecondDerivative, coordinateProjection, Pi.single_apply,
+  ̵  ̵ ̵ ̵mul_add,
+  ̲  ̲ ̲ ̲Finset.sum_add_distrib, i̵t̵e̵_̵mul,̵ ̵m̵u̵l̵_ite]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.quadraticPolynomial_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticPolynomial_fderiv' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticDerivative_eval_linear' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticSecondDerivative_basis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticPolynomial_second_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.quadraticPolynomial_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticDerivative_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticPolynomial_smooth' depends on axioms: [propext, Classical.choice, Quot.sound]

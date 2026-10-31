@@ -1,0 +1,9 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_clock_use_has_exact_original_eligibility' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_passive_clock_certification_and_failure_same' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.licensed_sr_passive_frame_preserves_actual_clock_answer' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

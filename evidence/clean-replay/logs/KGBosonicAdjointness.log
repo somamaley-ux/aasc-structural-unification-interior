@@ -1,0 +1,7 @@
+KGBosonicAdjointness.lean:26:39: warning: This simp argument is unused:
+  smul_eq_mul
+
+Hint: Omit it from the simp argument list.
+  simp [permutationAverageCoefficient, s̵m̵u̵l̵_̵e̵q̵_̵m̵u̵l̵,̵ ̵hc]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

@@ -1,0 +1,11 @@
+'AASCSemanticExhaustion.frameLoweredThirdJet_cubic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvatureOfSymmetricCubicGauge_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_first_flat_scalar_composition_second' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_first_flat_metric_pullback_hessian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_first_flat_general_chart_curvature_transport' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

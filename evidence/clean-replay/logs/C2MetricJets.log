@@ -1,0 +1,16 @@
+'AASCSemanticExhaustion.c2_scalarSecondPartial_full_second_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_scalarSecondPartial_symmetric' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalized_metric_matches_receiver' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.hessianMetricPolynomial_c2_normalized' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2NormalizedMetricJetCurvature_receiver' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.metric_response_c2_normalized_germ_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

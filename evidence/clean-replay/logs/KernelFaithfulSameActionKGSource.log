@@ -1,0 +1,9 @@
+KernelFaithfulSameActionKGSource.lean:32:54: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulSameActionKGSource.lean:91:62: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulSameActionKGSource.lean:94:61: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

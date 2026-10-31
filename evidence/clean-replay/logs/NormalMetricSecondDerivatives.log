@@ -1,0 +1,28 @@
+NormalMetricSecondDerivatives.lean:32:4: warning: This simp argument is unused:
+  mul_add
+
+Hint: Omit it from the simp argument list.
+  simp [normalMetricSecondDerivative, coordinateProjection, Pi.single_apply,
+  ̵  ̵ ̵ ̵m̵u̵l̵_̵a̵d̵d̵,̵ ̵Finset.sum_add_distrib,
+  ̲  ̲ ̲ ̲ite_mul, mul_ite]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NormalMetricSecondDerivatives.lean:32:37: warning: This simp argument is unused:
+  ite_mul
+
+Hint: Omit it from the simp argument list.
+  simp [normalMetricSecondDerivative, coordinateProjection, Pi.single_apply,
+  ̵  ̵ ̵ ̵mul_add,
+  ̲  ̲ ̲ ̲Finset.sum_add_distrib, i̵t̵e̵_̵mul,̵ ̵m̵u̵l̵_ite]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.normalMetricDerivative_eval_is_linear' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normalMetricDerivative_eval_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normalMetricSecondDerivative_basis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normalMetricPolynomial_second_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

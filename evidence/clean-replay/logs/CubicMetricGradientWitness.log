@@ -1,0 +1,23 @@
+CubicMetricGradientWitness.lean:83:80: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+CubicMetricGradientWitness.lean:84:36: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+'AASCSemanticExhaustion.cubicMetricField_c3_normalized' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.cubicMetricField_third_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarGradientWitnessJet_metric_symmetry' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.scalarGradientWitnessJet_cubic_symmetry' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.actual_scalar_gradient_witness_time_component' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.actual_scalar_gradient_witness_nonzero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.cubicMetricField_nondegenerate_neighborhood' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

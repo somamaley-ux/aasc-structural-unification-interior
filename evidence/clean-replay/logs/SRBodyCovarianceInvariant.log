@@ -1,0 +1,26 @@
+SRBodyCovarianceInvariant.lean:20:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_body_has_positive_finite_volume`:
+  [DecidableEq ι]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq ι] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRBodyCovarianceInvariant.lean:48:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_covariance_bilinear_is_integral`:
+  [DecidableEq ι]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq ι] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_body_has_positive_finite_volume' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_body_comparison_abs_det_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_body_comparison_preserves_lebesgue' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_covariance_bilinear_is_integral' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_rest_matrix_applies' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_covariance_transforms_under_full_body_comparison' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_rest_matrix_inverse_identities' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_covariance_inverse_congruence_invariant' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

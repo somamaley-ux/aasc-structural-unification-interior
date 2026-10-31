@@ -1,0 +1,12 @@
+'AASCSemanticExhaustion.c2_normal_coordinateDivergence' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.coordinate_metric_covariant_derivative_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.coordinate_metric_divergence_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c3_normal_coordinate_contracted_bianchi_partial' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_coordinate_contracted_bianchi' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_scalar_metric_divergence' depends on axioms: [propext, Classical.choice, Quot.sound]

@@ -1,0 +1,872 @@
+[diag] Diagnostics
+  [reduction] unfolded declarations (max: 5364, num: 68):
+    [reduction] Set ↦ 5364
+    [reduction] Membership.mem ↦ 5216
+    [reduction] DFunLike.coe ↦ 4960
+    [reduction] SetLike.coe ↦ 2628
+    [reduction] Set.Mem ↦ 2588
+    [reduction] PreLp ↦ 2089
+    [reduction] Zero.zero ↦ 1764
+    [reduction] OfNat.ofNat ↦ 1556
+    [reduction] NatCast.natCast ↦ 1444
+    [reduction] MeasureTheory.Lp ↦ 1084
+    [reduction] sInf ↦ 935
+    [reduction] iInf ↦ 924
+    [reduction] bosonicHilbertSector ↦ 902
+    [reduction] LinearMap.toAddMonoidHom ↦ 890
+    [reduction] Submodule.subtype ↦ 890
+    [reduction] HSub.hSub ↦ 806
+    [reduction] norm ↦ 773
+    [reduction] Sub.sub ↦ 766
+    [reduction] Add.add ↦ 735
+    [reduction] SMul.smul ↦ 651
+    [reduction] HSMul.hSMul ↦ 640
+    [reduction] HAdd.hAdd ↦ 574
+    [reduction] AddMonoid.toZero ↦ 512
+    [reduction] fockCoreDomain ↦ 356
+    [reduction] LinearMap.range ↦ 356
+    [reduction] Submodule.copy ↦ 356
+    [reduction] setOf ↦ 320
+    [reduction] lp ↦ 306
+    [reduction] WithTop.some ↦ 296
+    [reduction] Quotient.liftOn₂' ↦ 252
+    [reduction] MeasureTheory.AEEqFun.pair ↦ 252
+    [reduction] id ↦ 250
+    [reduction] Submodule.toAddSubgroup ↦ 230
+    [reduction] AddMonoid.nsmul ↦ 216
+    [reduction] HPow.hPow ↦ 158
+    [reduction] Pow.pow ↦ 158
+    [reduction] Mul.mul ↦ 146
+    [reduction] Quotient.mk ↦ 144
+    [reduction] CauSeq.Completion.mk ↦ 144
+    [reduction] NonUnitalNonAssocSemiring.toMul ↦ 140
+    [reduction] HMul.hMul ↦ 120
+    [reduction] lpSubmodule ↦ 116
+    [reduction] Quotient ↦ 113
+    [reduction] LE.le ↦ 110
+    [reduction] MeasureTheory.AEEqFun ↦ 107
+    [reduction] Semiring.toOne ↦ 94
+    [reduction] EquivLike.coe ↦ 84
+    [reduction] Quotient.liftOn' ↦ 81
+    [reduction] MeasureTheory.AEEqFun.comp ↦ 81
+    [reduction] Semiring.npow ↦ 74
+    [reduction] MeasureTheory.AEEqFun.comp₂ ↦ 70
+    [reduction] Memℓp ↦ 62
+    [reduction] ite ↦ 62
+    [reduction] Set.range ↦ 60
+    [reduction] dite ↦ 46
+    [reduction] Classical.propDecidable ↦ 46
+    [reduction] Function.comp ↦ 42
+    [reduction] Function.invFun ↦ 42
+    [reduction] Semiring.toNatCast ↦ 38
+    [reduction] Neg.neg ↦ 36
+    [reduction] dist ↦ 34
+    [reduction] PseudoMetricSpace.edist ↦ 34
+    [reduction] LT.lt ↦ 32
+    [reduction] Ring.toNeg ↦ 31
+    [reduction] Ring.toSub ↦ 31
+    [reduction] Ring.zsmul ↦ 31
+    [reduction] NonAssocSemiring.toNatCast ↦ 27
+    [reduction] Set.iInter ↦ 22
+  [reduction] unfolded instances (max: 4769, num: 155):
+    [reduction] SeminormedAddCommGroup.toAddCommGroup ↦ 4769
+    [reduction] AddCommGroup.toAddGroup ↦ 4177
+    [reduction] RCLike.toDenselyNormedField ↦ 3052
+    [reduction] DenselyNormedField.toNormedField ↦ 2818
+    [reduction] AddGroup.toSubNegMonoid ↦ 2643
+    [reduction] Set.instMembership ↦ 2598
+    [reduction] SetLike.instMembership ↦ 2598
+    [reduction] NormedField.toField ↦ 2552
+    [reduction] AddMonoidHom.instFunLike ↦ 2120
+    [reduction] SubNegMonoid.toAddMonoid ↦ 2003
+    [reduction] NormedAddCommGroup.toAddCommGroup ↦ 1876
+    [reduction] InnerProductSpace.toNormedSpace ↦ 1762
+    [reduction] Field.toCommRing ↦ 1544
+    [reduction] AddSubgroup.toAddCommGroup ↦ 1476
+    [reduction] AddSubgroupClass.toAddCommGroup ↦ 1476
+    [reduction] AddSubgroupClass.toAddGroup ↦ 1446
+    [reduction] AddSubgroup.instSetLike ↦ 1445
+    [reduction] SeminormedAddGroup.toAddGroup ↦ 1437
+    [reduction] AddMonoid.toAddSemigroup ↦ 1059
+    [reduction] AddSemigroup.toAdd ↦ 1050
+    [reduction] NormedAddGroup.toAddGroup ↦ 1014
+    [reduction] Submodule.setLike ↦ 927
+    [reduction] NormedAddCommGroup.toSeminormedAddCommGroup ↦ 925
+    [reduction] Submodule.instInfSet ↦ 902
+    [reduction] Ring.toSemiring ↦ 895
+    [reduction] LinearMap.instFunLike ↦ 890
+    [reduction] instHAdd ↦ 862
+    [reduction] MeasureTheory.Lp.instNormedAddCommGroup ↦ 861
+    [reduction] CommRing.toRing ↦ 858
+    [reduction] AddSubmonoidClass.toAddMonoid ↦ 856
+    [reduction] Submodule.seminormedAddCommGroup ↦ 796
+    [reduction] SeminormedAddGroup.toNorm ↦ 787
+    [reduction] Submodule.normedAddCommGroup ↦ 762
+    [reduction] NormedAddCommGroup.toNorm ↦ 738
+    [reduction] SubNegMonoid.toSub ↦ 697
+    [reduction] instAddCommGroupPreLp ↦ 694
+    [reduction] instHSub ↦ 633
+    [reduction] instHSMul ↦ 631
+    [reduction] MeasureTheory.AEEqFun.instAddCommGroup ↦ 582
+    [reduction] AddZeroClass.toAddZero ↦ 578
+    [reduction] AddMemClass.toAddSemigroup ↦ 572
+    [reduction] Submodule.addCommGroup ↦ 508
+    [reduction] MeasureTheory.AEEqFun.instAddGroup ↦ 496
+    [reduction] SeminormedAddCommGroup.toNorm ↦ 486
+    [reduction] AddMemClass.add ↦ 456
+    [reduction] SeminormedAddCommGroup.toSeminormedAddGroup ↦ 385
+    [reduction] CommSemiring.toSemiring ↦ 375
+    [reduction] AddSubgroupClass.sub ↦ 346
+    [reduction] AddZero.toAdd ↦ 344
+    [reduction] SMulZeroClass.toSMul ↦ 334
+    [reduction] AddGroupSeminorm.funLike ↦ 298
+    [reduction] MulAction.toSemigroupAction ↦ 286
+    [reduction] NormedAddGroup.toNorm ↦ 279
+    [reduction] SemigroupAction.toSMul ↦ 279
+    [reduction] MetricSpace.toPseudoMetricSpace ↦ 259
+    [reduction] Pi.addCommGroup ↦ 250
+    [reduction] Pi.addGroup ↦ 250
+    [reduction] Pi.subNegMonoid ↦ 250
+    [reduction] MeasureTheory.Lp.instNorm ↦ 248
+    [reduction] AddZero.toZero ↦ 234
+    [reduction] AddCommGroup.toAddCommMonoid ↦ 225
+    [reduction] AddCommMonoid.toAddMonoid ↦ 218
+    [reduction] AddMonoid.toNatSMul ↦ 216
+    [reduction] lp.normedAddCommGroup ↦ 211
+    [reduction] ZeroMemClass.zero ↦ 208
+    [reduction] NormedSpace.toModule ↦ 205
+    [reduction] MeasureTheory.AEEqFun.instAdd ↦ 204
+    [reduction] DistribMulAction.toMulAction ↦ 203
+    [reduction] Module.toDistribMulAction ↦ 202
+    [reduction] SeminormedAddGroup.toPseudoMetricSpace ↦ 200
+    [reduction] Zero.toOfNat0 ↦ 193
+    [reduction] instAddNat ↦ 182
+    [reduction] DivisionSemiring.toSemiring ↦ 176
+    [reduction] Complex.instSemiring ↦ 175
+    [reduction] MeasureTheory.AEEqFun.instSMul ↦ 174
+    [reduction] AddSubmonoidClass.nSMul ↦ 172
+    [reduction] SeminormedAddCommGroup.toPseudoMetricSpace ↦ 164
+    [reduction] NormedAddCommGroup.toNormedAddGroup ↦ 155
+    [reduction] ENormedAddCommMonoid.toESeminormedAddCommMonoid ↦ 153
+    [reduction] ENormedAddMonoid.toESeminormedAddMonoid ↦ 153
+    [reduction] ESeminormedAddCommMonoid.toAddCommMonoid ↦ 153
+    [reduction] ESeminormedAddCommMonoid.toESeminormedAddMonoid ↦ 153
+    [reduction] ESeminormedAddMonoid.toAddMonoid ↦ 153
+    [reduction] NormedAddCommGroup.toENormedAddCommMonoid ↦ 153
+    [reduction] NormedAddGroup.toENormedAddMonoid ↦ 153
+    [reduction] AddSubmonoid.instSetLike ↦ 145
+    [reduction] Pi.addMonoid ↦ 144
+    [reduction] SeminormedRing.toPseudoMetricSpace ↦ 143
+    [reduction] NegZeroClass.toZero ↦ 142
+    [reduction] AddMonoid.toAddZeroClass ↦ 134
+    [reduction] NormedField.toNorm ↦ 120
+    [reduction] Submodule.module ↦ 117
+    [reduction] DistribSMul.toSMulZeroClass ↦ 115
+    [reduction] NormedAddCommGroup.toMetricSpace ↦ 115
+    [reduction] SubMulAction.mulAction' ↦ 115
+    [reduction] Pi.instSub ↦ 114
+    [reduction] MeasureTheory.AEEqFun.instSub ↦ 114
+    [reduction] Submodule.module' ↦ 104
+    [reduction] Pi.addSemigroup ↦ 100
+    [reduction] Pi.instAdd ↦ 100
+    [reduction] Field.toSemifield ↦ 99
+    [reduction] Semifield.toCommSemiring ↦ 99
+    [reduction] SubMulAction.instSetLike ↦ 91
+    [reduction] MonoidWithZero.toMonoid ↦ 80
+    [reduction] MulZeroClass.toZero ↦ 80
+    [reduction] AddCommGroup.toDivisionAddCommMonoid ↦ 73
+    [reduction] SubNegZeroMonoid.toNegZeroClass ↦ 73
+    [reduction] SubNegZeroMonoid.toSubNegMonoid ↦ 73
+    [reduction] SubtractionCommMonoid.toSubtractionMonoid ↦ 73
+    [reduction] SubtractionMonoid.toSubNegMonoid ↦ 73
+    [reduction] SubtractionMonoid.toSubNegZeroMonoid ↦ 73
+    [reduction] MeasureTheory.AEEqFun.instModule ↦ 70
+    [reduction] NormedCommRing.toNormedRing ↦ 65
+    [reduction] NormedRing.toNorm ↦ 64
+    [reduction] MeasureTheory.Lp.instModule ↦ 62
+    [reduction] DistribMulAction.toDistribSMul ↦ 61
+    [reduction] NonUnitalSemiring.toNonUnitalNonAssocSemiring ↦ 59
+    [reduction] NormedField.toMetricSpace ↦ 58
+    [reduction] SubMulAction.smul' ↦ 56
+    [reduction] AddMonoidWithOne.toAddMonoid ↦ 55
+    [reduction] NormedAddGroup.toMetricSpace ↦ 53
+    [reduction] SeminormedRing.toNorm ↦ 53
+    [reduction] NormedRing.toRing ↦ 52
+    [reduction] PseudoMetricSpace.toDist ↦ 52
+    [reduction] Semifield.toDivisionSemiring ↦ 49
+    [reduction] Algebra.toSMul ↦ 48
+    [reduction] lp.instNormSubtypePreLpMemAddSubgroup ↦ 48
+    [reduction] NonUnitalSeminormedRing.toPseudoMetricSpace ↦ 43
+    [reduction] Semiring.toNonAssocSemiring ↦ 41
+    [reduction] Semiring.toNonUnitalSemiring ↦ 40
+    [reduction] Complex.instModuleSelf ↦ 38
+    [reduction] Submodule.normedSpace ↦ 38
+    [reduction] MeasureTheory.Lp.instNormedSpace ↦ 38
+    [reduction] Submodule.innerProductSpace ↦ 34
+    [reduction] Set.instInfSet ↦ 33
+    [reduction] MeasureTheory.L2.innerProductSpace ↦ 30
+    [reduction] CommRing.toCommSemiring ↦ 27
+    [reduction] AddSubmonoid.toAddCommMonoid ↦ 26
+    [reduction] AddSubmonoidClass.toAddCommMonoid ↦ 26
+    [reduction] NonUnitalNonAssocSemiring.toAddCommMonoid ↦ 26
+    [reduction] Submodule.addCommMonoid ↦ 26
+    [reduction] Complex.commRing ↦ 25
+    [reduction] Monoid.toSemigroup ↦ 25
+    [reduction] NonUnitalNonAssocRing.toAddCommGroup ↦ 25
+    [reduction] NonUnitalSeminormedCommRing.toNonUnitalSeminormedRing ↦ 25
+    [reduction] instSMulOfMul ↦ 24
+    [reduction] AddMonoidWithOne.toNatCast ↦ 24
+    [reduction] NonUnitalSeminormedRing.toNorm ↦ 22
+    [reduction] Pi.distribMulAction ↦ 22
+    [reduction] Pi.instSMul ↦ 22
+    [reduction] Pi.module ↦ 22
+    [reduction] Pi.mulAction ↦ 22
+    [reduction] lp.instModulePreLp ↦ 22
+    [reduction] Complex.instAdd ↦ 21
+    [reduction] Complex.instCommSemiring ↦ 21
+  [reduction] unfolded reducible declarations (max: 5379, num: 54):
+    [reduction] AddSubmonoid.toAddSubsemigroup ↦ 5379
+    [reduction] Subtype.val ↦ 4999
+    [reduction] AddSubgroup.toAddSubmonoid ↦ 3139
+    [reduction] Submodule.toAddSubmonoid ↦ 2737
+    [reduction] AddSubsemigroup.carrier ↦ 2628
+    [reduction] AddMonoidHom.toZeroHom ↦ 2556
+    [reduction] ZeroHom.toFun ↦ 2120
+    [reduction] ParticleHilbert ↦ 1847
+    [reduction] LinearMap.toAddHom ↦ 1298
+    [reduction] AddGroupNorm.toNormedAddCommGroup ↦ 1057
+    [reduction] AddGroupNorm.toNormedAddGroup ↦ 1053
+    [reduction] AddGroupSeminorm.toSeminormedAddGroup ↦ 1053
+    [reduction] AddHom.toFun ↦ 890
+    [reduction] SeminormedAddGroup.induced ↦ 798
+    [reduction] SeminormedAddCommGroup.induced ↦ 796
+    [reduction] Nat.cast ↦ 724
+    [reduction] Function.Injective.addGroup ↦ 496
+    [reduction] Function.Injective.subNegMonoid ↦ 496
+    [reduction] inferInstance ↦ 475
+    [reduction] Function.Injective.addZeroClass ↦ 444
+    [reduction] Function.Injective.addMonoid ↦ 382
+    [reduction] FunLike ↦ 314
+    [reduction] AddGroupSeminorm.toFun ↦ 307
+    [reduction] FockHilbert ↦ 305
+    [reduction] AddGroupNorm.toAddGroupSeminorm ↦ 297
+    [reduction] Quotient.lift ↦ 252
+    [reduction] Quotient.liftOn₂ ↦ 252
+    [reduction] Quotient.lift₂ ↦ 252
+    [reduction] ParticleConfiguration ↦ 160
+    [reduction] Quotient.mk'' ↦ 144
+    [reduction] Real.cauchy ↦ 144
+    [reduction] Submodule.toSubMulAction ↦ 123
+    [reduction] outParam ↦ 112
+    [reduction] Decidable.casesOn ↦ 112
+    [reduction] Function.Embedding.toFun ↦ 105
+    [reduction] SubMulAction.carrier ↦ 91
+    [reduction] Equiv.invFun ↦ 84
+    [reduction] Equiv.toFun ↦ 84
+    [reduction] Quot.liftOn ↦ 81
+    [reduction] Quotient.liftOn ↦ 81
+    [reduction] Function.Injective.distribMulAction ↦ 70
+    [reduction] Function.Injective.module ↦ 70
+    [reduction] Prod.fst ↦ 68
+    [reduction] Prod.snd ↦ 68
+    [reduction] Complex.re ↦ 57
+    [reduction] Eq.ndrec ↦ 48
+    [reduction] Function.Injective.distribSMul ↦ 46
+    [reduction] Function.Injective.smulZeroClass ↦ 46
+    [reduction] Complex.im ↦ 36
+    [reduction] Bornology.induced ↦ 34
+    [reduction] PseudoMetricSpace.induced ↦ 34
+    [reduction] UniformSpace.comap ↦ 34
+    [reduction] Momentum ↦ 33
+    [reduction] PureVector ↦ 23
+  [type_class] max synth pending failures (maxSynthPendingDepth: 1), use `set_option maxSynthPendingDepth <limit>`
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] ℕ → NormedAddCommGroup ℂ
+    [type_class] ℕ → NormedAddCommGroup ℂ
+    [type_class] SeminormedAddCommGroup (PreLp fun n => ↥(bosonicHilbertSector a n))
+    [type_class] (i : ℕ) → MeasurableSpace (ParticleConfiguration i)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) → MeasurableSpace (ParticleConfiguration i)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] ℕ → RCLike ℂ
+    [type_class] ℕ → RCLike ℂ
+    [type_class] (i : ℕ) → SeminormedAddCommGroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+  [def_eq] heuristic for solving `f a =?= f b` (max: 182, num: 32):
+    [def_eq] instHAdd ↦ 182
+    [def_eq] MeasureTheory.AEEqFun.cast ↦ 160
+    [def_eq] WithTop.some ↦ 144
+    [def_eq] MeasureTheory.eLpNorm ↦ 138
+    [def_eq] MeasureTheory.Lp.instModule ↦ 126
+    [def_eq] ENNReal.toReal ↦ 124
+    [def_eq] MeasureTheory.AEEqFun.comp₂ ↦ 83
+    [def_eq] Real.rpow ↦ 79
+    [def_eq] AddSubmonoidClass.toAddMonoid ↦ 76
+    [def_eq] MeasureTheory.AEEqFun.comp ↦ 76
+    [def_eq] Submodule.normedAddCommGroup ↦ 72
+    [def_eq] Add.add ↦ 56
+    [def_eq] AddSubgroup.instSetLike ↦ 56
+    [def_eq] MeasureTheory.AEEqFun.instAddGroup ↦ 56
+    [def_eq] ite ↦ 55
+    [def_eq] Memℓp ↦ 52
+    [def_eq] MeasureTheory.AEEqFun.instAdd ↦ 50
+    [def_eq] SetLike.instMembership ↦ 43
+    [def_eq] Semiring.toModule ↦ 36
+    [def_eq] Filter.comap ↦ 34
+    [def_eq] BddAbove ↦ 31
+    [def_eq] Ne ↦ 31
+    [def_eq] Summable ↦ 31
+    [def_eq] Set.Finite ↦ 31
+    [def_eq] Set.range ↦ 31
+    [def_eq] ZeroMemClass.zero ↦ 30
+    [def_eq] AddCommGroup.toAddGroup ↦ 28
+    [def_eq] AddMemClass.add ↦ 26
+    [def_eq] AddMemClass.toAddSemigroup ↦ 26
+    [def_eq] dite ↦ 24
+    [def_eq] iSup ↦ 24
+    [def_eq] tsum ↦ 24
+  [reduction] Axioms (possibly imported non-exposed defs) that were tried to be unfolded (max: 46, num: 1):
+    [reduction] Classical.choice ↦ 46
+  use `set_option diagnostics.threshold <num>` to control threshold for reporting counters
+[diag] Diagnostics
+  [reduction] unfolded declarations (max: 8876, num: 75):
+    [reduction] Set ↦ 8876
+    [reduction] Membership.mem ↦ 8664
+    [reduction] DFunLike.coe ↦ 6622
+    [reduction] SetLike.coe ↦ 4360
+    [reduction] Set.Mem ↦ 4304
+    [reduction] PreLp ↦ 2775
+    [reduction] MeasureTheory.Lp ↦ 1982
+    [reduction] OfNat.ofNat ↦ 1830
+    [reduction] Zero.zero ↦ 1814
+    [reduction] sInf ↦ 1623
+    [reduction] iInf ↦ 1612
+    [reduction] bosonicHilbertSector ↦ 1590
+    [reduction] NatCast.natCast ↦ 1444
+    [reduction] LinearMap.toAddMonoidHom ↦ 1124
+    [reduction] Submodule.subtype ↦ 1124
+    [reduction] Add.add ↦ 1079
+    [reduction] HSub.hSub ↦ 1002
+    [reduction] Sub.sub ↦ 962
+    [reduction] SMul.smul ↦ 925
+    [reduction] HSMul.hSMul ↦ 914
+    [reduction] AddMonoid.toZero ↦ 896
+    [reduction] norm ↦ 837
+    [reduction] HAdd.hAdd ↦ 806
+    [reduction] setOf ↦ 444
+    [reduction] lp ↦ 420
+    [reduction] Quotient.liftOn₂' ↦ 420
+    [reduction] MeasureTheory.AEEqFun.pair ↦ 420
+    [reduction] fockCoreDomain ↦ 390
+    [reduction] LinearMap.range ↦ 390
+    [reduction] Submodule.copy ↦ 390
+    [reduction] Mul.mul ↦ 380
+    [reduction] HMul.hMul ↦ 324
+    [reduction] Submodule.toAddSubgroup ↦ 321
+    [reduction] WithTop.some ↦ 296
+    [reduction] id ↦ 278
+    [reduction] LE.le ↦ 260
+    [reduction] AddMonoid.nsmul ↦ 252
+    [reduction] EquivLike.coe ↦ 228
+    [reduction] NonUnitalNonAssocSemiring.toMul ↦ 209
+    [reduction] Quotient ↦ 164
+    [reduction] HPow.hPow ↦ 158
+    [reduction] MeasureTheory.AEEqFun ↦ 158
+    [reduction] Pow.pow ↦ 158
+    [reduction] Quotient.mk ↦ 144
+    [reduction] CauSeq.Completion.mk ↦ 144
+    [reduction] Quotient.liftOn' ↦ 123
+    [reduction] MeasureTheory.AEEqFun.comp ↦ 123
+    [reduction] Semiring.toOne ↦ 122
+    [reduction] dite ↦ 118
+    [reduction] Classical.propDecidable ↦ 118
+    [reduction] lpSubmodule ↦ 116
+    [reduction] Function.comp ↦ 114
+    [reduction] Function.invFun ↦ 114
+    [reduction] MeasureTheory.AEEqFun.comp₂ ↦ 112
+    [reduction] Neg.neg ↦ 92
+    [reduction] Semiring.npow ↦ 92
+    [reduction] Ring.toNeg ↦ 73
+    [reduction] Ring.toSub ↦ 73
+    [reduction] Ring.zsmul ↦ 73
+    [reduction] Memℓp ↦ 62
+    [reduction] ite ↦ 62
+    [reduction] dist ↦ 62
+    [reduction] PseudoMetricSpace.edist ↦ 62
+    [reduction] Set.range ↦ 60
+    [reduction] Semiring.toNatCast ↦ 48
+    [reduction] edist ↦ 46
+    [reduction] LT.lt ↦ 42
+    [reduction] NNReal.toReal ↦ 38
+    [reduction] MeasureTheory.Lp.LpSubmodule ↦ 37
+    [reduction] AddGroupWithOne.toNeg ↦ 27
+    [reduction] AddGroupWithOne.toSub ↦ 27
+    [reduction] AddGroupWithOne.zsmul ↦ 27
+    [reduction] NonAssocSemiring.toNatCast ↦ 27
+    [reduction] SubNegMonoid.zsmul ↦ 27
+    [reduction] Set.iInter ↦ 22
+  [reduction] unfolded instances (max: 7383, num: 169):
+    [reduction] SeminormedAddCommGroup.toAddCommGroup ↦ 7383
+    [reduction] AddCommGroup.toAddGroup ↦ 6206
+    [reduction] Set.instMembership ↦ 4318
+    [reduction] SetLike.instMembership ↦ 4318
+    [reduction] AddGroup.toSubNegMonoid ↦ 3725
+    [reduction] RCLike.toDenselyNormedField ↦ 3063
+    [reduction] SubNegMonoid.toAddMonoid ↦ 3042
+    [reduction] DenselyNormedField.toNormedField ↦ 2860
+    [reduction] NormedAddCommGroup.toAddCommGroup ↦ 2807
+    [reduction] NormedField.toField ↦ 2568
+    [reduction] AddMonoidHom.instFunLike ↦ 2560
+    [reduction] AddSubgroup.instSetLike ↦ 2520
+    [reduction] SeminormedAddGroup.toAddGroup ↦ 2211
+    [reduction] AddSubgroup.toAddCommGroup ↦ 2173
+    [reduction] AddSubgroupClass.toAddCommGroup ↦ 2173
+    [reduction] AddSubgroupClass.toAddGroup ↦ 2129
+    [reduction] Ring.toSemiring ↦ 2046
+    [reduction] InnerProductSpace.toNormedSpace ↦ 1820
+    [reduction] NormedAddGroup.toAddGroup ↦ 1750
+    [reduction] Submodule.instInfSet ↦ 1590
+    [reduction] Field.toCommRing ↦ 1560
+    [reduction] Submodule.setLike ↦ 1504
+    [reduction] AddSemigroup.toAdd ↦ 1402
+    [reduction] AddMonoid.toAddSemigroup ↦ 1397
+    [reduction] MeasureTheory.Lp.instNormedAddCommGroup ↦ 1269
+    [reduction] NormedAddCommGroup.toSeminormedAddCommGroup ↦ 1218
+    [reduction] instHAdd ↦ 1187
+    [reduction] AddSubmonoidClass.toAddMonoid ↦ 1136
+    [reduction] LinearMap.instFunLike ↦ 1124
+    [reduction] MeasureTheory.AEEqFun.instAddCommGroup ↦ 1056
+    [reduction] AddZeroClass.toAddZero ↦ 1052
+    [reduction] Submodule.seminormedAddCommGroup ↦ 993
+    [reduction] CommRing.toRing ↦ 972
+    [reduction] Submodule.normedAddCommGroup ↦ 932
+    [reduction] SMulZeroClass.toSMul ↦ 904
+    [reduction] instHSMul ↦ 891
+    [reduction] SeminormedAddGroup.toNorm ↦ 883
+    [reduction] MeasureTheory.AEEqFun.instAddGroup ↦ 816
+    [reduction] NormedAddCommGroup.toNorm ↦ 799
+    [reduction] SubNegMonoid.toSub ↦ 797
+    [reduction] AddMemClass.toAddSemigroup ↦ 766
+    [reduction] CommSemiring.toSemiring ↦ 752
+    [reduction] instHSub ↦ 746
+    [reduction] instAddCommGroupPreLp ↦ 736
+    [reduction] Submodule.addCommGroup ↦ 661
+    [reduction] AddZero.toAdd ↦ 632
+    [reduction] SemigroupAction.toSMul ↦ 619
+    [reduction] AddMemClass.add ↦ 613
+    [reduction] MetricSpace.toPseudoMetricSpace ↦ 594
+    [reduction] MulAction.toSemigroupAction ↦ 545
+    [reduction] SeminormedAddCommGroup.toSeminormedAddGroup ↦ 508
+    [reduction] SeminormedAddCommGroup.toNorm ↦ 505
+    [reduction] AddCommGroup.toAddCommMonoid ↦ 426
+    [reduction] DistribMulAction.toMulAction ↦ 426
+    [reduction] Module.toDistribMulAction ↦ 424
+    [reduction] AddZero.toZero ↦ 420
+    [reduction] Complex.instSemiring ↦ 406
+    [reduction] SeminormedAddGroup.toPseudoMetricSpace ↦ 383
+    [reduction] SeminormedRing.toPseudoMetricSpace ↦ 380
+    [reduction] AddSubgroupClass.sub ↦ 374
+    [reduction] NormedSpace.toModule ↦ 363
+    [reduction] SeminormedAddCommGroup.toPseudoMetricSpace ↦ 362
+    [reduction] MeasureTheory.AEEqFun.instSMul ↦ 360
+    [reduction] AddGroupSeminorm.funLike ↦ 338
+    [reduction] NormedAddGroup.toNorm ↦ 337
+    [reduction] NormedAddCommGroup.toNormedAddGroup ↦ 326
+    [reduction] ENormedAddCommMonoid.toESeminormedAddCommMonoid ↦ 322
+    [reduction] ENormedAddMonoid.toESeminormedAddMonoid ↦ 322
+    [reduction] ESeminormedAddCommMonoid.toAddCommMonoid ↦ 322
+    [reduction] ESeminormedAddCommMonoid.toESeminormedAddMonoid ↦ 322
+    [reduction] ESeminormedAddMonoid.toAddMonoid ↦ 322
+    [reduction] NormedAddCommGroup.toENormedAddCommMonoid ↦ 322
+    [reduction] NormedAddGroup.toENormedAddMonoid ↦ 322
+    [reduction] NegZeroClass.toZero ↦ 316
+    [reduction] DistribSMul.toSMulZeroClass ↦ 308
+    [reduction] MeasureTheory.AEEqFun.instAdd ↦ 301
+    [reduction] DivisionSemiring.toSemiring ↦ 298
+    [reduction] AddCommMonoid.toAddMonoid ↦ 292
+    [reduction] MeasureTheory.Lp.instNorm ↦ 286
+    [reduction] lp.normedAddCommGroup ↦ 280
+    [reduction] Pi.addCommGroup ↦ 278
+    [reduction] Pi.addGroup ↦ 278
+    [reduction] Pi.subNegMonoid ↦ 278
+    [reduction] ZeroMemClass.zero ↦ 276
+    [reduction] instAddNat ↦ 256
+    [reduction] AddMonoid.toNatSMul ↦ 252
+    [reduction] NormedField.toNorm ↦ 250
+    [reduction] Zero.toOfNat0 ↦ 243
+    [reduction] Submodule.module ↦ 227
+    [reduction] SubMulAction.mulAction' ↦ 223
+    [reduction] MulZeroClass.toZero ↦ 222
+    [reduction] NormedAddCommGroup.toMetricSpace ↦ 222
+    [reduction] Submodule.module' ↦ 212
+    [reduction] AddSubmonoidClass.nSMul ↦ 208
+    [reduction] AddSubmonoid.instSetLike ↦ 199
+    [reduction] DistribMulAction.toDistribSMul ↦ 192
+    [reduction] MeasureTheory.AEEqFun.instModule ↦ 178
+    [reduction] Pi.addMonoid ↦ 172
+    [reduction] NormedRing.toNorm ↦ 154
+    [reduction] AddMonoid.toAddZeroClass ↦ 152
+    [reduction] MeasureTheory.Lp.instModule ↦ 152
+    [reduction] Pi.instSub ↦ 142
+    [reduction] MeasureTheory.AEEqFun.instSub ↦ 142
+    [reduction] Pi.addSemigroup ↦ 128
+    [reduction] Pi.instAdd ↦ 128
+    [reduction] SeminormedRing.toNorm ↦ 127
+    [reduction] AddCommGroup.toDivisionAddCommMonoid ↦ 126
+    [reduction] SubNegZeroMonoid.toNegZeroClass ↦ 126
+    [reduction] SubNegZeroMonoid.toSubNegMonoid ↦ 126
+    [reduction] SubtractionCommMonoid.toSubtractionMonoid ↦ 126
+    [reduction] SubtractionMonoid.toSubNegMonoid ↦ 126
+    [reduction] SubtractionMonoid.toSubNegZeroMonoid ↦ 126
+    [reduction] Field.toSemifield ↦ 119
+    [reduction] Semifield.toCommSemiring ↦ 119
+    [reduction] NormedCommRing.toNormedRing ↦ 115
+    [reduction] NonUnitalSeminormedRing.toPseudoMetricSpace ↦ 112
+    [reduction] SubMulAction.instSetLike ↦ 109
+    [reduction] PseudoMetricSpace.toDist ↦ 108
+    [reduction] MonoidWithZero.toMonoid ↦ 101
+    [reduction] Algebra.toSMul ↦ 100
+    [reduction] NormedField.toMetricSpace ↦ 100
+    [reduction] NormedRing.toRing ↦ 93
+    [reduction] NonUnitalSemiring.toNonUnitalNonAssocSemiring ↦ 86
+    [reduction] NormedAddGroup.toMetricSpace ↦ 84
+    [reduction] Complex.instModuleSelf ↦ 78
+    [reduction] MeasureTheory.Lp.instNormedSpace ↦ 78
+    [reduction] AddMonoidWithOne.toAddMonoid ↦ 73
+    [reduction] Submodule.normedSpace ↦ 69
+    [reduction] Semifield.toDivisionSemiring ↦ 61
+    [reduction] Semiring.toNonAssocSemiring ↦ 61
+    [reduction] NonUnitalNonAssocRing.toAddCommGroup ↦ 60
+    [reduction] Semiring.toNonUnitalSemiring ↦ 57
+    [reduction] NonUnitalSeminormedCommRing.toNonUnitalSeminormedRing ↦ 56
+    [reduction] SubMulAction.smul' ↦ 56
+    [reduction] Submodule.innerProductSpace ↦ 56
+    [reduction] NonUnitalSeminormedRing.toNorm ↦ 54
+    [reduction] MeasureTheory.L2.innerProductSpace ↦ 52
+    [reduction] instSMulOfMul ↦ 50
+    [reduction] Real.instAdd ↦ 49
+    [reduction] lp.instNormSubtypePreLpMemAddSubgroup ↦ 48
+    [reduction] MeasureTheory.Lp.instEDist ↦ 46
+    [reduction] Complex.commRing ↦ 44
+    [reduction] CommRing.toCommSemiring ↦ 36
+    [reduction] AddSubmonoid.toAddCommMonoid ↦ 35
+    [reduction] AddSubmonoidClass.toAddCommMonoid ↦ 35
+    [reduction] Submodule.addCommMonoid ↦ 35
+    [reduction] Set.instInfSet ↦ 33
+    [reduction] NonUnitalNonAssocSemiring.toAddCommMonoid ↦ 31
+    [reduction] Complex.instCommSemiring ↦ 30
+    [reduction] Complex.instNorm ↦ 29
+    [reduction] Complex.instRing ↦ 29
+    [reduction] NonUnitalSeminormedRing.toSeminormedAddCommGroup ↦ 29
+    [reduction] Monoid.toSemigroup ↦ 28
+    [reduction] SubNegMonoid.toNeg ↦ 27
+    [reduction] instOfNatAtLeastTwo ↦ 24
+    [reduction] AddMonoidWithOne.toNatCast ↦ 24
+    [reduction] MulZeroClass.toSMulWithZero ↦ 24
+    [reduction] SMulWithZero.toSMulZeroClass ↦ 24
+    [reduction] lp.instInnerProductSpace ↦ 24
+    [reduction] lp.instNormedSpace ↦ 24
+    [reduction] Complex.instField ↦ 23
+    [reduction] Complex.instNormedField ↦ 23
+    [reduction] NormedField.toNormedCommRing ↦ 23
+    [reduction] Pi.distribMulAction ↦ 22
+    [reduction] Pi.instSMul ↦ 22
+    [reduction] Pi.module ↦ 22
+    [reduction] Pi.mulAction ↦ 22
+    [reduction] lp.instModulePreLp ↦ 22
+    [reduction] Complex.instAdd ↦ 21
+  [reduction] unfolded reducible declarations (max: 8987, num: 55):
+    [reduction] AddSubmonoid.toAddSubsemigroup ↦ 8987
+    [reduction] Subtype.val ↦ 5933
+    [reduction] AddSubgroup.toAddSubmonoid ↦ 5355
+    [reduction] AddSubsemigroup.carrier ↦ 4424
+    [reduction] Submodule.toAddSubmonoid ↦ 4342
+    [reduction] AddMonoidHom.toZeroHom ↦ 3258
+    [reduction] ParticleHilbert ↦ 3223
+    [reduction] ZeroHom.toFun ↦ 2560
+    [reduction] LinearMap.toAddHom ↦ 1766
+    [reduction] AddGroupNorm.toNormedAddCommGroup ↦ 1509
+    [reduction] AddGroupNorm.toNormedAddGroup ↦ 1501
+    [reduction] AddGroupSeminorm.toSeminormedAddGroup ↦ 1501
+    [reduction] AddHom.toFun ↦ 1124
+    [reduction] SeminormedAddCommGroup.induced ↦ 993
+    [reduction] SeminormedAddGroup.induced ↦ 993
+    [reduction] Function.Injective.addZeroClass ↦ 900
+    [reduction] Function.Injective.addGroup ↦ 816
+    [reduction] Function.Injective.subNegMonoid ↦ 816
+    [reduction] inferInstance ↦ 807
+    [reduction] Nat.cast ↦ 724
+    [reduction] Function.Injective.addMonoid ↦ 674
+    [reduction] FockHilbert ↦ 473
+    [reduction] Quotient.lift ↦ 420
+    [reduction] Quotient.liftOn₂ ↦ 420
+    [reduction] Quotient.lift₂ ↦ 420
+    [reduction] FunLike ↦ 408
+    [reduction] ParticleConfiguration ↦ 404
+    [reduction] AddGroupSeminorm.toFun ↦ 361
+    [reduction] outParam ↦ 354
+    [reduction] AddGroupNorm.toAddGroupSeminorm ↦ 336
+    [reduction] Function.Embedding.toFun ↦ 285
+    [reduction] Equiv.invFun ↦ 228
+    [reduction] Equiv.toFun ↦ 228
+    [reduction] Submodule.toSubMulAction ↦ 213
+    [reduction] Decidable.casesOn ↦ 184
+    [reduction] Function.Injective.distribMulAction ↦ 178
+    [reduction] Function.Injective.module ↦ 178
+    [reduction] Quotient.mk'' ↦ 144
+    [reduction] Real.cauchy ↦ 144
+    [reduction] Prod.fst ↦ 124
+    [reduction] Prod.snd ↦ 124
+    [reduction] Quot.liftOn ↦ 123
+    [reduction] Quotient.liftOn ↦ 123
+    [reduction] Complex.re ↦ 113
+    [reduction] SubMulAction.carrier ↦ 109
+    [reduction] Function.Injective.distribSMul ↦ 100
+    [reduction] Function.Injective.smulZeroClass ↦ 100
+    [reduction] Complex.im ↦ 92
+    [reduction] Momentum ↦ 82
+    [reduction] PureVector ↦ 71
+    [reduction] Bornology.induced ↦ 62
+    [reduction] PseudoMetricSpace.induced ↦ 62
+    [reduction] UniformSpace.comap ↦ 62
+    [reduction] semiOutParam ↦ 54
+    [reduction] Eq.ndrec ↦ 48
+  [type_class] max synth pending failures (maxSynthPendingDepth: 1), use `set_option maxSynthPendingDepth <limit>`
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] ℕ → NormedAddCommGroup ℂ
+    [type_class] ℕ → NormedAddCommGroup ℂ
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] SeminormedAddCommGroup (PreLp fun n => ↥(bosonicHilbertSector a n))
+    [type_class] (i : ℕ) → MeasurableSpace (ParticleConfiguration i)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] ℕ → NormedAddCommGroup ℂ
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] ℕ → NormedAddCommGroup ℂ
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) → MeasurableSpace (ParticleConfiguration i)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] ℕ → RCLike ℂ
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) → MeasurableSpace (ParticleConfiguration i)
+    [type_class] ℕ → RCLike ℂ
+    [type_class] ℕ → RCLike ℂ
+    [type_class] (i : ℕ) → MeasurableSpace (ParticleConfiguration i)
+    [type_class] (i : ℕ) → SeminormedAddCommGroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) → SeminormedAddCommGroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+    [type_class] (i : ℕ) →
+          SetLike (AddSubgroup (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ))
+            (ParticleConfiguration i →ₘ[particleMeasure a i] ℂ)
+  [def_eq] heuristic for solving `f a =?= f b` (max: 256, num: 48):
+    [def_eq] instHAdd ↦ 256
+    [def_eq] MeasureTheory.Lp.instModule ↦ 249
+    [def_eq] MeasureTheory.AEEqFun.cast ↦ 235
+    [def_eq] MeasureTheory.eLpNorm ↦ 176
+    [def_eq] AddSubmonoidClass.toAddMonoid ↦ 169
+    [def_eq] MeasureTheory.AEEqFun.comp ↦ 169
+    [def_eq] WithTop.some ↦ 144
+    [def_eq] AddSubgroup.instSetLike ↦ 143
+    [def_eq] ENNReal.toReal ↦ 143
+    [def_eq] MeasureTheory.AEEqFun.instAddGroup ↦ 143
+    [def_eq] Submodule.normedAddCommGroup ↦ 139
+    [def_eq] MeasureTheory.AEEqFun.instAdd ↦ 134
+    [def_eq] Memℓp ↦ 109
+    [def_eq] MeasureTheory.AEEqFun.comp₂ ↦ 106
+    [def_eq] Add.add ↦ 84
+    [def_eq] Real.rpow ↦ 79
+    [def_eq] Semiring.toModule ↦ 74
+    [def_eq] SetLike.instMembership ↦ 71
+    [def_eq] Filter.comap ↦ 62
+    [def_eq] ite ↦ 55
+    [def_eq] SubMulAction.smul' ↦ 52
+    [def_eq] ZeroMemClass.zero ↦ 48
+    [def_eq] Ne ↦ 47
+    [def_eq] AddCommGroup.toAddGroup ↦ 42
+    [def_eq] MeasureTheory.AEEqFun.instSMul ↦ 39
+    [def_eq] MeasureTheory.Lp.LpSubmodule ↦ 39
+    [def_eq] NormedAddCommGroup.toSeminormedAddCommGroup ↦ 37
+    [def_eq] AddMemClass.add ↦ 35
+    [def_eq] AddMemClass.toAddSemigroup ↦ 35
+    [def_eq] Real.add✝ ↦ 34
+    [def_eq] Real.neg✝ ↦ 34
+    [def_eq] BddAbove ↦ 31
+    [def_eq] Summable ↦ 31
+    [def_eq] Set.Finite ↦ 31
+    [def_eq] Set.range ↦ 31
+    [def_eq] Submodule.toAddSubgroup ↦ 31
+    [def_eq] induced ↦ 31
+    [def_eq] PreLp ↦ 30
+    [def_eq] LinearMap.toAddMonoidHom ↦ 28
+    [def_eq] Submodule.addCommMonoid ↦ 28
+    [def_eq] Submodule.module ↦ 28
+    [def_eq] Submodule.module' ↦ 28
+    [def_eq] Submodule.subtype ↦ 28
+    [def_eq] dite ↦ 24
+    [def_eq] iSup ↦ 24
+    [def_eq] tsum ↦ 24
+    [def_eq] lp.instModuleSubtypePreLpMemAddSubgroup ↦ 24
+    [def_eq] NonUnitalSeminormedRing.toSeminormedAddCommGroup ↦ 23
+  [reduction] Axioms (possibly imported non-exposed defs) that were tried to be unfolded (max: 118, num: 1):
+    [reduction] Classical.choice ↦ 118
+  [kernel] unfolded declarations (max: 734, num: 94):
+    [kernel] Membership.mem ↦ 734
+    [kernel] HAdd.hAdd ↦ 281
+    [kernel] AddCommGroup.toAddGroup ↦ 193
+    [kernel] Ring.toSemiring ↦ 149
+    [kernel] Nat.cast ↦ 144
+    [kernel] NatCast.natCast ↦ 144
+    [kernel] OfNat.ofNat ↦ 143
+    [kernel] SubNegMonoid.toAddMonoid ↦ 137
+    [kernel] LE.le ↦ 128
+    [kernel] AddGroup.toSubNegMonoid ↦ 115
+    [kernel] DFunLike.coe ↦ 103
+    [kernel] AddSubsemigroup.carrier ↦ 102
+    [kernel] SeminormedAddGroup.toAddGroup ↦ 101
+    [kernel] SetLike.coe ↦ 100
+    [kernel] AddSubmonoid.toAddSubsemigroup ↦ 98
+    [kernel] Subtype.val ↦ 96
+    [kernel] norm ↦ 95
+    [kernel] NormedAddCommGroup.toAddCommGroup ↦ 91
+    [kernel] inferInstance ↦ 86
+    [kernel] SMulZeroClass.toSMul ↦ 82
+    [kernel] NormedAddGroup.toAddGroup ↦ 80
+    [kernel] Zero.zero ↦ 80
+    [kernel] CommSemiring.toSemiring ↦ 76
+    [kernel] Add.add ↦ 73
+    [kernel] SetLike.instMembership ↦ 70
+    [kernel] HSMul.hSMul ↦ 65
+    [kernel] AddSubgroupClass.toAddGroup ↦ 61
+    [kernel] SMul.smul ↦ 61
+    [kernel] SeminormedAddGroup.toNorm ↦ 58
+    [kernel] Submodule.toAddSubmonoid ↦ 58
+    [kernel] Complex.instSemiring ↦ 56
+    [kernel] SemigroupAction.toSMul ↦ 54
+    [kernel] AddCommGroup.toAddCommMonoid ↦ 52
+    [kernel] AddMonoid.toZero ↦ 51
+    [kernel] AddSubgroup.toAddSubmonoid ↦ 50
+    [kernel] NormedSpace.toModule ↦ 50
+    [kernel] MulAction.toSemigroupAction ↦ 49
+    [kernel] NormedAddCommGroup.toSeminormedAddCommGroup ↦ 49
+    [kernel] DistribSMul.toSMulZeroClass ↦ 48
+    [kernel] Quotient.mk ↦ 48
+    [kernel] Quotient.mk'' ↦ 48
+    [kernel] Real.zero✝ ↦ 48
+    [kernel] CauSeq.Completion.mk ↦ 48
+    [kernel] SeminormedAddCommGroup.toAddCommGroup ↦ 46
+    [kernel] Module.toDistribMulAction ↦ 45
+    [kernel] ParticleConfiguration ↦ 44
+    [kernel] AddSubgroup.toAddCommGroup ↦ 43
+    [kernel] AddSubgroupClass.toAddCommGroup ↦ 43
+    [kernel] HMul.hMul ↦ 43
+    [kernel] SeminormedAddCommGroup.toPseudoMetricSpace ↦ 43
+    [kernel] NormedAddCommGroup.toNorm ↦ 42
+    [kernel] AddCommMonoid.toAddMonoid ↦ 41
+    [kernel] Set.instMembership ↦ 40
+    [kernel] Submodule.setLike ↦ 40
+    [kernel] SeminormedRing.toPseudoMetricSpace ↦ 39
+    [kernel] NegZeroClass.toZero ↦ 38
+    [kernel] SeminormedAddCommGroup.induced ↦ 38
+    [kernel] Submodule.seminormedAddCommGroup ↦ 38
+    [kernel] ESeminormedAddCommMonoid.toAddCommMonoid ↦ 37
+    [kernel] AddHom.toFun ↦ 36
+    [kernel] ZeroHom.toFun ↦ 36
+    [kernel] MulZeroClass.toZero ↦ 35
+    [kernel] HSub.hSub ↦ 34
+    [kernel] SeminormedAddGroup.induced ↦ 33
+    [kernel] NonUnitalNonAssocSemiring.toAddCommMonoid ↦ 32
+    [kernel] SeminormedAddGroup.toPseudoMetricSpace ↦ 32
+    [kernel] WithTop.some ↦ 32
+    [kernel] AddGroupNorm.toNormedAddCommGroup ↦ 31
+    [kernel] AddGroupSeminorm.toFun ↦ 31
+    [kernel] AddGroupSeminorm.toSeminormedAddGroup ↦ 31
+    [kernel] ESeminormedAddMonoid.toAddMonoid ↦ 31
+    [kernel] NonUnitalNonAssocRing.toAddCommGroup ↦ 31
+    [kernel] SeminormedAddCommGroup.toNorm ↦ 31
+    [kernel] AddGroupNorm.toNormedAddGroup ↦ 30
+    [kernel] NonUnitalNonAssocSemiring.toMulZeroClass ↦ 30
+    [kernel] NonUnitalNonAssocRing.toNonUnitalNonAssocSemiring ↦ 28
+    [kernel] DistribMulAction.toMulAction ↦ 27
+    [kernel] AddSubgroup.instSetLike ↦ 26
+    [kernel] AddZeroClass.toAddZero ↦ 26
+    [kernel] MeasureTheory.Lp.instNormedAddCommGroup ↦ 26
+    [kernel] Submodule.normedAddCommGroup ↦ 25
+    [kernel] instHAdd ↦ 24
+    [kernel] MonoidWithZero.toMonoid ↦ 24
+    [kernel] NormedAddCommGroup.toNormedAddGroup ↦ 24
+    [kernel] AddSemigroup.toAdd ↦ 23
+    [kernel] ENormedAddCommMonoid.toESeminormedAddCommMonoid ↦ 23
+    [kernel] ENormedAddMonoid.toESeminormedAddMonoid ↦ 23
+    [kernel] ESeminormedAddCommMonoid.toESeminormedAddMonoid ↦ 23
+    [kernel] NormedAddCommGroup.toENormedAddCommMonoid ↦ 23
+    [kernel] NormedAddGroup.toENormedAddMonoid ↦ 23
+    [kernel] outParam ↦ 22
+    [kernel] PseudoMetricSpace.induced ↦ 22
+    [kernel] DivisionSemiring.toSemiring ↦ 21
+    [kernel] MetricSpace.toPseudoMetricSpace ↦ 21
+  use `set_option diagnostics.threshold <num>` to control threshold for reporting counters

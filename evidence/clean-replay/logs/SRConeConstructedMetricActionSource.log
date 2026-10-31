@@ -1,0 +1,18 @@
+'AASCSemanticExhaustion.sr_full_cone_constructed_matrix_is_symmetric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.sr_full_cone_constructed_matrix_det_ne_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.sr_full_cone_constructed_matrix_has_its_derived_finite_comparison_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.sr_full_cone_constructed_metric_symmetric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.sr_full_cone_constructed_metric_nondegenerate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.sr_full_original_cone_constructs_actual_scalar_action_and_unique_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,17 @@
+'AASCMetricConstruction.sr_positive_form_bound_from_full_unit_ball_inclusion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_positive_quadratic_form_unique_from_full_unit_ball' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_matrix_quadratic_value' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_matrix_quadratic_congruence' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_constructed_covariance_inverse_positive' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_constructed_covariance_inverse_rest_invariant' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_full_body_isotropy_constructs_unique_spatial_quadratic_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

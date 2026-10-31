@@ -1,0 +1,8 @@
+L2RealMultiplicationCoefficients.lean:37:46: warning: This simp argument is unused:
+  norm_mul
+
+Hint: Omit it from the simp argument list.
+  simp [graphCoefficientA, ̲graphCoefficientB,n̵o̵r̵m̵_̵m̵u̵l̵,̵ ̲Complex.norm_real, ̲Real.norm_eq_abs,
+        abs_of_pos (graphDenominator_pos r), ̲div_eq_mul_inv]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

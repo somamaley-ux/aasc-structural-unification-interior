@@ -1,0 +1,10 @@
+'AASCMetricConstruction.srClockSplitEquiv' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_constructed_lorentz_direct_sum_value' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_lorentz_associated_against_calibrated_rest' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_constructed_lorentz_associated_nondegenerate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

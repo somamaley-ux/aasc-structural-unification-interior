@@ -1,0 +1,2584 @@
+{
+  "status": "accepted_private_stage4",
+  "basis": "Kernel and downstream Kernel-faithful machinery, constraint first.",
+  "root_signature": "AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr (a : Parameters) (s kappa Lambda : ℝ) (coupling : kappa ≠ 0) : KernelFaithfulOperationalSR a s kappa Lambda",
+  "root_field_count": 229,
+  "field_count_scope": "227 named theorem receipts and two retained whole endpoints; not a count of independent manuscript theorems.",
+  "exact_root_fields": [
+    "retained_stage3",
+    "retained_native_sr",
+    "receipt_recorded_delay_radar_derived_from_actual_null_legs",
+    "receipt_every_successful_radar_answer_is_actual",
+    "receipt_occupied_radar_path_sum_is_actual_phase_difference",
+    "receipt_every_occupied_radar_loop_sums_to_zero",
+    "receipt_measured_ruler_answer_has_actual_simultaneous_events",
+    "receipt_actual_affine_identity",
+    "receipt_actual_affine_open_domain_transport",
+    "receipt_actual_affine_inverse_is_the_inverse_frame",
+    "receipt_frame_inverse_left",
+    "receipt_frame_inverse_right",
+    "receipt_frame_event_injective",
+    "receipt_frame_event_composition",
+    "receipt_frame_event_difference",
+    "receipt_frame_preserves_actual_source_form",
+    "receipt_frame_barycentric",
+    "receipt_actual_segment_domain_transport",
+    "receipt_whole_affine_segments_populated",
+    "receipt_axis_boost_actually_admitted",
+    "receipt_actual_inverse_rotation_event",
+    "receipt_actual_axis_boost_time",
+    "receipt_actual_axis_selected_rest_time",
+    "receipt_arbitrary_axis_actual_measured_length",
+    "receipt_arbitrary_axis_actual_selected_time_gap",
+    "receipt_auxiliary_actual_clock_full_marked_state_passive",
+    "receipt_native_frame_preserves_unit",
+    "receipt_directional_clock_marked_event",
+    "receipt_directional_clock_actual_passive_state",
+    "receipt_directional_clock_actual_passive_use",
+    "receipt_directional_clock_actual_frame_readout",
+    "receipt_directional_joint_actual_valid",
+    "receipt_licensed_directional_actual_source",
+    "receipt_licensed_directional_original_preparations",
+    "receipt_directional_actual_canonical_license",
+    "receipt_directional_actual_eh_operand",
+    "receipt_directional_actual_registered_reference",
+    "receipt_actual_occupied_path_is_connected",
+    "receipt_actual_undirected_component_synchronization_unique",
+    "receipt_actual_undirected_component_has_one_common_origin",
+    "receipt_directional_clock_actual_mass",
+    "receipt_directional_clock_actual_hamiltonian",
+    "receipt_directional_clock_actual_proper_tangent",
+    "receipt_directional_clock_actual_rate",
+    "receipt_directional_clock_actual_event",
+    "receipt_directional_clock_actual_reading",
+    "receipt_directional_clock_use_actual_interval",
+    "receipt_directional_clock_use_actually_valid",
+    "receipt_directional_clock_complete_marked_record",
+    "receipt_all_pairs_request_actually_registered",
+    "receipt_finite_all_pairs_network_is_actually_occupied",
+    "receipt_synchronization_from_actual_successful_graph",
+    "receipt_actual_component_synchronization_unique",
+    "receipt_actual_radar_reversal_from_successful_records",
+    "receipt_axial_boost_rest_vector",
+    "receipt_proper_spatial_rotation_actually_supplied",
+    "receipt_actual_native_future_unit_frame_supply",
+    "receipt_supplied_unit_frame_mem",
+    "receipt_supplied_unit_frame_rest",
+    "receipt_auxiliary_endpoint_original_read_and_failure_transport",
+    "receipt_unregistered_auxiliary_failure_retained",
+    "receipt_original_coordinate_ruler_same_question_transport",
+    "receipt_site_event_and_reading_same_question_transport",
+    "receipt_full_licensed_operation_physical_refinement_square",
+    "receipt_rest_unit_is_future_unit",
+    "receipt_ideal_duration_zero",
+    "receipt_ideal_rest_response_derived",
+    "receipt_ideal_inertial_response_classification",
+    "receipt_ideal_inertial_response_unique",
+    "receipt_ideal_response_read_domain",
+    "receipt_gamma_positive_and_hyperbolic",
+    "receipt_measurement_boost_actually_supplied",
+    "receipt_axial_boost_spatial_components",
+    "receipt_endpoint_selection_is_simultaneous_and_unique",
+    "receipt_actual_selected_endpoint_separation",
+    "receipt_actual_selected_length_squared",
+    "receipt_measurement_selected_rest_time_gap",
+    "receipt_fixed_event_pair_passive_simultaneity",
+    "receipt_same_bearer_ticks_actual_dilation",
+    "receipt_actual_orientation_preserves_measured_length",
+    "receipt_physical_time_adapter_inverse",
+    "receipt_licensed_network_operation_actual_source_square",
+    "receipt_licensed_network_operation_actual_readout_square",
+    "receipt_licensed_network_operation_domain_is_exact",
+    "receipt_licensed_network_full_finite_first_failure_square",
+    "receipt_licensed_network_passive_source_square",
+    "receipt_licensed_network_passive_full_first_failure",
+    "receipt_selected_network_event_and_reading_are_actual",
+    "receipt_actual_reference_advance_selected_event_and_reading",
+    "receipt_local_rest_response_zero",
+    "receipt_local_rest_response_monotone",
+    "receipt_local_rest_response_nsmul",
+    "receipt_calibrated_rest_grid_error",
+    "receipt_calibrated_local_rest_response_unique",
+    "receipt_passive_full_marked_state_composition",
+    "receipt_passive_full_marked_state_is_actual",
+    "receipt_retained_measuring_answer_is_same_actual_clock",
+    "receipt_original_coordinate_ruler_is_retained_query_specialization",
+    "receipt_licensed_measuring_read_same_question_passive",
+    "receipt_registered_protocol_ledger_is_exactly_retained",
+    "receipt_observer_slope_actually_positive",
+    "receipt_actual_site_event_affine_time",
+    "receipt_measuring_frame_selected_events_actual_and_unique",
+    "receipt_general_selection_is_actual_axial_selection",
+    "receipt_same_measuring_hyperplane_is_actually_transported",
+    "receipt_measured_endpoint_lies_on_retained_hyperplane",
+    "receipt_presented_selected_event_transport",
+    "receipt_native_duration_zero",
+    "receipt_native_duration_is_actual_metric_length",
+    "receipt_native_duration_unit_scale",
+    "receipt_native_certified_frame",
+    "receipt_native_duration_same_event_frame",
+    "receipt_native_duration_has_actual_original_use",
+    "receipt_native_interval_use_is_same_passively_transported_clock",
+    "receipt_network_data_operation_retains_actual_records",
+    "receipt_network_raw_record_is_same_marked_history",
+    "receipt_network_all_successful_operations_retain_underlying_histories",
+    "receipt_site_window_extension_is_actual_old_extension",
+    "receipt_network_window_extension_has_actual_coordinate_slope",
+    "receipt_network_nonnegative_reference_advance_is_actual",
+    "receipt_network_continuation_selection_exit_is_retained",
+    "receipt_network_receiver_operation_square",
+    "receipt_network_finite_first_failure_square",
+    "receipt_licensed_network_same_metric_operand",
+    "receipt_licensed_network_complete_registered_reference",
+    "receipt_network_rebase_preserves_complete_profile",
+    "receipt_network_data_operation_preserves_sound",
+    "receipt_network_operation_preserves_actual_sound_region",
+    "receipt_network_actual_source_passes_local_tests",
+    "receipt_network_actual_sound_region_postfixed",
+    "receipt_actual_network_source_has_kernel_faithful_license",
+    "receipt_licensed_network_has_actual_sound_source",
+    "receipt_licensed_network_old_actual_raw_source_square",
+    "receipt_licensed_network_old_preparations_square",
+    "receipt_passive_network_actually_sound",
+    "receipt_inverse_chart_after_actual_presentation",
+    "receipt_inverse_chart_domain_image",
+    "receipt_passive_network_request_domain",
+    "receipt_passive_network_measuring_domain",
+    "receipt_actual_measuring_answer_same_question_transport",
+    "receipt_measuring_read_same_question_transport_and_failure",
+    "receipt_network_partial_operation_passive_square",
+    "receipt_network_operation_retains_presentation",
+    "receipt_passive_program_parameter_stable",
+    "receipt_passive_network_finite_first_failure",
+    "receipt_populated_network_actual_sound",
+    "receipt_inhabited_network_covers_every_old_preparation",
+    "receipt_network_base_joint_actually_valid",
+    "receipt_network_raw_joint_actually_valid",
+    "receipt_network_licensed_site_retains_actual_raw_source",
+    "receipt_radar_read_exact_domain",
+    "receipt_occupied_network_radar_answer",
+    "receipt_relay_extra_endpoint_is_actual_positive_clock",
+    "receipt_network_operation_actual_data_square",
+    "receipt_network_complete_profile_factors_physical_data",
+    "receipt_network_actual_raw_old_profile_square",
+    "receipt_network_old_physical_square",
+    "receipt_network_all_registered_operations_have_exact_descent",
+    "receipt_network_failed_radar_attempt_is_retained",
+    "receipt_raw_network_clock_actual_same_event",
+    "receipt_raw_network_clock_actual_same_reading",
+    "receipt_measured_network_endpoints_are_actual_same_clocks",
+    "receipt_relay_extra_endpoint_actual_passive_event_and_reading",
+    "receipt_actual_radar_answer_passive",
+    "receipt_actual_radar_read_and_failure_passive",
+    "receipt_actual_signal_ledger_events_momenta_identities_passive",
+    "receipt_signal_read_and_failure_passive",
+    "receipt_protocol_and_reference_are_retained_under_passive",
+    "receipt_actual_native_ideal_class_is_occupied",
+    "receipt_relay_main_crossing_records",
+    "receipt_relay_compensator_shared_vertex",
+    "receipt_relay_full_legs_are_actual_original_rays",
+    "receipt_relay_positive_energy_and_balanced_vertex",
+    "receipt_relay_at_distinct_sites_geometry",
+    "receipt_occupied_radar_readings",
+    "receipt_recorded_delay_arrival_departure",
+    "receipt_phase_path_telescope",
+    "receipt_phase_path_loop_zero",
+    "receipt_every_nonzero_endpoint_standard_has_actual_radar_and_measuring_use",
+    "receipt_old_licensed_consumer_has_actual_passive_source",
+    "receipt_positive_speed_beta_is_subluminal",
+    "receipt_physical_rest_duration_is_actual_time",
+    "receipt_actual_directional_clock_readings_in_physical_units",
+    "receipt_occupied_radar_physical_units",
+    "receipt_actual_tick_dilation_in_physical_time",
+    "receipt_populated_network_every_declared_valid_request_is_executed",
+    "receipt_populated_network_radar_success_is_inhabited",
+    "receipt_actual_site_passive_slope",
+    "receipt_network_raw_use_is_actual_passive_rest_rebase",
+    "receipt_network_passive_source_is_same_actual_old_clock",
+    "receipt_relay_compensator_full_legs_are_original_rays",
+    "receipt_relay_whole_affine_domain_populated",
+    "receipt_relay_whole_segments_transport",
+    "receipt_protocol_time_slab_open",
+    "receipt_time_slab_full_segment",
+    "receipt_relay_proper_restricted_domain_populated",
+    "receipt_synchronization_unique_on_actual_component",
+    "receipt_all_pairs_synchronization_has_one_origin",
+    "receipt_restUnit_future",
+    "receipt_site_actual_event",
+    "receipt_site_actual_reading",
+    "receipt_site_use_actually_valid",
+    "receipt_framed_site_use_actually_valid",
+    "receipt_site_phases_are_actual_offsets",
+    "receipt_rest_length_positive",
+    "receipt_rest_length_square",
+    "receipt_normalized_tangent_is_future_unit",
+    "receipt_rest_length_times_normalized_tangent",
+    "receipt_outbound_frame_mem",
+    "receipt_outbound_frame_actual_interval",
+    "receipt_actual_rest_presentation",
+    "receipt_actual_successful_radar_has_proper_open_domain",
+    "receipt_rotated_boost_is_actually_admitted",
+    "receipt_rotated_boost_actual_time",
+    "receipt_rotated_measuring_time_is_actual_selected_time",
+    "receipt_general_measuring_separation_is_actual_source_form",
+    "receipt_rotated_actual_selected_length_squared",
+    "receipt_successful_rotated_ruler_is_actual_measurement",
+    "receipt_actual_source_form_smul",
+    "receipt_actual_source_form_zero",
+    "receipt_native_frame_source_quadratic",
+    "receipt_future_timelike_strict_cone",
+    "receipt_native_frame_preserves_future_timelike",
+    "receipt_native_frame_future_timelike_iff",
+    "receipt_future_unit_positive_scale",
+    "receipt_future_unit_scaled_rest_length",
+    "receipt_native_rest_time_is_actual_length",
+    "receipt_rest_length_native_frame",
+    "receipt_normalized_tangent_native_frame"
+  ],
+  "exact_new_statement_map": [
+    {
+      "field": "receipt_recorded_delay_radar_derived_from_actual_null_legs",
+      "theorem": "AASCKleinGordon.OperationalSR.recorded_delay_radar_derived_from_actual_null_legs",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRActualNetworkRadar.lean",
+      "source_sha256": "226aaee9ab8df56cf5817eb1c217fe56c176a7831faa8096f26de21a1d74e273",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (X Y : SRSpace)\n    (tm ta td tp delay : ℝ)\n    (incoming : ((ta,Y):SREvent)-(tm,X) ∈ srOriginalFutureRayIncrements)\n    (outgoing : ((tp,X):SREvent)-(td,Y) ∈ srOriginalFutureRayIncrements)\n    (recorded_wait : td-ta=delay),\n    ta=(tm+tp-delay)/2 ∧ td=(tm+tp+delay)/2 ∧\n      (tp-tm-delay)/2=‖Y-X‖",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_every_successful_radar_answer_is_actual",
+      "theorem": "AASCKleinGordon.OperationalSR.every_successful_radar_answer_is_actual",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRActualNetworkRadar.lean",
+      "source_sha256": "226aaee9ab8df56cf5817eb1c217fe56c176a7831faa8096f26de21a1d74e273",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (index : ℕ) (correction : ℝ) (answer : RadarAnswer)\n    (read : radarRead a s Omega n d index correction=some answer),\n    ∃ r : ExchangeRequest n, d.schedule[index]?=some r ∧\n      answer=actualRadarAnswer a s Omega n d index r ∧\n      answer.offset=d.sites.phase r.toSite-d.sites.phase r.fromSite ∧\n      answer.length=‖d.sites.position r.toSite-d.sites.position r.fromSite‖",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_occupied_radar_path_sum_is_actual_phase_difference",
+      "theorem": "AASCKleinGordon.OperationalSR.occupied_radar_path_sum_is_actual_phase_difference",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRActualNetworkRadar.lean",
+      "source_sha256": "226aaee9ab8df56cf5817eb1c217fe56c176a7831faa8096f26de21a1d74e273",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ {d : NetworkData a s Omega n}\n    (sound : networkSound a s Omega n d) {i j : Fin (n+1)} (path : OccupiedRadarPath a s Omega n d i j),\n    occupiedRadarPathSum a s Omega n path=d.sites.phase j-d.sites.phase i",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_every_occupied_radar_loop_sums_to_zero",
+      "theorem": "AASCKleinGordon.OperationalSR.every_occupied_radar_loop_sums_to_zero",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRActualNetworkRadar.lean",
+      "source_sha256": "226aaee9ab8df56cf5817eb1c217fe56c176a7831faa8096f26de21a1d74e273",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ {d : NetworkData a s Omega n}\n    (sound : networkSound a s Omega n d) (i : Fin (n+1)) (loop : OccupiedRadarPath a s Omega n d i i),\n    occupiedRadarPathSum a s Omega n loop=0",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_measured_ruler_answer_has_actual_simultaneous_events",
+      "theorem": "AASCKleinGordon.OperationalSR.measured_ruler_answer_has_actual_simultaneous_events",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRActualNetworkRadar.lean",
+      "source_sha256": "226aaee9ab8df56cf5817eb1c217fe56c176a7831faa8096f26de21a1d74e273",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (i j : Fin (n+1)) (T : ℝ)\n    (domain : rulerDomain a s Omega n d i j T),\n    ∃ X Y : SREvent, rulerRead a s Omega n d i j T=some (X,Y,‖Y.2-X.2‖) ∧ X.1=T ∧ Y.1=T",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_affine_identity",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_affine_identity",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrameClosure.lean",
+      "source_sha256": "8b159c5c660ce7d261286fd597e14e033bf0ae0ee51541aef79bd49012731b10",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (p : SREvent),\n    frameEvent 1 0 p=p",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_affine_open_domain_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_affine_open_domain_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrameClosure.lean",
+      "source_sha256": "8b159c5c660ce7d261286fd597e14e033bf0ae0ee51541aef79bd49012731b10",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b : SREvent) (O : Set SREvent) (openDomain : IsOpen O),\n    IsOpen (frameEvent A b '' O)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_affine_inverse_is_the_inverse_frame",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_affine_inverse_is_the_inverse_frame",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrameClosure.lean",
+      "source_sha256": "8b159c5c660ce7d261286fd597e14e033bf0ae0ee51541aef79bd49012731b10",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b p : SREvent),\n    frameInverse A b p=frameEvent A⁻¹ (-srMatrixFrameEventLinear A⁻¹ b) p",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_frame_inverse_left",
+      "theorem": "AASCKleinGordon.OperationalSR.frame_inverse_left",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b p : SREvent),\n    frameInverse A b (frameEvent A b p)=p",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_frame_inverse_right",
+      "theorem": "AASCKleinGordon.OperationalSR.frame_inverse_right",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b p : SREvent),\n    frameEvent A b (frameInverse A b p)=p",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_frame_event_injective",
+      "theorem": "AASCKleinGordon.OperationalSR.frame_event_injective",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b : SREvent),\n    Function.Injective (frameEvent A b)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_frame_event_composition",
+      "theorem": "AASCKleinGordon.OperationalSR.frame_event_composition",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A B : SRMatrixFrame) (a b p : SREvent),\n    frameEvent A a (frameEvent B b p)=frameEvent (A*B) (frameEvent A a b) p",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_frame_event_difference",
+      "theorem": "AASCKleinGordon.OperationalSR.frame_event_difference",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b p q : SREvent),\n    frameEvent A b q-frameEvent A b p=srMatrixFrameEventLinear A (q-p)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_frame_preserves_actual_source_form",
+      "theorem": "AASCKleinGordon.OperationalSR.frame_preserves_actual_source_form",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (b p q : SREvent),\n    srOriginalOrderQuadratic (frameEvent A b q-frameEvent A b p)=srOriginalOrderQuadratic (q-p)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_frame_barycentric",
+      "theorem": "AASCKleinGordon.OperationalSR.frame_barycentric",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b p q : SREvent) (t : ℝ),\n    frameEvent A b ((1-t) • p+t • q)=(1-t) • frameEvent A b p+t • frameEvent A b q",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_segment_domain_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_segment_domain_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b p q : SREvent) (O : Set SREvent),\n    segmentCovered (frameEvent A b '' O) (frameEvent A b p) (frameEvent A b q) ↔ segmentCovered O p q",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_whole_affine_segments_populated",
+      "theorem": "AASCKleinGordon.OperationalSR.whole_affine_segments_populated",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAffineFrames.lean",
+      "source_sha256": "38979a3f1d179df6c8ec74031e7f19e7e34999bd857dbbbe577cc84e399b7561",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (p q : SREvent),\n    segmentCovered univ p q",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_axis_boost_actually_admitted",
+      "theorem": "AASCKleinGordon.OperationalSR.axis_boost_actually_admitted",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRArbitraryAxisMeasurement.lean",
+      "source_sha256": "e7bb2c2ee866e5bf796e0c7619d245e3eac289d2e694d95c1aad2e4af3f206c7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t),\n    axisBoost Q t r hyper ∈ srNativeFrameComparisons",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_inverse_rotation_event",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_inverse_rotation_event",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRArbitraryAxisMeasurement.lean",
+      "source_sha256": "e7bb2c2ee866e5bf796e0c7619d245e3eac289d2e694d95c1aad2e4af3f206c7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace) (z : SREvent),\n    srMatrixFrameEventLinear (srRestCoordinateUnit Q)⁻¹ z=(z.1,Q.symm z.2)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_axis_boost_time",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_axis_boost_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRArbitraryAxisMeasurement.lean",
+      "source_sha256": "e7bb2c2ee866e5bf796e0c7619d245e3eac289d2e694d95c1aad2e4af3f206c7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (t r : ℝ) (hyper : t^2-r^2=1) (b z : SREvent),\n    (frameEvent (axisBoost Q t r hyper) b z).1=t*z.1+r*(Q.symm z.2) 0+b.1",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_axis_selected_rest_time",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_axis_selected_rest_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRArbitraryAxisMeasurement.lean",
+      "source_sha256": "e7bb2c2ee866e5bf796e0c7619d245e3eac289d2e694d95c1aad2e4af3f206c7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t)\n    (b : SREvent) (T : ℝ) (X : SRSpace),\n    selectedSiteTime (axisBoost Q t r hyper) b T X=selectedRestTime t r b T (Q.symm X)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_arbitrary_axis_actual_measured_length",
+      "theorem": "AASCKleinGordon.OperationalSR.arbitrary_axis_actual_measured_length",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRArbitraryAxisMeasurement.lean",
+      "source_sha256": "e7bb2c2ee866e5bf796e0c7619d245e3eac289d2e694d95c1aad2e4af3f206c7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t)\n    (b : SREvent) (T : ℝ) (X Y : SRSpace),\n    ‖(measuredEndpoint (axisBoost Q t r hyper) b T Y).2-(measuredEndpoint (axisBoost Q t r hyper) b T X).2‖^2=\n      ((Q.symm Y) 0-(Q.symm X) 0)^2/t^2+\n      ((Q.symm Y) 1-(Q.symm X) 1)^2+((Q.symm Y) 2-(Q.symm X) 2)^2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_arbitrary_axis_actual_selected_time_gap",
+      "theorem": "AASCKleinGordon.OperationalSR.arbitrary_axis_actual_selected_time_gap",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRArbitraryAxisMeasurement.lean",
+      "source_sha256": "e7bb2c2ee866e5bf796e0c7619d245e3eac289d2e694d95c1aad2e4af3f206c7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t)\n    (b : SREvent) (T : ℝ) (X Y : SRSpace),\n    selectedSiteTime (axisBoost Q t r hyper) b T Y-selectedSiteTime (axisBoost Q t r hyper) b T X=\n      -(r/t)*((Q.symm Y) 0-(Q.symm X) 0)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_auxiliary_actual_clock_full_marked_state_passive",
+      "theorem": "AASCKleinGordon.OperationalSR.auxiliary_actual_clock_full_marked_state_passive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRAuxiliaryPassive.lean",
+      "source_sha256": "5a29e63e9ab3bea8ca8e04192e680df4265d02fc7e62c979b62e9badfacccba1",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons)\n    (c : SREvent) (d : NetworkData a s Omega n) (sound : networkSound a s Omega n d)\n    (r : ExchangeRequest n) (T : ℝ),\n    let original : SRClockRecord := (0,0,srNativeRestClock (relayZ (requestRelay a s Omega n d r)))\n    let time := srPassiveMarkedTime a.mass d.frame d.origin original T\n    srNativeCoastingMarkedRecord a.mass (relayClockRecord a s Omega n (passiveNetworkData a s Omega n B c d) r)\n      (srPassiveMarkedTime a.mass (B*d.frame) (frameEvent B c d.origin) original T)=\n    transportMarkedState a.mass B c time (srNativeCoastingMarkedRecord a.mass (relayClockRecord a s Omega n d r) time)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_native_frame_preserves_unit",
+      "theorem": "AASCKleinGordon.OperationalSR.native_frame_preserves_unit",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockFrameTransport.lean",
+      "source_sha256": "f1583be074afcc9eb9392893002ad21b5bae4709cb6ff936cf495cb919e3c533",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (U : SREvent) (unit : IsFutureUnit U),\n    IsFutureUnit (srMatrixFrameEventLinear A U)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_marked_event",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_marked_event",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockFrameTransport.lean",
+      "source_sha256": "f1583be074afcc9eb9392893002ad21b5bae4709cb6ff936cf495cb919e3c533",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ),\n    srMarkedClockEvent mu0 (directionalClockUse mu0 J U origin phase T).record\n      (directionalClockUse mu0 J U origin phase T).finish=origin+T • U",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_passive_state",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_passive_state",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockFrameTransport.lean",
+      "source_sha256": "f1583be074afcc9eb9392893002ad21b5bae4709cb6ff936cf495cb919e3c533",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin b : SREvent) (phase : ℝ) (A : SRMatrixFrame),\n    srPassiveClockState mu0 A b origin.1 (directionalClock mu0 J U origin.2 phase)=\n      directionalClock mu0 J (srMatrixFrameEventLinear A U) (frameEvent A b origin).2 phase",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_passive_use",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_passive_use",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockFrameTransport.lean",
+      "source_sha256": "f1583be074afcc9eb9392893002ad21b5bae4709cb6ff936cf495cb919e3c533",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin b : SREvent) (phase T : ℝ) (A : SRMatrixFrame),\n    srPassiveClockUse mu0 A b (directionalClockUse mu0 J U origin phase T)=\n      directionalClockUse mu0 J (srMatrixFrameEventLinear A U) (frameEvent A b origin) phase T",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_frame_readout",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_frame_readout",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockFrameTransport.lean",
+      "source_sha256": "f1583be074afcc9eb9392893002ad21b5bae4709cb6ff936cf495cb919e3c533",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (base : 0 < mu0) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin b : SREvent) (phase T : ℝ) (A : SRMatrixFrame)\n    (admitted : A ∈ srNativeFrameComparisons),\n    srClockCertification mu0 (directionalClockUse mu0 J (srMatrixFrameEventLinear A U)\n      (frameEvent A b origin) phase T)=srClockCertification mu0 (directionalClockUse mu0 J U origin phase T)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_joint_actual_valid",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_joint_actual_valid",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockLicensedSource.lean",
+      "source_sha256": "9b3d09b6ac90d667315eabda4c1afb8005d1a1c10e1e5038f2ed41dacb5ff407",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (J : ℝ) (positive : 0 < a.mass+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ) (forward : 0 ≤ T)\n    (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega}),\n    srNativeClockUseValid a.mass (directionalJointSource a s Omega J U origin phase T r H).clock",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega"
+      ]
+    },
+    {
+      "field": "receipt_licensed_directional_actual_source",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_directional_actual_source",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockLicensedSource.lean",
+      "source_sha256": "9b3d09b6ac90d667315eabda4c1afb8005d1a1c10e1e5038f2ed41dacb5ff407",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (J : ℝ) (positive : 0 < a.mass+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ) (forward : 0 ≤ T)\n    (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega}),\n    licensedJointSRSource a s Omega (licensedDirectionalClock a s Omega J positive U unit origin phase T forward r H)=\n      directionalJointSource a s Omega J U origin phase T r H",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega"
+      ]
+    },
+    {
+      "field": "receipt_licensed_directional_original_preparations",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_directional_original_preparations",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockLicensedSource.lean",
+      "source_sha256": "9b3d09b6ac90d667315eabda4c1afb8005d1a1c10e1e5038f2ed41dacb5ff407",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (J : ℝ) (positive : 0 < a.mass+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ) (forward : 0 ≤ T)\n    (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega}),\n    licensedSRScalar a s Omega (licensedDirectionalClock a s Omega J positive U unit origin phase T forward r H)=r ∧\n      (licensedJointSRSource a s Omega (licensedDirectionalClock a s Omega J positive U unit origin phase T forward r H)).metric=H",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega"
+      ]
+    },
+    {
+      "field": "receipt_directional_actual_canonical_license",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_actual_canonical_license",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockLicensedSource.lean",
+      "source_sha256": "9b3d09b6ac90d667315eabda4c1afb8005d1a1c10e1e5038f2ed41dacb5ff407",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (J : ℝ) (positive : 0 < a.mass+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ) (forward : 0 ≤ T)\n    (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega}),\n    constructedLicensing (originalJointSRTask a s Omega)\n      (directionalJointSource a s Omega J U origin phase T r H) (originalJointSRUseMeaning a s Omega)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega"
+      ]
+    },
+    {
+      "field": "receipt_directional_actual_eh_operand",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_actual_eh_operand",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockLicensedSource.lean",
+      "source_sha256": "9b3d09b6ac90d667315eabda4c1afb8005d1a1c10e1e5038f2ed41dacb5ff407",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (J : ℝ) (positive : 0 < a.mass+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ) (forward : 0 ≤ T)\n    (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (kappa Lambda : ℝ) (coupling : kappa ≠ 0),\n    restrictedEHMetric a s Omega (licensedEHResponse a s Omega\n      (licensedSRMetric a s Omega kappa Lambda coupling\n        (licensedDirectionalClock a s Omega J positive U unit origin phase T forward r H)))=\n      originalEHActMetric H.val",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega"
+      ]
+    },
+    {
+      "field": "receipt_directional_actual_registered_reference",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_actual_registered_reference",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRClockLicensedSource.lean",
+      "source_sha256": "9b3d09b6ac90d667315eabda4c1afb8005d1a1c10e1e5038f2ed41dacb5ff407",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (J : ℝ) (positive : 0 < a.mass+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ) (forward : 0 ≤ T)\n    (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (kappa Lambda : ℝ) (coupling : kappa ≠ 0)\n    (q : RegisteredQuestion (KGFamilyQuestion a Omega (kgOriginalObject a))),\n    (licensedReadout a s Omega (licensedSRMetric a s Omega kappa Lambda coupling\n      (licensedDirectionalClock a s Omega J positive U unit origin phase T forward r H)) []).answer\n        (.inr (mapRegisteredQuestion kgFamilyQuestionInChart q))=\n      (licensedScalarReference a s Omega (scalarBaseObject a) r (mapRegisteredQuestion kgNROldQuestion q)).map Sum.inr",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega"
+      ]
+    },
+    {
+      "field": "receipt_actual_occupied_path_is_connected",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_occupied_path_is_connected",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRConnectedSynchronization.lean",
+      "source_sha256": "aba8634bde39393bbcdbf610aba18f48b99b2d16f3e5467f50bfea072f89620b",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    {i j : Fin (n+1)} (path : OccupiedRadarPath a s Omega n d i j),\n    ActualRadarConnected a s Omega n d i j",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_undirected_component_synchronization_unique",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_undirected_component_synchronization_unique",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRConnectedSynchronization.lean",
+      "source_sha256": "aba8634bde39393bbcdbf610aba18f48b99b2d16f3e5467f50bfea072f89620b",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (other : Fin (n+1) → ℝ)\n    (reads : ∀ index correction r answer, d.schedule[index]?=some r →\n      radarRead a s Omega n d index correction=some answer → answer.offset=other r.toSite-other r.fromSite)\n    {i j : Fin (n+1)} (connected : ActualRadarConnected a s Omega n d i j),\n    other j-d.sites.phase j=other i-d.sites.phase i",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_undirected_component_has_one_common_origin",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_undirected_component_has_one_common_origin",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRConnectedSynchronization.lean",
+      "source_sha256": "aba8634bde39393bbcdbf610aba18f48b99b2d16f3e5467f50bfea072f89620b",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (other : Fin (n+1) → ℝ)\n    (reads : ∀ index correction r answer, d.schedule[index]?=some r →\n      radarRead a s Omega n d index correction=some answer → answer.offset=other r.toSite-other r.fromSite)\n    (base : Fin (n+1)),\n    ∃ origin : ℝ, ∀ j, ActualRadarConnected a s Omega n d base j → other j=d.sites.phase j+origin",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_directional_clock_actual_mass",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_mass",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (U : SREvent) (x : SRSpace) (phase : ℝ),\n    srNativeClockMass mu0 (directionalClock mu0 J U x phase)=mu0+J",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_hamiltonian",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_hamiltonian",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (x : SRSpace) (phase : ℝ),\n    srNativeClockHamiltonian mu0 (directionalClock mu0 J U x phase)=(mu0+J)*U.1",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_proper_tangent",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_proper_tangent",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (x : SRSpace) (phase : ℝ),\n    srNativeProperTangent mu0 (directionalClock mu0 J U x phase)=U",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_rate",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_rate",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (x : SRSpace) (phase : ℝ),\n    srNativeClockRate mu0 (directionalClock mu0 J U x phase)=1/U.1",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_event",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_event",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (x : SRSpace) (phase theta tau : ℝ),\n    (theta+tau*U.1,(srNativeClockCoastFlow mu0 (tau*U.1) (directionalClock mu0 J U x phase)).position)=\n      (theta,x)+tau • U",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_actual_reading",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_actual_reading",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (x : SRSpace) (phase tau : ℝ),\n    (srNativeClockCoastFlow mu0 (tau*U.1) (directionalClock mu0 J U x phase)).reading=phase+tau",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_use_actual_interval",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_use_actual_interval",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ),\n    srNativeClockActualInterval mu0 (directionalClockUse mu0 J U origin phase T)=T",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_use_actually_valid",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_use_actually_valid",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase T : ℝ) (forward : 0 ≤ T),\n    srNativeClockUseValid mu0 (directionalClockUse mu0 J U origin phase T)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_directional_clock_complete_marked_record",
+      "theorem": "AASCKleinGordon.OperationalSR.directional_clock_complete_marked_record",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRDirectionalClocks.lean",
+      "source_sha256": "1a2cc001fde9c51ba23cbd7ca383eaee64cf11713f0775dc51bc15780450a523",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (origin : SREvent) (phase tau : ℝ) (id : Fin 2),\n    let record := srNativeCoastingMarkedRecord mu0\n      (id,origin.1,directionalClock mu0 J U origin.2 phase) (origin.1+tau*U.1)\n    record.1=id ∧ record.2.position=origin.2+tau • U.2 ∧\n      record.2.momentum=(mu0+J) • U.2 ∧ record.2.internalEnergy=J ∧ record.2.reading=phase+tau",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_all_pairs_request_actually_registered",
+      "theorem": "AASCKleinGordon.OperationalSR.all_pairs_request_actually_registered",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFiniteNetworkCoverage.lean",
+      "source_sha256": "d25b535c7e6c0d49912b821edd434e6afffbfabdc354978a3187857c71a852e0",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (i j : Fin (n+1)),\n    ∃ index : ℕ, (allPairsSchedule n)[index]?=some (⟨i,j,0,0,1⟩ : ExchangeRequest n)",
+      "free_root_variables": [
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_finite_all_pairs_network_is_actually_occupied",
+      "theorem": "AASCKleinGordon.OperationalSR.finite_all_pairs_network_is_actually_occupied",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFiniteNetworkCoverage.lean",
+      "source_sha256": "d25b535c7e6c0d49912b821edd434e6afffbfabdc354978a3187857c71a852e0",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (sites : Fin (n+1) → SRSpace) (phase : Fin (n+1) → ℝ),\n    ∃ d : NetworkData a s Omega n, networkSound a s Omega n d ∧ d.sites.position=sites ∧ d.sites.phase=phase ∧\n      ∀ i j, sites j ≠ sites i → ∃ index answer,\n        d.schedule[index]?=some (⟨i,j,0,0,1⟩ : ExchangeRequest n) ∧\n        radarRead a s Omega n d index 0=some answer ∧\n        answer.offset=phase j-phase i ∧ answer.length=‖sites j-sites i‖",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_synchronization_from_actual_successful_graph",
+      "theorem": "AASCKleinGordon.OperationalSR.synchronization_from_actual_successful_graph",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFiniteNetworkCoverage.lean",
+      "source_sha256": "d25b535c7e6c0d49912b821edd434e6afffbfabdc354978a3187857c71a852e0",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (other : Fin (n+1) → ℝ)\n    (reads : ∀ index correction r answer, d.schedule[index]?=some r →\n      radarRead a s Omega n d index correction=some answer → answer.offset=other r.toSite-other r.fromSite)\n    {i j : Fin (n+1)} (path : OccupiedRadarPath a s Omega n d i j),\n    occupiedRadarPathSum a s Omega n path=other j-other i",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_component_synchronization_unique",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_component_synchronization_unique",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFiniteNetworkCoverage.lean",
+      "source_sha256": "d25b535c7e6c0d49912b821edd434e6afffbfabdc354978a3187857c71a852e0",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (other : Fin (n+1) → ℝ)\n    (reads : ∀ index correction r answer, d.schedule[index]?=some r →\n      radarRead a s Omega n d index correction=some answer → answer.offset=other r.toSite-other r.fromSite)\n    {i j : Fin (n+1)} (path : OccupiedRadarPath a s Omega n d i j),\n    other j-d.sites.phase j=other i-d.sites.phase i",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_radar_reversal_from_successful_records",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_radar_reversal_from_successful_records",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFiniteNetworkCoverage.lean",
+      "source_sha256": "d25b535c7e6c0d49912b821edd434e6afffbfabdc354978a3187857c71a852e0",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (p q : ExchangeRequest n) (i j : ℕ) (correctionP correctionQ : ℝ)\n    (answerP answerQ : RadarAnswer) (regP : d.schedule[i]?=some p) (regQ : d.schedule[j]?=some q)\n    (readP : radarRead a s Omega n d i correctionP=some answerP)\n    (readQ : radarRead a s Omega n d j correctionQ=some answerQ)\n    (fromEq : q.fromSite=p.toSite) (toEq : q.toSite=p.fromSite),\n    answerQ.offset = -answerP.offset",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_axial_boost_rest_vector",
+      "theorem": "AASCKleinGordon.OperationalSR.axial_boost_rest_vector",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFrameSupply.lean",
+      "source_sha256": "ad23612716aed21a5b3bb31c931d30558c6f679c68c3175b3b893b647dc8507f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t r : ℝ) (hyperbolic : t^2-r^2=1),\n    srMatrixFrameEventLinear (srUnitAxialBoost t r hyperbolic) (1,0) =\n      (t,r • srFirstSpatialUnit)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_proper_spatial_rotation_actually_supplied",
+      "theorem": "AASCKleinGordon.OperationalSR.proper_spatial_rotation_actually_supplied",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFrameSupply.lean",
+      "source_sha256": "ad23612716aed21a5b3bb31c931d30558c6f679c68c3175b3b893b647dc8507f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap = 1),\n    srRestCoordinateUnit Q ∈ srNativeFrameComparisons",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_native_future_unit_frame_supply",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_native_future_unit_frame_supply",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFrameSupply.lean",
+      "source_sha256": "ad23612716aed21a5b3bb31c931d30558c6f679c68c3175b3b893b647dc8507f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (U : SREvent) (unit : IsFutureUnit U),\n    ∃ A : SRMatrixFrame, A ∈ srNativeFrameComparisons ∧\n      srMatrixFrameEventLinear A (1,0) = U",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_supplied_unit_frame_mem",
+      "theorem": "AASCKleinGordon.OperationalSR.supplied_unit_frame_mem",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFrameSupply.lean",
+      "source_sha256": "ad23612716aed21a5b3bb31c931d30558c6f679c68c3175b3b893b647dc8507f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (U : SREvent) (unit : IsFutureUnit U),\n    suppliedUnitFrame U unit ∈ srNativeFrameComparisons",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_supplied_unit_frame_rest",
+      "theorem": "AASCKleinGordon.OperationalSR.supplied_unit_frame_rest",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFrameSupply.lean",
+      "source_sha256": "ad23612716aed21a5b3bb31c931d30558c6f679c68c3175b3b893b647dc8507f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (U : SREvent) (unit : IsFutureUnit U),\n    srMatrixFrameEventLinear (suppliedUnitFrame U unit) (1,0) = U",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_auxiliary_endpoint_original_read_and_failure_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.auxiliary_endpoint_original_read_and_failure_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFullObservationClosure.lean",
+      "source_sha256": "fdbe8d4e091004aa5e9b91cd2f3c6656fdad04839460e1daafc13bddb10c149f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame)\n    (admitted : B ∈ srNativeFrameComparisons) (c : SREvent) (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (index : ℕ) (r : ExchangeRequest n)\n    (registered : d.schedule[index]?=some r) (T : ℝ),\n    let original : SRClockRecord := (0,0,srNativeRestClock (relayZ (requestRelay a s Omega n d r)))\n    let time := srPassiveMarkedTime a.mass d.frame d.origin original T\n    networkDataObserve a s Omega n (passiveNetworkData a s Omega n B c d) (.relayEndpoint index T)=\n      (networkDataObserve a s Omega n d (.relayEndpoint index T)).map\n        (fun answer => (answer.1,transportMarkedState a.mass B c time answer.2))",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_unregistered_auxiliary_failure_retained",
+      "theorem": "AASCKleinGordon.OperationalSR.unregistered_auxiliary_failure_retained",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFullObservationClosure.lean",
+      "source_sha256": "fdbe8d4e091004aa5e9b91cd2f3c6656fdad04839460e1daafc13bddb10c149f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (index : ℕ) (T : ℝ) (unregistered : d.schedule[index]?=none),\n    networkDataObserve a s Omega n d (.relayEndpoint index T)=none ∧\n    networkDataObserve a s Omega n (passiveNetworkData a s Omega n B c d) (.relayEndpoint index T)=none",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_original_coordinate_ruler_same_question_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.original_coordinate_ruler_same_question_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFullObservationClosure.lean",
+      "source_sha256": "fdbe8d4e091004aa5e9b91cd2f3c6656fdad04839460e1daafc13bddb10c149f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (i j : Fin (n+1)) (T : ℝ),\n    (measuringRead a s Omega n (passiveNetworkData a s Omega n B c d) ⟨d.frame,d.origin,T⟩ i j).map\n      (fun answer => (answer.firstEvent,answer.secondEvent,answer.length))=\n    (rulerRead a s Omega n d i j T).map\n      (fun answer => (frameEvent B c answer.1,frameEvent B c answer.2.1,answer.2.2))",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_site_event_and_reading_same_question_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.site_event_and_reading_same_question_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFullObservationClosure.lean",
+      "source_sha256": "fdbe8d4e091004aa5e9b91cd2f3c6656fdad04839460e1daafc13bddb10c149f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (i : Fin (n+1)) (T : ℝ),\n    networkDataObserve a s Omega n (passiveNetworkData a s Omega n B c d) (.siteEvent i T)=\n      frameEvent B c (networkDataObserve a s Omega n d (.siteEvent i T)) ∧\n    networkDataObserve a s Omega n (passiveNetworkData a s Omega n B c d) (.siteReading i T)=\n      networkDataObserve a s Omega n d (.siteReading i T)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_full_licensed_operation_physical_refinement_square",
+      "theorem": "AASCKleinGordon.OperationalSR.full_licensed_operation_physical_refinement_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRFullObservationClosure.lean",
+      "source_sha256": "fdbe8d4e091004aa5e9b91cd2f3c6656fdad04839460e1daafc13bddb10c149f",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n)\n    (r : LicensedNetworkReceiver a s Omega n),\n    (licensedNetworkOperation a s Omega n op r).map (licensedNetworkToPhysical a s Omega n)=\n      networkReceiverOperation a s Omega n op (licensedNetworkToPhysical a s Omega n r)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_rest_unit_is_future_unit",
+      "theorem": "AASCKleinGordon.OperationalSR.rest_unit_is_future_unit",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRIdealResponse.lean",
+      "source_sha256": "9906311535eae80bd1a0e0e580edfd4aa444d6ef71a17405fccfef4432aae3d1",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), IsFutureUnit ((1:ℝ),(0:SRSpace))",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_ideal_duration_zero",
+      "theorem": "AASCKleinGordon.OperationalSR.ideal_duration_zero",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRIdealResponse.lean",
+      "source_sha256": "9906311535eae80bd1a0e0e580edfd4aa444d6ef71a17405fccfef4432aae3d1",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : IdealInertialResponse),\n    D.duration 0=0",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_ideal_rest_response_derived",
+      "theorem": "AASCKleinGordon.OperationalSR.ideal_rest_response_derived",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRIdealResponse.lean",
+      "source_sha256": "9906311535eae80bd1a0e0e580edfd4aa444d6ef71a17405fccfef4432aae3d1",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : IdealInertialResponse) (t : ℝ) (inside : (t,0) ∈ D.certified),\n    D.duration (t,0)=t",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_ideal_inertial_response_classification",
+      "theorem": "AASCKleinGordon.OperationalSR.ideal_inertial_response_classification",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRIdealResponse.lean",
+      "source_sha256": "9906311535eae80bd1a0e0e580edfd4aa444d6ef71a17405fccfef4432aae3d1",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : IdealInertialResponse)\n    (w : SREvent) (inside : w ∈ D.certified) (future : IsFutureTimelike w),\n    D.duration w=restLength w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_ideal_inertial_response_unique",
+      "theorem": "AASCKleinGordon.OperationalSR.ideal_inertial_response_unique",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRIdealResponse.lean",
+      "source_sha256": "9906311535eae80bd1a0e0e580edfd4aa444d6ef71a17405fccfef4432aae3d1",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D E : IdealInertialResponse) (w : SREvent)\n    (insideD : w ∈ D.certified) (insideE : w ∈ E.certified) (future : IsFutureTimelike w),\n    D.duration w=E.duration w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_ideal_response_read_domain",
+      "theorem": "AASCKleinGordon.OperationalSR.ideal_response_read_domain",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRIdealResponse.lean",
+      "source_sha256": "9906311535eae80bd1a0e0e580edfd4aa444d6ef71a17405fccfef4432aae3d1",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : IdealInertialResponse) (w : SREvent),\n    (idealResponseRead D w).isSome=true ↔ w ∈ D.certified",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_gamma_positive_and_hyperbolic",
+      "theorem": "AASCKleinGordon.OperationalSR.gamma_positive_and_hyperbolic",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (beta : ℝ) (subluminal : beta^2 < 1),\n    0 < lorentzGamma beta ∧ (lorentzGamma beta)^2-(lorentzGamma beta*beta)^2=1",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_measurement_boost_actually_supplied",
+      "theorem": "AASCKleinGordon.OperationalSR.measurement_boost_actually_supplied",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (beta : ℝ) (subluminal : beta^2 < 1),\n    measurementBoost beta subluminal ∈ srNativeFrameComparisons",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_axial_boost_spatial_components",
+      "theorem": "AASCKleinGordon.OperationalSR.axial_boost_spatial_components",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t r : ℝ) (hyper : t^2-r^2=1) (z : SREvent),\n    (srMatrixFrameEventLinear (srUnitAxialBoost t r hyper) z).2 0=r*z.1+t*z.2 0 ∧\n    (srMatrixFrameEventLinear (srUnitAxialBoost t r hyper) z).2 1=z.2 1 ∧\n    (srMatrixFrameEventLinear (srUnitAxialBoost t r hyper) z).2 2=z.2 2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_endpoint_selection_is_simultaneous_and_unique",
+      "theorem": "AASCKleinGordon.OperationalSR.endpoint_selection_is_simultaneous_and_unique",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t r : ℝ) (hyper : t^2-r^2=1)\n    (positive : 0 < t) (b : SREvent) (T : ℝ) (X : SRSpace),\n    (selectedEndpoint t r hyper b T X).1=T ∧\n    ∀ u : ℝ, (frameEvent (srUnitAxialBoost t r hyper) b (u,X)).1=T → u=selectedRestTime t r b T X",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_selected_endpoint_separation",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_selected_endpoint_separation",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t r : ℝ) (hyper : t^2-r^2=1)\n    (positive : 0 < t) (b : SREvent) (T : ℝ) (X Y : SRSpace),\n    let delta := (selectedEndpoint t r hyper b T Y).2-(selectedEndpoint t r hyper b T X).2\n    delta 0=(Y 0-X 0)/t ∧ delta 1=Y 1-X 1 ∧ delta 2=Y 2-X 2 ∧\n    selectedRestTime t r b T Y-selectedRestTime t r b T X=-(r/t)*(Y 0-X 0)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_selected_length_squared",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_selected_length_squared",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t r : ℝ) (hyper : t^2-r^2=1)\n    (positive : 0 < t) (b : SREvent) (T : ℝ) (X Y : SRSpace),\n    ‖(selectedEndpoint t r hyper b T Y).2-(selectedEndpoint t r hyper b T X).2‖^2=\n      (Y 0-X 0)^2/t^2+(Y 1-X 1)^2+(Y 2-X 2)^2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_measurement_selected_rest_time_gap",
+      "theorem": "AASCKleinGordon.OperationalSR.measurement_selected_rest_time_gap",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (beta : ℝ) (subluminal : beta^2 < 1)\n    (b : SREvent) (T : ℝ) (X Y : SRSpace),\n    selectedRestTime (lorentzGamma beta) (lorentzGamma beta*beta) b T Y-\n      selectedRestTime (lorentzGamma beta) (lorentzGamma beta*beta) b T X=-beta*(Y 0-X 0)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_fixed_event_pair_passive_simultaneity",
+      "theorem": "AASCKleinGordon.OperationalSR.fixed_event_pair_passive_simultaneity",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t r : ℝ) (hyper : t^2-r^2=1)\n    (p q : SREvent) (simultaneous : p.1=q.1),\n    (srMatrixFrameEventLinear (srUnitAxialBoost t (-r) (by nlinarith)) q).1-\n      (srMatrixFrameEventLinear (srUnitAxialBoost t (-r) (by nlinarith)) p).1=-r*(q.2 0-p.2 0)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_same_bearer_ticks_actual_dilation",
+      "theorem": "AASCKleinGordon.OperationalSR.same_bearer_ticks_actual_dilation",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i : Fin (n+1))\n    (positiveMass : 0 < mu0+S.internalEnergy i) (t r : ℝ) (hyper : t^2-r^2=1)\n    (b : SREvent) (u v : ℝ),\n    (frameEvent (srUnitAxialBoost t r hyper) b (srMarkedClockEvent mu0 (siteRecord mu0 S i) v)).1-\n      (frameEvent (srUnitAxialBoost t r hyper) b (srMarkedClockEvent mu0 (siteRecord mu0 S i) u)).1=\n    t*((srNativeCoastingMarkedRecord mu0 (siteRecord mu0 S i) v).2.reading-\n      (srNativeCoastingMarkedRecord mu0 (siteRecord mu0 S i) u).2.reading)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_orientation_preserves_measured_length",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_orientation_preserves_measured_length",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (x y : SRSpace),\n    ‖Q y-Q x‖=‖y-x‖",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_physical_time_adapter_inverse",
+      "theorem": "AASCKleinGordon.OperationalSR.physical_time_adapter_inverse",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRInertialMeasurements.lean",
+      "source_sha256": "fe63bd5bfaea9bdb728a52a8c12d20c088d59fbd754057a9832a5050cdb506ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (c : ℝ) (positive : 0 < c) (p : SREvent),\n    ((physicalEvent c p).1/c,(physicalEvent c p).2)=p",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_licensed_network_operation_actual_source_square",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_operation_actual_source_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n) (r : LicensedNetworkReceiver a s Omega n),\n    (licensedNetworkOperation a s Omega n op r).map (licensedNetworkSource a s Omega n)=\n      networkOperation a s Omega n op (licensedNetworkSource a s Omega n r)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_operation_actual_readout_square",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_operation_actual_readout_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n)\n    (r : LicensedNetworkReceiver a s Omega n) (q : NetworkContext n),\n    (licensedNetworkOperation a s Omega n op r).map (fun next => licensedNetworkObserve a s Omega n next q)=\n      (networkOperation a s Omega n op (licensedNetworkSource a s Omega n r)).map\n        (fun next => networkCompleteObserve a s Omega n next q)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_operation_domain_is_exact",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_operation_domain_is_exact",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n) (r : LicensedNetworkReceiver a s Omega n),\n    (licensedNetworkOperation a s Omega n op r).isSome=\n      (networkOperation a s Omega n op (licensedNetworkSource a s Omega n r)).isSome",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_full_finite_first_failure_square",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_full_finite_first_failure_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (ops : List (NetworkOperation n))\n    (r : LicensedNetworkReceiver a s Omega n),\n    licensedNetworkFirstFailure a s Omega n ops r=networkFirstFailure a s Omega n ops (licensedNetworkSource a s Omega n r)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_passive_source_square",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_passive_source_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons)\n    (c : SREvent) (r : LicensedNetworkReceiver a s Omega n),\n    licensedNetworkSource a s Omega n (licensedNetworkPassive a s Omega n B admitted c r)=\n      passiveNetwork a s Omega n B c (licensedNetworkSource a s Omega n r)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_passive_full_first_failure",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_passive_full_first_failure",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons)\n    (c : SREvent) (ops : List (NetworkOperation n)) (r : LicensedNetworkReceiver a s Omega n),\n    licensedNetworkFirstFailure a s Omega n\n      (ops.map (passiveNetworkOperation a s Omega n (licensedNetworkSource a s Omega n r).data))\n      (licensedNetworkPassive a s Omega n B admitted c r)=licensedNetworkFirstFailure a s Omega n ops r",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_selected_network_event_and_reading_are_actual",
+      "theorem": "AASCKleinGordon.OperationalSR.selected_network_event_and_reading_are_actual",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data) (i : Fin (n+1)),\n    let time := srPassiveMarkedTime a.mass x.data.frame x.data.origin (siteRecord a.mass x.data.sites i) x.data.reference\n    srMarkedClockEvent a.mass (networkRawJoint a s Omega n x i).clock.record time=selectedNetworkEvent a s Omega n x i ∧\n    (srNativeCoastingMarkedRecord a.mass (networkRawJoint a s Omega n x i).clock.record time).2.reading=\n      selectedNetworkReading a s Omega n x i",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_reference_advance_selected_event_and_reading",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_reference_advance_selected_event_and_reading",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLicensedNetworkOperations.lean",
+      "source_sha256": "d0bcd62181e63096006f5aad5f73cebcc440ea712507b9155f47cd0d3b4ebd02",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data) (i : Fin (n+1)) (delta : ℝ) (forward : 0 ≤ delta),\n    let y : NetworkSource a s Omega n := {x with data := {x.data with reference := x.data.reference+delta}}\n    selectedNetworkEvent a s Omega n y i=frameEvent x.data.frame x.data.origin\n      (x.data.reference+delta,x.data.sites.position i) ∧\n    selectedNetworkReading a s Omega n y i=x.data.sites.phase i+x.data.reference+delta ∧\n    networkOperation a s Omega n (.advance delta) x=some y",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_local_rest_response_zero",
+      "theorem": "AASCKleinGordon.OperationalSR.local_rest_response_zero",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLocalRestLaw.lean",
+      "source_sha256": "b42862c43dc8ef3d60e36f958c3c6b3a3e4e0cfc3638a5063d857affcc94e722",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : LocalRestLaw),\n    D.response 0 = 0",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_local_rest_response_monotone",
+      "theorem": "AASCKleinGordon.OperationalSR.local_rest_response_monotone",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLocalRestLaw.lean",
+      "source_sha256": "b42862c43dc8ef3d60e36f958c3c6b3a3e4e0cfc3638a5063d857affcc94e722",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : LocalRestLaw),\n    MonotoneOn D.response D.domain",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_local_rest_response_nsmul",
+      "theorem": "AASCKleinGordon.OperationalSR.local_rest_response_nsmul",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLocalRestLaw.lean",
+      "source_sha256": "b42862c43dc8ef3d60e36f958c3c6b3a3e4e0cfc3638a5063d857affcc94e722",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : LocalRestLaw) (n : ℕ) (x : ℝ)\n    (positive : 0 ≤ x) (inside : (n:ℝ)*x ∈ D.domain),\n    D.response ((n:ℝ)*x) = (n:ℝ)*D.response x",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_calibrated_rest_grid_error",
+      "theorem": "AASCKleinGordon.OperationalSR.calibrated_rest_grid_error",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLocalRestLaw.lean",
+      "source_sha256": "b42862c43dc8ef3d60e36f958c3c6b3a3e4e0cfc3638a5063d857affcc94e722",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : LocalRestLaw) (T : ℝ)\n    (positive : 0 < T) (calibratedDomain : T ∈ D.domain) (calibrated : D.response T=T)\n    (r : ℝ) (inside : r ∈ D.domain) (n : ℕ) (hn : 0 < n),\n    |D.response r-r| ≤ T/(n:ℝ)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_calibrated_local_rest_response_unique",
+      "theorem": "AASCKleinGordon.OperationalSR.calibrated_local_rest_response_unique",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRLocalRestLaw.lean",
+      "source_sha256": "b42862c43dc8ef3d60e36f958c3c6b3a3e4e0cfc3638a5063d857affcc94e722",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (D : LocalRestLaw) (T : ℝ)\n    (positive : 0 < T) (calibratedDomain : T ∈ D.domain) (calibrated : D.response T=T)\n    (r : ℝ) (inside : r ∈ D.domain),\n    D.response r=r",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_passive_full_marked_state_composition",
+      "theorem": "AASCKleinGordon.OperationalSR.passive_full_marked_state_composition",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMarkedComposition.lean",
+      "source_sha256": "004976a0fc64f9a018cbbc09b6c652f074cd6f059668d29215405973e3d42aed",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) (base : 0 < mu0)\n    (B A : SRMatrixFrame) (admittedB : B ∈ srNativeFrameComparisons)\n    (admittedA : A ∈ srNativeFrameComparisons) (c b : SREvent)\n    (record : SRClockRecord) (positive : 0 < srNativeClockMass mu0 record.2.2) (T : ℝ),\n    srNativeCoastingMarkedRecord mu0\n      (srPassiveClockRecord mu0 (B*A) (srMatrixFrameEventLinear B b+c) record)\n      (srPassiveMarkedTime mu0 (B*A) (srMatrixFrameEventLinear B b+c) record T)=\n    transportMarkedState mu0 B c (srPassiveMarkedTime mu0 A b record T)\n      (srNativeCoastingMarkedRecord mu0 (srPassiveClockRecord mu0 A b record)\n        (srPassiveMarkedTime mu0 A b record T))",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_passive_full_marked_state_is_actual",
+      "theorem": "AASCKleinGordon.OperationalSR.passive_full_marked_state_is_actual",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMarkedStateTransport.lean",
+      "source_sha256": "48ae68e10bc16e8c96afc4b01cd4635e1c77df0910a562cb97f81e1c292738ee",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) (base : 0 < mu0)\n    (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons) (c : SREvent)\n    (record : SRClockRecord) (positive : 0 < srNativeClockMass mu0 record.2.2) (time : ℝ),\n    srNativeCoastingMarkedRecord mu0 (srPassiveClockRecord mu0 B c record) (srPassiveMarkedTime mu0 B c record time)=\n      transportMarkedState mu0 B c time (srNativeCoastingMarkedRecord mu0 record time)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_retained_measuring_answer_is_same_actual_clock",
+      "theorem": "AASCKleinGordon.OperationalSR.retained_measuring_answer_is_same_actual_clock",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasurementSourceClosure.lean",
+      "source_sha256": "d63503ae36d9d6b2dea054f84712ec9bb694cb0aebefe33345c4a657db67e83b",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (Q : MeasuringQuery) (i j : Fin (n+1)),\n    let answer := actualMeasuringAnswer a s Omega n d Q i j\n    let ti := srPassiveMarkedTime a.mass d.frame d.origin (siteRecord a.mass d.sites i) (measuringSiteTime Q (d.sites.position i))\n    let tj := srPassiveMarkedTime a.mass d.frame d.origin (siteRecord a.mass d.sites j) (measuringSiteTime Q (d.sites.position j))\n    answer.firstEvent=srMarkedClockEvent a.mass (networkBaseJoint a s Omega n d i).clock.record ti ∧\n    answer.secondEvent=srMarkedClockEvent a.mass (networkBaseJoint a s Omega n d j).clock.record tj ∧\n    answer.firstReading=(srNativeCoastingMarkedRecord a.mass (networkBaseJoint a s Omega n d i).clock.record ti).2.reading ∧\n    answer.secondReading=(srNativeCoastingMarkedRecord a.mass (networkBaseJoint a s Omega n d j).clock.record tj).2.reading",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_original_coordinate_ruler_is_retained_query_specialization",
+      "theorem": "AASCKleinGordon.OperationalSR.original_coordinate_ruler_is_retained_query_specialization",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasurementSourceClosure.lean",
+      "source_sha256": "d63503ae36d9d6b2dea054f84712ec9bb694cb0aebefe33345c4a657db67e83b",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (i j : Fin (n+1)) (T : ℝ),\n    rulerRead a s Omega n d i j T=\n      (measuringRead a s Omega n d ⟨d.frame,d.origin,T⟩ i j).map\n        (fun answer => (answer.firstEvent,answer.secondEvent,answer.length))",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_measuring_read_same_question_passive",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_measuring_read_same_question_passive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasurementSourceClosure.lean",
+      "source_sha256": "d63503ae36d9d6b2dea054f84712ec9bb694cb0aebefe33345c4a657db67e83b",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons)\n    (c : SREvent) (r : LicensedNetworkReceiver a s Omega n) (Q : MeasuringQuery) (i j : Fin (n+1)),\n    licensedNetworkObserve a s Omega n (licensedNetworkPassive a s Omega n B admitted c r)\n      (.original (.measuring Q i j))=\n      (licensedNetworkObserve a s Omega n r (.original (.measuring Q i j))).map (transportMeasuringAnswer B c)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_registered_protocol_ledger_is_exactly_retained",
+      "theorem": "AASCKleinGordon.OperationalSR.registered_protocol_ledger_is_exactly_retained",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasurementSourceClosure.lean",
+      "source_sha256": "d63503ae36d9d6b2dea054f84712ec9bb694cb0aebefe33345c4a657db67e83b",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n),\n    networkCompleteObserve a s Omega n x (.original .protocolContext)=\n      (x.data.schedule,x.data.clockResource,x.data.signalResource,x.data.relayResource)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_observer_slope_actually_positive",
+      "theorem": "AASCKleinGordon.OperationalSR.observer_slope_actually_positive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasuringFrameSelection.lean",
+      "source_sha256": "6eb4837991494f9ad53d06e0f15d5dfc96e541380aaed1f06cacab30f3ba082a",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons),\n    0 < observerSlope A",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_site_event_affine_time",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_site_event_affine_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasuringFrameSelection.lean",
+      "source_sha256": "6eb4837991494f9ad53d06e0f15d5dfc96e541380aaed1f06cacab30f3ba082a",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b : SREvent) (u : ℝ) (X : SRSpace),\n    (frameEvent A b (u,X)).1=(frameEvent A b (0,X)).1+u*observerSlope A",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_measuring_frame_selected_events_actual_and_unique",
+      "theorem": "AASCKleinGordon.OperationalSR.measuring_frame_selected_events_actual_and_unique",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasuringFrameSelection.lean",
+      "source_sha256": "6eb4837991494f9ad53d06e0f15d5dfc96e541380aaed1f06cacab30f3ba082a",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame)\n    (admitted : A ∈ srNativeFrameComparisons) (b : SREvent) (T : ℝ) (X : SRSpace),\n    (measuredEndpoint A b T X).1=T ∧\n    ∀ u : ℝ, (frameEvent A b (u,X)).1=T → u=selectedSiteTime A b T X",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_general_selection_is_actual_axial_selection",
+      "theorem": "AASCKleinGordon.OperationalSR.general_selection_is_actual_axial_selection",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasuringFrameSelection.lean",
+      "source_sha256": "6eb4837991494f9ad53d06e0f15d5dfc96e541380aaed1f06cacab30f3ba082a",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t r : ℝ) (hyper : t^2-r^2=1)\n    (positive : 0 < t) (b : SREvent) (T : ℝ) (X : SRSpace),\n    measuredEndpoint (srUnitAxialBoost t r hyper) b T X=selectedEndpoint t r hyper b T X",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_same_measuring_hyperplane_is_actually_transported",
+      "theorem": "AASCKleinGordon.OperationalSR.same_measuring_hyperplane_is_actually_transported",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasuringHyperplane.lean",
+      "source_sha256": "affaa7655ebc6ba9e202a83031369790efee054926ab0a62ff214e05eb757a75",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A B : SRMatrixFrame) (b c : SREvent) (Q : MeasuringQuery),\n    presentedMeasuringHyperplane (B*A) (frameEvent B c b) Q=\n      frameEvent B c '' presentedMeasuringHyperplane A b Q",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_measured_endpoint_lies_on_retained_hyperplane",
+      "theorem": "AASCKleinGordon.OperationalSR.measured_endpoint_lies_on_retained_hyperplane",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasuringHyperplane.lean",
+      "source_sha256": "affaa7655ebc6ba9e202a83031369790efee054926ab0a62ff214e05eb757a75",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : MeasuringQuery)\n    (admitted : Q.frame ∈ srNativeFrameComparisons) (X : SRSpace),\n    ((measuringSiteTime Q X,X):SREvent) ∈ measuringHyperplane Q",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_presented_selected_event_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.presented_selected_event_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRMeasuringHyperplane.lean",
+      "source_sha256": "affaa7655ebc6ba9e202a83031369790efee054926ab0a62ff214e05eb757a75",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A B : SRMatrixFrame) (b c : SREvent)\n    (Q : MeasuringQuery) (X : SRSpace),\n    frameEvent (B*A) (frameEvent B c b) (measuringSiteTime Q X,X)=\n      frameEvent B c (frameEvent A b (measuringSiteTime Q X,X))",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_duration_zero",
+      "theorem": "AASCKleinGordon.OperationalSR.native_duration_zero",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNativeIdealResponse.lean",
+      "source_sha256": "70e2ecea885955eb5b1e6031c2d46e2961bea207b61894a150abb9c2faa064d3",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ),\n    nativeDuration mu0 J 0=0",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_duration_is_actual_metric_length",
+      "theorem": "AASCKleinGordon.OperationalSR.native_duration_is_actual_metric_length",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNativeIdealResponse.lean",
+      "source_sha256": "70e2ecea885955eb5b1e6031c2d46e2961bea207b61894a150abb9c2faa064d3",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (w : SREvent) (future : IsFutureTimelike w),\n    nativeDuration mu0 J w=restLength w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_duration_unit_scale",
+      "theorem": "AASCKleinGordon.OperationalSR.native_duration_unit_scale",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNativeIdealResponse.lean",
+      "source_sha256": "70e2ecea885955eb5b1e6031c2d46e2961bea207b61894a150abb9c2faa064d3",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (t : ℝ) (forward : 0 ≤ t),\n    nativeDuration mu0 J (t • U)=t",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_certified_frame",
+      "theorem": "AASCKleinGordon.OperationalSR.native_certified_frame",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNativeIdealResponse.lean",
+      "source_sha256": "70e2ecea885955eb5b1e6031c2d46e2961bea207b61894a150abb9c2faa064d3",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons) (w : SREvent),\n    w ∈ nativeCertified ↔ srMatrixFrameEventLinear A w ∈ nativeCertified",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_duration_same_event_frame",
+      "theorem": "AASCKleinGordon.OperationalSR.native_duration_same_event_frame",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNativeIdealResponse.lean",
+      "source_sha256": "70e2ecea885955eb5b1e6031c2d46e2961bea207b61894a150abb9c2faa064d3",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons) (w : SREvent) (inside : w ∈ nativeCertified),\n    nativeDuration mu0 J (srMatrixFrameEventLinear A w)=nativeDuration mu0 J w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_duration_has_actual_original_use",
+      "theorem": "AASCKleinGordon.OperationalSR.native_duration_has_actual_original_use",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNativeIdealResponse.lean",
+      "source_sha256": "70e2ecea885955eb5b1e6031c2d46e2961bea207b61894a150abb9c2faa064d3",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (w : SREvent) (future : IsFutureTimelike w),\n    srNativeClockUseValid mu0 (nativeIntervalUse mu0 J w) ∧\n      srNativeClockActualInterval mu0 (nativeIntervalUse mu0 J w)=nativeDuration mu0 J w ∧\n      srMarkedClockEvent mu0 (nativeIntervalUse mu0 J w).record (nativeIntervalUse mu0 J w).finish=w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_interval_use_is_same_passively_transported_clock",
+      "theorem": "AASCKleinGordon.OperationalSR.native_interval_use_is_same_passively_transported_clock",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNativeIdealResponse.lean",
+      "source_sha256": "70e2ecea885955eb5b1e6031c2d46e2961bea207b61894a150abb9c2faa064d3",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ)\n    (positive : 0 < mu0+J) (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (w : SREvent) (future : IsFutureTimelike w),\n    nativeIntervalUse mu0 J (srMatrixFrameEventLinear A w)=\n      srPassiveClockUse mu0 A 0 (nativeIntervalUse mu0 J w)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_network_data_operation_retains_actual_records",
+      "theorem": "AASCKleinGordon.OperationalSR.network_data_operation_retains_actual_records",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n)\n    (d e : NetworkData a s Omega n) (step : networkDataOperation a s Omega n op d=some e) (i : Fin (n+1)),\n    (networkBaseJoint a s Omega n e i).clock.record=(networkBaseJoint a s Omega n d i).clock.record",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_raw_record_is_same_marked_history",
+      "theorem": "AASCKleinGordon.OperationalSR.network_raw_record_is_same_marked_history",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n) (i : Fin (n+1)) (t : ℝ),\n    srNativeCoastingMarkedRecord a.mass (networkRawJoint a s Omega n x i).clock.record t=\n      srNativeCoastingMarkedRecord a.mass (networkBaseJoint a s Omega n x.data i).clock.record t",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_all_successful_operations_retain_underlying_histories",
+      "theorem": "AASCKleinGordon.OperationalSR.network_all_successful_operations_retain_underlying_histories",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n)\n    (x y : NetworkSource a s Omega n) (step : networkOperation a s Omega n op x=some y)\n    (i : Fin (n+1)) (t : ℝ),\n    srNativeCoastingMarkedRecord a.mass (networkRawJoint a s Omega n y i).clock.record t=\n      srNativeCoastingMarkedRecord a.mass (networkRawJoint a s Omega n x i).clock.record t",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_site_window_extension_is_actual_old_extension",
+      "theorem": "AASCKleinGordon.OperationalSR.site_window_extension_is_actual_old_extension",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {k : ℕ} (S : SiteData k)\n    (i : Fin (k+1)) (positive : 0 < mu0+S.internalEnergy i) (lo hi delta : ℝ),\n    siteUse mu0 S i lo (hi+delta)=srNativeExtendClockUse mu0 delta (siteUse mu0 S i lo hi)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_network_window_extension_has_actual_coordinate_slope",
+      "theorem": "AASCKleinGordon.OperationalSR.network_window_extension_has_actual_coordinate_slope",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (i : Fin (n+1)) (delta : ℝ),\n    (networkBaseJoint a s Omega n {d with hi := d.hi+delta} i).clock=\n      srNativeExtendClockUse a.mass\n        (srPassiveClockSlope a.mass d.frame (siteRecord a.mass d.sites i).2.2*delta)\n        (networkBaseJoint a s Omega n d i).clock",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_nonnegative_reference_advance_is_actual",
+      "theorem": "AASCKleinGordon.OperationalSR.network_nonnegative_reference_advance_is_actual",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n) (delta : ℝ)\n    (forward : 0 ≤ delta),\n    networkOperation a s Omega n (.advance delta) x=some {x with data := {x.data with reference := x.data.reference+delta}}",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_continuation_selection_exit_is_retained",
+      "theorem": "AASCKleinGordon.OperationalSR.network_continuation_selection_exit_is_retained",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n) (delta : ℝ)\n    (forward : 0 ≤ delta) (exit : x.data.hi < x.data.reference+delta),\n    networkCompleteObserve a s Omega n x (.domain (.advance delta))=true ∧\n    networkCompleteObserve a s Omega n x (.after (.advance delta) (.original .referenceSelection))=\n      some (x.data.reference+delta,false)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_receiver_operation_square",
+      "theorem": "AASCKleinGordon.OperationalSR.network_receiver_operation_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n) (x : NetworkSource a s Omega n),\n    networkReceiverOperation a s Omega n op (presentNetwork a s Omega n x)=\n      (networkOperation a s Omega n op x).map (presentNetwork a s Omega n)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_finite_first_failure_square",
+      "theorem": "AASCKleinGordon.OperationalSR.network_finite_first_failure_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (ops : List (NetworkOperation n)) (x : NetworkSource a s Omega n),\n    networkReceiverFirstFailure a s Omega n ops (presentNetwork a s Omega n x)=networkFirstFailure a s Omega n ops x",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_same_metric_operand",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_same_metric_operand",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedNetworkReceiver a s Omega n)\n    (i : Fin (n+1)) (kappa Lambda : ℝ) (coupling : kappa ≠ 0),\n    restrictedEHMetric a s Omega (licensedEHResponse a s Omega (licensedSRMetric a s Omega kappa Lambda coupling\n      (licensedNetworkToOld a s Omega n r i)))=originalEHActMetric (licensedNetworkSource a s Omega n r).data.metric.val",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_complete_registered_reference",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_complete_registered_reference",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkEvolution.lean",
+      "source_sha256": "7eebb24b0149364e168337e420bedd8cd2b9c404ce2af29ec5c7cceed2fa0eba",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedNetworkReceiver a s Omega n)\n    (i : Fin (n+1)) (kappa Lambda : ℝ) (coupling : kappa ≠ 0)\n    (q : RegisteredQuestion (KGFamilyQuestion a Omega (kgOriginalObject a))),\n    (licensedReadout a s Omega (licensedSRMetric a s Omega kappa Lambda coupling (licensedNetworkToOld a s Omega n r i)) []).answer\n      (.inr (mapRegisteredQuestion kgFamilyQuestionInChart q))=\n    (licensedScalarReference a s Omega (scalarBaseObject a) (licensedNetworkSource a s Omega n r).data.scalar\n      (mapRegisteredQuestion kgNROldQuestion q)).map Sum.inr",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_rebase_preserves_complete_profile",
+      "theorem": "AASCKleinGordon.OperationalSR.network_rebase_preserves_complete_profile",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (h : Fin (n+1) → ℝ) (x : NetworkSource a s Omega n),\n    networkCompleteObserve a s Omega n (networkRebase a s Omega n h x)=networkCompleteObserve a s Omega n x",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_data_operation_preserves_sound",
+      "theorem": "AASCKleinGordon.OperationalSR.network_data_operation_preserves_sound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n) (d e : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (step : networkDataOperation a s Omega n op d=some e),\n    networkSound a s Omega n e",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_operation_preserves_actual_sound_region",
+      "theorem": "AASCKleinGordon.OperationalSR.network_operation_preserves_actual_sound_region",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n)\n    (x y : NetworkSource a s Omega n) (sound : networkSound a s Omega n x.data)\n    (step : networkOperation a s Omega n op x=some y),\n    networkSound a s Omega n y.data",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_actual_source_passes_local_tests",
+      "theorem": "AASCKleinGordon.OperationalSR.network_actual_source_passes_local_tests",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data),\n    originalLocalTest (networkTask a s Omega n) x",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_actual_sound_region_postfixed",
+      "theorem": "AASCKleinGordon.OperationalSR.network_actual_sound_region_postfixed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), networkSoundRegion a s Omega n ⊆ originalSafetyOperator (networkTask a s Omega n) (networkSoundRegion a s Omega n)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_network_source_has_kernel_faithful_license",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_network_source_has_kernel_faithful_license",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data),\n    constructedLicensing (networkTask a s Omega n) x (networkMeaning a s Omega n)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_has_actual_sound_source",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_has_actual_sound_source",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedNetworkReceiver a s Omega n),\n    networkSound a s Omega n (licensedNetworkSource a s Omega n r).data",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_old_actual_raw_source_square",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_old_actual_raw_source_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data) (i : Fin (n+1)),\n    licensedJointSRSource a s Omega (licensedNetworkToOld a s Omega n (presentLicensedNetwork a s Omega n x sound) i)=\n      networkRawJoint a s Omega n x i",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_licensed_network_old_preparations_square",
+      "theorem": "AASCKleinGordon.OperationalSR.licensed_network_old_preparations_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkLicensing.lean",
+      "source_sha256": "277d9571ae8d2e4566dbd2aee134d96b647c9e243e2b16ee49cfb7f3704ddbe7",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedNetworkReceiver a s Omega n) (i : Fin (n+1)),\n    licensedSRScalar a s Omega (licensedNetworkToOld a s Omega n r i)=(licensedNetworkSource a s Omega n r).data.scalar ∧\n    (licensedJointSRSource a s Omega (licensedNetworkToOld a s Omega n r i)).metric=(licensedNetworkSource a s Omega n r).data.metric",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_passive_network_actually_sound",
+      "theorem": "AASCKleinGordon.OperationalSR.passive_network_actually_sound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons)\n    (c : SREvent) (d : NetworkData a s Omega n) (sound : networkSound a s Omega n d),\n    networkSound a s Omega n (passiveNetworkData a s Omega n B c d)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_inverse_chart_after_actual_presentation",
+      "theorem": "AASCKleinGordon.OperationalSR.inverse_chart_after_actual_presentation",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A B : SRMatrixFrame) (b c p : SREvent),\n    frameInverse (B*A) (frameEvent B c b) (frameEvent B c p)=frameInverse A b p",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_inverse_chart_domain_image",
+      "theorem": "AASCKleinGordon.OperationalSR.inverse_chart_domain_image",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A B : SRMatrixFrame) (b c : SREvent) (O : Set SREvent),\n    frameInverse (B*A) (frameEvent B c b) '' (frameEvent B c '' O)=frameInverse A b '' O",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_passive_network_request_domain",
+      "theorem": "AASCKleinGordon.OperationalSR.passive_network_request_domain",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (index : ℕ) (correction : ℝ),\n    requestDomain a s Omega n (passiveNetworkData a s Omega n B c d) index correction ↔\n      requestDomain a s Omega n d index correction",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_passive_network_measuring_domain",
+      "theorem": "AASCKleinGordon.OperationalSR.passive_network_measuring_domain",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (Q : MeasuringQuery) (i j : Fin (n+1)),\n    measuringDomain a s Omega n (passiveNetworkData a s Omega n B c d) Q i j ↔\n      measuringDomain a s Omega n d Q i j",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_measuring_answer_same_question_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_measuring_answer_same_question_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (Q : MeasuringQuery) (i j : Fin (n+1)),\n    actualMeasuringAnswer a s Omega n (passiveNetworkData a s Omega n B c d) Q i j=\n      transportMeasuringAnswer B c (actualMeasuringAnswer a s Omega n d Q i j)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_measuring_read_same_question_transport_and_failure",
+      "theorem": "AASCKleinGordon.OperationalSR.measuring_read_same_question_transport_and_failure",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (Q : MeasuringQuery) (i j : Fin (n+1)),\n    measuringRead a s Omega n (passiveNetworkData a s Omega n B c d) Q i j=\n      (measuringRead a s Omega n d Q i j).map (transportMeasuringAnswer B c)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_partial_operation_passive_square",
+      "theorem": "AASCKleinGordon.OperationalSR.network_partial_operation_passive_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (op : NetworkOperation n) (x : NetworkSource a s Omega n),\n    networkOperation a s Omega n (passiveNetworkOperation a s Omega n x.data op) (passiveNetwork a s Omega n B c x)=\n      (networkOperation a s Omega n op x).map (passiveNetwork a s Omega n B c)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_operation_retains_presentation",
+      "theorem": "AASCKleinGordon.OperationalSR.network_operation_retains_presentation",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n)\n    (d e : NetworkData a s Omega n) (step : networkDataOperation a s Omega n op d=some e),\n    e.frame=d.frame ∧ e.origin=d.origin",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_passive_program_parameter_stable",
+      "theorem": "AASCKleinGordon.OperationalSR.passive_program_parameter_stable",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n) (x y : NetworkSource a s Omega n)\n    (step : networkOperation a s Omega n op x=some y),\n    passiveNetworkOperation a s Omega n y.data=passiveNetworkOperation a s Omega n x.data",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_passive_network_finite_first_failure",
+      "theorem": "AASCKleinGordon.OperationalSR.passive_network_finite_first_failure",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPassive.lean",
+      "source_sha256": "c7f380675aba0bf3104fe52ccd41be8afa21a9ffac324c9d29be2eaeeca2ef37",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (ops : List (NetworkOperation n)) (x : NetworkSource a s Omega n),\n    networkFirstFailure a s Omega n (ops.map (passiveNetworkOperation a s Omega n x.data))\n      (passiveNetwork a s Omega n B c x)=networkFirstFailure a s Omega n ops x",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_populated_network_actual_sound",
+      "theorem": "AASCKleinGordon.OperationalSR.populated_network_actual_sound",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPopulation.lean",
+      "source_sha256": "37d05db67a01b92c0741cd20033c77761eb544a11de76bc5b45652be291dc631",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (sites : Fin (n+1) → SRSpace) (phases : Fin (n+1) → ℝ) (lo hi : ℝ) (ordered : lo ≤ hi)\n    (schedule : List (ExchangeRequest n)),\n    networkSound a s Omega n (populatedNetworkData a s Omega n r H sites phases lo hi schedule)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_inhabited_network_covers_every_old_preparation",
+      "theorem": "AASCKleinGordon.OperationalSR.inhabited_network_covers_every_old_preparation",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkPopulation.lean",
+      "source_sha256": "37d05db67a01b92c0741cd20033c77761eb544a11de76bc5b45652be291dc631",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (sites : Fin (n+1) → SRSpace) (phases : Fin (n+1) → ℝ) (lo hi : ℝ) (ordered : lo ≤ hi)\n    (schedule : List (ExchangeRequest n)),\n    ∃ receiver : LicensedNetworkReceiver a s Omega n, ∀ i : Fin (n+1),\n      licensedSRScalar a s Omega (licensedNetworkToOld a s Omega n receiver i)=r ∧\n      (licensedJointSRSource a s Omega (licensedNetworkToOld a s Omega n receiver i)).metric=H",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_base_joint_actually_valid",
+      "theorem": "AASCKleinGordon.OperationalSR.network_base_joint_actually_valid",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n) (sound : networkSound a s Omega n d)\n    (i : Fin (n+1)),\n    srNativeClockUseValid a.mass (networkBaseJoint a s Omega n d i).clock",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_raw_joint_actually_valid",
+      "theorem": "AASCKleinGordon.OperationalSR.network_raw_joint_actually_valid",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data) (i : Fin (n+1)),\n    srNativeClockUseValid a.mass (networkRawJoint a s Omega n x i).clock",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_licensed_site_retains_actual_raw_source",
+      "theorem": "AASCKleinGordon.OperationalSR.network_licensed_site_retains_actual_raw_source",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data) (i : Fin (n+1)),\n    licensedJointSRSource a s Omega (licensedNetworkSite a s Omega n x sound i)=networkRawJoint a s Omega n x i",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_radar_read_exact_domain",
+      "theorem": "AASCKleinGordon.OperationalSR.radar_read_exact_domain",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n) (index : ℕ) (correction : ℝ),\n    (radarRead a s Omega n d index correction).isSome=true ↔ requestDomain a s Omega n d index correction",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_occupied_network_radar_answer",
+      "theorem": "AASCKleinGordon.OperationalSR.occupied_network_radar_answer",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n) (sound : networkSound a s Omega n d)\n    (index : ℕ) (r : ExchangeRequest n),\n    (actualRadarAnswer a s Omega n d index r).offset=d.sites.phase r.toSite-d.sites.phase r.fromSite ∧\n    (actualRadarAnswer a s Omega n d index r).length=‖d.sites.position r.toSite-d.sites.position r.fromSite‖",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_relay_extra_endpoint_is_actual_positive_clock",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_extra_endpoint_is_actual_positive_clock",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n) (r : ExchangeRequest n),\n    0 < srNativeClockMass a.mass (srNativeRestClock (relayZ (requestRelay a s Omega n d r))) ∧\n    ∀ T : ℝ, (srNativeClockCoastFlow a.mass T\n      (srNativeRestClock (relayZ (requestRelay a s Omega n d r)))).reading=T",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_operation_actual_data_square",
+      "theorem": "AASCKleinGordon.OperationalSR.network_operation_actual_data_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n) (x : NetworkSource a s Omega n),\n    (networkOperation a s Omega n op x).map NetworkSource.data=networkDataOperation a s Omega n op x.data",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_complete_profile_factors_physical_data",
+      "theorem": "AASCKleinGordon.OperationalSR.network_complete_profile_factors_physical_data",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (q : SRContextQuery (NetworkQuestion n) (NetworkOperation n)),\n    networkCompleteObserve a s Omega n x q=networkDataCompleteObserve a s Omega n x.data q",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_actual_raw_old_profile_square",
+      "theorem": "AASCKleinGordon.OperationalSR.network_actual_raw_old_profile_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n) (i : Fin (n+1)) (q : JointContext),\n    networkCompleteObserve a s Omega n x (.original (.old i q))=\n      jointCompleteObserve a s Omega (networkRawJoint a s Omega n x i) q",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_old_physical_square",
+      "theorem": "AASCKleinGordon.OperationalSR.network_old_physical_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n) (i : Fin (n+1)),\n    networkToOldPhysical a s Omega n i (presentNetwork a s Omega n x)=\n      presentJointOriginal a s Omega (networkRawJoint a s Omega n x i)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_all_registered_operations_have_exact_descent",
+      "theorem": "AASCKleinGordon.OperationalSR.network_all_registered_operations_have_exact_descent",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (op : NetworkOperation n),\n    ∃! reduced : NetworkReceiver a s Omega n → Option (NetworkReceiver a s Omega n),\n      ∀ x, reduced (presentNetwork a s Omega n x)=\n        (networkOperation a s Omega n op x).map (presentNetwork a s Omega n)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_failed_radar_attempt_is_retained",
+      "theorem": "AASCKleinGordon.OperationalSR.network_failed_radar_attempt_is_retained",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkSource.lean",
+      "source_sha256": "90e56c3f0dbfeaae80e6b90e87ab098413d951048e8c894ed9f16dece45dbe5d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n) (index : ℕ) (correction : ℝ)\n    (failed : ¬ requestDomain a s Omega n x.data index correction),\n    networkCompleteObserve a s Omega n x (.domain (.certifyRadar index correction))=false ∧\n    networkCompleteObserve a s Omega n x (.after (.certifyRadar index correction) (.original .referenceSelection))=none",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_raw_network_clock_actual_same_event",
+      "theorem": "AASCKleinGordon.OperationalSR.raw_network_clock_actual_same_event",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkTransport.lean",
+      "source_sha256": "15cab49912a235690652cb7551b6a68698c5c1fc49b50428fbe5811aab879adb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (i : Fin (n+1)) (t : ℝ),\n    srMarkedClockEvent a.mass (networkBaseJoint a s Omega n d i).clock.record\n      (srPassiveMarkedTime a.mass d.frame d.origin (siteRecord a.mass d.sites i) t)=\n      frameEvent d.frame d.origin (t,d.sites.position i)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_raw_network_clock_actual_same_reading",
+      "theorem": "AASCKleinGordon.OperationalSR.raw_network_clock_actual_same_reading",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkTransport.lean",
+      "source_sha256": "15cab49912a235690652cb7551b6a68698c5c1fc49b50428fbe5811aab879adb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (i : Fin (n+1)) (t : ℝ),\n    (srNativeCoastingMarkedRecord a.mass (networkBaseJoint a s Omega n d i).clock.record\n      (srPassiveMarkedTime a.mass d.frame d.origin (siteRecord a.mass d.sites i) t)).2.reading=\n      siteReading a.mass d.sites i t",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_measured_network_endpoints_are_actual_same_clocks",
+      "theorem": "AASCKleinGordon.OperationalSR.measured_network_endpoints_are_actual_same_clocks",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkTransport.lean",
+      "source_sha256": "15cab49912a235690652cb7551b6a68698c5c1fc49b50428fbe5811aab879adb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (i : Fin (n+1)) (T : ℝ),\n    srMarkedClockEvent a.mass (networkBaseJoint a s Omega n d i).clock.record\n      (srPassiveMarkedTime a.mass d.frame d.origin (siteRecord a.mass d.sites i)\n        (selectedSiteTime d.frame d.origin T (d.sites.position i)))=\n      measuredEndpoint d.frame d.origin T (d.sites.position i)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_relay_extra_endpoint_actual_passive_event_and_reading",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_extra_endpoint_actual_passive_event_and_reading",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRNetworkTransport.lean",
+      "source_sha256": "15cab49912a235690652cb7551b6a68698c5c1fc49b50428fbe5811aab879adb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (d : NetworkData a s Omega n)\n    (sound : networkSound a s Omega n d) (r : ExchangeRequest n) (T : ℝ),\n    let R := requestRelay a s Omega n d r\n    let original : SRClockRecord := (0,0,srNativeRestClock (relayZ R))\n    srMarkedClockEvent a.mass (relayClockRecord a s Omega n d r)\n      (srPassiveMarkedTime a.mass d.frame d.origin original T)=frameEvent d.frame d.origin (T,relayZ R) ∧\n    (srNativeCoastingMarkedRecord a.mass (relayClockRecord a s Omega n d r)\n      (srPassiveMarkedTime a.mass d.frame d.origin original T)).2.reading=T",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_radar_answer_passive",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_radar_answer_passive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRObservationPassive.lean",
+      "source_sha256": "5907e46c51d1c02b9ec83dc13bcaab538d3c1b84c77ca0cc64817b054bb2aeeb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent) (d : NetworkData a s Omega n)\n    (index : ℕ) (r : ExchangeRequest n),\n    actualRadarAnswer a s Omega n (passiveNetworkData a s Omega n B c d) index r=\n      transportRadarAnswer B c (actualRadarAnswer a s Omega n d index r)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_radar_read_and_failure_passive",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_radar_read_and_failure_passive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRObservationPassive.lean",
+      "source_sha256": "5907e46c51d1c02b9ec83dc13bcaab538d3c1b84c77ca0cc64817b054bb2aeeb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent) (d : NetworkData a s Omega n)\n    (index : ℕ) (correction : ℝ),\n    radarRead a s Omega n (passiveNetworkData a s Omega n B c d) index correction=\n      (radarRead a s Omega n d index correction).map (transportRadarAnswer B c)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_signal_ledger_events_momenta_identities_passive",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_signal_ledger_events_momenta_identities_passive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRObservationPassive.lean",
+      "source_sha256": "5907e46c51d1c02b9ec83dc13bcaab538d3c1b84c77ca0cc64817b054bb2aeeb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (index : ℕ) (r : ExchangeRequest n) (T : ℝ),\n    signalLedger a s Omega n (passiveNetworkData a s Omega n B c d) index r T=\n      transportSignalLedger B c (signalLedger a s Omega n d index r T)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_signal_read_and_failure_passive",
+      "theorem": "AASCKleinGordon.OperationalSR.signal_read_and_failure_passive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRObservationPassive.lean",
+      "source_sha256": "5907e46c51d1c02b9ec83dc13bcaab538d3c1b84c77ca0cc64817b054bb2aeeb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n) (index : ℕ) (T : ℝ),\n    networkDataObserve a s Omega n (passiveNetworkData a s Omega n B c d) (.signal index T)=\n      (networkDataObserve a s Omega n d (.signal index T)).map (transportSignalLedger B c)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_protocol_and_reference_are_retained_under_passive",
+      "theorem": "AASCKleinGordon.OperationalSR.protocol_and_reference_are_retained_under_passive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRObservationPassive.lean",
+      "source_sha256": "5907e46c51d1c02b9ec83dc13bcaab538d3c1b84c77ca0cc64817b054bb2aeeb",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (c : SREvent)\n    (d : NetworkData a s Omega n),\n    networkDataObserve a s Omega n (passiveNetworkData a s Omega n B c d) .protocolContext=\n      networkDataObserve a s Omega n d .protocolContext ∧\n    networkDataObserve a s Omega n (passiveNetworkData a s Omega n B c d) .referenceSelection=\n      networkDataObserve a s Omega n d .referenceSelection",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_actual_native_ideal_class_is_occupied",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_native_ideal_class_is_occupied",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedIdealClass.lean",
+      "source_sha256": "2f1d4a3609cc0ccf3256c5ed440b2e2f4dc86f793fd2080a100bbd8b9084c859",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (base : 0 < mu0) (positive : 0 < mu0+J),\n    ∃ D : IdealInertialResponse, D.duration=nativeDuration mu0 J ∧ D.certified=nativeCertified ∧\n      ∀ w : SREvent, w ∈ D.certified → IsFutureTimelike w →\n        D.duration w=restLength w ∧ srNativeClockUseValid mu0 (nativeIntervalUse mu0 J w) ∧\n        srNativeClockActualInterval mu0 (nativeIntervalUse mu0 J w)=D.duration w ∧\n        srMarkedClockEvent mu0 (nativeIntervalUse mu0 J w).record (nativeIntervalUse mu0 J w).finish=w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_main_crossing_records",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_main_crossing_records",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (R : RelayData) (length : 0 < R.length) (delay : 0 ≤ R.delay),\n    relayMainPosition R (relayDeparture R).1=R.X ∧\n    relayMainPosition R (relayArrival R).1=relayY R ∧\n    relayMainPosition R (relayTurn R).1=relayZ R ∧\n    relayMainPosition R (relayRelease R).1=relayY R ∧\n    relayMainPosition R (relayReturn R).1=R.X",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_compensator_shared_vertex",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_compensator_shared_vertex",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (R : RelayData),\n    relayCompensatorPosition R (relayTurn R).1=relayZ R",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_full_legs_are_actual_original_rays",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_full_legs_are_actual_original_rays",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (R : RelayData) (length : 0 < R.length)\n    (delay : 0 ≤ R.delay) (unit : ‖R.direction‖=1),\n    relayTurn R-relayDeparture R ∈ srOriginalFutureRayIncrements ∧\n    relayReturn R-relayTurn R ∈ srOriginalFutureRayIncrements",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_positive_energy_and_balanced_vertex",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_positive_energy_and_balanced_vertex",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (R : RelayData) (energy : 0 < R.energy)\n    (unit : ‖R.direction‖=1) (mu : ℝ),\n    srNativePositiveRayMomentum R.energy R.direction ∈ srOriginalFutureRayIncrements ∧\n    srNativePositiveRayMomentum R.energy (-R.direction) ∈ srOriginalFutureRayIncrements ∧\n    ((mu,(0:SRSpace))+srNativePositiveRayMomentum R.energy R.direction+\n      srNativePositiveRayMomentum R.energy (-R.direction))=\n    ((mu,(0:SRSpace))+srNativePositiveRayMomentum R.energy (-R.direction)+\n      srNativePositiveRayMomentum R.energy R.direction)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_at_distinct_sites_geometry",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_at_distinct_sites_geometry",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ {n : ℕ} (S : SiteData n) (i j : Fin (n+1))\n    (distinct : S.position j ≠ S.position i) (emit delay energy : ℝ),\n    0 < (relayAtSites S i j emit delay energy).length ∧\n    ‖(relayAtSites S i j emit delay energy).direction‖=1 ∧\n    relayY (relayAtSites S i j emit delay energy)=S.position j",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_occupied_radar_readings",
+      "theorem": "AASCKleinGordon.OperationalSR.occupied_radar_readings",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i j : Fin (n+1))\n    (positive_i : 0 < mu0+S.internalEnergy i) (positive_j : 0 < mu0+S.internalEnergy j)\n    (emit delay energy : ℝ),\n    let R := relayAtSites S i j emit delay energy\n    siteReading mu0 S j (relayArrival R).1-\n      (siteReading mu0 S i (relayDeparture R).1+siteReading mu0 S i (relayReturn R).1-delay)/2=S.phase j-S.phase i ∧\n    siteReading mu0 S j (relayRelease R).1-siteReading mu0 S j (relayArrival R).1=delay ∧\n    (siteReading mu0 S i (relayReturn R).1-siteReading mu0 S i (relayDeparture R).1-delay)/2=R.length",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_recorded_delay_arrival_departure",
+      "theorem": "AASCKleinGordon.OperationalSR.recorded_delay_arrival_departure",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (tm tp d arrival departure : ℝ)\n    (midpoint : arrival=(tm+tp-d)/2) (delay : departure-arrival=d),\n    arrival=(tm+tp-d)/2 ∧ departure=(tm+tp+d)/2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_phase_path_telescope",
+      "theorem": "AASCKleinGordon.OperationalSR.phase_path_telescope",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ {ι : Type} (phase : ι → ℝ) (i : ι) (tail : List ι),\n    phasePath phase (i::tail)=phase (pathEnd i tail)-phase i",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_phase_path_loop_zero",
+      "theorem": "AASCKleinGordon.OperationalSR.phase_path_loop_zero",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRelay.lean",
+      "source_sha256": "5458ff001ef6086942f1009def5815a11bf58e29a87b46c2854955f6b543966d",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ {ι : Type} (phase : ι → ℝ) (i : ι) (tail : List ι)\n    (closed : pathEnd i tail=i),\n    phasePath phase (i::tail)=0",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_every_nonzero_endpoint_standard_has_actual_radar_and_measuring_use",
+      "theorem": "AASCKleinGordon.OperationalSR.every_nonzero_endpoint_standard_has_actual_radar_and_measuring_use",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROccupiedRuler.lean",
+      "source_sha256": "31be8a598343ba992b540c801e8f3861b599a5b601e6dea7684411cc68d6ee62",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (a : Parameters) (s : ℝ) (Omega : Opens CoordinatePoint)\n    (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (X Y : SRSpace) (distinct : Y ≠ X) (phaseX phaseY : ℝ)\n    (Q : MeasuringQuery) (admitted : Q.frame ∈ srNativeFrameComparisons),\n    ∃ d : NetworkData a s Omega 1, networkSound a s Omega 1 d ∧\n      d.sites.position 0=X ∧ d.sites.position 1=Y ∧\n      ∃ radar measurement, radarRead a s Omega 1 d 0 0=some radar ∧\n        radar.length=‖Y-X‖ ∧ measuringRead a s Omega 1 d Q 0 1=some measurement",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_old_licensed_consumer_has_actual_passive_source",
+      "theorem": "AASCKleinGordon.OperationalSR.old_licensed_consumer_has_actual_passive_source",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSROldConsumerPassive.lean",
+      "source_sha256": "80921b9e80e0d6b635a0ef0459c48c1db2b557a2fb4df0fa3f44540901f9ccf4",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons)\n    (c : SREvent) (r : LicensedNetworkReceiver a s Omega n) (i : Fin (n+1)),\n    licensedJointSRSource a s Omega (licensedNetworkToOld a s Omega n (licensedNetworkPassive a s Omega n B admitted c r) i)=\n      (⟨srPassiveClockUse a.mass B c (licensedJointSRSource a s Omega (licensedNetworkToOld a s Omega n r i)).clock,\n        (licensedJointSRSource a s Omega (licensedNetworkToOld a s Omega n r i)).scalar,\n        (licensedJointSRSource a s Omega (licensedNetworkToOld a s Omega n r i)).metric⟩ : JointOriginalSource a s Omega)",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_positive_speed_beta_is_subluminal",
+      "theorem": "AASCKleinGordon.OperationalSR.positive_speed_beta_is_subluminal",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRPhysicalUnits.lean",
+      "source_sha256": "5c7f946b4b4c1b26b2649cb21ba2cc26711d03ea0809babc5abbfb4f7a601552",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (c v : ℝ) (speed : 0 < c) (velocity : v^2 < c^2),\n    (v/c)^2 < 1",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_physical_rest_duration_is_actual_time",
+      "theorem": "AASCKleinGordon.OperationalSR.physical_rest_duration_is_actual_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRPhysicalUnits.lean",
+      "source_sha256": "5c7f946b4b4c1b26b2649cb21ba2cc26711d03ea0809babc5abbfb4f7a601552",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (c t : ℝ) (speed : 0 < c) (forward : 0 ≤ t),\n    physicalDuration c (t,0)=t",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_directional_clock_readings_in_physical_units",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_directional_clock_readings_in_physical_units",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRPhysicalUnits.lean",
+      "source_sha256": "5c7f946b4b4c1b26b2649cb21ba2cc26711d03ea0809babc5abbfb4f7a601552",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 J : ℝ) (positive : 0 < mu0+J)\n    (U : SREvent) (unit : IsFutureUnit U) (x : SRSpace) (phase c t u : ℝ) (speed : 0 < c),\n    ((srNativeClockCoastFlow mu0 (c*u*U.1) (directionalClock mu0 J U x phase)).reading-\n      (srNativeClockCoastFlow mu0 (c*t*U.1) (directionalClock mu0 J U x phase)).reading)/c=u-t",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_occupied_radar_physical_units",
+      "theorem": "AASCKleinGordon.OperationalSR.occupied_radar_physical_units",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRPhysicalUnits.lean",
+      "source_sha256": "5c7f946b4b4c1b26b2649cb21ba2cc26711d03ea0809babc5abbfb4f7a601552",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i j : Fin (n+1))\n    (positive_i : 0 < mu0+S.internalEnergy i) (positive_j : 0 < mu0+S.internalEnergy j)\n    (emit delay energy c : ℝ) (speed : 0 < c),\n    let R := relayAtSites S i j emit delay energy\n    (siteReading mu0 S j (relayRelease R).1-siteReading mu0 S j (relayArrival R).1)/c=delay/c ∧\n    c*((siteReading mu0 S i (relayReturn R).1-siteReading mu0 S i (relayDeparture R).1)/c-delay/c)/2=R.length ∧\n    (siteReading mu0 S i (relayReturn R).1-siteReading mu0 S i (relayDeparture R).1)/c=(2*R.length+delay)/c",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_tick_dilation_in_physical_time",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_tick_dilation_in_physical_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRPhysicalUnits.lean",
+      "source_sha256": "5c7f946b4b4c1b26b2649cb21ba2cc26711d03ea0809babc5abbfb4f7a601552",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i : Fin (n+1))\n    (positive : 0 < mu0+S.internalEnergy i) (beta : ℝ) (subluminal : beta^2 < 1)\n    (b : SREvent) (u v c : ℝ) (speed : 0 < c),\n    ((frameEvent (measurementBoost beta subluminal) b (srMarkedClockEvent mu0 (siteRecord mu0 S i) v)).1-\n      (frameEvent (measurementBoost beta subluminal) b (srMarkedClockEvent mu0 (siteRecord mu0 S i) u)).1)/c=\n    lorentzGamma beta*((siteReading mu0 S i v-siteReading mu0 S i u)/c)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_populated_network_every_declared_valid_request_is_executed",
+      "theorem": "AASCKleinGordon.OperationalSR.populated_network_every_declared_valid_request_is_executed",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRPopulatedProtocol.lean",
+      "source_sha256": "c003d6bb8cd8caf573c6038d76b6bb3f6a69455e78cc24890321e23d33a91bb5",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (sites : Fin (n+1) → SRSpace) (phases : Fin (n+1) → ℝ) (lo hi : ℝ)\n    (schedule : List (ExchangeRequest n)) (index : ℕ) (request : ExchangeRequest n)\n    (registered : schedule[index]?=some request)\n    (distinct : sites request.toSite ≠ sites request.fromSite) (energy : 0 < request.energy)\n    (delay : 0 ≤ request.delay) (start : lo ≤ request.emit)\n    (finish : request.emit+2*‖sites request.toSite-sites request.fromSite‖+request.delay ≤ hi),\n    requestDomain a s Omega n (populatedNetworkData a s Omega n r H sites phases lo hi schedule) index request.delay",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_populated_network_radar_success_is_inhabited",
+      "theorem": "AASCKleinGordon.OperationalSR.populated_network_radar_success_is_inhabited",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRPopulatedProtocol.lean",
+      "source_sha256": "c003d6bb8cd8caf573c6038d76b6bb3f6a69455e78cc24890321e23d33a91bb5",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega}),\n    ∃ d : NetworkData a s Omega 1, networkSound a s Omega 1 d ∧\n      ∃ answer : RadarAnswer, radarRead a s Omega 1 d 0 2=some answer ∧ answer.length=1",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega"
+      ]
+    },
+    {
+      "field": "receipt_actual_site_passive_slope",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_site_passive_slope",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProperRebaseTransport.lean",
+      "source_sha256": "70008c6eee0b7e7dd1e18cc326f2f25ce1f88a439b82365a970f7d1cea871eaa",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {k : ℕ} (S : SiteData k) (i : Fin (k+1))\n    (positive : 0 < mu0+S.internalEnergy i) (A : SRMatrixFrame),\n    srPassiveClockSlope mu0 A (siteRecord mu0 S i).2.2=observerSlope A",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_network_raw_use_is_actual_passive_rest_rebase",
+      "theorem": "AASCKleinGordon.OperationalSR.network_raw_use_is_actual_passive_rest_rebase",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProperRebaseTransport.lean",
+      "source_sha256": "70008c6eee0b7e7dd1e18cc326f2f25ce1f88a439b82365a970f7d1cea871eaa",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (x : NetworkSource a s Omega n)\n    (sound : networkSound a s Omega n x.data) (i : Fin (n+1)),\n    (networkRawJoint a s Omega n x i).clock=srPassiveClockUse a.mass x.data.frame x.data.origin\n      (srNativeClockUseRedescription a.mass (x.epoch i) (siteUse a.mass x.data.sites i x.data.lo x.data.hi))",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_network_passive_source_is_same_actual_old_clock",
+      "theorem": "AASCKleinGordon.OperationalSR.network_passive_source_is_same_actual_old_clock",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProperRebaseTransport.lean",
+      "source_sha256": "70008c6eee0b7e7dd1e18cc326f2f25ce1f88a439b82365a970f7d1cea871eaa",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (B : SRMatrixFrame) (admitted : B ∈ srNativeFrameComparisons)\n    (c : SREvent) (x : NetworkSource a s Omega n) (sound : networkSound a s Omega n x.data) (i : Fin (n+1)),\n    (networkRawJoint a s Omega n (passiveNetwork a s Omega n B c x) i).clock=\n      srPassiveClockUse a.mass B c (networkRawJoint a s Omega n x i).clock",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_relay_compensator_full_legs_are_original_rays",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_compensator_full_legs_are_original_rays",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (R : RelayData) (unit : ‖R.direction‖=1),\n    relayTurn R-relayCompensatorIncoming R ∈ srOriginalFutureRayIncrements ∧\n    relayCompensatorOutgoing R-relayTurn R ∈ srOriginalFutureRayIncrements",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_whole_affine_domain_populated",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_whole_affine_domain_populated",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (R : RelayData),\n    relayCovered univ R",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_whole_segments_transport",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_whole_segments_transport",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (b : SREvent) (O : Set SREvent) (R : RelayData),\n    relayCovered O R ↔ ∀ edge ∈ relaySegments R,\n      segmentCovered (frameEvent A b '' O) (frameEvent A b edge.1) (frameEvent A b edge.2)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_protocol_time_slab_open",
+      "theorem": "AASCKleinGordon.OperationalSR.protocol_time_slab_open",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (lo hi : ℝ),\n    IsOpen (protocolTimeSlab lo hi)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_time_slab_full_segment",
+      "theorem": "AASCKleinGordon.OperationalSR.time_slab_full_segment",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (lo hi : ℝ) (p q : SREvent)\n    (pin : p ∈ protocolTimeSlab lo hi) (qin : q ∈ protocolTimeSlab lo hi),\n    segmentCovered (protocolTimeSlab lo hi) p q",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_relay_proper_restricted_domain_populated",
+      "theorem": "AASCKleinGordon.OperationalSR.relay_proper_restricted_domain_populated",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (R : RelayData) (length : 0 < R.length)\n    (delay : 0 ≤ R.delay),\n    relayCovered (protocolTimeSlab (R.emit-2) ((relayReturn R).1+2)) R ∧\n    protocolTimeSlab (R.emit-2) ((relayReturn R).1+2) ≠ univ",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_synchronization_unique_on_actual_component",
+      "theorem": "AASCKleinGordon.OperationalSR.synchronization_unique_on_actual_component",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ {ι : Type} (edge : ι → ι → Prop)\n    (phase other : ι → ℝ) (same_offsets : ∀ i j, edge i j → other j-other i=phase j-phase i)\n    (i j : ι) (path : AdmittedPath edge i j),\n    other j-phase j=other i-phase i",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_all_pairs_synchronization_has_one_origin",
+      "theorem": "AASCKleinGordon.OperationalSR.all_pairs_synchronization_has_one_origin",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRProtocolDomains.lean",
+      "source_sha256": "59692f4225fd25495cf8885966db317a5f448d007fb5d84c779ca7bab3ad6cac",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ {n : ℕ} (phase other : Fin (n+1) → ℝ)\n    (same_offsets : ∀ i j, other j-other i=phase j-phase i),\n    ∃ origin : ℝ, ∀ i, other i=phase i+origin",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_restUnit_future",
+      "theorem": "AASCKleinGordon.OperationalSR.restUnit_future",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestNetwork.lean",
+      "source_sha256": "0a7fbc7a7326cacbb6fae09e99cf715c59e21a7e15af0ff7c167b7f64ced08bd",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), IsFutureUnit restUnit",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_site_actual_event",
+      "theorem": "AASCKleinGordon.OperationalSR.site_actual_event",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestNetwork.lean",
+      "source_sha256": "0a7fbc7a7326cacbb6fae09e99cf715c59e21a7e15af0ff7c167b7f64ced08bd",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i : Fin (n+1))\n    (positive : 0 < mu0+S.internalEnergy i) (t : ℝ),\n    srMarkedClockEvent mu0 (siteRecord mu0 S i) t=(t,S.position i)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_site_actual_reading",
+      "theorem": "AASCKleinGordon.OperationalSR.site_actual_reading",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestNetwork.lean",
+      "source_sha256": "0a7fbc7a7326cacbb6fae09e99cf715c59e21a7e15af0ff7c167b7f64ced08bd",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i : Fin (n+1))\n    (positive : 0 < mu0+S.internalEnergy i) (t : ℝ),\n    (srNativeCoastingMarkedRecord mu0 (siteRecord mu0 S i) t).2.reading=S.phase i+t",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_site_use_actually_valid",
+      "theorem": "AASCKleinGordon.OperationalSR.site_use_actually_valid",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestNetwork.lean",
+      "source_sha256": "0a7fbc7a7326cacbb6fae09e99cf715c59e21a7e15af0ff7c167b7f64ced08bd",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i : Fin (n+1))\n    (positive : 0 < mu0+S.internalEnergy i) (lo hi : ℝ) (ordered : lo ≤ hi),\n    srNativeClockUseValid mu0 (siteUse mu0 S i lo hi)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_framed_site_use_actually_valid",
+      "theorem": "AASCKleinGordon.OperationalSR.framed_site_use_actually_valid",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestNetwork.lean",
+      "source_sha256": "0a7fbc7a7326cacbb6fae09e99cf715c59e21a7e15af0ff7c167b7f64ced08bd",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) (base : 0 < mu0) {n : ℕ}\n    (S : SiteData n) (i : Fin (n+1)) (positive : 0 < mu0+S.internalEnergy i)\n    (lo hi : ℝ) (ordered : lo ≤ hi) (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (b : SREvent) (epoch : ℝ),\n    srNativeClockUseValid mu0 (framedSiteUse mu0 S i lo hi A b epoch)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_site_phases_are_actual_offsets",
+      "theorem": "AASCKleinGordon.OperationalSR.site_phases_are_actual_offsets",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestNetwork.lean",
+      "source_sha256": "0a7fbc7a7326cacbb6fae09e99cf715c59e21a7e15af0ff7c167b7f64ced08bd",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (mu0 : ℝ) {n : ℕ} (S : SiteData n) (i j : Fin (n+1))\n    (positive_i : 0 < mu0+S.internalEnergy i) (positive_j : 0 < mu0+S.internalEnergy j) (t : ℝ),\n    (srNativeCoastingMarkedRecord mu0 (siteRecord mu0 S j) t).2.reading-\n      (srNativeCoastingMarkedRecord mu0 (siteRecord mu0 S i) t).2.reading=S.phase j-S.phase i",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_rest_length_positive",
+      "theorem": "AASCKleinGordon.OperationalSR.rest_length_positive",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestPresentation.lean",
+      "source_sha256": "079327acbd9451a9328efe2b383d5bfccd4c4517d85c58c3f56104d71fafbc16",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    0 < restLength w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_rest_length_square",
+      "theorem": "AASCKleinGordon.OperationalSR.rest_length_square",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestPresentation.lean",
+      "source_sha256": "079327acbd9451a9328efe2b383d5bfccd4c4517d85c58c3f56104d71fafbc16",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    (restLength w)^2=w.1^2-‖w.2‖^2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_normalized_tangent_is_future_unit",
+      "theorem": "AASCKleinGordon.OperationalSR.normalized_tangent_is_future_unit",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestPresentation.lean",
+      "source_sha256": "079327acbd9451a9328efe2b383d5bfccd4c4517d85c58c3f56104d71fafbc16",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    IsFutureUnit (normalizedTangent w)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_rest_length_times_normalized_tangent",
+      "theorem": "AASCKleinGordon.OperationalSR.rest_length_times_normalized_tangent",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestPresentation.lean",
+      "source_sha256": "079327acbd9451a9328efe2b383d5bfccd4c4517d85c58c3f56104d71fafbc16",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    restLength w • normalizedTangent w=w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_outbound_frame_mem",
+      "theorem": "AASCKleinGordon.OperationalSR.outbound_frame_mem",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestPresentation.lean",
+      "source_sha256": "079327acbd9451a9328efe2b383d5bfccd4c4517d85c58c3f56104d71fafbc16",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    outboundFrame w future ∈ srNativeFrameComparisons",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_outbound_frame_actual_interval",
+      "theorem": "AASCKleinGordon.OperationalSR.outbound_frame_actual_interval",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestPresentation.lean",
+      "source_sha256": "079327acbd9451a9328efe2b383d5bfccd4c4517d85c58c3f56104d71fafbc16",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    srMatrixFrameEventLinear (outboundFrame w future) (restLength w,0)=w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_rest_presentation",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_rest_presentation",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestPresentation.lean",
+      "source_sha256": "079327acbd9451a9328efe2b383d5bfccd4c4517d85c58c3f56104d71fafbc16",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    restFrame w future ∈ srNativeFrameComparisons ∧\n      srMatrixFrameEventLinear (restFrame w future) w=(restLength w,0)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_successful_radar_has_proper_open_domain",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_successful_radar_has_proper_open_domain",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRestrictedProtocol.lean",
+      "source_sha256": "c44969a5ca583ad4cd766afe9295aed8b1f1aa2f52ad6b4c720073c6957f5094",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (r : LicensedScalarReceiver a s Omega (scalarBaseObject a))\n    (H : {H : MetricSourceProbe Omega // H ∈ wickOriginalMetricNeighborhood Omega})\n    (sites : Fin (n+1) → SRSpace) (phase : Fin (n+1) → ℝ) (i j : Fin (n+1))\n    (distinct : sites j ≠ sites i) (emit delay energy : ℝ) (wait : 0 ≤ delay) (positive : 0 < energy),\n    ∃ d : NetworkData a s Omega n, networkSound a s Omega n d ∧ IsOpen d.region ∧ d.region ≠ univ ∧\n      ∃ answer : RadarAnswer, radarRead a s Omega n d 0 delay=some answer ∧\n        answer.length=‖sites j-sites i‖",
+      "free_root_variables": [
+        "a",
+        "s",
+        "Omega",
+        "n"
+      ]
+    },
+    {
+      "field": "receipt_rotated_boost_is_actually_admitted",
+      "theorem": "AASCKleinGordon.OperationalSR.rotated_boost_is_actually_admitted",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRotatedMeasurement.lean",
+      "source_sha256": "4c4db336be5549453607e7f889caf83792be993163dea94a7be06a8251c2bd99",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t),\n    srRestCoordinateUnit Q*srUnitAxialBoost t r hyper ∈ srNativeFrameComparisons",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_rotated_boost_actual_time",
+      "theorem": "AASCKleinGordon.OperationalSR.rotated_boost_actual_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRotatedMeasurement.lean",
+      "source_sha256": "4c4db336be5549453607e7f889caf83792be993163dea94a7be06a8251c2bd99",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (t r : ℝ) (hyper : t^2-r^2=1) (b z : SREvent),\n    (frameEvent (srRestCoordinateUnit Q*srUnitAxialBoost t r hyper) b z).1=\n      (frameEvent (srUnitAxialBoost t r hyper) b z).1",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_rotated_measuring_time_is_actual_selected_time",
+      "theorem": "AASCKleinGordon.OperationalSR.rotated_measuring_time_is_actual_selected_time",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRotatedMeasurement.lean",
+      "source_sha256": "4c4db336be5549453607e7f889caf83792be993163dea94a7be06a8251c2bd99",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t)\n    (b : SREvent) (T : ℝ) (X : SRSpace),\n    measuringSiteTime ⟨srRestCoordinateUnit Q*srUnitAxialBoost t r hyper,b,T⟩ X=selectedRestTime t r b T X",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_general_measuring_separation_is_actual_source_form",
+      "theorem": "AASCKleinGordon.OperationalSR.general_measuring_separation_is_actual_source_form",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRotatedMeasurement.lean",
+      "source_sha256": "4c4db336be5549453607e7f889caf83792be993163dea94a7be06a8251c2bd99",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame)\n    (admitted : A ∈ srNativeFrameComparisons) (b : SREvent) (T : ℝ) (X Y : SRSpace),\n    ‖(measuredEndpoint A b T Y).2-(measuredEndpoint A b T X).2‖^2=\n      ‖Y-X‖^2-(selectedSiteTime A b T Y-selectedSiteTime A b T X)^2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_rotated_actual_selected_length_squared",
+      "theorem": "AASCKleinGordon.OperationalSR.rotated_actual_selected_length_squared",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRotatedMeasurement.lean",
+      "source_sha256": "4c4db336be5549453607e7f889caf83792be993163dea94a7be06a8251c2bd99",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t)\n    (b : SREvent) (T : ℝ) (X Y : SRSpace),\n    ‖(measuredEndpoint (srRestCoordinateUnit Q*srUnitAxialBoost t r hyper) b T Y).2-\n      (measuredEndpoint (srRestCoordinateUnit Q*srUnitAxialBoost t r hyper) b T X).2‖^2=\n      (Y 0-X 0)^2/t^2+(Y 1-X 1)^2+(Y 2-X 2)^2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_successful_rotated_ruler_is_actual_measurement",
+      "theorem": "AASCKleinGordon.OperationalSR.successful_rotated_ruler_is_actual_measurement",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRRotatedMeasurement.lean",
+      "source_sha256": "4c4db336be5549453607e7f889caf83792be993163dea94a7be06a8251c2bd99",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (a : Parameters) (s : ℝ) (Omega : Opens CoordinatePoint)\n    (n : ℕ) (d : NetworkData a s Omega n) (Q : SRSpace ≃ₗᵢ[ℝ] SRSpace)\n    (proper : LinearMap.det Q.toLinearMap=1) (t r : ℝ) (hyper : t^2-r^2=1) (positive : 0 < t)\n    (b : SREvent) (T : ℝ) (i j : Fin (n+1))\n    (domain : measuringDomain a s Omega n d ⟨srRestCoordinateUnit Q*srUnitAxialBoost t r hyper,b,T⟩ i j),\n    ∃ answer : MeasuringAnswer,\n      measuringRead a s Omega n d ⟨srRestCoordinateUnit Q*srUnitAxialBoost t r hyper,b,T⟩ i j=some answer ∧\n      answer.length^2=(d.sites.position j 0-d.sites.position i 0)^2/t^2+\n        (d.sites.position j 1-d.sites.position i 1)^2+(d.sites.position j 2-d.sites.position i 2)^2",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_source_form_smul",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_source_form_smul",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (t : ℝ) (w : SREvent),\n    srOriginalOrderQuadratic (t • w)=t^2*srOriginalOrderQuadratic w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_actual_source_form_zero",
+      "theorem": "AASCKleinGordon.OperationalSR.actual_source_form_zero",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), srOriginalOrderQuadratic (0:SREvent)=0",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_frame_source_quadratic",
+      "theorem": "AASCKleinGordon.OperationalSR.native_frame_source_quadratic",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (w : SREvent),\n    srOriginalOrderQuadratic (srMatrixFrameEventLinear A w)=srOriginalOrderQuadratic w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_future_timelike_strict_cone",
+      "theorem": "AASCKleinGordon.OperationalSR.future_timelike_strict_cone",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (w : SREvent) (future : IsFutureTimelike w),\n    ‖w.2‖ < w.1",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_frame_preserves_future_timelike",
+      "theorem": "AASCKleinGordon.OperationalSR.native_frame_preserves_future_timelike",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (w : SREvent) (future : IsFutureTimelike w),\n    IsFutureTimelike (srMatrixFrameEventLinear A w)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_frame_future_timelike_iff",
+      "theorem": "AASCKleinGordon.OperationalSR.native_frame_future_timelike_iff",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (w : SREvent),\n    IsFutureTimelike w ↔ IsFutureTimelike (srMatrixFrameEventLinear A w)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_future_unit_positive_scale",
+      "theorem": "AASCKleinGordon.OperationalSR.future_unit_positive_scale",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (U : SREvent) (unit : IsFutureUnit U) (t : ℝ) (positive : 0 < t),\n    IsFutureTimelike (t • U)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_future_unit_scaled_rest_length",
+      "theorem": "AASCKleinGordon.OperationalSR.future_unit_scaled_rest_length",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (U : SREvent) (unit : IsFutureUnit U) (t : ℝ) (positive : 0 ≤ t),\n    restLength (t • U)=t",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_native_rest_time_is_actual_length",
+      "theorem": "AASCKleinGordon.OperationalSR.native_rest_time_is_actual_length",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame)\n    (admitted : A ∈ srNativeFrameComparisons) (w : SREvent) (future : IsFutureTimelike w)\n    (atRest : (srMatrixFrameEventLinear A w).2=0),\n    srMatrixFrameEventLinear A w=(restLength w,0)",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_rest_length_native_frame",
+      "theorem": "AASCKleinGordon.OperationalSR.rest_length_native_frame",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (w : SREvent),\n    restLength (srMatrixFrameEventLinear A w)=restLength w",
+      "free_root_variables": []
+    },
+    {
+      "field": "receipt_normalized_tangent_native_frame",
+      "theorem": "AASCKleinGordon.OperationalSR.normalized_tangent_native_frame",
+      "source": "SOURCE\\physical-work\\physical-realization-expansion-20261019\\stage-04-operational-sr\\src\\OSRTimelikeComparison.lean",
+      "source_sha256": "a453dd147f5f3cddac7bf688fae69e450a96dde6b209b3f06f86ab6625eb98ea",
+      "type_text": "∀ (Omega : Opens CoordinatePoint) (n : ℕ), ∀ (A : SRMatrixFrame) (admitted : A ∈ srNativeFrameComparisons)\n    (w : SREvent),\n    normalizedTangent (srMatrixFrameEventLinear A w)=\n      srMatrixFrameEventLinear A (normalizedTangent w)",
+      "free_root_variables": []
+    }
+  ],
+  "root_parameters": "Parameters has positive mass, speed and hbar; s, kappa and Lambda are real; kappa is nonzero. No desired duration, comparison coverage, protocol compatibility, license or apparatus existence is a root premise.",
+  "explicit_field_hypotheses": [
+    "Native flat SREvent is R x EuclideanSpace R (Fin 3), with source form t^2-norm(x)^2 and native supplied comparison subgroup.",
+    "Clock base rest energy mu0 is positive and actual total mu0+J is positive; U.time>0 and q(U)=1; use windows are ordered.",
+    "Abstract ideal response is conditional on its certified interval domain, same-ray local addition/subdivision, positivity, admitted same-event comparisons with rest coverage, and one positive rest calibration. Its native Hamiltonian inhabitant is separately constructed.",
+    "Networks retain arbitrary original licensed scalar preparation and admitted EH operand as independent source data; the special flat metric identification uses the zero EH operand.",
+    "Successful radar uses require registered distinct sites, positive signal energy, nonnegative correctly recorded delay, resources, ordered windows and complete actual ray/clock segment coverage; proper open-domain successful examples and finite all-pairs occupants are constructed.",
+    "Measuring queries use an admitted frame and selected actual endpoint events at equal measuring time within their device windows; arbitrary-axis and subluminal boost laws are proved at that scope.",
+    "Dimensionful adapters require a common positive speed c, beta=v/c and v^2<c^2; physical readings/durations divide normalized readings by c.",
+    "Synchronization has one common origin on each undirected component generated by actual successful reads; no global connectivity or reverse executed protocol is presumed."
+  ],
+  "retained_whole_endpoints": [
+    "AASCKleinGordon.RecoveryComparison.kernel_faithful_recovery_comparison a s kappa Lambda coupling",
+    "For every old open Omega, AASCKleinGordon.CanonicalLicensing.SRIntegration.kernel_faithful_native_sr_canonical_licensing_eh_scalar a s Omega"
+  ],
+  "freshly_replayed": {
+    "production_modules": 43,
+    "audit_modules": 1,
+    "generated_object_files": 44,
+    "generated_artifact_kinds": {
+      ".olean": 44,
+      ".olean.private": 0,
+      ".olean.server": 0
+    },
+    "byte_identical_all": true,
+    "declarations": 1261,
+    "private_or_generated": 285,
+    "proof_value_groups": 23,
+    "exact_type_value_axiom_union": {
+      "axioms": [
+        "propext",
+        "Quot.sound",
+        "Classical.choice"
+      ],
+      "checked_constant_count": 72626,
+      "scope": "Exact transitive union of types and values for every selected declaration; not per-declaration exact lists"
+    }
+  },
+  "explicitly_reused": {
+    "retained_primary_objects": 6291,
+    "split_companions": 10558,
+    "toolchain_runtime_bin_files": 19,
+    "scope": "Hashed existing retained imports/runtime; no clean-machine bootstrap, dependency/toolchain rebuild or fresh .ir/.ilean claim."
+  },
+  "compiler": "SOURCE\\kr1\\bundle\\vendor\\toolchain\\bin\\lean.exe",
+  "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+  "compiler_version": "Lean 4.28.0, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b",
+  "mathlib_revision": "8f9d9cff6bd728b17a24e163c9402775d9e6a365",
+  "continuum_limit_scope": "The constructed continuous flat/coasting and finite test-device branch requires no discretization-to-continuum limit. This is not a solution of every continuum-limit or quantum-gravity problem.",
+  "remaining_separate_targets": [
+    "Driven/accelerated clocks and their source-force histories",
+    "Occupied curved device histories, matching maps and observable recovery errors",
+    "Coupled Einstein-KG apparatus/backreaction and empirical certification",
+    "Universal/minimum metric-interface existence, uniqueness or minimality",
+    "A public release of these private extensions"
+  ],
+  "strongest_truthful_claim": "A private machine-checked Lean 4 operational SR construction, composed from the Kernel and downstream Kernel-faithful machinery, with actual continuous coasting clocks, occupied finite radar/ruler protocols and explicit source/licensing/domain/failure maps; freshly replayed against pinned retained dependencies at its stated branch hypotheses.",
+  "frozen_inputs_sha256": "881a9faa57f7f3cb26a587c05e2e02139ff40db6e57951b23b5f977c4eb5ec52",
+  "replay_result_sha256": "d21fe1c0e08d60a5802c5e9154a0687504ffffc76a2ac3a3f5992423efd39f50",
+  "input_bindings_sha256": "f45daf844971b4d01c1b9680268261de353ea3f19aef5a46612cfe1aff8c61c1",
+  "independent_final_review": "FINAL_INDEPENDENT_REVIEW_001.json",
+  "independent_final_review_sha256": "9af9fe6f627dd3c2b3bb8e4ce0c3c25c57d017a9bcc65b8e42d155b937da06cf",
+  "predecessor_stage3_seal_sha256": "d60be7e3c7e09760c1b67bfdfa2050a0353a764a1fa598e79d5a74652bc5a604",
+  "preservation_manifests": 11,
+  "saved_roadmap_stage5_labels": {
+    "5A": "Structural SM law, root-qualified common source, symmetry and flavor.",
+    "5B": "Controlled Maxwell/classical Yang-Mills and Dirac/Weyl branches.",
+    "5C": "Occupied classical common-action SM plus gravity.",
+    "5D.1": "Fixed-graph interacting quantum Hamiltonian and finite fermion Fock occupancy.",
+    "5D.2": "Equilibrium Gibbs branch using that SAME physical Hamiltonian.",
+    "5E": "Original source-qualified interacting physical SM operations."
+  },
+  "no_publication_or_original_changes": true
+}

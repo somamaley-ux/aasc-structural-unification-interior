@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.c1_scalar_partial_continuous' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.regular_source_multiplier_pairing' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.regular_covariant_gradient_component_pairing' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_constructed_source_divergence_pairing' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

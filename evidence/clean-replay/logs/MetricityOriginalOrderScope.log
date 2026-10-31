@@ -1,0 +1,15 @@
+'AASCMetricityOrderAudit.FullDescriptorFamily' does not depend on any axioms
+'AASCMetricityOrderAudit.OriginalSafe' does not depend on any axioms
+'AASCMetricityOrderAudit.MetricAvailable' does not depend on any axioms
+'AASCMetricityOrderAudit.LocalMetricBoundary' does not depend on any axioms
+'AASCMetricityOrderAudit.earlier_original_use_refutes_later_first_availability' does not depend on any axioms
+'AASCMetricityOrderAudit.discordant_original_fibre_excludes_that_source_only_answer' does not depend on any axioms
+'AASCMetricityOrderAudit.lost_richer_answer_does_not_exclude_retained_duration' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricityOrderAudit.original_incidence_supplies_qualification_and_safe_record' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricityOrderAudit.nonempty_grounded_safe_uses_do_not_force_a_minimal_interface' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

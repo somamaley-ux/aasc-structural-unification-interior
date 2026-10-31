@@ -1,0 +1,19 @@
+'AASCMetricConstruction.sr_original_ray_finite_reach_is_future' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_spatial_direction_and_radial_amount' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_every_future_increment_has_original_two_ray_ledger' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_ray_finite_reach_exact_full_cone' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_ray_completed_reach_exact_full_cone' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_ray_completed_clock_strict' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_ray_role_occupied' depends on axioms: [propext, Classical.choice, Quot.sound]

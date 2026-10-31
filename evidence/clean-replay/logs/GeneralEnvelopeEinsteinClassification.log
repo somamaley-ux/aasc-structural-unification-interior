@@ -1,0 +1,6 @@
+'AASCSemanticExhaustion.full_envelope_activity_from_total_source_match' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_general_envelope_unique_einstein_response' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

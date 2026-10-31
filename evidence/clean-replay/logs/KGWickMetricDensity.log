@@ -1,0 +1,13 @@
+KGWickMetricDensity.lean:43:10: warning: This simp argument is unused:
+  wickQuantumActionDensity
+
+Hint: Omit it from the simp argument list.
+  simp [̵w̵i̵c̵k̵Q̵u̵a̵n̵t̵u̵m̵A̵c̵t̵i̵o̵n̵D̵e̵n̵s̵i̵t̵y̵,̵w̵i̵c̵k̵Q̵u̵a̵n̵t̵u̵m̵D̵e̵n̵s̵i̵t̵y̵V̵a̵r̵i̵a̵t̵i̵o̵n̵]̵[̲w̲i̲c̲k̲Q̲u̲a̲n̲t̲u̲m̲D̲e̲n̲s̲i̲t̲y̲V̲a̲r̲i̲a̲t̲i̲o̲n̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickMetricDensity.lean:42:21: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+KGWickMetricDensity.lean:43:64: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

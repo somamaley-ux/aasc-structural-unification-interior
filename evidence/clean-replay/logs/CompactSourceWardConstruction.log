@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.source_symmetric_index_symmetry' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_metric_lie_projection' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.actual_compact_source_lie_pairing' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.constructed_source_ward_iff_divergence' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.constructed_source_closed_ward_iff' depends on axioms: [propext, Classical.choice, Quot.sound]

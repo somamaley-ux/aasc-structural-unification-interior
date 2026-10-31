@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "files_scanned": 5571,
+  "dependency_source_and_notice_files_verified": 3414,
+  "project_modules": 1056,
+  "project_bytes_unchanged": true,
+  "findings": [],
+  "scope": "Pattern scan for credential formats, private home paths, excluded binary/archive types and 5A import prefixes. This is not an exhaustive secret detector."
+}

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "project_modules": 1056,
+  "selected_retained_project_modules": 1012,
+  "stage4_source_and_audit_modules": 44,
+  "retained_external_modules": 5279,
+  "missing_direct_imports": [],
+  "stage5_project_modules": [],
+  "project_manifest_sha256": "663d977afa21c76b471b9681e7aa0244b5401b67d8612164afd41bf0e8ac2dff",
+  "selection": "Exact Stage 4 retained non-vendor object module set, plus the 44 records in its accepted frozen build input manifest. Source copies must match known recorded hashes where present; every fresh output is compared with the accepted object hash."
+}

@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.curvatureEncode_mem' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvature_encode_decode' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvature_decode_encode' depends on axioms: [propext, Classical.choice, Quot.sound]

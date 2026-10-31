@@ -1,0 +1,23 @@
+KGParticleAdjointness.lean:56:21: warning: This simp argument is unused:
+  joinParticleCoordinates_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [̵j̵o̵i̵n̵P̵a̵r̵t̵i̵c̵l̵e̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵s̵_̵a̵p̵p̵l̵y̵,̵ ̵p̵a̵r̵t̵i̵c̵l̵e̵T̵e̵n̵s̵o̵r̵I̵n̵s̵e̵r̵t̵C̵L̵M̵_̵a̵p̵p̵l̵y̵,̵[̲p̲a̲r̲t̲i̲c̲l̲e̲T̲e̲n̲s̲o̲r̲I̲n̲s̲e̲r̲t̲C̲L̲M̲_̲a̲p̲p̲l̲y̲,̲ Fin.cons_zero, Fin.tail_cons, star_mul, map_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGParticleAdjointness.lean:56:52: warning: This simp argument is unused:
+  particleTensorInsertCLM_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [joinParticleCoordinates_apply, p̵a̵r̵t̵i̵c̵l̵e̵T̵e̵n̵s̵o̵r̵I̵n̵s̵e̵r̵t̵C̵L̵M̵_̵a̵p̵p̵l̵y̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵ ̵Fin.cons_zero, Fin.tail_cons, star_mul, map_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGParticleAdjointness.lean:57:42: warning: This simp argument is unused:
+  star_mul
+
+Hint: Omit it from the simp argument list.
+  simp only [joinParticleCoordinates_apply, particleTensorInsertCLM_apply, Fin.cons_zero,
+  ̲  ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲ ̲Fin.tail_cons, s̵t̵a̵r̵_̵m̵u̵l̵,̵ ̵map_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

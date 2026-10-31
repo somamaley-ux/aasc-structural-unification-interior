@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.normalMetricHessian_mem' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_curvature_skew_first' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_curvature_skew_last' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_curvature_pair_exchange' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_curvature_bianchi' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_curvature_mem' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvatureJet_normalJet_right_inverse' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvatureJetMap_surjective' depends on axioms: [propext, Classical.choice, Quot.sound]

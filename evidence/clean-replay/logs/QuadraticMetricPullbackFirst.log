@@ -1,0 +1,8 @@
+'AASCSemanticExhaustion.quadraticIdentityMap_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticIdentityMap_jacobian_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadratic_identity_metric_pullback_partial' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.continuousLinearMap_zero_of_coordinate_basis' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

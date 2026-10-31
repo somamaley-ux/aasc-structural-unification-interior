@@ -1,0 +1,13 @@
+'AASCSemanticExhaustion.c2_actual_curvature_algebraic_at_origin' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_actual_curvature_algebraic' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c3_normal_metric_curvature_laws_eventually' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_curvature_partial_skew_first' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c3_normal_curvature_partial_skew_last' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

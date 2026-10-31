@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.native_metric_component_evaluation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_metric_projection_symmetric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_curve_actual_metric_tangent' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_all_metric_probes_have_actual_admitted_paths' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

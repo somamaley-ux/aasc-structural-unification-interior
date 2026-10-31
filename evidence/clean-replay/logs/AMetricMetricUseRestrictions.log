@@ -1,0 +1,17 @@
+'AASCAMetricMetricUse.FibreConstant' does not depend on any axioms
+'AASCAMetricMetricUse.retained_answer_has_unique_descent_iff' depends on axioms: [Classical.choice, Quot.sound]
+'AASCAMetricMetricUse.discordant_fibre_excludes_source_only_answer' does not depend on any axioms
+'AASCAMetricMetricUse.RuleClosed' does not depend on any axioms
+'AASCAMetricMetricUse.GroundedClosure' does not depend on any axioms
+'AASCAMetricMetricUse.grounded_closure_contains_grounds' does not depend on any axioms
+'AASCAMetricMetricUse.grounded_closure_is_rule_closed' does not depend on any axioms
+'AASCAMetricMetricUse.unseeded_mutual_licenses_are_absent' does not depend on any axioms
+'AASCAMetricMetricUse.independently_grounded_entrance_is_in_closure' does not depend on any axioms
+'AASCAMetricMetricUse.eligible_equivariant_output_is_stabilizer_fixed' does not depend on any axioms
+'AASCAMetricMetricUse.empty_eligible_fixed_set_excludes_selector' does not depend on any axioms
+'AASCAMetricMetricUse.constructed_information_and_grounding_restrictions' depends on axioms: [Classical.choice,
+ Quot.sound]
+'AASCAMetricMetricUse.AMetricLicensingDiscipline' depends on axioms: [Quot.sound]
+'AASCAMetricMetricUse.constructed_ametric_licensing_discipline' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,7 @@
+KGAxisBoostDifferential.lean:25:43: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵h̵j̵,̵i̵t̵e̵_̵a̵p̵p̵l̵y̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]̵[̲h̲j̲,̲ ̲i̲t̲e̲_̲a̲p̲p̲l̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

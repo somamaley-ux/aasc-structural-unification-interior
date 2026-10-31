@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "fresh_project_modules": 1056,
+  "accepted_object_hash_matches": 1056,
+  "endpoint_axiom_reports": 6,
+  "axioms": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "dependency_or_toolchain_source_bootstrap_tested": false,
+  "scope": "All project modules freshly compiled within a separate clean output directory, with a verified checkpoint/resume. Pinned toolchain and dependency binaries were rehashed and reused; no historical project binaries were copied into the clean build."
+}

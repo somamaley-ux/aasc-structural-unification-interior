@@ -1,0 +1,25 @@
+SRConeRefinementAttachment.lean:53:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_cone_refinement_preserves_the_attained_old_source`:
+  [Nontrivial ↥(SRClockSpatialSpace τ)]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Nontrivial ↥(SRClockSpatialSpace τ)] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRConeRefinementAttachment.lean:65:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_original_registered_operations_descend_with_exact_domains_and_outputs`:
+  [Nontrivial ↥(SRClockSpatialSpace τ)]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Nontrivial ↥(SRClockSpatialSpace τ)] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_constructed_metric_descends_from_full_original_source_contexts' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.srConeRefinementOldForget' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_cone_refinement_preserves_the_attained_old_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_registered_operations_descend_with_exact_domains_and_outputs' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_context_equivalence_preserves_constructed_metric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

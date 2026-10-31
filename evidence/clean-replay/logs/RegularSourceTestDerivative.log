@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.regular_source_test_product_integrable' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_source_test_integration_by_parts' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.regular_source_dual_partial_representation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

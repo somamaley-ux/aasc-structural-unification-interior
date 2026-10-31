@@ -1,0 +1,24 @@
+MetricNormalizationTransition.lean:61:5: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCSemanticExhaustion.general_normalizing_chart_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.generalNormalizingChartInverse_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.generalNormalizingChartInverse_analytic' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.generalNormalizingChartInverse_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.generalNormalizingChartInverse_right_inverse' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.metricNormalizationTransition_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metricNormalizationTransition_c3' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.metricNormalizationTransition_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.metricNormalizationTransition_metric_eventually' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

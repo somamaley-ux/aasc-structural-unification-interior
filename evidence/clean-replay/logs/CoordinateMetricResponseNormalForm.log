@@ -1,0 +1,12 @@
+CoordinateMetricResponseNormalForm.lean:15:9: warning: unused variable `symmetric`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+CoordinateMetricResponseNormalForm.lean:15:46: warning: unused variable `regular`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+CoordinateMetricResponseNormalForm.lean:16:9: warning: unused variable `frame`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'AASCSemanticExhaustion.admissible_c2_coordinate_metric_response_normal_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

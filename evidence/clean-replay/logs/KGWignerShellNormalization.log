@@ -1,0 +1,13 @@
+KGWignerShellNormalization.lean:42:15: warning: This simp argument is unused:
+  Pi.mul_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [P̵i̵.̵m̵u̵l̵_̵a̵p̵p̵l̵y̵,̵norm_mul, ̲Complex.norm_real, ̲Real.norm_eq_abs, ̲abs_of_pos (wignerWeight_pos a p)]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWignerShellNormalization.lean:70:8: warning: 'ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+KGWignerShellNormalization.lean:70:8: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`

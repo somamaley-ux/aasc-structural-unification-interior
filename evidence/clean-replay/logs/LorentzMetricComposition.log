@@ -1,0 +1,15 @@
+LorentzMetricComposition.lean:12:52: warning: This simp argument is unused:
+  ite_mul
+
+Hint: Omit it from the simp argument list.
+  simp [Matrix.mulVec, dotProduct, Pi.single_apply, i̵t̵e̵_̵mul,̵ ̵m̵u̵l̵_ite]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.lorentzCoordinateEquiv_basis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticSecondDerivative_lorentz' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.hessian_metric_lorentz_composition_fderiv' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.hessian_metric_lorentz_composition_second' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

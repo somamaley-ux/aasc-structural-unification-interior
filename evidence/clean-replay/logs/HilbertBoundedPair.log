@@ -1,0 +1,15 @@
+HilbertBoundedPair.lean:14:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.BoundedPair.mem_relation`:
+  [CompleteSpace E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CompleteSpace E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+HilbertBoundedPair.lean:26:32: warning: unused variable `hi`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+HilbertBoundedPair.lean:78:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.BoundedPair.parameterize`:
+  [CompleteSpace E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CompleteSpace E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`

@@ -1,0 +1,16 @@
+'AASC.KernelReference.ObjecthoodNecessity.canonical_standing_iff_original_qualification' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.ObjecthoodNecessity.canonical_admission_iff_original_qualification' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.ObjecthoodNecessity.original_incidence_constructs_kernel' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.ObjecthoodNecessity.exact_identity_recovers_original_qualification' does not depend on any axioms
+'AASC.KernelReference.ObjecthoodNecessity.objecthood_necessity_semantic' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASC.KernelReference.ObjecthoodNecessity.finite_authorization_cut_has_original_kernel' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

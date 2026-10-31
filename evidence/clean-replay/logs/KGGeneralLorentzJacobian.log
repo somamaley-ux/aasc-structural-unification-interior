@@ -1,0 +1,109 @@
+KGGeneralLorentzJacobian.lean:44:63: warning: This simp argument is unused:
+  cons_three_two
+
+Hint: Omit it from the simp argument list.
+  simp [̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵C̵L̵M̵,̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵M̵a̵t̵r̵i̵x̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵e̵n̵e̵r̵g̵y̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵m̵o̵m̵e̵n̵t̵u̵m̵D̵o̵t̵C̵L̵M̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵t̵o̵M̵a̵t̵r̵i̵x̵'̵_̵a̵p̵p̵l̵y̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵,̵f̵o̵u̵r̵T̵i̵m̵e̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵P̵r̵o̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵F̵i̵n̵.̵t̵a̵i̵l̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]̵[̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲C̲L̲M̲,̲ ̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲M̲a̲t̲r̲i̲x̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲ ̲e̲n̲e̲r̲g̲y̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲m̲o̲m̲e̲n̲t̲u̲m̲D̲o̲t̲C̲L̲M̲,̲ ̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲t̲o̲M̲a̲t̲r̲i̲x̲'̲_̲a̲p̲p̲l̲y̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲,̲ ̲f̲o̲u̲r̲T̲i̲m̲e̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲P̲r̲o̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲C̲o̲o̲r̲d̲i̲n̲a̲t̲e̲C̲o̲n̲s̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲o̲n̲e̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲w̲o̲_̲o̲n̲e̲,̲ ̲F̲i̲n̲.̲t̲a̲i̲l̲,̲ ̲P̲i̲.̲s̲i̲n̲g̲l̲e̲_̲a̲p̲p̲l̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGGeneralLorentzJacobian.lean:45:20: warning: This simp argument is unused:
+  cons_four_one
+
+Hint: Omit it from the simp argument list.
+  simp [̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵C̵L̵M̵,̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵M̵a̵t̵r̵i̵x̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵e̵n̵e̵r̵g̵y̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵m̵o̵m̵e̵n̵t̵u̵m̵D̵o̵t̵C̵L̵M̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵t̵o̵M̵a̵t̵r̵i̵x̵'̵_̵a̵p̵p̵l̵y̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵,̵f̵o̵u̵r̵T̵i̵m̵e̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵P̵r̵o̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵F̵i̵n̵.̵t̵a̵i̵l̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]̵[̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲C̲L̲M̲,̲ ̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲M̲a̲t̲r̲i̲x̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲ ̲e̲n̲e̲r̲g̲y̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲m̲o̲m̲e̲n̲t̲u̲m̲D̲o̲t̲C̲L̲M̲,̲ ̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲t̲o̲M̲a̲t̲r̲i̲x̲'̲_̲a̲p̲p̲l̲y̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲,̲ ̲f̲o̲u̲r̲T̲i̲m̲e̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲P̲r̲o̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲C̲o̲o̲r̲d̲i̲n̲a̲t̲e̲C̲o̲n̲s̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲w̲o̲_̲o̲n̲e̲,̲ ̲F̲i̲n̲.̲t̲a̲i̲l̲,̲ ̲P̲i̲.̲s̲i̲n̲g̲l̲e̲_̲a̲p̲p̲l̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGGeneralLorentzJacobian.lean:45:34: warning: This simp argument is unused:
+  cons_three_one
+
+Hint: Omit it from the simp argument list.
+  simp [̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵C̵L̵M̵,̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵M̵a̵t̵r̵i̵x̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵e̵n̵e̵r̵g̵y̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵m̵o̵m̵e̵n̵t̵u̵m̵D̵o̵t̵C̵L̵M̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵t̵o̵M̵a̵t̵r̵i̵x̵'̵_̵a̵p̵p̵l̵y̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵,̵f̵o̵u̵r̵T̵i̵m̵e̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵P̵r̵o̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵F̵i̵n̵.̵t̵a̵i̵l̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]̵[̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲C̲L̲M̲,̲ ̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲M̲a̲t̲r̲i̲x̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲ ̲e̲n̲e̲r̲g̲y̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲m̲o̲m̲e̲n̲t̲u̲m̲D̲o̲t̲C̲L̲M̲,̲ ̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲t̲o̲M̲a̲t̲r̲i̲x̲'̲_̲a̲p̲p̲l̲y̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲,̲ ̲f̲o̲u̲r̲T̲i̲m̲e̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲P̲r̲o̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲C̲o̲o̲r̲d̲i̲n̲a̲t̲e̲C̲o̲n̲s̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲w̲o̲_̲o̲n̲e̲,̲ ̲F̲i̲n̲.̲t̲a̲i̲l̲,̲ ̲P̲i̲.̲s̲i̲n̲g̲l̲e̲_̲a̲p̲p̲l̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGGeneralLorentzJacobian.lean:45:49: warning: This simp argument is unused:
+  cons_two_one
+
+Hint: Omit it from the simp argument list.
+  simp [̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵C̵L̵M̵,̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵M̵a̵t̵r̵i̵x̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵e̵n̵e̵r̵g̵y̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵m̵o̵m̵e̵n̵t̵u̵m̵D̵o̵t̵C̵L̵M̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵t̵o̵M̵a̵t̵r̵i̵x̵'̵_̵a̵p̵p̵l̵y̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵,̵f̵o̵u̵r̵T̵i̵m̵e̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵P̵r̵o̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵F̵i̵n̵.̵t̵a̵i̵l̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]̵[̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲C̲L̲M̲,̲ ̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲M̲a̲t̲r̲i̲x̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲ ̲e̲n̲e̲r̲g̲y̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲m̲o̲m̲e̲n̲t̲u̲m̲D̲o̲t̲C̲L̲M̲,̲ ̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲t̲o̲M̲a̲t̲r̲i̲x̲'̲_̲a̲p̲p̲l̲y̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲,̲ ̲f̲o̲u̲r̲T̲i̲m̲e̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲P̲r̲o̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲C̲o̲o̲r̲d̲i̲n̲a̲t̲e̲C̲o̲n̲s̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲o̲n̲e̲,̲ ̲F̲i̲n̲.̲t̲a̲i̲l̲,̲ ̲P̲i̲.̲s̲i̲n̲g̲l̲e̲_̲a̲p̲p̲l̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGGeneralLorentzJacobian.lean:46:15: warning: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵C̵L̵M̵,̵s̵h̵e̵l̵l̵F̵r̵a̵m̵e̵M̵a̵t̵r̵i̵x̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵e̵n̵e̵r̵g̵y̵D̵e̵r̵i̵v̵a̵t̵i̵v̵e̵C̵L̵M̵,̵m̵o̵m̵e̵n̵t̵u̵m̵D̵o̵t̵C̵L̵M̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵t̵o̵M̵a̵t̵r̵i̵x̵'̵_̵a̵p̵p̵l̵y̵,̵m̵a̵s̵s̵S̵h̵e̵l̵l̵,̵f̵o̵u̵r̵T̵i̵m̵e̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵I̵n̵j̵e̵c̵t̵i̵o̵n̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵f̵o̵u̵r̵S̵p̵a̵t̵i̵a̵l̵P̵r̵o̵j̵e̵c̵t̵i̵o̵n̵,̵f̵o̵u̵r̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵F̵i̵n̵.̵t̵a̵i̵l̵,̵P̵i̵.̵s̵i̵n̵g̵l̵e̵_̵a̵p̵p̵l̵y̵]̵[̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲C̲L̲M̲,̲ ̲s̲h̲e̲l̲l̲F̲r̲a̲m̲e̲M̲a̲t̲r̲i̲x̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲ ̲e̲n̲e̲r̲g̲y̲D̲e̲r̲i̲v̲a̲t̲i̲v̲e̲C̲L̲M̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲m̲o̲m̲e̲n̲t̲u̲m̲D̲o̲t̲C̲L̲M̲,̲ ̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲t̲o̲M̲a̲t̲r̲i̲x̲'̲_̲a̲p̲p̲l̲y̲,̲ ̲m̲a̲s̲s̲S̲h̲e̲l̲l̲,̲ ̲f̲o̲u̲r̲T̲i̲m̲e̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲I̲n̲j̲e̲c̲t̲i̲o̲n̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲f̲o̲u̲r̲S̲p̲a̲t̲i̲a̲l̲P̲r̲o̲j̲e̲c̲t̲i̲o̲n̲,̲ ̲f̲o̲u̲r̲C̲o̲o̲r̲d̲i̲n̲a̲t̲e̲C̲o̲n̲s̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲
+  ̲ ̲ ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲w̲o̲_̲o̲n̲e̲,̲ ̲F̲i̲n̲.̲t̲a̲i̲l̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGGeneralLorentzJacobian.lean:47:4: warning: 'norm_num' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+KGGeneralLorentzJacobian.lean:48:64: warning: 'ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+KGGeneralLorentzJacobian.lean:48:64: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+KGGeneralLorentzJacobian.lean:57:18: warning: This simp argument is unused:
+  cons_four_one
+
+Hint: Omit it from the simp argument list.
+  simp [̵F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵,̵M̵a̵t̵r̵i̵x̵.̵d̵e̵t̵_̵f̵i̵n̵_̵t̵h̵r̵e̵e̵,̵M̵a̵t̵r̵i̵x̵.̵s̵u̵b̵m̵a̵t̵r̵i̵x̵,̵
+  ̵ ̵ ̵ ̵ ̵s̵u̵c̵c̵A̵b̵o̵v̵e̵_̵f̵o̵u̵r̵,̵M̵a̵t̵r̵i̵x̵.̵v̵e̵c̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵]̵[̲F̲i̲n̲.̲s̲u̲m̲_̲u̲n̲i̲v̲_̲s̲u̲c̲c̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲d̲e̲t̲_̲f̲i̲n̲_̲t̲h̲r̲e̲e̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲s̲u̲b̲m̲a̲t̲r̲i̲x̲,̲ ̲s̲u̲c̲c̲A̲b̲o̲v̲e̲_̲f̲o̲u̲r̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲v̲e̲c̲C̲o̲n̲s̲,̲
+  ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲w̲o̲_̲o̲n̲e̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGGeneralLorentzJacobian.lean:57:32: warning: This simp argument is unused:
+  cons_three_one
+
+Hint: Omit it from the simp argument list.
+  simp [̵F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵,̵M̵a̵t̵r̵i̵x̵.̵d̵e̵t̵_̵f̵i̵n̵_̵t̵h̵r̵e̵e̵,̵M̵a̵t̵r̵i̵x̵.̵s̵u̵b̵m̵a̵t̵r̵i̵x̵,̵
+  ̵ ̵ ̵ ̵ ̵s̵u̵c̵c̵A̵b̵o̵v̵e̵_̵f̵o̵u̵r̵,̵M̵a̵t̵r̵i̵x̵.̵v̵e̵c̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵]̵[̲F̲i̲n̲.̲s̲u̲m̲_̲u̲n̲i̲v̲_̲s̲u̲c̲c̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲d̲e̲t̲_̲f̲i̲n̲_̲t̲h̲r̲e̲e̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲s̲u̲b̲m̲a̲t̲r̲i̲x̲,̲ ̲s̲u̲c̲c̲A̲b̲o̲v̲e̲_̲f̲o̲u̲r̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲v̲e̲c̲C̲o̲n̲s̲,̲
+  ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲w̲o̲_̲o̲n̲e̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGGeneralLorentzJacobian.lean:57:47: warning: This simp argument is unused:
+  cons_two_one
+
+Hint: Omit it from the simp argument list.
+  simp [̵F̵i̵n̵.̵s̵u̵m̵_̵u̵n̵i̵v̵_̵s̵u̵c̵c̵,̵M̵a̵t̵r̵i̵x̵.̵d̵e̵t̵_̵f̵i̵n̵_̵t̵h̵r̵e̵e̵,̵M̵a̵t̵r̵i̵x̵.̵s̵u̵b̵m̵a̵t̵r̵i̵x̵,̵
+  ̵ ̵ ̵ ̵ ̵s̵u̵c̵c̵A̵b̵o̵v̵e̵_̵f̵o̵u̵r̵,̵M̵a̵t̵r̵i̵x̵.̵v̵e̵c̵C̵o̵n̵s̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵h̵r̵e̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵t̵w̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵t̵w̵o̵,̵c̵o̵n̵s̵_̵f̵o̵u̵r̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵h̵r̵e̵e̵_̵o̵n̵e̵,̵c̵o̵n̵s̵_̵t̵w̵o̵_̵o̵n̵e̵]̵[̲F̲i̲n̲.̲s̲u̲m̲_̲u̲n̲i̲v̲_̲s̲u̲c̲c̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲d̲e̲t̲_̲f̲i̲n̲_̲t̲h̲r̲e̲e̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲s̲u̲b̲m̲a̲t̲r̲i̲x̲,̲ ̲s̲u̲c̲c̲A̲b̲o̲v̲e̲_̲f̲o̲u̲r̲,̲ ̲M̲a̲t̲r̲i̲x̲.̲v̲e̲c̲C̲o̲n̲s̲,̲
+  ̲ ̲ ̲ ̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲h̲r̲e̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲t̲w̲o̲,̲ ̲c̲o̲n̲s̲_̲f̲o̲u̲r̲_̲o̲n̲e̲,̲ ̲c̲o̲n̲s̲_̲t̲h̲r̲e̲e̲_̲o̲n̲e̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

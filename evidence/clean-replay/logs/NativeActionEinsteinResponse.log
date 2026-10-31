@@ -1,0 +1,6 @@
+'AASCSemanticExhaustion.native_action_closed_source_unique_einstein_response' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_response_equation_normalization' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

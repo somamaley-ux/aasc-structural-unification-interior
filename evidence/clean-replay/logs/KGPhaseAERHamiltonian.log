@@ -1,0 +1,4 @@
+'AASCKleinGordon.phaseAER_constraint_differential_surjective' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCKleinGordon.phaseAER_constraint_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCKleinGordon.phaseAER_phase_flow_hasDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCKleinGordon.phaseAER_continuous_dual_hamiltonian' depends on axioms: [propext, Classical.choice, Quot.sound]

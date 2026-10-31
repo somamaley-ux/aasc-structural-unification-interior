@@ -1,0 +1,12 @@
+'AASCSemanticExhaustion.quadraticCoordinateMap_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticCoordinateMap_smooth' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticCoordinateMap_component_hasFDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.quadraticCoordinateMap_hasFDerivAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticCoordinateDerivative_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticCoordinateMap_hasFDerivAt_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.quadraticCoordinateMap_local_chart' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadraticCoordinateMap_jacobian' depends on axioms: [propext, Classical.choice, Quot.sound]

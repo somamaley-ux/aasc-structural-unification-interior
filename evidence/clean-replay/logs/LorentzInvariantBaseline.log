@@ -1,0 +1,60 @@
+LorentzInvariantBaseline.lean:58:26: warning: This simp argument is unused:
+  Matrix.diagonal_mul
+
+Hint: Omit it from the simp argument list.
+  simp [flipMatrix, M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵m̵u̵l̵,̵ ̵Matrix.mul_diagonal, hi]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+LorentzInvariantBaseline.lean:59:24: warning: This simp argument is unused:
+  Matrix.diagonal_mul
+
+Hint: Omit it from the simp argument list.
+  simp [flipMatrix, M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵m̵u̵l̵,̵ ̵Matrix.mul_diagonal, h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+LorentzInvariantBaseline.lean:65:26: warning: This simp argument is unused:
+  Matrix.diagonal_mul
+
+Hint: Omit it from the simp argument list.
+  simp [flipMatrix, M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵m̵u̵l̵,̵ ̵Matrix.mul_diagonal, hi]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+LorentzInvariantBaseline.lean:66:24: warning: This simp argument is unused:
+  Matrix.diagonal_mul
+
+Hint: Omit it from the simp argument list.
+  simp [flipMatrix, M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵m̵u̵l̵,̵ ̵Matrix.mul_diagonal, h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+LorentzInvariantBaseline.lean:72:34: warning: This simp argument is unused:
+  Matrix.diagonal_mul
+
+Hint: Omit it from the simp argument list.
+  simp [flipMatrix, metric, M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵m̵u̵l̵,̵ ̵Matrix.mul_diagonal, hi]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+LorentzInvariantBaseline.lean:73:32: warning: This simp argument is unused:
+  Matrix.diagonal_mul
+
+Hint: Omit it from the simp argument list.
+  simp [flipMatrix, metric, M̵a̵t̵r̵i̵x̵.̵d̵i̵a̵g̵o̵n̵a̵l̵_̵m̵u̵l̵,̵ ̵Matrix.mul_diagonal, h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+LorentzInvariantBaseline.lean:79:4: warning: This simp argument is unused:
+  hij
+
+Hint: Omit it from the simp argument list.
+  simp [flipComparison, flipMatrix, Matrix.diagonal_mul, Matrix.mul_diagonal,
+  ̵  ̵ ̵ ̵h̵i̵j̵,̵ ̵Ne.symm hij] at h
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+'AASCSemanticExhaustion.metric_is_invariant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.invariant_baseline_off_diagonal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.invariant_baseline_spatial_diagonals' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.invariant_baseline_time_diagonal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.invariant_baseline_unique_metric_multiple' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.invariant_baseline_iff_metric_multiple' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

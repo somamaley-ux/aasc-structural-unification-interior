@@ -1,0 +1,1 @@
+'AASCSemanticExhaustion.sum_fin_ten' depends on axioms: [propext, Classical.choice, Quot.sound]

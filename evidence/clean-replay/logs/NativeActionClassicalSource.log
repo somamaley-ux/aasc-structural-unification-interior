@@ -1,0 +1,13 @@
+'AASCSemanticExhaustion.native_action_source_data_protocol_attachment' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_action_source_data_internal_closure' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.raised_source_tensor_density_symmetric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.source_density_coordinates_recover' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_action_source_classical_covariant_conservation' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

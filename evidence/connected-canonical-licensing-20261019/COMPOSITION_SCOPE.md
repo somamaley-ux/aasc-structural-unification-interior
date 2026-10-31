@@ -1,0 +1,43 @@
+This is an isolated successor of the accepted, separately audited licensing and dynamics closures. The mathematical sources in those closures and the public source snapshot are preserved. All new code and evidence reside in this directory.
+
+The exact composed theorem is:
+
+```lean
+AASCKleinGordon.CanonicalLicensing.
+  kernel_faithful_canonical_licensing_to_eh_and_free_schrodinger
+    (a : Parameters) (s : ℝ) (Ω : Opens CoordinatePoint) :
+    KernelFaithfulLicensedEndpoints a s Ω
+```
+
+Its proposition has 49 explicit proved receipt fields. They retain the actual constructed constraint-first KG source, canonical Kernel/AMetric/licensing instances, complete licensed receivers, their semantic maps and coverage, current EH and scalar analytic endpoints, and common original preparation/record/reference/evolution squares. The root proof supplies all fields from proved terms; it takes no desired Einstein/Schrödinger law, license, constructor certificate or semantic bridge as an unverified input.
+
+The dependency direction is constraint first: incurred original construction obligations and incidence support the necessary Kernel roles; the downstream source-preserving constructions supply the physical structures and analytic hypotheses; canonical licensing governs their original-use descriptions; actual receiver maps preserve their retained content. A reduced form, coisotropy, a shared import, or necessity by itself does not replace verification of a downstream specialization. Licensing and downstream realization form dependent branches of this architecture, rather than a claim that descriptive licensing creates physical structure.
+
+The explicit premises and fixed construction choices are:
+
+* `Parameters` supplies positive mass, speed and ħ. The root quantifies over them; it does not select their numerical values.
+* `s` is a real source parameter and `Ω` an open coordinate region. The fixed receiving geometries use four spacetime and three spatial coordinates. Dimension and the declared KG/free branch are not deduced from bare objecthood alone.
+* EH uses the existing original Einstein–Hilbert relative action on compact smooth metric-source operands. The admitted neighborhood requires every bounded matrix entry to have norm less than 1/16. Its actual metric is constructed as a perturbation of the fixed flat Lorentz metric; existing analytic proofs establish its regular Lorentzian status. This construction is additional to licensing.
+* EH receipts quantify over real κ and Λ with κ ≠ 0. They preserve all typed original finite observe/vary/frame histories and their Option answers, attempts and first failures. Admissibility of the current metric does not turn a rejected request into a successful execution.
+* The represented EH source is the geometric action's own derivative. The same-current-metric density representation and unique active Einstein-form coefficients are proved. This does not establish equality with an independently supplied matter tensor, an interacting Einstein–scalar solution, a preferred metric or a unique global spacetime.
+* The scalar receiver uses the existing invariant KG spatial core and its constructed projection into the full spatial Hilbert space. It preserves every original registered question at every real NR time offset, comparison, region and tensor maps, and finite-question-word first failures. State coverage is all rays of the declared core, rather than all completed L² rays.
+* The full free scalar operator has its complete weak graph, domain, exact generator and free SSQ1 witness proved. Arbitrary comparator equality retains the complete finite scalar differential comparator class and an explicit inertial dispersion calibration. The actual reference dispersion is proved. This is not unrestricted exhaustion of all operators or all potentials.
+* The common map embeds each scalar `.kg` core preparation into the existing original KG carrier alongside an independently chosen admitted metric operand. It preserves the quantum state, complete old records and registered Option references, and has explicit coverage of the declared core preparations and their evolved original preparations. It does not claim coverage of every EH history or every Fock preparation. Scalar NR time flow and EH history append are distinct operations.
+
+The greatest canonical safe region and its L1–L5 licensing conclusions concern the complete specified original-use contracts. Nonempty safe regions are proved here by actual sound-region constructions. They do not select a unique metric, prove global minimality among all possible metric interfaces, or add data erased by a coarser source-profile quotient. Metric, history and continuation maps are taken on the full retained receiver; no unsupported descent of those maps to the coarser EH source quotient is asserted.
+
+The continuum-limit issue avoided is reconstruction of these continuum receiving descriptions by an unproved lattice-spacing, discretization or graph-refinement limit. The continuum carriers and regularity classes are declared and their concrete operators/maps are constructed directly. The KG nonrelativistic rest-subtracted limit remains a separate proved analytic limit. Neither this theorem nor that observation solves every continuum-limit or quantum-gravity problem.
+
+The 839 baseline modules are the union of the 786 dynamics and 64 licensing closures with 11 identical shared modules. The new composition has 10 production modules. Compilation uses the existing copied Lean 4.28.0 runtime (commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b, executable SHA256 6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691) and existing libraries, including declared mathlib revision 8f9d9cff6bd728b17a24e163c9402775d9e6a365. No compiler or library bootstrap is implied.
+
+`replay_connected.py` recompiles the ten new production modules and the connected audit in a new directory, with exact import bindings and source/object hashes. Its default mode reuses the 839 hash-verified, previously accepted dependency objects; `--full-local` additionally rebuilds all 839 local dependencies. Both modes reuse the pinned runtime/library binaries. A provided command is distinct from an executed, successful replay; execution evidence is the resulting `REPLAY_RECEIPT.json`.
+
+Public-source status rechecked on 19 October 2026:
+
+* [The exact public snapshot](https://github.com/somamaley-ux/AASC-Premetric-Structural-Unification/blob/f6a61714d97ece97e3f5255682d82e5aed3dff38/README.md) discloses separate dynamics/licensing closures and explicitly does not assert this new composition.
+* [Its integrity script](https://raw.githubusercontent.com/somamaley-ux/AASC-Premetric-Structural-Unification/f6a61714d97ece97e3f5255682d82e5aed3dff38/scripts/verify_export.py) and [historical full-archive replay driver](https://raw.githubusercontent.com/somamaley-ux/AASC-Premetric-Structural-Unification/f6a61714d97ece97e3f5255682d82e5aed3dff38/evidence/full-archive-audit-repair/replay.py) are reachable. The integrity script checks source/export identity and does not invoke Lean; the replay driver requires its separate full bundle.
+* [ARTIFACTS.json](https://raw.githubusercontent.com/somamaley-ux/AASC-Premetric-Structural-Unification/f6a61714d97ece97e3f5255682d82e5aed3dff38/ARTIFACTS.json) identifies the private full replay archive, says it is absent from Git, and records no Zenodo DOI. No public download link to that complete binary bundle or to this new composition has been verified.
+* The [adopted Metricity edition](https://constraintsystemsinstitute.org/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/) is the 53-page October release, exact DOI 10.5281/zenodo.23226427, PDF SHA256 4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781. It retains non-generativity and requires actual original-use conditions.
+* The [current SR paper](https://constraintsystemsinstitute.org/papers/special-relativity-from-aasc-22934088/) is reachable, exact DOI 10.5281/zenodo.22934089, PDF SHA256 e9938d12cdb32a1da2c738a65cfc661aa15b71541c8b831d31ff3472c43d4721. Its source-preserving realization and occupied-branch conditions must not be collapsed into Kernel necessity alone.
+
+The strongest eventual description should say derivation within the Kernel and downstream Kernel-faithful machinery, with the declared source, comparison classes and calibration, and identify the exact privately checked theorem. Public availability of a different earlier snapshot cannot make this composition public. Publication or an expanded minimal-metric claim requires its own explicit evidence and authorization.

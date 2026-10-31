@@ -1,0 +1,8 @@
+KGGeneralPoincareLocalCovariance.lean:21:20: warning: This simp argument is unused:
+  Function.comp_def
+
+Hint: Omit it from the simp argument list.
+  simp only [poincareTransformedRegion, ̲eventTranslatedRegion, ̲lorentzTransformedRegion,
+      Set.image_image,F̵u̵n̵c̵t̵i̵o̵n̵.̵c̵o̵m̵p̵_̵d̵e̵f̵,̵ ̲add_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

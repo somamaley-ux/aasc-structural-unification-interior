@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.lowered_coordinate_vector_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.leviCivita_symmetric_lowering_identity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.coordinate_metric_lie_eq_symmetric_covariant_gradient' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

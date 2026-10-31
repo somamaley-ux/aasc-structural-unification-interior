@@ -1,0 +1,1 @@
+'AASCSemanticExhaustion.contracted_bianchi_algebra' depends on axioms: [propext, Classical.choice, Quot.sound]

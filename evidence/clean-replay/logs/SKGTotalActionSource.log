@@ -1,0 +1,8 @@
+SKGTotalActionSource.lean:85:31: warning: This simp argument is unused:
+  mul_add
+
+Hint: Omit it from the simp argument list.
+  simp [sameTotalMetricLF, sameEHMetricLF, originalEHEulerResponse, sameActionScalarSource,
+        representedMetricSource,̵ ̵m̵u̵l̵_̵a̵d̵d̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

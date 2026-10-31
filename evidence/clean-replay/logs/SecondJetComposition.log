@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.scalarPartial_comp' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarFirstJet_comp_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.scalarSecondJet_comp_identity' depends on axioms: [propext, Classical.choice, Quot.sound]

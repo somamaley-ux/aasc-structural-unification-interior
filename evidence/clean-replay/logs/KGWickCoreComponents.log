@@ -1,0 +1,56 @@
+KGWickCoreComponents.lean:22:31: warning: This simp argument is unused:
+  DirectSum.lof_eq_of
+
+Hint: Omit it from the simp argument list.
+  simp [lp.single_apply, D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵e̵q̵_̵o̵f̵,̵ ̵DirectSum.of_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickCoreComponents.lean:22:52: warning: This simp argument is unused:
+  DirectSum.of_apply
+
+Hint: Omit it from the simp argument list.
+  simp [lp.single_apply, DirectSum.lof_eq_of,̵ ̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵o̵f̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickCoreComponents.lean:23:31: warning: This simp argument is unused:
+  DirectSum.lof_eq_of
+
+Hint: Omit it from the simp argument list.
+  simp [lp.single_apply, D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵e̵q̵_̵o̵f̵,̵ ̵DirectSum.of_apply, he, Ne.symm he]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickCoreComponents.lean:37:16: warning: This simp argument is unused:
+  DirectSum.lof_eq_of
+
+Hint: Omit it from the simp argument list.
+  simp [̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵e̵q̵_̵o̵f̵,̵ ̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵o̵f̵_̵a̵p̵p̵l̵y̵]̵[̲D̲i̲r̲e̲c̲t̲S̲u̲m̲.̲o̲f̲_̲a̲p̲p̲l̲y̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickCoreComponents.lean:42:39: warning: This simp argument is unused:
+  DirectSum.of_apply
+
+Hint: Omit it from the simp argument list.
+  simp [DirectSum.lof_eq_of,̵ ̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵o̵f̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickCoreComponents.lean:44:63: warning: This simp argument is unused:
+  Ne.symm he
+
+Hint: Omit it from the simp argument list.
+  simp [DirectSum.lof_eq_of, DirectSum.of_apply, he, N̵e̵.̵s̵y̵m̵m̵ ̵he̵,̵ ̵h̵s, Ne.symm hs]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickCoreComponents.lean:44:75: warning: This simp argument is unused:
+  hs
+
+Hint: Omit it from the simp argument list.
+  simp [DirectSum.lof_eq_of, DirectSum.of_apply, he, Ne.symm he, h̵s̵,̵ ̵Ne.symm hs]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGWickCoreComponents.lean:44:79: warning: This simp argument is unused:
+  Ne.symm hs
+
+Hint: Omit it from the simp argument list.
+  simp [DirectSum.lof_eq_of, DirectSum.of_apply, he, Ne.symm he, hs,̵ ̵N̵e̵.̵s̵y̵m̵m̵ ̵h̵s̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

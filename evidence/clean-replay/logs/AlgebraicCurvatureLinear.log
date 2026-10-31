@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.curvatureEncode_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.curvatureEncode_smul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.linear_twenty_coordinates' depends on axioms: [propext, Classical.choice, Quot.sound]

@@ -1,0 +1,18 @@
+'AASCSemanticExhaustion.diffeomorphism_naturality_hessian_gauge' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.diffeomorphism_naturality_hessian_covariance' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.admissible_metric_response_jet_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.admissible_c2_normalized_metric_response_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.diffeomorphism_natural_response_point_normal_chart' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.admissible_c2_metric_response_normal_chart_envelope_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

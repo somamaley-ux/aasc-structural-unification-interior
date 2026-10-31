@@ -1,0 +1,19 @@
+KGSpacetimeEuclideanSplit.lean:31:32: warning: This simp argument is unused:
+  LinearEquiv.coe_toContinuousLinearEquiv
+
+Hint: Omit it from the simp argument list.
+  simp only [̵f̵o̵u̵r̵C̵o̵o̵r̵d̵i̵n̵a̵t̵e̵C̵o̵n̵s̵,̵L̵i̵n̵e̵a̵r̵E̵q̵u̵i̵v̵.̵c̵o̵e̵_̵t̵o̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵E̵q̵u̵i̵v̵,̵L̵i̵n̵e̵a̵r̵E̵q̵u̵i̵v̵.̵c̵o̵e̵_̵m̵k̵,̵
+  ̵ ̵ ̵ ̵ ̵M̵e̵a̵s̵u̵r̵a̵b̵l̵e̵E̵q̵u̵i̵v̵.̵p̵i̵F̵i̵n̵S̵u̵c̵c̵A̵b̵o̵v̵e̵_̵s̵y̵m̵m̵_̵a̵p̵p̵l̵y̵,̵F̵i̵n̵.̵i̵n̵s̵e̵r̵t̵N̵t̵h̵E̵q̵u̵i̵v̵,̵F̵i̵n̵.̵i̵n̵s̵e̵r̵t̵N̵t̵h̵_̵z̵e̵r̵o̵,̵
+  ̵ ̵ ̵ ̵ ̵E̵q̵u̵i̵v̵.̵c̵o̵e̵_̵f̵n̵_̵m̵k̵,̵F̵i̵n̵.̵z̵e̵r̵o̵_̵s̵u̵c̵c̵A̵b̵o̵v̵e̵]̵[̲f̲o̲u̲r̲C̲o̲o̲r̲d̲i̲n̲a̲t̲e̲C̲o̲n̲s̲,̲ ̲L̲i̲n̲e̲a̲r̲E̲q̲u̲i̲v̲.̲c̲o̲e̲_̲m̲k̲,̲ ̲M̲e̲a̲s̲u̲r̲a̲b̲l̲e̲E̲q̲u̲i̲v̲.̲p̲i̲F̲i̲n̲S̲u̲c̲c̲A̲b̲o̲v̲e̲_̲s̲y̲m̲m̲_̲a̲p̲p̲l̲y̲,̲
+  ̲ ̲ ̲ ̲ ̲F̲i̲n̲.̲i̲n̲s̲e̲r̲t̲N̲t̲h̲E̲q̲u̲i̲v̲,̲ ̲F̲i̲n̲.̲i̲n̲s̲e̲r̲t̲N̲t̲h̲_̲z̲e̲r̲o̲,̲ ̲E̲q̲u̲i̲v̲.̲c̲o̲e̲_̲f̲n̲_̲m̲k̲,̲ ̲F̲i̲n̲.̲z̲e̲r̲o̲_̲s̲u̲c̲c̲A̲b̲o̲v̲e̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGSpacetimeEuclideanSplit.lean:31:72: warning: This simp argument is unused:
+  LinearEquiv.coe_mk
+
+Hint: Omit it from the simp argument list.
+  simp only [fourCoordinateCons, ̲LinearEquiv.coe_toContinuousLinearEquiv,L̵i̵n̵e̵a̵r̵E̵q̵u̵i̵v̵.̵c̵o̵e̵_̵m̵k̵,̵
+      MeasurableEquiv.piFinSuccAbove_symm_apply, ̲Fin.insertNthEquiv, ̲Fin.insertNth_zero,
+      Equiv.coe_fn_mk, ̲Fin.zero_succAbove]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

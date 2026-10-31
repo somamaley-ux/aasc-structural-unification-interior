@@ -1,0 +1,9 @@
+KGNativeWickStateHomogeneity.lean:16:61: warning: This simp argument is unused:
+  map_smul
+
+Hint: Omit it from the simp argument list.
+  simp only [originalWickRaisedStressDistribution, ̲map_smulₛₗ,m̵a̵p̵_̵s̵m̵u̵l̵,̵
+  ̵  ̵ ̵ ̵LinearMap.smul_apply,
+  ̲ ̲ ̲ ̲ ̲ContinuousLinearMap.smul_apply, ̲smul_eq_mul, ̲starRingEnd_apply, ̲RingHom.id_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

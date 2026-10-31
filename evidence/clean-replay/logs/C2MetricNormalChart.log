@@ -1,0 +1,19 @@
+'AASCSemanticExhaustion.c2_coordinateMetricPullback_contDiffAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_quadratic_identity_metric_pullback_partial' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_normalizing_metric_partial_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalizing_metric_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_framedMetricField_smoothAt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_pointNormalizedMetric_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalizingCoordinateMap_retraction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_pointNormalizedMetric_retraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalizedMetric_identity_frame' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalChartCurvature_retraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_metric_response_normal_chart_envelope_exhaustion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

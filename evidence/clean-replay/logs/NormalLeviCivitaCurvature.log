@@ -1,0 +1,11 @@
+'AASCSemanticExhaustion.canonical_metric_double_contraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normal_christoffel_derivative_lowering' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normal_curvature_is_lowerChristoffel_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normal_leviCivita_curvature_formula' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normal_leviCivita_curvature_realizes_original' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

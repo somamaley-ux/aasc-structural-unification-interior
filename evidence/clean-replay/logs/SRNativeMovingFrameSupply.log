@@ -1,0 +1,6 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_all_future_unit_axial_boosts_are_actually_supplied' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_native_comparison_family_contains_genuine_moving_frame' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

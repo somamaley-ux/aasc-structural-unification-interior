@@ -1,0 +1,32 @@
+SRLorentzConeReconstruction.lean:32:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_original_clock_spatial_decomposition`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRLorentzConeReconstruction.lean:38:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_clock_spatial_part_rest_zero`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRLorentzConeReconstruction.lean:48:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_constructed_lorentz_quadratic_value`:
+  [FiniteDimensional ℝ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.srClockSpatialPart' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_original_clock_spatial_decomposition' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_clock_spatial_part_rest_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_constructed_lorentz_quadratic_value' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_full_clock_body_recovers_entire_future_cone' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_cone_full_isotropy_constructs_unique_spatial_and_lorentz_receipt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

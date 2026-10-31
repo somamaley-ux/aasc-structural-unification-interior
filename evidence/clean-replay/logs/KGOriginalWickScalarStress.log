@@ -1,0 +1,25 @@
+KGOriginalWickScalarStress.lean:123:72: warning: This simp argument is unused:
+  LinearMap.neg_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [originalWickScalarLagrangianSesqForm, LinearMap.add_apply, LinearMap.n̵e̵g̵s̲m̲u̲l̲_apply,
+      L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵s̵m̵u̵l̵_̵a̵p̵p̵l̵y̵,̵ ̵ContinuousLinearMap.add_apply, ContinuousLinearMap.neg_apply,
+  ̵  ̵ ̵ ̵ContinuousLinearMap.smul_apply,
+  ̲  ̲ ̲ ̲smul_eq_mul,
+  ̵  ̵ ̵ ̵originalDerivativeWickDistributionSesqForm_pairing,
+  ̲  ̲ ̲ ̲originalWickSquareDistributionSesqForm_pairing,
+  ̵  ̵ ̵ ̵neg_one_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGOriginalWickScalarStress.lean:124:57: warning: This simp argument is unused:
+  ContinuousLinearMap.neg_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [originalWickScalarLagrangianSesqForm, LinearMap.add_apply, LinearMap.neg_apply,
+      LinearMap.smul_apply, ContinuousLinearMap.add_apply, ContinuousLinearMap.n̵e̵g̵s̲m̲u̲l̲_apply,
+      C̵o̵n̵t̵i̵n̵u̵o̵u̵sL̵i̵n̵e̵a̵r̵M̵a̵p̵.̵s̵mul_a̵p̵p̵l̵y̵,̵ ̵s̵m̵u̵l̵_̵eq_mul,
+  ̵  ̵ ̵ ̵originalDerivativeWickDistributionSesqForm_pairing,
+  ̲  ̲ ̲ ̲originalWickSquareDistributionSesqForm_pairing,
+  ̵  ̵ ̵ ̵neg_one_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

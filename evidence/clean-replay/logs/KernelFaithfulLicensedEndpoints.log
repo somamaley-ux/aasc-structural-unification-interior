@@ -1,0 +1,48 @@
+KernelFaithfulLicensedEndpoints.lean:26:46: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:30:84: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:38:63: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:46:49: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:50:52: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:53:58: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:66:48: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:70:48: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:75:60: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:80:57: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:85:64: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:103:58: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:109:71: warning: unused variable `coupling`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:111:5: warning: unused variable `rejected`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:195:5: warning: unused variable `calibration`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+KernelFaithfulLicensedEndpoints.lean:217:5: warning: unused variable `dispersion`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`

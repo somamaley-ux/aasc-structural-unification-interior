@@ -1,0 +1,6 @@
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.original_joint_sr_region_postfixed' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.joint_sr_use_constructs_kernel_and_canonical_license' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

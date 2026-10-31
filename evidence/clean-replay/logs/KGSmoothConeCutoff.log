@@ -1,0 +1,20 @@
+KGSmoothConeCutoff.lean:49:63: warning: This simp argument is unused:
+  smul_smul
+
+Hint: Omit it from the simp argument list.
+  simp [regularizedDistanceGradient, ̲regularizedSpatialDistance,̵s̵m̵u̵l̵_̵s̵m̵u̵l̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGSmoothConeCutoff.lean:50:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+KGSmoothConeCutoff.lean:79:10: warning: This simp argument is unused:
+  smoothConeCutoff
+
+Hint: Omit it from the simp argument list.
+  simp [smoothConeCutoff,̵s̵m̵o̵o̵t̵h̵C̵o̵n̵e̵C̵u̵t̵o̵f̵f̵TimeDerivative]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGSmoothConeCutoff.lean:78:51: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`

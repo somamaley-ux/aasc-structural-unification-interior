@@ -1,0 +1,37 @@
+WickNativeResponseSesquilinear.lean:33:12: warning: This simp argument is unused:
+  LinearMap.add_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵a̵d̵d̵_̵a̵p̵p̵l̵y̵,̵o̵r̵i̵g̵i̵n̵a̵l̵_̵w̵i̵c̵k̵_̵n̵a̵t̵i̵v̵e̵_̵r̵e̵s̵p̵o̵n̵s̵e̵_̵e̵n̵t̵r̵y̵_̵e̵x̵p̵a̵n̵s̵i̵o̵n̵,̵
+  ̵ ̵ ̵ ̵ ̵m̵a̵p̵_̵a̵d̵d̵,̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵a̵d̵d̵_̵a̵p̵p̵l̵y̵,̵C̵o̵n̵t̵i̵n̵u̵o̵u̵s̵L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵a̵d̵d̵_̵a̵p̵p̵l̵y̵,̵F̵i̵n̵s̵e̵t̵.̵s̵u̵m̵_̵a̵d̵d̵_̵d̵i̵s̵t̵r̵i̵b̵,̵m̵u̵l̵_̵a̵d̵d̵]̵[̲C̲o̲n̲t̲i̲n̲u̲o̲u̲s̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲a̲d̲d̲_̲a̲p̲p̲l̲y̲,̲ ̲o̲r̲i̲g̲i̲n̲a̲l̲_̲w̲i̲c̲k̲_̲n̲a̲t̲i̲v̲e̲_̲r̲e̲s̲p̲o̲n̲s̲e̲_̲e̲n̲t̲r̲y̲_̲e̲x̲p̲a̲n̲s̲i̲o̲n̲,̲ ̲m̲a̲p̲_̲a̲d̲d̲,̲
+  ̲ ̲ ̲ ̲ ̲C̲o̲n̲t̲i̲n̲u̲o̲u̲s̲L̲i̲n̲e̲a̲r̲M̲a̲p̲.̲a̲d̲d̲_̲a̲p̲p̲l̲y̲,̲ ̲F̲i̲n̲s̲e̲t̲.̲s̲u̲m̲_̲a̲d̲d̲_̲d̲i̲s̲t̲r̲i̲b̲,̲ ̲m̲u̲l̲_̲a̲d̲d̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickNativeResponseSesquilinear.lean:42:16: warning: This simp argument is unused:
+  RingHom.id_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [ContinuousLinearMap.smul_apply, ̲original_wick_native_response_entry_expansion,
+      map_smulₛₗ, ̲LinearMap.smul_apply, ̲ContinuousLinearMap.smul_apply,
+  ̵  ̵ ̵ ̵smul_eq_mul,R̵i̵n̵g̵H̵o̵m̵.̵i̵d̵_̵a̵p̵p̵l̵y̵,̵
+  ̲ ̲ ̲ ̲ ̲starRingEnd_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickNativeResponseSesquilinear.lean:56:15: warning: This simp argument is unused:
+  LinearMap.smul_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [ContinuousLinearMap.smul_apply, ̲original_wick_native_response_entry_expansion,
+      map_smulₛₗ,L̵i̵n̵e̵a̵r̵M̵a̵p̵.̵s̵m̵u̵l̵_̵a̵p̵p̵l̵y̵,̵ ̲ContinuousLinearMap.smul_apply,
+  ̵  ̵ ̵ ̵smul_eq_mul, ̲RingHom.id_apply, ̲starRingEnd_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickNativeResponseSesquilinear.lean:57:33: warning: This simp argument is unused:
+  starRingEnd_apply
+
+Hint: Omit it from the simp argument list.
+  simp only [ContinuousLinearMap.smul_apply, ̲original_wick_native_response_entry_expansion,
+      map_smulₛₗ, ̲LinearMap.smul_apply, ̲ContinuousLinearMap.smul_apply,
+  ̵  ̵ ̵ ̵smul_eq_mul, ̲RingHom.id_apply,̵s̵t̵a̵r̵R̵i̵n̵g̵E̵n̵d̵_̵a̵p̵p̵l̵y̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

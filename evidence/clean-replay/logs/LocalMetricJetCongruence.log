@@ -1,0 +1,7 @@
+'AASCSemanticExhaustion.metric_twojet_of_eventuallyEq' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.c2_normalized_leviCivita_twojet_congr' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.coordinateMetricPullback_comp_eventually' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

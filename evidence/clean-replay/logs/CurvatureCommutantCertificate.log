@@ -1,0 +1,3 @@
+'AASCSemanticExhaustion.commutant_kernel_reconstruction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.commutant_kernel_u_solution' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.commutant_kernel_v_solution' depends on axioms: [propext, Classical.choice, Quot.sound]

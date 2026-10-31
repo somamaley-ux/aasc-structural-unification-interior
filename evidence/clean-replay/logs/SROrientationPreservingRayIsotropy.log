@@ -1,0 +1,13 @@
+SROrientationPreservingRayIsotropy.lean:15:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_equal_length_vectors_related_by_orientation_preserving_isometry`:
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+'AASCMetricConstruction.sr_equal_length_vectors_related_by_orientation_preserving_isometry' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.srOccupiedOrientedRaySource' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_three_dimensional_oriented_ray_source_is_jointly_occupied' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

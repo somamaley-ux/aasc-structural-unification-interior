@@ -1,0 +1,4 @@
+'AASCSemanticExhaustion.curvatureOfNormalHessian_add' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.quadratic_normalizing_curvature_correction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

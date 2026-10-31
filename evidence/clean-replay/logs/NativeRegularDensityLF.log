@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.native_integrable_density_times_bounded' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_locally_integrable_test_product' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_regular_metric_density_integral' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

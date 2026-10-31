@@ -1,0 +1,10 @@
+'AASCSemanticExhaustion.native_clock_test_matrix_continuous' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.native_clock_metric_action_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_clock_actual_directional_is_constructed_LF' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_clock_actual_action_unique_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

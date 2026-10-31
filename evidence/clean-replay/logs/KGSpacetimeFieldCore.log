@@ -1,0 +1,7 @@
+KGSpacetimeFieldCore.lean:22:42: warning: This simp argument is unused:
+  conjugateSchwartz_add
+
+Hint: Omit it from the simp argument list.
+  simp only [spacetimeFieldCore, map_add, c̵o̵n̵j̵u̵g̵a̵t̵e̵S̵c̵h̵w̵a̵r̵t̵z̵_̵a̵d̵d̵,̵creationCore_add_smear, annihilationCore_add_smear]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

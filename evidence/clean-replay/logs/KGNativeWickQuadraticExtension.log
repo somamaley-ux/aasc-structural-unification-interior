@@ -1,0 +1,21 @@
+KGNativeWickQuadraticExtension.lean:55:13: warning: This simp argument is unused:
+  map_add
+
+Hint: Omit it from the simp argument list.
+  simp only [m̵a̵p̵_̵a̵d̵d̵,̵Complex.mul_re] at hr
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGNativeWickQuadraticExtension.lean:55:21: warning: This simp argument is unused:
+  Complex.mul_re
+
+Hint: Omit it from the simp argument list.
+  simp only [map_add,̵C̵o̵m̵p̵l̵e̵x̵.̵m̵u̵l̵_̵r̵e̵] at hr
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+KGNativeWickQuadraticExtension.lean:81:51: warning: This simp argument is unused:
+  dif_neg
+
+Hint: Omit it from the simp argument list.
+  simp only [originalWickVectorWeightResponse, ̲hu,̵d̵i̵f̵_̵n̵e̵g̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

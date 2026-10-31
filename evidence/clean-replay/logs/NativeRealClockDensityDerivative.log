@@ -1,0 +1,19 @@
+NativeRealClockDensityDerivative.lean:60:30: warning: This simp argument is unused:
+  nativeRealClockDensity
+
+Hint: Omit it from the simp argument list.
+  simp [̵n̵a̵t̵i̵v̵e̵R̵e̵a̵l̵C̵l̵o̵c̵k̵D̵e̵n̵s̵i̵t̵y̵,̵n̵a̵t̵i̵v̵e̵R̵e̵a̵l̵C̵l̵o̵c̵k̵V̵o̵l̵u̵m̵e̵,̵h̵I̵n̵v̵]̵[̲n̲a̲t̲i̲v̲e̲R̲e̲a̲l̲C̲l̲o̲c̲k̲V̲o̲l̲u̲m̲e̲,̲ ̲h̲I̲n̲v̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+NativeRealClockDensityDerivative.lean:60:20: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+NativeRealClockDensityDerivative.lean:60:81: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+'AASCSemanticExhaustion.native_real_clock_volume_path_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_real_clock_density_path_hasDerivAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -1,0 +1,21 @@
+WickOneParticleChannels.lean:16:67: warning: This simp argument is unused:
+  h
+
+Hint: Omit it from the simp argument list.
+  simp [wickOneParticleCore, ̲DirectSum.lof_eq_of, ̲DirectSum.of_apply,h̵,̵ ̲Ne.symm h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickOneParticleChannels.lean:19:48: warning: This simp argument is unused:
+  DirectSum.of_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵w̵i̵c̵k̵O̵n̵e̵P̵a̵r̵t̵i̵c̵l̵e̵C̵o̵r̵e̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵e̵q̵_̵o̵f̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵o̵f̵_̵a̵p̵p̵l̵y̵]̵[̲w̲i̲c̲k̲O̲n̲e̲P̲a̲r̲t̲i̲c̲l̲e̲C̲o̲r̲e̲,̲ ̲D̲i̲r̲e̲c̲t̲S̲u̲m̲.̲l̲o̲f̲_̲e̲q̲_̲o̲f̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+WickOneParticleChannels.lean:44:10: warning: This simp argument is unused:
+  wickMixedStateKernel_apply
+
+Hint: Omit it from the simp argument list.
+  simp [w̵i̵c̵k̵M̵i̵x̵e̵d̵S̵t̵a̵t̵e̵K̵e̵r̵n̵e̵l̵_̵a̵p̵p̵l̵y̵,̵hz]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

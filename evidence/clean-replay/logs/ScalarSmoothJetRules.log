@@ -1,0 +1,9 @@
+'AASCSemanticExhaustion.smooth_scalarPartial_differentiableAt' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.smooth_scalarSecondPartial_mul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smooth_scalarSecondPartial_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smooth_scalarPartial_zero_of_fderiv' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smooth_scalarSecondPartial_triple_flat' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

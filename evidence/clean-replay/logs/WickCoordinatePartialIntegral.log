@@ -1,0 +1,16 @@
+WickCoordinatePartialIntegral.lean:19:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.wick_coordinate_partial_nonzero`:
+  [BorelSpace E]
+  [SecondCountableTopology E]
+  [μ.HasTemperateGrowth]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [BorelSpace E] [SecondCountableTopology E] [μ.HasTemperateGrowth] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+WickCoordinatePartialIntegral.lean:56:0: warning: automatically included section variable(s) unused in theorem `AASCKleinGordon.wick_coordinate_partial_polynomial_temperate`:
+  [BorelSpace E]
+  [SecondCountableTopology E]
+  [μ.HasTemperateGrowth]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [BorelSpace E] [SecondCountableTopology E] [μ.HasTemperateGrowth] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`

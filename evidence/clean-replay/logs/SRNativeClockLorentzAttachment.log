@@ -1,0 +1,42 @@
+SRNativeClockLorentzAttachment.lean:13:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_actual_coasting_position_derivative`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeClockLorentzAttachment.lean:18:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_actual_coasting_reading_derivative`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeClockLorentzAttachment.lean:23:0: warning: automatically included section variable(s) unused in theorem `AASCMetricConstruction.sr_native_clock_internal_hamiltonian_derivative`:
+  [FiniteDimensional ℝ E]
+  [Nontrivial E]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [FiniteDimensional ℝ E] [Nontrivial E] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+SRNativeClockLorentzAttachment.lean:34:21: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SRNativeClockLorentzAttachment.lean:38:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+SRNativeClockLorentzAttachment.lean:53:2: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+'AASCMetricConstruction.sr_native_actual_coasting_position_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_actual_coasting_reading_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_clock_internal_hamiltonian_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_native_clock_rate_matches_full_constructed_lorentz_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

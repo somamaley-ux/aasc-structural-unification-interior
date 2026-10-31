@@ -1,0 +1,8 @@
+WickOriginalEnergyActivity.lean:24:46: warning: This simp argument is unused:
+  DirectSum.of_apply
+
+Hint: Omit it from the simp argument list.
+  simp [̵o̵n̵e̵P̵a̵r̵t̵i̵c̵l̵e̵C̵o̵r̵e̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵l̵o̵f̵_̵e̵q̵_̵o̵f̵,̵D̵i̵r̵e̵c̵t̵S̵u̵m̵.̵o̵f̵_̵a̵p̵p̵l̵y̵,̵
+  ̵ ̵ ̵ ̵ ̵ ̵ ̵o̵n̵e̵P̵a̵r̵t̵i̵c̵l̵e̵S̵e̵c̵t̵o̵r̵,̵o̵n̵e̵P̵a̵r̵t̵i̵c̵l̵e̵S̵c̵h̵w̵a̵r̵t̵z̵_̵a̵t̵_̵z̵e̵r̵o̵]̵[̲o̲n̲e̲P̲a̲r̲t̲i̲c̲l̲e̲C̲o̲r̲e̲,̲ ̲D̲i̲r̲e̲c̲t̲S̲u̲m̲.̲l̲o̲f̲_̲e̲q̲_̲o̲f̲,̲ ̲o̲n̲e̲P̲a̲r̲t̲i̲c̲l̲e̲S̲e̲c̲t̲o̲r̲,̲ ̲o̲n̲e̲P̲a̲r̲t̲i̲c̲l̲e̲S̲c̲h̲w̲a̲r̲t̲z̲_̲a̲t̲_̲z̲e̲r̲o̲]̲
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`

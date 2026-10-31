@@ -1,0 +1,15 @@
+'AASCSemanticExhaustion.native_comparison_constructed_metric_recovers_original_answers' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_comparison_constructed_metric_symmetric' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_comparison_constructed_metric_continuous' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_comparison_constructed_metric_nondegenerate' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.native_original_comparisons_construct_metric_and_actual_scalar_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
