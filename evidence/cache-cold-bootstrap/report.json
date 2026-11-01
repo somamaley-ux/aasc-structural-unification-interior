@@ -1,0 +1,94 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-10-31T19:28:18.455817+00:00",
+  "repository": "https://github.com/somamaley-ux/aasc-pre5a-foundation",
+  "commit": "6ac8f9e8c6f1ead60dc1057924058991399d8b94",
+  "project_modules": 1056,
+  "project_objects_matching_previous_accepted_hash": 0,
+  "source_built_dependency_objects": {
+    "aesop": 135,
+    "batteries": 86,
+    "Cli": 0,
+    "importGraph": 10,
+    "LeanSearchClient": 4,
+    "mathlib": 3132,
+    "plausible": 11,
+    "proofwidgets": 12,
+    "Qq": 14
+  },
+  "endpoint_reports": 6,
+  "endpoint_axioms": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "initial_artifact_counts": {
+    "project": 0,
+    "dependency": 0,
+    "mathlib_cache_files": 0
+  },
+  "mathlib_cache_files": 0,
+  "toolchain": {
+    "source": "https://github.com/leanprover/lean4/releases/download/v4.28.0/lean-4.28.0-windows.zip",
+    "official_release_asset_sha256": "faa0a8213ec81035d1ff3745d6d28e55b9d80de63fb9cd33380cd51b23cfc1aa",
+    "download_sha256": "faa0a8213ec81035d1ff3745d6d28e55b9d80de63fb9cd33380cd51b23cfc1aa",
+    "release_tag_commit": "7e01a1bf5c70fc6167d49c345d3bf80596e9a79b",
+    "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+    "version": "Lean (version 4.28.0, x86_64-w64-windows-gnu, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b, Release)",
+    "acquisition": "New download of official binary release; no installed Lean toolchain reused; compiler and bundled standard library not rebuilt from C++ source",
+    "archive_files": 13386
+  },
+  "node": {
+    "version": "v24.22.2",
+    "npm_version": "11.19.1",
+    "source": "https://nodejs.org/dist/v24.22.2/node-v24.22.2-win-x64.zip",
+    "sha256": "ca1bff5d8ead13c9f2ea404a176db46bd430704d5b5113734049fa365e7799e2",
+    "official_checksums": "https://nodejs.org/dist/v24.22.2/SHASUMS256.txt",
+    "installation": "BOOTSTRAP\\node-v24.22.2-win-x64",
+    "upstream_requirement": "Pinned ProofWidgets .github/workflows/build.yml selects Node major 24",
+    "global_install": false
+  },
+  "prerequisites": [
+    "ProofWidgets widgetJsAll built standalone from its unchanged pinned source and package-lock before the main source build",
+    "NODE_OPTIONS=--use-system-ca required for npm TLS on this host; verification remained enabled"
+  ],
+  "environment_limitations": [
+    "New directories and sanitized processes on the existing Windows host; no new OS or VM was provisioned",
+    "Lean compiler and bundled standard library came from a fresh official binary release; compiler C++/stage0 bootstrap was not performed",
+    "Existing OS, Git, Python, certificate store and filesystem remain host prerequisites",
+    "Initial no-cache build hit the upstream widget cache guard; independent jobs were cancelled after the confirmed error, then resumed using only new source-built outputs from this check",
+    "The successful source build does not establish full byte-for-byte identity with the historical direct-build artifacts; the single direct-invocation diagnostic is not a complete second replay."
+  ],
+  "original_5a_project_changed": false,
+  "repository_changed_or_pushed": false,
+  "platform": "Windows-10-10.0.26300-SP0",
+  "python": "3.11.9",
+  "artifact_investigation": {
+    "module": "AlgebraicCurvatureCoordinates",
+    "accepted_sha256": "61409e2b8836e1f31f594543ac0bc1748b52e580d87dadf4be7c32d7ed04ede2",
+    "fresh_lake_sha256": "25e965e254fb920b3262ca991c909a118abce071515fec954679817b13759edf",
+    "fresh_direct_sha256": "61409e2b8836e1f31f594543ac0bc1748b52e580d87dadf4be7c32d7ed04ede2",
+    "direct_matches_accepted": true,
+    "lake_setup": {
+      "plugins": [],
+      "package": "aasc_pre5a_foundation",
+      "options": {},
+      "name": "AlgebraicCurvatureCoordinates",
+      "isModule": false,
+      "dynlibs": []
+    },
+    "scope": "One diagnostic recompilation using the historical direct Lean invocation and only this check's freshly compiled dependencies; not a complete second build"
+  },
+  "byte_for_byte_reproducibility": "Not established for the complete project: 0 of 1056 Lake-produced objects match the historical direct-build hashes; one diagnostic historical direct invocation reproduces the accepted object exactly using the fresh dependencies.",
+  "remote_verification": {
+    "checkedUtc": "2026-10-31T19:22:51.6440915Z",
+    "repository": {
+      "default_branch": "main",
+      "name": "somamaley-ux/aasc-pre5a-foundation",
+      "private": true,
+      "visibility": "private"
+    },
+    "mainCommit": "6ac8f9e8c6f1ead60dc1057924058991399d8b94"
+  },
+  "finalized_utc": "2026-10-31T19:29:58.785613+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "source": "https://github.com/leanprover/lean4/releases/download/v4.28.0/lean-4.28.0-windows.zip",
+  "official_release_asset_sha256": "faa0a8213ec81035d1ff3745d6d28e55b9d80de63fb9cd33380cd51b23cfc1aa",
+  "download_sha256": "faa0a8213ec81035d1ff3745d6d28e55b9d80de63fb9cd33380cd51b23cfc1aa",
+  "release_tag_commit": "7e01a1bf5c70fc6167d49c345d3bf80596e9a79b",
+  "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
+  "version": "Lean (version 4.28.0, x86_64-w64-windows-gnu, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b, Release)",
+  "acquisition": "New download of official binary release; no installed Lean toolchain reused; compiler and bundled standard library not rebuilt from C++ source",
+  "archive_files": 13386
+}

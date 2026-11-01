@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "4ae3551ffe8153a61fe57d3326f3fc5360418e5aad421e001c825a04856f7f4f",
+    "production_lean_unchanged": true
+  },
   "status": "passed",
   "scope": "All project sources rebuilt; retained dependency binaries rehashed and reused",
   "compiler_version": "Lean (version 4.28.0, x86_64-w64-windows-gnu, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b, Release)",

@@ -1,4 +1,11 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "c370d71ddce4fd6cad5423892220d0e18893b521fc191ddb6fd0b0ac83f3251b",
+    "production_lean_unchanged": true,
+    "omitted_out_of_scope_metadata": "Post-Stage-4 roadmap labels are omitted from the current curated statement summary; no later-stage working source or result is included."
+  },
   "status": "accepted_private_stage4",
   "basis": "Kernel and downstream Kernel-faithful machinery, constraint first.",
   "root_signature": "AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr (a : Parameters) (s kappa Lambda : ℝ) (coupling : kappa ≠ 0) : KernelFaithfulOperationalSR a s kappa Lambda",
@@ -2572,13 +2579,5 @@
   "independent_final_review_sha256": "9af9fe6f627dd3c2b3bb8e4ce0c3c25c57d017a9bcc65b8e42d155b937da06cf",
   "predecessor_stage3_seal_sha256": "d60be7e3c7e09760c1b67bfdfa2050a0353a764a1fa598e79d5a74652bc5a604",
   "preservation_manifests": 11,
-  "saved_roadmap_stage5_labels": {
-    "5A": "Structural SM law, root-qualified common source, symmetry and flavor.",
-    "5B": "Controlled Maxwell/classical Yang-Mills and Dirac/Weyl branches.",
-    "5C": "Occupied classical common-action SM plus gravity.",
-    "5D.1": "Fixed-graph interacting quantum Hamiltonian and finite fermion Fock occupancy.",
-    "5D.2": "Equilibrium Gibbs branch using that SAME physical Hamiltonian.",
-    "5E": "Original source-qualified interacting physical SM operations."
-  },
   "no_publication_or_original_changes": true
 }

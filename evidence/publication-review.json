@@ -1,0 +1,95 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-11-01T09:43:44.126813+00:00",
+  "target_repository_id": 1440957864,
+  "source_repository": "somamaley-ux/aasc-pre5a-foundation",
+  "approved_target_repository": "somamaley-ux/aasc-structural-unification-interior",
+  "reviewed_history_commits": [
+    "6ac8f9e8c6f1ead60dc1057924058991399d8b94"
+  ],
+  "reachable_git_object_counts": {
+    "commit": 1,
+    "tree": 671,
+    "blob": 4904
+  },
+  "reviewed_initial_tracked_paths": 5571,
+  "current_candidate_paths_before_report_and_manifest": 5591,
+  "production_sources_unchanged": 1056,
+  "vendor_files_unchanged": 3414,
+  "vendor_pinned_upstream_comparison": {
+    "line_endings_only": 3412,
+    "identical_bytes": 2
+  },
+  "build_configuration_and_dependency_pins_unchanged": true,
+  "local_document_links_checked": 61,
+  "external_document_links_checked": 10,
+  "external_link_statuses": [
+    {
+      "url": "https://constraintsystemsinstitute.org/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/",
+      "status": 200
+    },
+    {
+      "url": "https://constraintsystemsinstitute.org/papers/special-relativity-from-aasc-22934088/",
+      "status": 200
+    },
+    {
+      "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/leanprover/lean4/releases/download/v4.28.0/lean-4.28.0-windows.zip",
+      "status": 200
+    },
+    {
+      "url": "https://github.com/somamaley-ux/AASC-Premetric-Structural-Unification/blob/f6a61714d97ece97e3f5255682d82e5aed3dff38/README.md",
+      "status": 200
+    },
+    {
+      "url": "https://nodejs.org/dist/v24.22.2/SHASUMS256.txt",
+      "status": 200
+    },
+    {
+      "url": "https://nodejs.org/dist/v24.22.2/node-v24.22.2-win-x64.zip",
+      "status": 200
+    },
+    {
+      "url": "https://raw.githubusercontent.com/somamaley-ux/AASC-Premetric-Structural-Unification/f6a61714d97ece97e3f5255682d82e5aed3dff38/ARTIFACTS.json",
+      "status": 200
+    },
+    {
+      "url": "https://raw.githubusercontent.com/somamaley-ux/AASC-Premetric-Structural-Unification/f6a61714d97ece97e3f5255682d82e5aed3dff38/evidence/full-archive-audit-repair/replay.py",
+      "status": 200
+    },
+    {
+      "url": "https://raw.githubusercontent.com/somamaley-ux/AASC-Premetric-Structural-Unification/f6a61714d97ece97e3f5255682d82e5aed3dff38/scripts/verify_export.py",
+      "status": 200
+    }
+  ],
+  "scope_review": [
+    "README and all historical Markdown scope notes; human-readable acceptance/review/proof-map metadata and relevant source comments",
+    "Actual common-Kernel and six retained root signatures, construction assignments, physical-source, licensing, reader and conditional-result interfaces; retained compiled endpoint audit evidence",
+    "Fresh source-bootstrap evidence and commands, prerequisites, explicit host/toolchain limits and unresolved full Lake artifact hashes",
+    "Every initial reachable Git blob decoded and inspected by disclosure rules; every current candidate file decoded/scanned; dependency source/notice identity and GitHub surfaces checked"
+  ],
+  "disclosure_findings": [],
+  "privacy_classification": [
+    "No personal filesystem paths, credential-format/private-key findings or raw private corpus/manuscript archives in reviewed content",
+    "Public upstream author/email/copyright notices are retained with source licenses; standard original Git authorship metadata is retained",
+    "Historical later-roadmap labels were not later-stage work/results; omitted from the current Stage4 statement summary. No later working source, proof or partial result is included."
+  ],
+  "license_status": "No new project-wide license granted. Applicable third-party license/header notices preserved. Public inspection/forking subject to GitHub terms; see RIGHTS.md.",
+  "non_file_surfaces": {
+    "actions_runs": 0,
+    "actions_artifacts": 0,
+    "issues": 0,
+    "wiki": false,
+    "pages": false,
+    "discussions": false,
+    "releases": 0
+  },
+  "proof_build_rerun_for_docs": false,
+  "verification_basis": "Production sources and pins are unchanged; the two separately scoped executed build receipts remain the proof-build evidence.",
+  "publication_not_yet_asserted": true,
+  "no_release_or_zenodo": true,
+  "review_limits": "Content/history enumeration, exact identity checks, targeted semantic review and pattern-based disclosure inspection are recorded methods, not a guarantee that an automated secret detector can recognize every possible secret or a new independent certification of unused corpus material."
+}

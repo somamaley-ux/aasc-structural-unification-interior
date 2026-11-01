@@ -1,0 +1,8 @@
+{
+  "event": "finish",
+  "name": "source-build-after-widget",
+  "exit_code": 0,
+  "seconds": 12514.601,
+  "log": "source-build-after-widget.log",
+  "log_sha256": "95d78bece27af9d52c826fcade1470421bb56276ae45e82f12a65a821f535fe7"
+}

@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "4e331b139b8c0bf975d7ad3e6b8dea23fd06f449bda70649512c6b3d96522eac",
+    "production_lean_unchanged": true
+  },
   "status": "passed",
   "command": "lake check-build",
   "exit_code": 0,

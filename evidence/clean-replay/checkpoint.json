@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "aed421e257beb5f545b9f1ed0650b75b62133d8ad11948de2a398b8c03bb4c66",
+    "production_lean_unchanged": true
+  },
   "project_manifest_sha256": "663d977afa21c76b471b9681e7aa0244b5401b67d8612164afd41bf0e8ac2dff",
   "compiler_sha256": "6a66c4a5739fa17146b88ac81bab2bca1924806cac321ddad6b96006dde9c691",
   "prior_elapsed_seconds": 767,

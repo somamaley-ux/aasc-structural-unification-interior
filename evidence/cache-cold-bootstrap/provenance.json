@@ -1,0 +1,76 @@
+{
+  "tested_commit": "6ac8f9e8c6f1ead60dc1057924058991399d8b94",
+  "transformation": "Private absolute bootstrap/workspace/Python paths replaced with BOOTSTRAP, WORKSPACE, PYTHON; exported as UTF-8 text with normalized line endings. These are transformed copies; original hashes identify local evidence and are not asserted to hash the transformed files.",
+  "files": [
+    {
+      "path": "report.json",
+      "original_local_evidence_sha256": "4b280e0aa48cc9761558523567d03412db9499afa14c6eed7460f733f8ce4a26",
+      "export_sha256": "46710ebae6c1d33a7bd23a2ddf76c250481c504c9e1c18baf037d680af3dc163"
+    },
+    {
+      "path": "commands.jsonl",
+      "original_local_evidence_sha256": "b87e7afb15ecf51c2eeae907fbcf2eb6a94ba5e95d073dd4efa431ed5061e6a1",
+      "export_sha256": "3c2e8e75fde19db736ce9548763126ca8a6467d5a2ecac6376220f73f7a2d7a7"
+    },
+    {
+      "path": "acquisition-commands.json",
+      "original_local_evidence_sha256": "8de3ae5c69c3cea84701f444903ddf2182363b66628056c59100496f08bac08e",
+      "export_sha256": "5ac23b02730fd95184c917f0712cb7ff9215d9f649071df88ae10b48e036b042"
+    },
+    {
+      "path": "dependency-provenance.json",
+      "original_local_evidence_sha256": "a9e54a2886a210519d911ac2490f320a80171d430d04c18753845bfebeb3eebc",
+      "export_sha256": "a9e54a2886a210519d911ac2490f320a80171d430d04c18753845bfebeb3eebc"
+    },
+    {
+      "path": "toolchain-provenance.json",
+      "original_local_evidence_sha256": "017b93b958fc4b80202df33c09a057699f0ff40a65737434b5f04060a8f53469",
+      "export_sha256": "017b93b958fc4b80202df33c09a057699f0ff40a65737434b5f04060a8f53469"
+    },
+    {
+      "path": "node-provenance.json",
+      "original_local_evidence_sha256": "a61eb248cdee7a0718fc51e2bc1a015ddfa00410bb8a23f2103cc4ac6af8712d",
+      "export_sha256": "4bf2bf1275d511745f131be08a6ff06792a93cf275c402de0c638f347c93bcf3"
+    },
+    {
+      "path": "isolation.json",
+      "original_local_evidence_sha256": "5297d3d46525930dc200c1d379f00e59c1d85cf15b638bf9cc5c3b34ad0cbfbf",
+      "export_sha256": "a2281698364d30535cc94b8e2f4a25e8da4ec6a09c8471c7cc8a89dd279eec42"
+    },
+    {
+      "path": "initial-artifact-counts.json",
+      "original_local_evidence_sha256": "1bc0353f365f05cead02d3366461c4c76ccf783710473d7cf30a26dc622eb05b",
+      "export_sha256": "1bc0353f365f05cead02d3366461c4c76ccf783710473d7cf30a26dc622eb05b"
+    },
+    {
+      "path": "source-build-result.json",
+      "original_local_evidence_sha256": "8eadc1a535cff2c002353944152aa909a4c928e1753e3c55f0f7154956a0407d",
+      "export_sha256": "8eadc1a535cff2c002353944152aa909a4c928e1753e3c55f0f7154956a0407d"
+    },
+    {
+      "path": "artifact-investigation.json",
+      "original_local_evidence_sha256": "dd1a213eac391fca01da25cdb8299838d81487aa6a7ce0dfcfea979db97ef94d",
+      "export_sha256": "dd1a213eac391fca01da25cdb8299838d81487aa6a7ce0dfcfea979db97ef94d"
+    },
+    {
+      "path": "source-build.log",
+      "original_local_evidence_sha256": "95d78bece27af9d52c826fcade1470421bb56276ae45e82f12a65a821f535fe7",
+      "export_sha256": "8eaca950cb8d5b7d9aeeba06894714b51a032d247e71f33323db767784e6cf64"
+    },
+    {
+      "path": "endpoint-audit.log",
+      "original_local_evidence_sha256": "1d297daff489c0d6952070257754797e9ac21585f71f00b95d42a5844f11a611",
+      "export_sha256": "72f92deb4639bd4b166ef90c6035f97f5f51e0c68e84f72ada1148fe5e3bb934"
+    },
+    {
+      "path": "widget-build-result.json",
+      "original_local_evidence_sha256": "f4b5029a0370d506da16d330ff6aa11cf6381e43256d92f4b187ad12a1edb8a4",
+      "export_sha256": "f4b5029a0370d506da16d330ff6aa11cf6381e43256d92f4b187ad12a1edb8a4"
+    },
+    {
+      "path": "widget-output-provenance.json",
+      "original_local_evidence_sha256": "93db0fc9e6651de23601cad350d8755fbb60e19019b80ab354f4799fd745a357",
+      "export_sha256": "93db0fc9e6651de23601cad350d8755fbb60e19019b80ab354f4799fd745a357"
+    }
+  ]
+}

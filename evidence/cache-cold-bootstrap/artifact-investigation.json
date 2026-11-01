@@ -1,0 +1,16 @@
+{
+  "module": "AlgebraicCurvatureCoordinates",
+  "accepted_sha256": "61409e2b8836e1f31f594543ac0bc1748b52e580d87dadf4be7c32d7ed04ede2",
+  "fresh_lake_sha256": "25e965e254fb920b3262ca991c909a118abce071515fec954679817b13759edf",
+  "fresh_direct_sha256": "61409e2b8836e1f31f594543ac0bc1748b52e580d87dadf4be7c32d7ed04ede2",
+  "direct_matches_accepted": true,
+  "lake_setup": {
+    "plugins": [],
+    "package": "aasc_pre5a_foundation",
+    "options": {},
+    "name": "AlgebraicCurvatureCoordinates",
+    "isModule": false,
+    "dynlibs": []
+  },
+  "scope": "One diagnostic recompilation using the historical direct Lean invocation and only this check's freshly compiled dependencies; not a complete second build"
+}

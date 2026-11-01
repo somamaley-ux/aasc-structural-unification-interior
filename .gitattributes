@@ -1,1 +1,3 @@
 * -text whitespace=cr-at-eol
+# Preserve generated compiler-log formatting in the portable evidence copies.
+evidence/cache-cold-bootstrap/*.log -whitespace

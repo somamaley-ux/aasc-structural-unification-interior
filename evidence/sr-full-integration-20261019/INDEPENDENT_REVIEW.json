@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "924dbc5d4e8885a9cb6101451adb3dee0d7088a582368fed5e7516502f6beec3",
+    "production_lean_unchanged": true
+  },
   "status": "passed",
   "reviewer": "/root/sr_source_milestone_review",
   "scope": "Declared bounded native operational SR successor; private",

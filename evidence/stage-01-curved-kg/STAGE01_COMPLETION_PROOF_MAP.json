@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "9afbbbdbb79619921673a53ce4fff56a1619df7cf6a4e096d45ffe07bddabe39",
+    "production_lean_unchanged": true
+  },
   "date": "2026-10-19",
   "candidate_only_until_final_audit_review_replay": true,
   "root": "AASCKleinGordon.CurvedKG.kernel_faithful_same_eh_curved_kg_complete",

@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "a3ba60fcdcf19b8ac6b60dda4d8a3d237a9e847cc2f410e1b8858bc465918a8c",
+    "production_lean_unchanged": true
+  },
   "outcome": "accepted_full_stage3",
   "reviewer_identity": "/root/sr_source_milestone_review",
   "review_date": "2026-10-19",

@@ -1,3 +1,5 @@
+> Historical stage note, retained with its original scope and date. Stage-local “private,” “pending,” or “remaining” wording is not the current repository status. See [the evidence guide](../../EVIDENCE.md) for final acceptance and later source-bootstrap results.
+
 # Exact scope of the private native SR successor
 
 This stage extends the accepted EH/free-scalar composition within the **Kernel and downstream Kernel-faithful machinery**. The dependency direction is constraint first: actual original construction/use conditions incur the necessary Kernel roles; concrete downstream constructions provide the physical carriers, operations and receiving hypotheses; canonical licensing governs faithful descriptions of those uses. Neither necessity nor licensing manufactures the physical specialization.

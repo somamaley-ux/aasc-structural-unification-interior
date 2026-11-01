@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "da824b3b7f157f85621ca556eb27274e65d9653f14195284b4031c6390780fb9",
+    "production_lean_unchanged": true
+  },
   "root": "AASCKleinGordon.SameActionSource.kernel_faithful_same_action_kg_source",
   "root_signature": "(a : Parameters) (s kappa Lambda : Real) (coupling : kappa != 0) : SameActionKGSourceEndpoints a s kappa Lambda",
   "root_source_sha256": "8def7560ad8e06e55f5091e138c8d16fe3e94842d696231deef8b96af1d3bbf5",

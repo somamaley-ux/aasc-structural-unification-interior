@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "1b0c2929264d28a25c6559516cfc5514b7e67642f9f3b0c5e02a095912f744ec",
+    "production_lean_unchanged": true
+  },
   "outcome": "accepted_bounded_scope",
   "scope": "Stage 4 mathematical composition: actual canonical licensed KG/EH and invariant-core free scalar receiving tasks connected by the same original preparation, complete record and registered-reference maps.",
   "reviewed_at_utc": "2026-10-19T05:05:40.001752+00:00",

@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "7b767ff826dfdc68a6ea1b00f216e60ed117c284957f0fd7daf2562b1842d9fd",
+    "production_lean_unchanged": true
+  },
   "root": "AASCKleinGordon.RecoveryComparison.kernel_faithful_recovery_comparison",
   "root_signature": "(a : Parameters) (s kappa Lambda : Real) (coupling : kappa != 0) : KernelFaithfulRecoveryComparison a s kappa Lambda",
   "root_source_sha256": "2467f9dcf9eb0ad188840132abfbebec24f7fda462be7fea525f7c1a10a6fd30",

@@ -1,4 +1,10 @@
 {
+  "documentation_context": {
+    "kind": "Historical stage/export evidence; retained fields describe their original verification date and scope",
+    "current_guide": "EVIDENCE.md at repository root; see also README.md and REPRODUCING.md",
+    "prior_curated_file_sha256": "5c0a9d300ecd921b7b4cda85803b8831fd681ce9902080596a0ec92c6b2d9235",
+    "production_lean_unchanged": true
+  },
   "reviewer": "Independent delegated source, mathematics and artifact reviewer /root/sr_source_milestone_review",
   "disposition": "accepted",
   "outcome": "accepted_full_stage4",

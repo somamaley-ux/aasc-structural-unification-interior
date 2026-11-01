@@ -1,3 +1,5 @@
+> Historical stage note, retained with its original scope and date. Stage-local “private,” “pending,” or “remaining” wording is not the current repository status. See [the evidence guide](../../EVIDENCE.md) for final acceptance and later source-bootstrap results.
+
 This is an isolated successor of the accepted, separately audited licensing and dynamics closures. The mathematical sources in those closures and the public source snapshot are preserved. All new code and evidence reside in this directory.
 
 The exact composed theorem is:

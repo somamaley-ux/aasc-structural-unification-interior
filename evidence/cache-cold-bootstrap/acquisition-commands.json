@@ -1,0 +1,85 @@
+{
+  "note": "Commands actually used for acquisition. Exact dependency fetch/build/audit argv, cwd, environment and results are in commands.jsonl. Python executable for this host was PYTHON.",
+  "commands": [
+    {
+      "cwd": "clean-bootstrap-001",
+      "argv": [
+        "git",
+        "-c",
+        "credential.helper=",
+        "-c",
+        "credential.helper=!gh auth git-credential",
+        "clone",
+        "--single-branch",
+        "https://github.com/somamaley-ux/aasc-pre5a-foundation.git",
+        "project"
+      ]
+    },
+    {
+      "cwd": "downloads",
+      "argv": [
+        "curl.exe",
+        "--fail",
+        "--location",
+        "--retry",
+        "2",
+        "--output",
+        "lean-4.28.0-windows.zip",
+        "https://github.com/leanprover/lean4/releases/download/v4.28.0/lean-4.28.0-windows.zip"
+      ]
+    },
+    {
+      "cwd": "clean-bootstrap-001",
+      "argv": [
+        "python",
+        "setup_toolchain.py"
+      ]
+    },
+    {
+      "cwd": "downloads",
+      "argv": [
+        "curl.exe",
+        "--fail",
+        "--location",
+        "--silent",
+        "--show-error",
+        "--output",
+        "node-index.json",
+        "https://nodejs.org/dist/index.json"
+      ]
+    },
+    {
+      "cwd": "downloads",
+      "argv": [
+        "curl.exe",
+        "--fail",
+        "--location",
+        "--silent",
+        "--show-error",
+        "--output",
+        "node-v24.22.2-win-x64.zip",
+        "https://nodejs.org/dist/v24.22.2/node-v24.22.2-win-x64.zip"
+      ]
+    },
+    {
+      "cwd": "downloads",
+      "argv": [
+        "curl.exe",
+        "--fail",
+        "--location",
+        "--silent",
+        "--show-error",
+        "--output",
+        "node-v24.22.2-SHASUMS256.txt",
+        "https://nodejs.org/dist/v24.22.2/SHASUMS256.txt"
+      ]
+    },
+    {
+      "cwd": "clean-bootstrap-001",
+      "argv": [
+        "python",
+        "setup_node.py"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "event": "finish",
+  "name": "proofwidgets-source-assets-system-ca",
+  "exit_code": 0,
+  "seconds": 43.669,
+  "log": "proofwidgets-source-assets-system-ca.log",
+  "log_sha256": "acc0ceccefb7aa664800f605d0bf94aaca337003f0755fc9209d78bb4925c8b7"
+}

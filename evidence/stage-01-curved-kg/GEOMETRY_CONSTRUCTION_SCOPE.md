@@ -1,3 +1,5 @@
+> Historical stage note, retained with its original scope and date. Stage-local “private,” “pending,” or “remaining” wording is not the current repository status. See [the evidence guide](../../EVIDENCE.md) for final acceptance and later source-bootstrap results.
+
 # First construction: quantitative pointwise EH cone control
 
 This begins phase1 after the independently reviewed source contract, SHA256 `de91973a7def19d2a38185d10c7c928a2c12a1d2816a1617ef23b0aa9d259235`, was reported. It does not complete phase1 or Stage1.

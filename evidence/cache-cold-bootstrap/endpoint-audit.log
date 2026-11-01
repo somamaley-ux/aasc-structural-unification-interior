@@ -1,0 +1,34 @@
+AASCKleinGordon.CanonicalLicensing.kernel_faithful_canonical_licensing_to_eh_and_free_schrodinger
+  (a : AASCKleinGordon.Parameters) (s : ℝ) (Ω : TopologicalSpace.Opens AASCSemanticExhaustion.CoordinatePoint) :
+  AASCKleinGordon.CanonicalLicensing.KernelFaithfulLicensedEndpoints a s Ω
+'AASCKleinGordon.CanonicalLicensing.kernel_faithful_canonical_licensing_to_eh_and_free_schrodinger' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+AASCKleinGordon.CanonicalLicensing.SRIntegration.kernel_faithful_native_sr_canonical_licensing_eh_scalar
+  (a : AASCKleinGordon.Parameters) (s : ℝ) (Ω : TopologicalSpace.Opens AASCSemanticExhaustion.CoordinatePoint) :
+  AASCKleinGordon.CanonicalLicensing.SRIntegration.KernelFaithfulNativeSREndpoints a s Ω
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.kernel_faithful_native_sr_canonical_licensing_eh_scalar' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+AASCKleinGordon.CurvedKG.kernel_faithful_same_eh_curved_kg_complete (a : AASCKleinGordon.Parameters) (s : ℝ) :
+  AASCKleinGordon.CurvedKG.CompleteKernelFaithfulCurvedKGEndpoints a s
+'AASCKleinGordon.CurvedKG.kernel_faithful_same_eh_curved_kg_complete' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+AASCKleinGordon.SameActionSource.kernel_faithful_same_action_kg_source (a : AASCKleinGordon.Parameters)
+  (s kappa Lambda : ℝ) (coupling : kappa ≠ 0) :
+  AASCKleinGordon.SameActionSource.SameActionKGSourceEndpoints a s kappa Lambda
+'AASCKleinGordon.SameActionSource.kernel_faithful_same_action_kg_source' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+AASCKleinGordon.RecoveryComparison.kernel_faithful_recovery_comparison (a : AASCKleinGordon.Parameters)
+  (s kappa Lambda : ℝ) (coupling : kappa ≠ 0) :
+  AASCKleinGordon.RecoveryComparison.KernelFaithfulRecoveryComparison a s kappa Lambda
+'AASCKleinGordon.RecoveryComparison.kernel_faithful_recovery_comparison' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr (a : AASCKleinGordon.Parameters) (s kappa Lambda : ℝ)
+  (coupling : kappa ≠ 0) : AASCKleinGordon.OperationalSR.KernelFaithfulOperationalSR a s kappa Lambda
+'AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

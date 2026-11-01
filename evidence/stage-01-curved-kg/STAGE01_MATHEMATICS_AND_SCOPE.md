@@ -1,3 +1,5 @@
+> Historical stage note, retained with its original scope and date. Stage-local “private,” “pending,” or “remaining” wording is not the current repository status. See [the evidence guide](../../EVIDENCE.md) for final acceptance and later source-bootstrap results.
+
 # Stage 1 mathematics and receiving scope
 
 This describes the private Stage 1 construction and candidate theorem. Acceptance is governed by the final compiled audit, independent review and replay receipts; this explanatory note is not itself a proof certificate. The unchanged source/completion contract and exact source/defense/query receipts remain authoritative.
