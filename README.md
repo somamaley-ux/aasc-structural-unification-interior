@@ -12,6 +12,18 @@ This emergence is substantive and scoped. Continuum carriers, dimension, the KG/
 
 The completed **pre-5A foundation** contains **1,056 project Lean modules**, including accepted stages 1–4 and the final Stage 4 audit, consumed third-party dependency sources/notices, pinned revisions and path-redacted acceptance evidence. Production source bytes and namespaces are preserved. This curated snapshot has its own history. Later working branches and manuscript/PDF collections are excluded; this repository publication creates no paper publication, GitHub release or Zenodo deposit.
 
+## Coverage of the original physical task
+
+[ProjectionCoverage.lean](audit/ProjectionCoverage.lean) connects the branch classifications to a task whose candidates and required observations are specified independently. For each qualifying candidate, the coverage hypothesis requires an admitted representative giving the same answers on the entire declared domain. The file proves that a law expressed through those answers then holds for every qualifying candidate.
+
+The three applications compare tensor values at every regular metric and point, the entire graph of the calibrated free scalar operator (including its domain), and the action of a calibrated frame on every event increment. A separate example doubles every increment. It preserves the whole future cone and changes the quadratic reading at a unit rest increment. The positive rest tick thus supplies information that the order alone leaves open.
+
+After building the pinned project as described in [REPRODUCING.md](REPRODUCING.md), run the supplement and its five axiom checks from the repository root.
+
+```shell
+lake env lean audit/ProjectionCoverage.lean
+```
+
 ## Accepted endpoints and scope
 
 | Endpoint | Construction and limits |

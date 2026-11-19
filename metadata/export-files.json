@@ -13,6 +13,11 @@
       "sha256": "5430e7d022811019e4316e932bcb9059d8efe1f1e01658f2e51545f0fefcdc9a"
     },
     {
+      "path": "audit/ProjectionCoverage.lean",
+      "bytes": 7614,
+      "sha256": "1373e1aa1cb5f75de84bfbab491a2d7e6f849535e89b2aaf0c187a1f70419827"
+    },
+    {
       "path": "CONSTRUCTION.md",
       "bytes": 8114,
       "sha256": "6168f3e132a4624ff5b9966787559f6ff77335f543763ae7ae336462d58d9750"
@@ -5584,8 +5589,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9737,
-      "sha256": "04e04bbb5b5e7bdffb5e0636ae13fa4131740b6cc19fe1d56147d6076d002b6f"
+      "bytes": 10876,
+      "sha256": "e01c7690fdf270ec54f725294298b202b3d9287fae7cdfe6da4f94016e4c0b5b"
     },
     {
       "path": "replay.py",
