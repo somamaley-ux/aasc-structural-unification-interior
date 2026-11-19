@@ -1,0 +1,566 @@
+{
+  "lean": "Lean (version 4.28.0, x86_64-w64-windows-gnu, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b, Release)",
+  "fresh_objects": {
+    "AccessDeletion": {
+      "sha256": "5922d2ee074e58c42492a90b979961af2c24995663dce3ecafab10511614df33",
+      "object_sha256": "d8b9ef95e8fdfb055d087001a01e1c37239e99bcbc7b9750f66e829458304a12",
+      "source_sha256": "5922d2ee074e58c42492a90b979961af2c24995663dce3ecafab10511614df33",
+      "reused_verified_step_this_run": true
+    },
+    "CausalIncidence": {
+      "sha256": "5fd54a260201709d792c9616c637a15f2516f0890d3ac573c3cda74e8791da4f",
+      "object_sha256": "efe5f19e827165eaee4f0875c9c4ea4098eaa62610deaf8b796f4ab28f022e20",
+      "source_sha256": "5fd54a260201709d792c9616c637a15f2516f0890d3ac573c3cda74e8791da4f",
+      "reused_verified_step_this_run": true
+    },
+    "CompactMetricResponse": {
+      "sha256": "081d89a491bfa4fac0fdec1796b9e526bfb5bfc8e1adbf81e4c16d218f6e18de",
+      "object_sha256": "7b646f7d7f314815db97a6110a53de618333e57d2d98fc3ef91f135699d6099d",
+      "source_sha256": "081d89a491bfa4fac0fdec1796b9e526bfb5bfc8e1adbf81e4c16d218f6e18de",
+      "reused_verified_step_this_run": true
+    },
+    "ExactPairMeetings": {
+      "sha256": "91ccecf1ebdff645a1df8ea14de308e0bff63bc7f039731336b398ee65d2c489",
+      "object_sha256": "e4d58ef82cca333d0337da27f1e7a8bf47212664de3db650ad465830f8160842",
+      "source_sha256": "91ccecf1ebdff645a1df8ea14de308e0bff63bc7f039731336b398ee65d2c489",
+      "reused_verified_step_this_run": true
+    },
+    "FiniteInertialComparison": {
+      "sha256": "a63743468d4c7e3439a2186c5c32b532b8098ce28712235dbe22a5b2b4df8bfe",
+      "object_sha256": "80bc06a664e92c2b3cbaed296e0cdbb5a7a165b2f9a88cfc9b48f621f92547f4",
+      "source_sha256": "a63743468d4c7e3439a2186c5c32b532b8098ce28712235dbe22a5b2b4df8bfe",
+      "reused_verified_step_this_run": true
+    },
+    "FourDimensionalDiv2": {
+      "sha256": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
+      "object_sha256": "3c583fdc69492bbf47451fcef4ffba4963bdd054bd3ba61f930d205b5702685e",
+      "source_sha256": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
+      "reused_verified_step_this_run": true
+    },
+    "KernelFaithfulOperationalSR": {
+      "sha256": "81b58d50fd0fc8dc8cca796c5905244c00dbf1dade9e8546663ac6510b57f5d0",
+      "object_sha256": "f4d297cf94bc0b310d177772de9bcad7f75f449d46d1eadc524db571914f0690",
+      "source_sha256": "81b58d50fd0fc8dc8cca796c5905244c00dbf1dade9e8546663ac6510b57f5d0",
+      "reused_verified_step_this_run": true
+    },
+    "LocalExperiment": {
+      "sha256": "8d331bd579649e399188e799cc58197bcf3a60157d7bff60c8378d6006314364",
+      "object_sha256": "c5d3336f0e13cae237f7b9e94067253ee6752154f34915f1618a659fdcd977fb",
+      "source_sha256": "8d331bd579649e399188e799cc58197bcf3a60157d7bff60c8378d6006314364",
+      "reused_verified_step_this_run": true
+    },
+    "OccupiedConeScale": {
+      "sha256": "c3896586e513e47be24bc97733326254bb553bcc68394e81e7731c99e4dbd084",
+      "object_sha256": "8b86775409f11a82211a7e5b3f301e06e80158f6a3a0e9ba20e37de8a2cac044",
+      "source_sha256": "c3896586e513e47be24bc97733326254bb553bcc68394e81e7731c99e4dbd084",
+      "reused_verified_step_this_run": true
+    },
+    "OccupiedMetricProfiles": {
+      "sha256": "2e69e5e29f7ef676622be39cabf6854cda303dee934c15ba9a1f95c056c11e73",
+      "object_sha256": "238fdefaa905ce33a24c33f3d3a583dfd832808e89b7640a32432cf4ddb7a4fd",
+      "source_sha256": "2e69e5e29f7ef676622be39cabf6854cda303dee934c15ba9a1f95c056c11e73",
+      "reused_verified_step_this_run": true
+    },
+    "OrderObstruction": {
+      "sha256": "bdb71fc17272759a820e903f1ab52a627130b1535e56b25ec78b63753e2e389d",
+      "object_sha256": "19a8f50746c855203c7df225de924df42d791bd7b6f6010a8d5e4f64ad381af3",
+      "source_sha256": "bdb71fc17272759a820e903f1ab52a627130b1535e56b25ec78b63753e2e389d",
+      "reused_verified_step_this_run": true
+    },
+    "OriginalWavepacketDetermination": {
+      "sha256": "fb85a5b4f3b217c55e2c817b34a99224f74e83a44ef3ed4ff24dabce45b78962",
+      "object_sha256": "3f42f9d2b56f496960d9d211d26bed0e68e472835600ebd8c1ab7f562d6553d3",
+      "source_sha256": "fb85a5b4f3b217c55e2c817b34a99224f74e83a44ef3ed4ff24dabce45b78962",
+      "reused_verified_step_this_run": true
+    },
+    "ProjectionCoverage": {
+      "sha256": "1373e1aa1cb5f75de84bfbab491a2d7e6f849535e89b2aaf0c187a1f70419827",
+      "object_sha256": "261184cbb4824d3d2a810dd631028db7a88bfb5db2c7aae1610f39fbd029d0a6",
+      "source_sha256": "1373e1aa1cb5f75de84bfbab491a2d7e6f849535e89b2aaf0c187a1f70419827",
+      "reused_verified_step_this_run": true
+    },
+    "SmoothMetricResponse": {
+      "sha256": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
+      "object_sha256": "98b4e9203b8d7e4abb7dbd057ab373535d9d4bd968728452d586328f9cccb6e5",
+      "source_sha256": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
+      "reused_verified_step_this_run": true
+    },
+    "TravelTimePolarization": {
+      "sha256": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
+      "object_sha256": "dbff8e1f30b61761408c854e94fb9c9feaf2ebc7c8a505eb34d4830e5fa5809e",
+      "source_sha256": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
+      "reused_verified_step_this_run": true
+    },
+    "WavefrontWitness": {
+      "sha256": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07",
+      "object_sha256": "2850cfa3c102fae59fff7019eb7647f7c37d76f64697a663637515ebdad6eec6",
+      "source_sha256": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07",
+      "reused_verified_step_this_run": true
+    },
+    "TransitiveRestRotations": {
+      "sha256": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e",
+      "object_sha256": "aacf3d31d94eecbb36d7c1eb030aaaa1c19f8a46af79df6c0bdffd7d7e83e933",
+      "compile_seconds": 22.66,
+      "source_sha256": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e"
+    },
+    "FourDimensionalMetricResponse": {
+      "sha256": "515e2a11d8b787e0938c40dfe1924fd19bf5a2d3ee4e564ee347852e388172c3",
+      "object_sha256": "6a94741bccd7ccaa6a65679044b938c9306635f0dc7605b928491d8996f6b283",
+      "source_sha256": "515e2a11d8b787e0938c40dfe1924fd19bf5a2d3ee4e564ee347852e388172c3",
+      "reused_verified_step_this_run": true
+    },
+    "LinePacket": {
+      "sha256": "754798edbaf0b95e78c49145f038233f5974681e5a2c60bf5fb306f2c260dd30",
+      "object_sha256": "f0b8e029cd29195a04993630dd7bfacca1fdf7e3f7246bbf0f46c3781bfbd4ce",
+      "source_sha256": "754798edbaf0b95e78c49145f038233f5974681e5a2c60bf5fb306f2c260dd30",
+      "reused_verified_step_this_run": true
+    },
+    "LineResponse": {
+      "sha256": "9c8113eca57a055a47938e6bcfe4b082f005c1963d0527b8c374f8099b3c521a",
+      "object_sha256": "6400aebc1c214ffc4a1c7b0116a73bc6e5395de1229dda6f57c37a15729a8a42",
+      "source_sha256": "9c8113eca57a055a47938e6bcfe4b082f005c1963d0527b8c374f8099b3c521a",
+      "reused_verified_step_this_run": true
+    },
+    "LineVacuum": {
+      "sha256": "44a8594dcfab4c6f12c219dd66070ec7c2fb53c4c6146fbdea6db4dc8ea04495",
+      "object_sha256": "ae8c1ccddb919484f7ccde5a8d4f10adf7a143a7c5b644ee2a03cb0cbaa9b23c",
+      "source_sha256": "44a8594dcfab4c6f12c219dd66070ec7c2fb53c4c6146fbdea6db4dc8ea04495",
+      "reused_verified_step_this_run": true
+    },
+    "LocalAuditCone": {
+      "sha256": "204b1a9e9fc7a3ece319d3c970f211fb052e0a0cdf9f8151bedde5fd6a705f51",
+      "object_sha256": "1ad77dceae13365d02d1e9e21add1a041962f95e24fc53492f43a0e99ba77a95",
+      "source_sha256": "204b1a9e9fc7a3ece319d3c970f211fb052e0a0cdf9f8151bedde5fd6a705f51",
+      "reused_verified_step_this_run": true
+    },
+    "MultiRecordRelay": {
+      "sha256": "4d46ef85ada51b7a39de7694b77ac1c5d8198e220e3664357c1ff08009856153",
+      "object_sha256": "1ced918138e892878aa5aff3e13d69c73f313d2282b1b97c8acde2fabedb3879",
+      "source_sha256": "4d46ef85ada51b7a39de7694b77ac1c5d8198e220e3664357c1ff08009856153",
+      "reused_verified_step_this_run": true
+    },
+    "OccupiedScalarFlow": {
+      "sha256": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
+      "object_sha256": "44fe08ae25ba2c85d8a6ab76416d107b55149f37b9c4d07f950371b676938855",
+      "source_sha256": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
+      "reused_verified_step_this_run": true
+    },
+    "OccupiedSmoothMetricResponse": {
+      "sha256": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
+      "object_sha256": "06b4f24af81d72eb274d639fa5d05200cbb1061cd000a229a42fcaf89b9f6a60",
+      "source_sha256": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
+      "reused_verified_step_this_run": true
+    },
+    "OriginalRayWavefront": {
+      "sha256": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
+      "object_sha256": "82ddbaa71ad50d5b6d2313d6ce82705d46a766d8366d82781b64cfee2370b35c",
+      "source_sha256": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
+      "reused_verified_step_this_run": true
+    },
+    "SixEventAccess": {
+      "sha256": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
+      "object_sha256": "741fe422846dac20ab9266295224b4174185abcaace7471657cc6a09cfc28252",
+      "source_sha256": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
+      "reused_verified_step_this_run": true
+    },
+    "NativeTransitiveRestFrame": {
+      "sha256": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5",
+      "object_sha256": "56cc8bb5f301366963bc02f4a85255ac8cde1bf709140a38e7540dad78c78c8f",
+      "compile_seconds": 27.08,
+      "source_sha256": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5"
+    },
+    "LineCharts": {
+      "sha256": "b7257f657e0b448109fa8cee21ea2e93cbfed6e3d8da969359e42bf0275468b4",
+      "object_sha256": "293cb995f5a61a32bb6d2b4779bead23ff8afdfe0429c0b236df24ba5f677393",
+      "source_sha256": "b7257f657e0b448109fa8cee21ea2e93cbfed6e3d8da969359e42bf0275468b4",
+      "reused_verified_step_this_run": true
+    },
+    "LineFieldBridge": {
+      "sha256": "433536429cb022b3b0ca5c536af004244a3aa95611325164c665780610a9ef0d",
+      "object_sha256": "93009c86c1f4f21c6755e1c0e3d7b5d174646f906f5b935fa7085fde25c139cb",
+      "source_sha256": "433536429cb022b3b0ca5c536af004244a3aa95611325164c665780610a9ef0d",
+      "reused_verified_step_this_run": true
+    },
+    "LineIdentity": {
+      "sha256": "2c4f3388b6ba7c99672c83be04b3c7ba05cad287e99bd424b7742d58f1842662",
+      "object_sha256": "3081daa4bff9697849a0ebcfc85e2255b77b7ecdde77dc39ab230e5c93d44679",
+      "source_sha256": "2c4f3388b6ba7c99672c83be04b3c7ba05cad287e99bd424b7742d58f1842662",
+      "reused_verified_step_this_run": true
+    },
+    "LineOrder": {
+      "sha256": "46b8007e0cff52f042ccdf77c4e4054e4664c96b6e0057acdef63f1ca6363aa6",
+      "object_sha256": "120a965add817ab9652340e5228d12b2f19b0db9c4863d0e46e621b807dfbe62",
+      "source_sha256": "46b8007e0cff52f042ccdf77c4e4054e4664c96b6e0057acdef63f1ca6363aa6",
+      "reused_verified_step_this_run": true
+    },
+    "LineOrigin": {
+      "sha256": "005dfccd0168582a8ad48b2f3b5f21fef685386023b486e5a32864bf2ef921a5",
+      "object_sha256": "a8ad8900c355027e37eb3ec5ca3e148f29a377b72617f2aac9551aaef3e56a45",
+      "source_sha256": "005dfccd0168582a8ad48b2f3b5f21fef685386023b486e5a32864bf2ef921a5",
+      "reused_verified_step_this_run": true
+    },
+    "LineArchive": {
+      "sha256": "68132d054d53127759ae777e5d05487c333077b6be13c7a45dfa412c51cfb641",
+      "object_sha256": "dfe00e0f6dc6937ba7f31c342c83a9484bda9447279cb486d54aad8b5b40318f",
+      "source_sha256": "68132d054d53127759ae777e5d05487c333077b6be13c7a45dfa412c51cfb641",
+      "reused_verified_step_this_run": true
+    },
+    "PreparationPublication": {
+      "sha256": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b",
+      "object_sha256": "2be66d1d68994083e9540e48d91f0759e00ad80ece1827e96058e1f43bf0889e",
+      "compile_seconds": 23.84,
+      "source_sha256": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b"
+    }
+  },
+  "reused": "Prebuilt pinned native project dependencies and mathlib",
+  "warnings_as_errors": "All publication sources. The unmodified native Stage 4 root uses its original warnings policy.",
+  "kernel_replay": {
+    "PreparationPublication": "replaying PreparationPublication",
+    "TravelTimePolarization": "replaying TravelTimePolarization",
+    "TransitiveRestRotations": "replaying TransitiveRestRotations",
+    "NativeTransitiveRestFrame": "replaying NativeTransitiveRestFrame",
+    "OccupiedSmoothMetricResponse": "replaying OccupiedSmoothMetricResponse",
+    "FourDimensionalMetricResponse": "replaying FourDimensionalMetricResponse",
+    "FourDimensionalDiv2": "replaying FourDimensionalDiv2",
+    "SmoothMetricResponse": "replaying SmoothMetricResponse"
+  },
+  "audited_axioms": {
+    "AASCSemanticExhaustion.Div2Four.component_zero": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.eq_baseline_add_linear_of_zero_second_derivative": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.value_on_normal_curvature_representative": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.original_curvature_affine_of_vanishing_response_hessian": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.unique_einstein_of_vanishing_response_hessian": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.response_hessian_zero_of_four_dimensional_symmetries": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.original_curvature_affine_of_four_dimensional_symmetries": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.unique_einstein_of_four_dimensional_symmetries": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.c2_profile_unique_einstein_of_four_dimensional_symmetries": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.differentiable_profile_and_div2_of_original_affinity": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.occupied_einstein_hilbert_has_smooth_profile_and_div2": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_original_ray_least_arrival": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_travel_time_polarization": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_four_arrivals_exclude_bilinear_diagonal": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_original_earliest_times_determine_unique_spatial_form": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_quadratic_travel_recovers_original_future": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_original_reach_transport_preserves_spatial_form": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_cube_four_arrival_readings": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_cube_admits_no_spatial_form": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCMetricConstruction.sr_cube_passes_six_events_without_quadratic_travel": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCInertial.RestRotations.proper_rotations_of_transitive_frontier": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCProjectionCoverage.einstein_of_faithful_coverage": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCProjectionCoverage.schrodinger_of_faithful_coverage": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCProjectionCoverage.lorentz_of_faithful_coverage": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.eh_preserves_occupied_operands_iff": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOriginalWavepacket.existsUnique_flow_of_original_amplitudes": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOriginalWavepacket.distinct_flow_has_separating_packet": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedConeScale.occupied_rest_reading_fixes_dilation": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCProjectionCoverage.finite_inertial_readings_determine_all_increments": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCWavefront.original_finite_ledgers_iff_not_four_point": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCAccessDeletion.induced_example_iff_no_pair_basis": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCLineArchive.no_six_with_native_histories": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_mem_admitted_proper_spatial_rest": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_transitive_rest_supplies_original_rest_family": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_transitive_rest_and_same_tick_preserve_native_interval": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ]
+  },
+  "checked_native_source_hashes": 1056,
+  "hash_fields": {
+    "sha256": "input source bytes, identical to source_sha256",
+    "source_sha256": "input source bytes",
+    "object_sha256": "freshly compiled .olean bytes"
+  },
+  "native_capstone": "AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr",
+  "public_base": {
+    "public_repository": "https://github.com/somamaley-ux/aasc-structural-unification-interior",
+    "public_head": "7e58f29b4b8975e88dff285dc58acef812e1630e",
+    "public_parent": "aee47c9d31738765eda544e299ec8e48bdc6900e",
+    "checked_changed_git_blobs": {
+      "README.md": "3bde64576631666ea8c2999422af19b7dd0a015d",
+      "audit/ProjectionCoverage.lean": "d9ba5060c9cce27e31d7231341aff7fe8b2cd453",
+      "metadata/export-files.json": "364f258aff5e25dfd38331d47882cf5b8af9a049"
+    },
+    "public_export_verified_sha256_files": 5592,
+    "native_sources_matched_to_accepted_and_cached_build": 1056,
+    "accepted_supplement_paths": {
+      "CompactMetricResponse.lean": [
+        "audit/CompactMetricResponse.lean"
+      ],
+      "FiniteInertialComparison.lean": [
+        "audit/FiniteInertialComparison.lean"
+      ],
+      "OccupiedConeScale.lean": [
+        "audit/OccupiedConeScale.lean"
+      ],
+      "OccupiedMetricProfiles.lean": [
+        "audit/OccupiedMetricProfiles.lean"
+      ],
+      "OccupiedScalarFlow.lean": [
+        "audit/OccupiedScalarFlow.lean"
+      ],
+      "OriginalWavepacketDetermination.lean": [
+        "audit/OriginalWavepacketDetermination.lean"
+      ],
+      "ExactPairMeetings.lean": [
+        "causal-access/audit/six_event/ExactPairMeetings.lean",
+        "six-event/lean/ExactPairMeetings.lean"
+      ],
+      "OriginalRayWavefront.lean": [
+        "causal-access/audit/six_event/OriginalRayWavefront.lean",
+        "six-event/lean/OriginalRayWavefront.lean"
+      ],
+      "SixEventAccess.lean": [
+        "causal-access/audit/six_event/SixEventAccess.lean"
+      ],
+      "WavefrontWitness.lean": [
+        "causal-access/audit/six_event/WavefrontWitness.lean",
+        "six-event/lean/WavefrontWitness.lean"
+      ],
+      "AccessDeletion.lean": [
+        "physical-interior/AccessDeletion.lean"
+      ],
+      "CausalIncidence.lean": [
+        "physical-interior/CausalIncidence.lean"
+      ],
+      "LineArchive.lean": [
+        "physical-interior/LineArchive.lean"
+      ],
+      "LineCharts.lean": [
+        "physical-interior/LineCharts.lean"
+      ],
+      "LineFieldBridge.lean": [
+        "physical-interior/LineFieldBridge.lean"
+      ],
+      "LineIdentity.lean": [
+        "physical-interior/LineIdentity.lean"
+      ],
+      "LineOrder.lean": [
+        "physical-interior/LineOrder.lean"
+      ],
+      "LineOrigin.lean": [
+        "physical-interior/LineOrigin.lean"
+      ],
+      "LinePacket.lean": [
+        "physical-interior/LinePacket.lean"
+      ],
+      "LineResponse.lean": [
+        "physical-interior/LineResponse.lean"
+      ],
+      "LineVacuum.lean": [
+        "physical-interior/LineVacuum.lean"
+      ],
+      "LocalAuditCone.lean": [
+        "physical-interior/LocalAuditCone.lean"
+      ],
+      "LocalExperiment.lean": [
+        "six-event/lean/LocalExperiment.lean"
+      ],
+      "MultiRecordRelay.lean": [
+        "six-event/lean/MultiRecordRelay.lean"
+      ],
+      "OrderObstruction.lean": [
+        "six-event/lean/OrderObstruction.lean"
+      ]
+    }
+  },
+  "native_lake_build": {
+    "command": "lake --no-cache build PreparationPublication",
+    "scope": "Freshly derived publication modules and unchanged actual joint entry point under Lake, using read-only pinned native/mathlib and rebuilt older publication imports. The full native dependency graph was not rebuilt from source in this command.",
+    "lean_sources": {
+      "FourDimensionalDiv2": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
+      "SmoothMetricResponse": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
+      "FourDimensionalMetricResponse": "515e2a11d8b787e0938c40dfe1924fd19bf5a2d3ee4e564ee347852e388172c3",
+      "OccupiedSmoothMetricResponse": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
+      "TravelTimePolarization": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
+      "TransitiveRestRotations": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e",
+      "NativeTransitiveRestFrame": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5",
+      "PreparationPublication": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b",
+      "PreparationPublicationAudit": "8217771698dc9cb391f039fdf6b61bcb5a185f5d99cfa25a9b5431c97e8ee906"
+    },
+    "objects_present": true
+  },
+  "exact_lakefile_parsed": true,
+  "lake_dependency_setup": "For the local publication-target build, separate source-free Lake packages exposed the cached Lean object roots of the pinned native project, its mathlib overlay, and the rebuilt earlier supplements. The same seven new source files, joint entry point and axiom audit were compiled by Lake. The distributed Lake file retains its ordinary pinned mathlib git dependency and its declaration was separately elaborated.",
+  "bootstrap_scope": "The 1,056-file native dependency graph and complete third-party toolchain were not recompiled afresh in this publication run.",
+  "source_scope": "All 25 distinct previous proof modules from the accepted project's supplement directories and the upstream task-coverage audit were recompiled with the original Stage 4 root. Seven new proof modules and the publication import were then compiled. The 36 axiom queries were checked by a fresh client.",
+  "public_module_source_sha256": {
+    "AccessDeletion.lean": "5922d2ee074e58c42492a90b979961af2c24995663dce3ecafab10511614df33",
+    "CausalIncidence.lean": "5fd54a260201709d792c9616c637a15f2516f0890d3ac573c3cda74e8791da4f",
+    "CompactMetricResponse.lean": "081d89a491bfa4fac0fdec1796b9e526bfb5bfc8e1adbf81e4c16d218f6e18de",
+    "ExactPairMeetings.lean": "91ccecf1ebdff645a1df8ea14de308e0bff63bc7f039731336b398ee65d2c489",
+    "FiniteInertialComparison.lean": "a63743468d4c7e3439a2186c5c32b532b8098ce28712235dbe22a5b2b4df8bfe",
+    "FourDimensionalDiv2.lean": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
+    "FourDimensionalMetricResponse.lean": "515e2a11d8b787e0938c40dfe1924fd19bf5a2d3ee4e564ee347852e388172c3",
+    "LineArchive.lean": "68132d054d53127759ae777e5d05487c333077b6be13c7a45dfa412c51cfb641",
+    "LineCharts.lean": "b7257f657e0b448109fa8cee21ea2e93cbfed6e3d8da969359e42bf0275468b4",
+    "LineFieldBridge.lean": "433536429cb022b3b0ca5c536af004244a3aa95611325164c665780610a9ef0d",
+    "LineIdentity.lean": "2c4f3388b6ba7c99672c83be04b3c7ba05cad287e99bd424b7742d58f1842662",
+    "LineOrder.lean": "46b8007e0cff52f042ccdf77c4e4054e4664c96b6e0057acdef63f1ca6363aa6",
+    "LineOrigin.lean": "005dfccd0168582a8ad48b2f3b5f21fef685386023b486e5a32864bf2ef921a5",
+    "LinePacket.lean": "754798edbaf0b95e78c49145f038233f5974681e5a2c60bf5fb306f2c260dd30",
+    "LineResponse.lean": "9c8113eca57a055a47938e6bcfe4b082f005c1963d0527b8c374f8099b3c521a",
+    "LineVacuum.lean": "44a8594dcfab4c6f12c219dd66070ec7c2fb53c4c6146fbdea6db4dc8ea04495",
+    "LocalAuditCone.lean": "204b1a9e9fc7a3ece319d3c970f211fb052e0a0cdf9f8151bedde5fd6a705f51",
+    "LocalExperiment.lean": "8d331bd579649e399188e799cc58197bcf3a60157d7bff60c8378d6006314364",
+    "MultiRecordRelay.lean": "4d46ef85ada51b7a39de7694b77ac1c5d8198e220e3664357c1ff08009856153",
+    "NativeTransitiveRestFrame.lean": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5",
+    "OccupiedConeScale.lean": "c3896586e513e47be24bc97733326254bb553bcc68394e81e7731c99e4dbd084",
+    "OccupiedMetricProfiles.lean": "2e69e5e29f7ef676622be39cabf6854cda303dee934c15ba9a1f95c056c11e73",
+    "OccupiedScalarFlow.lean": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
+    "OccupiedSmoothMetricResponse.lean": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
+    "OrderObstruction.lean": "bdb71fc17272759a820e903f1ab52a627130b1535e56b25ec78b63753e2e389d",
+    "OriginalRayWavefront.lean": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
+    "OriginalWavepacketDetermination.lean": "fb85a5b4f3b217c55e2c817b34a99224f74e83a44ef3ed4ff24dabce45b78962",
+    "PreparationPublication.lean": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b",
+    "PreparationPublicationAudit.lean": "8217771698dc9cb391f039fdf6b61bcb5a185f5d99cfa25a9b5431c97e8ee906",
+    "SixEventAccess.lean": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
+    "SmoothMetricResponse.lean": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
+    "TransitiveRestRotations.lean": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e",
+    "TravelTimePolarization.lean": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
+    "WavefrontWitness.lean": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07"
+  },
+  "audited_client_sha256": "8217771698dc9cb391f039fdf6b61bcb5a185f5d99cfa25a9b5431c97e8ee906",
+  "external_result": "The natural-tensor deduction of the differential coefficient symmetries from off-shell conservation is the cited Lovelock step. The finite dimension-four obstruction, affine profile implication, original-germ classification and occupied EH profile are checked in Lean."
+}

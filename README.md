@@ -1,5 +1,14 @@
 # Premetric Structural Unification
 
+## Original preparations and their responses
+
+The [publication entry point](publication/PreparationPublication.lean) connects the
+native operational capstone and the accepted preparation and causal-access proofs
+to the smooth metric-response and reciprocal clock-and-ray results. Run
+`lake build PreparationPublication` in the pinned workspace. The [proof map
+and replay instructions](publication/README.md) state the hypotheses, the cited
+geometric input and the verification scope.
+
 ## The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity
 
 *An Integrated Cross-Corpus Lean Formalization*

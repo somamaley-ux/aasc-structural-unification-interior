@@ -3,11 +3,17 @@
   "subtitle": "The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity",
   "additional_title_line": "An Integrated Cross-Corpus Lean Formalization",
   "repository": "https://github.com/somamaley-ux/aasc-structural-unification-interior",
-  "scope": "Completed pre-5A common Kernel construction and accepted stages 1\u20134, at the exact declared receiving hypotheses",
+  "scope": "Completed pre-5A common Kernel construction and accepted stages 1–4, at the exact declared receiving hypotheses",
   "production_lean_modules": 1056,
   "project_license": "No new project-wide license granted; see RIGHTS.md",
-  "proof_sources_changed": false,
+  "proof_sources_changed": true,
   "manuscript_included": false,
   "github_release_created": false,
-  "zenodo_deposit_created": false
+  "zenodo_deposit_created": false,
+  "publication_supplement": {
+    "entry_point": "publication/PreparationPublication.lean",
+    "audit": "publication/PreparationPublicationAudit.lean",
+    "verified_upstream": "7e58f29b4b8975e88dff285dc58acef812e1630e",
+    "scope": "Original preparations, dim-4 response coefficient identities, and reciprocal clock-and-ray travel times"
+  }
 }

@@ -1063,3 +1063,47 @@ lean_lib Pre5A where
     `KernelFaithfulOperationalSR,
     `OSRStage04FinalAudit
   ]
+
+lean_lib PreparationCoverage where
+  srcDir := "audit"
+  roots := #[`ProjectionCoverage]
+
+@[default_target]
+lean_lib PreparationPublication where
+  srcDir := "publication"
+  roots := #[
+    `AccessDeletion,
+    `CausalIncidence,
+    `CompactMetricResponse,
+    `ExactPairMeetings,
+    `FiniteInertialComparison,
+    `FourDimensionalDiv2,
+    `FourDimensionalMetricResponse,
+    `LineArchive,
+    `LineCharts,
+    `LineFieldBridge,
+    `LineIdentity,
+    `LineOrder,
+    `LineOrigin,
+    `LinePacket,
+    `LineResponse,
+    `LineVacuum,
+    `LocalAuditCone,
+    `LocalExperiment,
+    `MultiRecordRelay,
+    `NativeTransitiveRestFrame,
+    `OccupiedConeScale,
+    `OccupiedMetricProfiles,
+    `OccupiedScalarFlow,
+    `OccupiedSmoothMetricResponse,
+    `OrderObstruction,
+    `OriginalRayWavefront,
+    `OriginalWavepacketDetermination,
+    `PreparationPublication,
+    `PreparationPublicationAudit,
+    `SixEventAccess,
+    `SmoothMetricResponse,
+    `TransitiveRestRotations,
+    `TravelTimePolarization,
+    `WavefrontWitness
+  ]

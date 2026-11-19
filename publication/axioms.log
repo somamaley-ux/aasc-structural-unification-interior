@@ -1,0 +1,80 @@
+'AASCSemanticExhaustion.Div2Four.component_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.eq_baseline_add_linear_of_zero_second_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.value_on_normal_curvature_representative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.original_curvature_affine_of_vanishing_response_hessian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.unique_einstein_of_vanishing_response_hessian' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.response_hessian_zero_of_four_dimensional_symmetries' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.original_curvature_affine_of_four_dimensional_symmetries' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.unique_einstein_of_four_dimensional_symmetries' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.c2_profile_unique_einstein_of_four_dimensional_symmetries' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.differentiable_profile_and_div2_of_original_affinity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.occupied_einstein_hilbert_has_smooth_profile_and_div2' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_ray_least_arrival' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_travel_time_polarization' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_four_arrivals_exclude_bilinear_diagonal' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_earliest_times_determine_unique_spatial_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_quadratic_travel_recovers_original_future' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_original_reach_transport_preserves_spatial_form' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCMetricConstruction.sr_cube_four_arrival_readings' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_cube_admits_no_spatial_form' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCMetricConstruction.sr_cube_passes_six_events_without_quadratic_travel' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCInertial.RestRotations.proper_rotations_of_transitive_frontier' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCProjectionCoverage.einstein_of_faithful_coverage' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCProjectionCoverage.schrodinger_of_faithful_coverage' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCProjectionCoverage.lorentz_of_faithful_coverage' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.eh_preserves_occupied_operands_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOriginalWavepacket.existsUnique_flow_of_original_amplitudes' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOriginalWavepacket.distinct_flow_has_separating_packet' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedConeScale.occupied_rest_reading_fixes_dilation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCProjectionCoverage.finite_inertial_readings_determine_all_increments' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCWavefront.original_finite_ledgers_iff_not_four_point' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCAccessDeletion.induced_example_iff_no_pair_basis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCLineArchive.no_six_with_native_histories' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_mem_admitted_proper_spatial_rest' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_transitive_rest_supplies_original_rest_family' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_transitive_rest_and_same_tick_preserve_native_interval' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
