@@ -14,28 +14,28 @@
     },
     {
       "path": "CONSTRUCTION.md",
-      "bytes": 8114,
-      "sha256": "6168f3e132a4624ff5b9966787559f6ff77335f543763ae7ae336462d58d9750"
+      "bytes": 9507,
+      "sha256": "100687cf942c324c00afe940630a47804fd76f35fbc8752855a824ec9240f471"
     },
     {
       "path": "EVIDENCE.md",
-      "bytes": 5211,
-      "sha256": "2198bb7416a59fc01dd28e4d668b47d181f52551a287a53a11e46eee79137282"
+      "bytes": 6186,
+      "sha256": "f6a2cfcc8ee649353b50991367e424cc3f05fb230ca9e8616d5bad02c5a7ac80"
     },
     {
       "path": "PROJECT.json",
-      "bytes": 1083,
-      "sha256": "8c51d4e1c0b8a7af21758c12851637efcba63381aec14f977994e8d1fe83a6c6"
+      "bytes": 2371,
+      "sha256": "cb16eaef4bf55f1df11a53bea144d4e7256ed9ce704aaf13d65ac2e13940e694"
     },
     {
       "path": "README.md",
-      "bytes": 11630,
-      "sha256": "7b2642d02aacc2cfbefad693d2d06cb5c28f49e50464d102db2b03e9d571e057"
+      "bytes": 12697,
+      "sha256": "1b9ebe83aab1646d2d3eef5e48f4604c7636c8ac091ab6dc0f16af73c8888749"
     },
     {
       "path": "REPRODUCING.md",
-      "bytes": 11129,
-      "sha256": "c63555d870ad015f73953218c9e4a291b51c7876bbebc78fc67969cdb736e0ac"
+      "bytes": 12086,
+      "sha256": "d3b6ca3b27b2a15132f203efc73fa5fea2a17064d4a662989d91603bc4a8ac48"
     },
     {
       "path": "RIGHTS.md",
@@ -5799,8 +5799,8 @@
     },
     {
       "path": "publication/README.md",
-      "bytes": 8063,
-      "sha256": "5d4958d19feae2bd27bed2800861bfcf640046c2b84f99dfa159acc68bcdbaf1"
+      "bytes": 11600,
+      "sha256": "ab7d0e6ec0eb752d702ad677963e8b3071a48974aaa810dc2338ee3b769f4e71"
     },
     {
       "path": "publication/SixEventAccess.lean",

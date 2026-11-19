@@ -1,8 +1,14 @@
 # Reading the evidence
 
-The production entry point is [KernelFaithfulOperationalSR.lean](src/KernelFaithfulOperationalSR.lean). The six named roots and their construction boundaries are in [README.md](README.md) and [CONSTRUCTION.md](CONSTRUCTION.md). [The accepted inventory](evidence/accepted-endpoint-inventory.json) is a transformed historical record, not the current permission or verification authority.
+The publication entry point joins the native Stage 4 capstone to the metric-response, scalar-packet and inertial comparisons. The proof map identifies the physical inputs, the consequences proved in Lean and the cited step supplying the differentiated Lovelock identities. [Publication entry point](publication/PreparationPublication.lean) · [Proof map](publication/README.md)
 
-## Three verification layers
+## Current publication check
+
+Lean 4.28.0 compiled the 11 new proof modules and the joined publication entry point, with 34 earlier compiled objects verified by hash. The publication Lake target succeeded. Independent kernel replay covered 19 modules, and the axiom audit covered 90 declarations. Only `propext`, `Classical.choice` and `Quot.sound` occurred. This run used the pinned compiled native and mathlib dependencies. [Publication receipt](publication/verification.json) · [Declarations audited](publication/PreparationPublicationAudit.lean) · [Axiom output](publication/axioms.log)
+
+The underlying Stage 4 entry point and six historical roots remain available for independent inspection. The stage records below document the original native source graph and its provenance. [Stage 4 entry point](src/KernelFaithfulOperationalSR.lean) · [Construction](CONSTRUCTION.md) · [Historical endpoint inventory](evidence/accepted-endpoint-inventory.json)
+
+## Verification of the underlying native graph
 
 1. **Stage acceptance.** The connected composition, native SR and stages 1–4 have scoped acceptance/review records below. These bind their own source/objects, hypotheses and reuse boundaries. Their original “private,” “pending,” “next stage,” and publication/replay instructions remain historical. Later accepted stages supersede earlier stage-local remaining-work lists only where the later exact statements do so.
 2. **Full export replay.** [The result](evidence/clean-replay/result.json), [checkpoint](evidence/clean-replay/checkpoint.json), per-module logs and [six-root audit](evidence/clean-replay/endpoint-audit.log) record all 1,056 project modules freshly rebuilt against rehashed retained compiler/library binaries, with all accepted primary object hashes matched. The checkpoint is intermediate; the final result establishes completion. This layer did not bootstrap the compiler or dependencies.

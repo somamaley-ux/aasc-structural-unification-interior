@@ -1,29 +1,22 @@
 # Premetric Structural Unification
 
-## Minimum metric response order and occupied comparisons
+*The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity*
 
-The [publication proof map](publication/README.md) connects the new occupied metric tests and minimum-order results with the source, scalar and inertial comparisons from the previous publication.
+**This work derives the physical realization of general relativity (GR), quantum mechanics (QM) and special relativity (SR) from premetric constraints on the preparations studied here.** The gravitational response takes Einstein form, the isolated quantum scalar evolves by the free Schrödinger law, and calibrated inertial measurements realize the Lorentz interval.
 
-## Original preparations and their responses
+The Kernel of the Admissibility And Standing Constraint (AASC) fixes the original occurrence and the uses for which it has standing. At the AMetric boundary a description must preserve the answers to those uses wherever it identifies two cases. Canonical L-metric licensing carries the warranted uses through each admitted continuation. The original metric variations, packet amplitudes and clock-and-ray operations then determine the physical laws on their respective domains. Where geometry and real scalar matter meet, the two action derivatives act on the very same compact perturbation of the same metric (Theorems 6.7 and 10.1). [Publication PDF and editable sources, v1.1.0](https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.1.0)
 
-The [publication entry point](publication/PreparationPublication.lean) connects the
-native operational capstone and the accepted preparation and causal-access proofs
-to the smooth metric-response and reciprocal clock-and-ray results. Run
-`lake build PreparationPublication` in the pinned workspace. The [proof map
-and replay instructions](publication/README.md) state the hypotheses, the cited
-geometric input and the verification scope.
+| Branch | What the original preparation determines |
+| --- | --- |
+| Gravity (§4.6) | Compact metric relabeling probes on the admitted bounded operands detect any failure of off-shell conservation on the full smooth four-dimensional metric domain. Among smooth, natural, local, symmetric metric-only responses of finite differential order that pass these tests and are active, order two is the least possible. Every minimizer has Einstein form $aG+bg$ with $a\ne0$, where $G$ is the Einstein tensor and $g$ is the metric. For the specified Einstein–Hilbert action, agreement on **every** compact metric variation fixes both coefficients and identifies the response everywhere, even for a natural germ-local rival of unspecified order. [Theorems 4.7–4.8 in Lean and the cited Lovelock input](publication/README.md) |
+| Isolated scalar (§7.5) | Rest-energy subtraction from the original mass-shell time translations supplies phase-fixed complex packet amplitudes. Their limits on dense packet pairs at rational times distinguish every different separately continuous evolution on the same Hilbert space. They determine the free Schrödinger generator with its full operator domain. [Packet-amplitude uniqueness](publication/OccupiedScalarFlow.lean) |
+| Inertial geometry (§§3.3–3.4) | Completed causal reach and physical rest operations transitive on the one-tick frontier determine the spatial quadratic form. The original positive rest tick fixes the scale of the Lorentz interval for admitted frames. Four arrival readings per displacement pair test the shape of the front. A rival can reproduce every arrival and still lose an actual half-turn of the apparatus. [Arrival-time test](publication/TravelTimePolarization.lean) · [Rest-operation witness](publication/OccupiedRestOperationQueries.lean) |
 
-## The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity
+Section 10.4 gives concrete tests of rival laws on each preparation. Whether every faithful interior supplies all three physical preparations is a separate existence question (§10.3). The published construction uses declared continuum carriers, dimension, actions, physical branch and parameters. [Construction and physical scope](CONSTRUCTION.md)
 
-*An Integrated Cross-Corpus Lean Formalization*
+Run `lake build PreparationPublication` with the pinned Lean toolchain. The publication target joins the formal comparisons to the operational capstone. Appendix B.9 and the proof map identify the classical geometric input to the smooth four-dimensional Lovelock classification. [Lean entry point](publication/PreparationPublication.lean) · [Proof map and replay instructions](publication/README.md)
 
-This repository contains a **machine-checked, constraint-first construction of a controlled physical interior from the AASC Kernel and downstream Kernel-faithful machinery**. Geometric Einstein response, free scalar quantum dynamics, a controlled nonflat Klein–Gordon construction, same-action classical scalar sources, quantitative recovery and operational special relativity are connected through actual source, licensing, observation and continuation maps.
-
-The common Kernel governs standing reference, admissibility and failure. Concrete downstream constructions realize the physical carriers, geometry, dynamics and apparatus within that governance. Their physical inputs are **Kernel-governed resources**: preparations, admitted metric operands, comparisons, calibrated clocks, signal energies, use windows and protocol domains participate in explicit source/use contracts, with proved faithful descriptions and operations. The root theorems construct the endpoints and licensing conclusions; desired Einstein or Schrödinger laws, apparatus existence and compatibility certificates are not root premises.
-
-This emergence is substantive and scoped. Continuum carriers, dimension, the KG/free branch, actions and physical parameters are declared construction choices; the realization and preservation results are proved within that branch. Kernel necessity alone does not select those choices or their numerical values. [CONSTRUCTION.md](CONSTRUCTION.md) distinguishes construction, received data, calibration and conditional conclusions without detaching the physical resources from Kernel governance.
-
-The completed **pre-5A foundation** contains **1,056 project Lean modules**, including accepted stages 1–4 and the final Stage 4 audit, consumed third-party dependency sources/notices, pinned revisions and path-redacted acceptance evidence. Production source bytes and namespaces are preserved. This curated snapshot has its own history. Later working branches and manuscript/PDF collections are excluded; this repository publication creates no paper publication, GitHub release or Zenodo deposit.
+The original pre-5A foundation contains 1,056 project Lean modules, including accepted stages 1–4. The publication modules extend that foundation. Its original source bytes, namespaces, pinned dependencies and acceptance evidence remain available in this repository.
 
 ## Coverage of the original physical task
 

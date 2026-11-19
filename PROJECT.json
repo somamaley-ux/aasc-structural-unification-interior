@@ -3,17 +3,32 @@
   "subtitle": "The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity",
   "additional_title_line": "An Integrated Cross-Corpus Lean Formalization",
   "repository": "https://github.com/somamaley-ux/aasc-structural-unification-interior",
-  "scope": "Completed pre-5A common Kernel construction and accepted stages 1–4, at the exact declared receiving hypotheses",
+  "scope": "Physical realization of downstream GR, QM and SR from premetric constraints on the stated preparations. The AASC Kernel, AMetric agreement and canonical L-metric licensing preserve the original comparisons and operations that determine Einstein-form gravity at minimum active differential order, isolated free Schrödinger dynamics and the calibrated Lorentz interval. The pre-5A foundation contains the accepted stages 1–4.",
   "production_lean_modules": 1056,
   "project_license": "No new project-wide license granted; see RIGHTS.md",
   "proof_sources_changed": true,
   "manuscript_included": false,
-  "github_release_created": false,
-  "zenodo_deposit_created": false,
   "publication_supplement": {
     "entry_point": "publication/PreparationPublication.lean",
     "audit": "publication/PreparationPublicationAudit.lean",
     "verified_upstream": "f60ef6980eacaa280ae8acf954b3838d993c9cfa",
-    "scope": "Occupied metric comparisons, intrinsic minimum differential order, and the joined metric, scalar and inertial response criteria"
-  }
+    "scope": "Occupied Lie readings and off-shell conservation, minimum active differential order and Einstein form, the specified action's complete variation profile, free-flow uniqueness from phase-fixed mass-shell packet amplitudes, and calibrated interval reconstruction with distinct arrival and operation tests",
+    "verified_proof_commit": "d04d1e82bde14896961c6d5815ec2b85ed888f07",
+    "cited_geometric_input": "Navarro and Navarro's smooth Lovelock implication for the differentiated tensor symmetries (manuscript §4.4 and Appendix B.9)"
+  },
+  "foundation_export_status": {
+    "scope": "Status of the original 1,056-module pre-5A source export at its creation",
+    "github_release_created": false,
+    "zenodo_deposit_created": false
+  },
+  "release": {
+    "tag": "v1.1.0",
+    "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.1.0",
+    "artifacts": [
+      "Publication PDF",
+      "Editable manuscript project",
+      "Full Lean source"
+    ]
+  },
+  "manuscript_location": "The release assets include the publication PDF and editable manuscript project. The repository tree contains the Lean source and proof map."
 }

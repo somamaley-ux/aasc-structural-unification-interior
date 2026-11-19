@@ -1,6 +1,20 @@
 # Build and reproduction
 
-The verified cache-cold route compiled all **1,056 project modules** and **3,404 consumed dependency modules** from source on 31 October 2026. It used fresh official Lean 4.28.0 binaries on the existing Windows host, rather than an installed Lean toolchain or pre-existing dependency cache. It did not provision a clean OS/VM or rebuild the compiler/bundled standard library from C++/stage0. Existing Windows, Git, Python and certificate-store prerequisites remained.
+## Current publication target
+
+From a checkout of this release, use Lean 4.28.0 and the dependency revisions in `lake-manifest.json`. With the pinned dependencies available, run these commands at the repository root.
+
+```sh
+python verify.py
+lake build PreparationPublication
+lake env lean publication/PreparationPublicationAudit.lean
+```
+
+`verify.py` checks artifact identity. The Lake target compiles the publication modules, and the audit prints the transitive axioms of the named declarations. The recorded publication run reused pinned compiled dependencies, checked the 11 new modules and their joined entry point, and independently replayed 19 modules with `leanchecker`. The detailed guide includes a command to repeat those replays and check all 90 axiom results. [Publication guide](publication/README.md) · [Verification receipt](publication/verification.json)
+
+## Historical source bootstrap of the native graph
+
+The verified cache-cold route compiled all **1,056 native project modules** and **3,404 consumed dependency modules** from source on 31 October 2026. It used fresh official Lean 4.28.0 binaries on the existing Windows host, rather than an installed Lean toolchain or pre-existing dependency cache. It did not provision a clean OS/VM or rebuild the compiler/bundled standard library from C++/stage0. Existing Windows, Git, Python and certificate-store prerequisites remained.
 
 [The report](evidence/cache-cold-bootstrap/report.json), [portable acquisition commands](evidence/cache-cold-bootstrap/acquisition-commands.json), [command journal](evidence/cache-cold-bootstrap/commands.jsonl) and [source-build log](evidence/cache-cold-bootstrap/source-build.log) record the executed check. The commands below present that procedure with user-selected paths; they are not a claim that another OS or every shell has been tested.
 
@@ -14,7 +28,7 @@ Set-Location aasc-structural-unification-interior
 python verify.py
 ```
 
-The tested mathematical source snapshot was commit `6ac8f9e8c6f1ead60dc1057924058991399d8b94`. The subsequent publication edits preserve all production Lean source bytes and pinned dependencies. The export hash manifest includes current documentation and evidence as well as sources; `verify.py` is an integrity check and does not invoke Lean.
+The October bootstrap tested commit `6ac8f9e8c6f1ead60dc1057924058991399d8b94`. Its 1,056 native source modules and dependency pins are preserved in this release. Later publication modules reside under `publication/` and have the separate verification record above. The export hash manifest includes the sources, documentation and evidence for the checked-out version.
 
 `lean-toolchain` pins Lean 4.28.0. `lake-manifest.json` and `metadata/dependency-lock.json` pin all nine dependency revisions, including mathlib `8f9d9cff6bd728b17a24e163c9402775d9e6a365`. Keep these revisions; do not run an unreviewed `lake update` and treat a changed dependency set as the same check.
 
