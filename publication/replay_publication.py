@@ -142,7 +142,10 @@ def audit_publication():
     checks = ["PreparationPublication", "TravelTimePolarization", "TransitiveRestRotations","NativeTransitiveRestFrame",
               "OccupiedSmoothMetricResponse", "FourDimensionalMetricResponse",
               "FourDimensionalDiv2", "SmoothMetricResponse"]
-    receipt["kernel_replay"] = {m:run([checker,"-v",m]) for m in checks}
+    checks += ['OccupiedMetricGerms', 'MinimumMetricResponseOrder', 'ObservedOrderMinimum', 'SmoothMinimumEinstein', 'CompactRelativeGauge', 'OccupiedLieReadings', 'OriginalWardLocalization', 'OccupiedFullProfileGerms', 'OccupiedRestOperationQueries', 'OccupiedMinimumEinstein', 'MetricDivergenceTransport']
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.jobs) as pool:
+        futures = {m: pool.submit(run, [checker, "-v", m]) for m in checks}
+        receipt["kernel_replay"] = {m: job.result() for m,job in futures.items()}
     audit = here / "PreparationPublicationAudit.lean"
     audit_copy = out / audit.name
     shutil.copyfile(audit, audit_copy)
@@ -158,4 +161,5 @@ def audit_publication():
     receipt["audited_axioms"] = axioms
 audit_publication()
 (out / "verification.json").write_text(json.dumps(receipt,indent=2)+"\n",encoding="utf8")
-print("PASSED",len(completed),"fresh compilations",flush=True)
+reused = sum(bool(row.get("resumed")) for row in completed.values())
+print("PASSED", len(completed) - reused, "fresh compilations;", reused, "hash-verified resumed objects;", len(receipt["kernel_replay"]), "kernel replays;", len(receipt["audited_axioms"]), "axiom queries", flush=True)

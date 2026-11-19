@@ -13,7 +13,7 @@
   "publication_supplement": {
     "entry_point": "publication/PreparationPublication.lean",
     "audit": "publication/PreparationPublicationAudit.lean",
-    "verified_upstream": "7e58f29b4b8975e88dff285dc58acef812e1630e",
-    "scope": "Original preparations, dim-4 response coefficient identities, and reciprocal clock-and-ray travel times"
+    "verified_upstream": "f60ef6980eacaa280ae8acf954b3838d993c9cfa",
+    "scope": "Occupied metric comparisons, intrinsic minimum differential order, and the joined metric, scalar and inertial response criteria"
   }
 }

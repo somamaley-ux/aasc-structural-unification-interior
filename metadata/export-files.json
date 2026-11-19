@@ -24,13 +24,13 @@
     },
     {
       "path": "PROJECT.json",
-      "bytes": 1059,
-      "sha256": "5513be1987022044b089ca6400875bdf62419df315086c21464612c597493f23"
+      "bytes": 1083,
+      "sha256": "8c51d4e1c0b8a7af21758c12851637efcba63381aec14f977994e8d1fe83a6c6"
     },
     {
       "path": "README.md",
-      "bytes": 11370,
-      "sha256": "b31f84850277f653bf0f0ef3d975ac06199e454b0a3d0fb0353ba983f956ba4f"
+      "bytes": 11630,
+      "sha256": "7b2642d02aacc2cfbefad693d2d06cb5c28f49e50464d102db2b03e9d571e057"
     },
     {
       "path": "REPRODUCING.md",
@@ -5569,8 +5569,8 @@
     },
     {
       "path": "lakefile.lean",
-      "bytes": 36446,
-      "sha256": "cfffa8468a49bc278090aa05289f3ad26877ebde52b58bc4ba94eb000f0acc7a"
+      "bytes": 36783,
+      "sha256": "3617480db90597992b0e24aa144b54d131a9516df246f0a333d1e7c3eac1e007"
     },
     {
       "path": "lean-toolchain",
@@ -5616,6 +5616,11 @@
       "path": "publication/CompactMetricResponse.lean",
       "bytes": 9002,
       "sha256": "081d89a491bfa4fac0fdec1796b9e526bfb5bfc8e1adbf81e4c16d218f6e18de"
+    },
+    {
+      "path": "publication/CompactRelativeGauge.lean",
+      "bytes": 6869,
+      "sha256": "116a1f5e06c6d2e5496dd3244ae62a9c02539c824c8a361be04bbc21afb615d1"
     },
     {
       "path": "publication/ExactPairMeetings.lean",
@@ -5693,6 +5698,16 @@
       "sha256": "8d331bd579649e399188e799cc58197bcf3a60157d7bff60c8378d6006314364"
     },
     {
+      "path": "publication/MetricDivergenceTransport.lean",
+      "bytes": 17942,
+      "sha256": "fe1fad9549a519558d94ca0c57e5e6feb99d1ea4d79bac27c8f1cbd903d1284f"
+    },
+    {
+      "path": "publication/MinimumMetricResponseOrder.lean",
+      "bytes": 12633,
+      "sha256": "123dcd71809a1fdf79e4c863694a15b1557439e06c3b1cfe43a39a8b79da9c51"
+    },
+    {
       "path": "publication/MultiRecordRelay.lean",
       "bytes": 8646,
       "sha256": "4d46ef85ada51b7a39de7694b77ac1c5d8198e220e3664357c1ff08009856153"
@@ -5703,14 +5718,44 @@
       "sha256": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5"
     },
     {
+      "path": "publication/ObservedOrderMinimum.lean",
+      "bytes": 5586,
+      "sha256": "84db85490cc902da7a4e908500d6698979976069d8016a1b63bedba142543bf7"
+    },
+    {
       "path": "publication/OccupiedConeScale.lean",
       "bytes": 4520,
       "sha256": "c3896586e513e47be24bc97733326254bb553bcc68394e81e7731c99e4dbd084"
     },
     {
+      "path": "publication/OccupiedFullProfileGerms.lean",
+      "bytes": 9691,
+      "sha256": "0fe706402db369de6ead2b7adbbafba73d434f09a2f13526d03c9aa889ed3b6a"
+    },
+    {
+      "path": "publication/OccupiedLieReadings.lean",
+      "bytes": 11920,
+      "sha256": "1ebfa74348659079d9521457c73615f853b2105936c1282addc913ee676d69d2"
+    },
+    {
+      "path": "publication/OccupiedMetricGerms.lean",
+      "bytes": 11055,
+      "sha256": "8d9c6c197fac22fa5fd03cd6df2afe4fe3e2c0a3af52b7912f2ba1fc9d49e886"
+    },
+    {
       "path": "publication/OccupiedMetricProfiles.lean",
       "bytes": 10448,
       "sha256": "2e69e5e29f7ef676622be39cabf6854cda303dee934c15ba9a1f95c056c11e73"
+    },
+    {
+      "path": "publication/OccupiedMinimumEinstein.lean",
+      "bytes": 3227,
+      "sha256": "06cc4891621daf196384f80d80dd5261ae416eeeb2b100422a318dff4abc1b66"
+    },
+    {
+      "path": "publication/OccupiedRestOperationQueries.lean",
+      "bytes": 4344,
+      "sha256": "5b86ae303b02e7b7ad7cb9b8487abe6c17fcdaf8f6052ac8bd331a837d08aed1"
     },
     {
       "path": "publication/OccupiedScalarFlow.lean",
@@ -5733,24 +5778,29 @@
       "sha256": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30"
     },
     {
+      "path": "publication/OriginalWardLocalization.lean",
+      "bytes": 12659,
+      "sha256": "c4d1d77994b5b61f63688dcc2da4694e7c753b7668105274a5a7d37af7753d82"
+    },
+    {
       "path": "publication/OriginalWavepacketDetermination.lean",
       "bytes": 5175,
       "sha256": "fb85a5b4f3b217c55e2c817b34a99224f74e83a44ef3ed4ff24dabce45b78962"
     },
     {
       "path": "publication/PreparationPublication.lean",
-      "bytes": 715,
-      "sha256": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b"
+      "bytes": 1063,
+      "sha256": "01dbbd48aef5c625e8c8a8d86f204aa84ac0c2ba4d73d08c318a834c9dadf198"
     },
     {
       "path": "publication/PreparationPublicationAudit.lean",
-      "bytes": 2982,
-      "sha256": "8217771698dc9cb391f039fdf6b61bcb5a185f5d99cfa25a9b5431c97e8ee906"
+      "bytes": 7148,
+      "sha256": "f84c9c4a39ab9ae784b0623e6da3e6700e087d6dc75f8b52d0b09d14e1e5603d"
     },
     {
       "path": "publication/README.md",
-      "bytes": 4582,
-      "sha256": "76e88e4c822555a8cbdf66ca9f7d70a6b3d6376af58a83e53bd60a0cec07c183"
+      "bytes": 8063,
+      "sha256": "5d4958d19feae2bd27bed2800861bfcf640046c2b84f99dfa159acc68bcdbaf1"
     },
     {
       "path": "publication/SixEventAccess.lean",
@@ -5761,6 +5811,11 @@
       "path": "publication/SmoothMetricResponse.lean",
       "bytes": 4890,
       "sha256": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756"
+    },
+    {
+      "path": "publication/SmoothMinimumEinstein.lean",
+      "bytes": 11847,
+      "sha256": "b06bad5e576f58612c96a07a0d93abd6a9b519adaa60ad232de99312f476ff66"
     },
     {
       "path": "publication/TransitiveRestRotations.lean",
@@ -5779,18 +5834,18 @@
     },
     {
       "path": "publication/axioms.log",
-      "bytes": 4729,
-      "sha256": "d72881d472cdd4178b2cd5e1cceb91799a26117b5ddcb360fa160521e18a8dc4"
+      "bytes": 11547,
+      "sha256": "b3a20a7fa1c5ffa63ef063838aaf51d788f3cfd9200f521ed50866cb4856d1fb"
     },
     {
       "path": "publication/replay_publication.py",
-      "bytes": 8765,
-      "sha256": "a4246b761d085deb3688933f4a8c4098ff1bfaeb32e20f37cb323c2a11d57f5d"
+      "bytes": 9460,
+      "sha256": "d8a4cbc3081c5a37470b545dadb19da0611c6126aad2287bbef65eb3dd7bdfdd"
     },
     {
       "path": "publication/verification.json",
-      "bytes": 28181,
-      "sha256": "ea415ce9fa22c8d9bfd6af796cb8b0de8b7b31df3b759a680b130820163ab7a4"
+      "bytes": 41830,
+      "sha256": "534ef7249d26f40517eeced8a74496e46e7474a723dc633e3f2495aa200304da"
     },
     {
       "path": "replay.py",

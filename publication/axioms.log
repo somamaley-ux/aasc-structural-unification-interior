@@ -78,3 +78,115 @@
 'AASCKleinGordon.CanonicalLicensing.SRIntegration.sr_transitive_rest_and_same_tick_preserve_native_interval' depends on axioms: [propext,
  Classical.choice,
  Quot.sound]
+'AASCOccupiedProfiles.original_safe_operand_image' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCKleinGordon.original_eh_actual_act_curve_admitted' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.compact_source_lie_tensor_is_actual' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.constructed_source_closed_ward_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.eh_original_geometric_general_closure' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.invariant_baseline_unique_metric_multiple' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.exists_admitted_operand_eq_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.exists_smooth_symmetric_field_eq_germ_on_open' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.exists_admitted_operand_of_chart_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.exists_admitted_operand_eq_framed_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.exists_admitted_operand_eq_normal_chart_germ' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.local_response_germs' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.coordinate_divergence_of_equal_germs' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.original_eh_natural_under_smooth_coordinates' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.smooth_normal_frame_operand' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.first_jet_natural_response_unique_baseline' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.active_natural_response_order_lower_bound' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.smooth_activity_of_regular_two_jet_activity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.occupied_eh_least_intrinsic_order' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.least_active_closed_metric_response_order' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.original_eh_realizes_occupied_lie_readings' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.original_lie_observations_least_order' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.einstein_form_at_observed_minimum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.smooth_minimal_einstein_form_of_cubic_ward' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.every_active_einstein_pair_occurs_at_minimum' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.compact_pullback_preserves_occupied_action' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.compact_pullback_curve_has_zero_action_derivative' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.occupied_lie_probe_has_standing' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.compact_lie_readings_iff_same_divergence' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.occupied_lie_readings_iff_same_current' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.regular_density_currents_of_same_lie_readings' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.smooth_raised_components' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.occupied_lie_readings_force_normal_closure' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.occupied_tensor_readout_represents' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.original_lie_readings_close_normal_germ' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.original_lie_readings_close_normal_patch' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.original_lie_readings_close_every_normal_chart' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.original_lie_readings_close_cubic_witness' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.nonclosure_has_occupied_lie_witness' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.smooth_frame_natural_of_regular' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.full_readings_identify_occupied_response' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.germ_local_response_eq_eh_of_all_occupied_profiles' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.different_germ_has_occupied_compact_test' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.original_profiles_determine_eh_on_smooth_chart' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.same_ray_arrivals_can_lose_original_rest_interchange' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCKleinGordon.CanonicalLicensing.SRIntegration.occupied_rest_answers_differ_despite_all_ray_arrivals' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCOccupiedProfiles.minimum_response_from_occupied_lie_readings' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'AASCSemanticExhaustion.normal_chart_tensor_partial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.normal_chart_original_divergence' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.flat_first_affine_divergence' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.centered_normal_divergence_transport' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.centered_normal_pullback_metric_germ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCSemanticExhaustion.centered_normal_divergence_zero_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'AASCOccupiedProfiles.original_lie_readings_close_in_original_coordinates' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

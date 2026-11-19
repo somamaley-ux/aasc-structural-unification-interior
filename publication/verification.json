@@ -3,215 +3,294 @@
   "fresh_objects": {
     "AccessDeletion": {
       "sha256": "5922d2ee074e58c42492a90b979961af2c24995663dce3ecafab10511614df33",
-      "object_sha256": "d8b9ef95e8fdfb055d087001a01e1c37239e99bcbc7b9750f66e829458304a12",
       "source_sha256": "5922d2ee074e58c42492a90b979961af2c24995663dce3ecafab10511614df33",
-      "reused_verified_step_this_run": true
+      "object_sha256": "d8b9ef95e8fdfb055d087001a01e1c37239e99bcbc7b9750f66e829458304a12",
+      "resumed": true
     },
     "CausalIncidence": {
       "sha256": "5fd54a260201709d792c9616c637a15f2516f0890d3ac573c3cda74e8791da4f",
-      "object_sha256": "efe5f19e827165eaee4f0875c9c4ea4098eaa62610deaf8b796f4ab28f022e20",
       "source_sha256": "5fd54a260201709d792c9616c637a15f2516f0890d3ac573c3cda74e8791da4f",
-      "reused_verified_step_this_run": true
+      "object_sha256": "efe5f19e827165eaee4f0875c9c4ea4098eaa62610deaf8b796f4ab28f022e20",
+      "resumed": true
     },
     "CompactMetricResponse": {
       "sha256": "081d89a491bfa4fac0fdec1796b9e526bfb5bfc8e1adbf81e4c16d218f6e18de",
-      "object_sha256": "7b646f7d7f314815db97a6110a53de618333e57d2d98fc3ef91f135699d6099d",
       "source_sha256": "081d89a491bfa4fac0fdec1796b9e526bfb5bfc8e1adbf81e4c16d218f6e18de",
-      "reused_verified_step_this_run": true
+      "object_sha256": "7b646f7d7f314815db97a6110a53de618333e57d2d98fc3ef91f135699d6099d",
+      "resumed": true
     },
     "ExactPairMeetings": {
       "sha256": "91ccecf1ebdff645a1df8ea14de308e0bff63bc7f039731336b398ee65d2c489",
-      "object_sha256": "e4d58ef82cca333d0337da27f1e7a8bf47212664de3db650ad465830f8160842",
       "source_sha256": "91ccecf1ebdff645a1df8ea14de308e0bff63bc7f039731336b398ee65d2c489",
-      "reused_verified_step_this_run": true
+      "object_sha256": "e4d58ef82cca333d0337da27f1e7a8bf47212664de3db650ad465830f8160842",
+      "resumed": true
     },
     "FiniteInertialComparison": {
       "sha256": "a63743468d4c7e3439a2186c5c32b532b8098ce28712235dbe22a5b2b4df8bfe",
-      "object_sha256": "80bc06a664e92c2b3cbaed296e0cdbb5a7a165b2f9a88cfc9b48f621f92547f4",
       "source_sha256": "a63743468d4c7e3439a2186c5c32b532b8098ce28712235dbe22a5b2b4df8bfe",
-      "reused_verified_step_this_run": true
+      "object_sha256": "80bc06a664e92c2b3cbaed296e0cdbb5a7a165b2f9a88cfc9b48f621f92547f4",
+      "resumed": true
     },
     "FourDimensionalDiv2": {
       "sha256": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
-      "object_sha256": "3c583fdc69492bbf47451fcef4ffba4963bdd054bd3ba61f930d205b5702685e",
       "source_sha256": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
-      "reused_verified_step_this_run": true
+      "object_sha256": "3c583fdc69492bbf47451fcef4ffba4963bdd054bd3ba61f930d205b5702685e",
+      "resumed": true
     },
     "KernelFaithfulOperationalSR": {
       "sha256": "81b58d50fd0fc8dc8cca796c5905244c00dbf1dade9e8546663ac6510b57f5d0",
-      "object_sha256": "f4d297cf94bc0b310d177772de9bcad7f75f449d46d1eadc524db571914f0690",
       "source_sha256": "81b58d50fd0fc8dc8cca796c5905244c00dbf1dade9e8546663ac6510b57f5d0",
-      "reused_verified_step_this_run": true
+      "object_sha256": "f4d297cf94bc0b310d177772de9bcad7f75f449d46d1eadc524db571914f0690",
+      "resumed": true
     },
     "LocalExperiment": {
       "sha256": "8d331bd579649e399188e799cc58197bcf3a60157d7bff60c8378d6006314364",
-      "object_sha256": "c5d3336f0e13cae237f7b9e94067253ee6752154f34915f1618a659fdcd977fb",
       "source_sha256": "8d331bd579649e399188e799cc58197bcf3a60157d7bff60c8378d6006314364",
-      "reused_verified_step_this_run": true
+      "object_sha256": "c5d3336f0e13cae237f7b9e94067253ee6752154f34915f1618a659fdcd977fb",
+      "resumed": true
     },
     "OccupiedConeScale": {
       "sha256": "c3896586e513e47be24bc97733326254bb553bcc68394e81e7731c99e4dbd084",
-      "object_sha256": "8b86775409f11a82211a7e5b3f301e06e80158f6a3a0e9ba20e37de8a2cac044",
       "source_sha256": "c3896586e513e47be24bc97733326254bb553bcc68394e81e7731c99e4dbd084",
-      "reused_verified_step_this_run": true
+      "object_sha256": "8b86775409f11a82211a7e5b3f301e06e80158f6a3a0e9ba20e37de8a2cac044",
+      "resumed": true
     },
     "OccupiedMetricProfiles": {
       "sha256": "2e69e5e29f7ef676622be39cabf6854cda303dee934c15ba9a1f95c056c11e73",
-      "object_sha256": "238fdefaa905ce33a24c33f3d3a583dfd832808e89b7640a32432cf4ddb7a4fd",
       "source_sha256": "2e69e5e29f7ef676622be39cabf6854cda303dee934c15ba9a1f95c056c11e73",
-      "reused_verified_step_this_run": true
+      "object_sha256": "238fdefaa905ce33a24c33f3d3a583dfd832808e89b7640a32432cf4ddb7a4fd",
+      "resumed": true
     },
     "OrderObstruction": {
       "sha256": "bdb71fc17272759a820e903f1ab52a627130b1535e56b25ec78b63753e2e389d",
-      "object_sha256": "19a8f50746c855203c7df225de924df42d791bd7b6f6010a8d5e4f64ad381af3",
       "source_sha256": "bdb71fc17272759a820e903f1ab52a627130b1535e56b25ec78b63753e2e389d",
-      "reused_verified_step_this_run": true
+      "object_sha256": "19a8f50746c855203c7df225de924df42d791bd7b6f6010a8d5e4f64ad381af3",
+      "resumed": true
     },
     "OriginalWavepacketDetermination": {
       "sha256": "fb85a5b4f3b217c55e2c817b34a99224f74e83a44ef3ed4ff24dabce45b78962",
-      "object_sha256": "3f42f9d2b56f496960d9d211d26bed0e68e472835600ebd8c1ab7f562d6553d3",
       "source_sha256": "fb85a5b4f3b217c55e2c817b34a99224f74e83a44ef3ed4ff24dabce45b78962",
-      "reused_verified_step_this_run": true
+      "object_sha256": "3f42f9d2b56f496960d9d211d26bed0e68e472835600ebd8c1ab7f562d6553d3",
+      "resumed": true
     },
     "ProjectionCoverage": {
       "sha256": "1373e1aa1cb5f75de84bfbab491a2d7e6f849535e89b2aaf0c187a1f70419827",
-      "object_sha256": "261184cbb4824d3d2a810dd631028db7a88bfb5db2c7aae1610f39fbd029d0a6",
       "source_sha256": "1373e1aa1cb5f75de84bfbab491a2d7e6f849535e89b2aaf0c187a1f70419827",
-      "reused_verified_step_this_run": true
+      "object_sha256": "261184cbb4824d3d2a810dd631028db7a88bfb5db2c7aae1610f39fbd029d0a6",
+      "resumed": true
     },
     "SmoothMetricResponse": {
       "sha256": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
-      "object_sha256": "98b4e9203b8d7e4abb7dbd057ab373535d9d4bd968728452d586328f9cccb6e5",
       "source_sha256": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
-      "reused_verified_step_this_run": true
-    },
-    "TravelTimePolarization": {
-      "sha256": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
-      "object_sha256": "dbff8e1f30b61761408c854e94fb9c9feaf2ebc7c8a505eb34d4830e5fa5809e",
-      "source_sha256": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
-      "reused_verified_step_this_run": true
-    },
-    "WavefrontWitness": {
-      "sha256": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07",
-      "object_sha256": "2850cfa3c102fae59fff7019eb7647f7c37d76f64697a663637515ebdad6eec6",
-      "source_sha256": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07",
-      "reused_verified_step_this_run": true
+      "object_sha256": "98b4e9203b8d7e4abb7dbd057ab373535d9d4bd968728452d586328f9cccb6e5",
+      "resumed": true
     },
     "TransitiveRestRotations": {
       "sha256": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e",
+      "source_sha256": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e",
       "object_sha256": "aacf3d31d94eecbb36d7c1eb030aaaa1c19f8a46af79df6c0bdffd7d7e83e933",
-      "compile_seconds": 22.66,
-      "source_sha256": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e"
+      "resumed": true
+    },
+    "TravelTimePolarization": {
+      "sha256": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
+      "source_sha256": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
+      "object_sha256": "dbff8e1f30b61761408c854e94fb9c9feaf2ebc7c8a505eb34d4830e5fa5809e",
+      "resumed": true
+    },
+    "WavefrontWitness": {
+      "sha256": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07",
+      "source_sha256": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07",
+      "object_sha256": "2850cfa3c102fae59fff7019eb7647f7c37d76f64697a663637515ebdad6eec6",
+      "resumed": true
     },
     "FourDimensionalMetricResponse": {
       "sha256": "515e2a11d8b787e0938c40dfe1924fd19bf5a2d3ee4e564ee347852e388172c3",
-      "object_sha256": "6a94741bccd7ccaa6a65679044b938c9306635f0dc7605b928491d8996f6b283",
       "source_sha256": "515e2a11d8b787e0938c40dfe1924fd19bf5a2d3ee4e564ee347852e388172c3",
-      "reused_verified_step_this_run": true
+      "object_sha256": "6a94741bccd7ccaa6a65679044b938c9306635f0dc7605b928491d8996f6b283",
+      "resumed": true
     },
     "LinePacket": {
       "sha256": "754798edbaf0b95e78c49145f038233f5974681e5a2c60bf5fb306f2c260dd30",
-      "object_sha256": "f0b8e029cd29195a04993630dd7bfacca1fdf7e3f7246bbf0f46c3781bfbd4ce",
       "source_sha256": "754798edbaf0b95e78c49145f038233f5974681e5a2c60bf5fb306f2c260dd30",
-      "reused_verified_step_this_run": true
+      "object_sha256": "f0b8e029cd29195a04993630dd7bfacca1fdf7e3f7246bbf0f46c3781bfbd4ce",
+      "resumed": true
     },
     "LineResponse": {
       "sha256": "9c8113eca57a055a47938e6bcfe4b082f005c1963d0527b8c374f8099b3c521a",
-      "object_sha256": "6400aebc1c214ffc4a1c7b0116a73bc6e5395de1229dda6f57c37a15729a8a42",
       "source_sha256": "9c8113eca57a055a47938e6bcfe4b082f005c1963d0527b8c374f8099b3c521a",
-      "reused_verified_step_this_run": true
+      "object_sha256": "6400aebc1c214ffc4a1c7b0116a73bc6e5395de1229dda6f57c37a15729a8a42",
+      "resumed": true
     },
     "LineVacuum": {
       "sha256": "44a8594dcfab4c6f12c219dd66070ec7c2fb53c4c6146fbdea6db4dc8ea04495",
-      "object_sha256": "ae8c1ccddb919484f7ccde5a8d4f10adf7a143a7c5b644ee2a03cb0cbaa9b23c",
       "source_sha256": "44a8594dcfab4c6f12c219dd66070ec7c2fb53c4c6146fbdea6db4dc8ea04495",
-      "reused_verified_step_this_run": true
+      "object_sha256": "ae8c1ccddb919484f7ccde5a8d4f10adf7a143a7c5b644ee2a03cb0cbaa9b23c",
+      "resumed": true
     },
     "LocalAuditCone": {
       "sha256": "204b1a9e9fc7a3ece319d3c970f211fb052e0a0cdf9f8151bedde5fd6a705f51",
-      "object_sha256": "1ad77dceae13365d02d1e9e21add1a041962f95e24fc53492f43a0e99ba77a95",
       "source_sha256": "204b1a9e9fc7a3ece319d3c970f211fb052e0a0cdf9f8151bedde5fd6a705f51",
-      "reused_verified_step_this_run": true
+      "object_sha256": "1ad77dceae13365d02d1e9e21add1a041962f95e24fc53492f43a0e99ba77a95",
+      "resumed": true
     },
     "MultiRecordRelay": {
       "sha256": "4d46ef85ada51b7a39de7694b77ac1c5d8198e220e3664357c1ff08009856153",
-      "object_sha256": "1ced918138e892878aa5aff3e13d69c73f313d2282b1b97c8acde2fabedb3879",
       "source_sha256": "4d46ef85ada51b7a39de7694b77ac1c5d8198e220e3664357c1ff08009856153",
-      "reused_verified_step_this_run": true
-    },
-    "OccupiedScalarFlow": {
-      "sha256": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
-      "object_sha256": "44fe08ae25ba2c85d8a6ab76416d107b55149f37b9c4d07f950371b676938855",
-      "source_sha256": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
-      "reused_verified_step_this_run": true
-    },
-    "OccupiedSmoothMetricResponse": {
-      "sha256": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
-      "object_sha256": "06b4f24af81d72eb274d639fa5d05200cbb1061cd000a229a42fcaf89b9f6a60",
-      "source_sha256": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
-      "reused_verified_step_this_run": true
-    },
-    "OriginalRayWavefront": {
-      "sha256": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
-      "object_sha256": "82ddbaa71ad50d5b6d2313d6ce82705d46a766d8366d82781b64cfee2370b35c",
-      "source_sha256": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
-      "reused_verified_step_this_run": true
-    },
-    "SixEventAccess": {
-      "sha256": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
-      "object_sha256": "741fe422846dac20ab9266295224b4174185abcaace7471657cc6a09cfc28252",
-      "source_sha256": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
-      "reused_verified_step_this_run": true
+      "object_sha256": "1ced918138e892878aa5aff3e13d69c73f313d2282b1b97c8acde2fabedb3879",
+      "resumed": true
     },
     "NativeTransitiveRestFrame": {
       "sha256": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5",
+      "source_sha256": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5",
       "object_sha256": "56cc8bb5f301366963bc02f4a85255ac8cde1bf709140a38e7540dad78c78c8f",
-      "compile_seconds": 27.08,
-      "source_sha256": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5"
+      "resumed": true
+    },
+    "OccupiedLieReadings": {
+      "sha256": "1ebfa74348659079d9521457c73615f853b2105936c1282addc913ee676d69d2",
+      "source_sha256": "1ebfa74348659079d9521457c73615f853b2105936c1282addc913ee676d69d2",
+      "object_sha256": "80f49f508ebcc17df57d29cb4013b490094264898a29482ebc265c8e77b40300",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "OccupiedMetricGerms": {
+      "sha256": "8d9c6c197fac22fa5fd03cd6df2afe4fe3e2c0a3af52b7912f2ba1fc9d49e886",
+      "source_sha256": "8d9c6c197fac22fa5fd03cd6df2afe4fe3e2c0a3af52b7912f2ba1fc9d49e886",
+      "object_sha256": "8c06b8f37e4b1e8f923f83f84b2741004f4487a693a9833ab83ca0b85b4bd7fc",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "OccupiedRestOperationQueries": {
+      "sha256": "5b86ae303b02e7b7ad7cb9b8487abe6c17fcdaf8f6052ac8bd331a837d08aed1",
+      "source_sha256": "5b86ae303b02e7b7ad7cb9b8487abe6c17fcdaf8f6052ac8bd331a837d08aed1",
+      "object_sha256": "c3325ca2178e8147bbf93b5fc8bfe53989a3ffc5913ff530239fcc329e171c50",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "OccupiedScalarFlow": {
+      "sha256": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
+      "source_sha256": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
+      "object_sha256": "44fe08ae25ba2c85d8a6ab76416d107b55149f37b9c4d07f950371b676938855",
+      "resumed": true
+    },
+    "OccupiedSmoothMetricResponse": {
+      "sha256": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
+      "source_sha256": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
+      "object_sha256": "06b4f24af81d72eb274d639fa5d05200cbb1061cd000a229a42fcaf89b9f6a60",
+      "resumed": true
+    },
+    "OriginalRayWavefront": {
+      "sha256": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
+      "source_sha256": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
+      "object_sha256": "82ddbaa71ad50d5b6d2313d6ce82705d46a766d8366d82781b64cfee2370b35c",
+      "resumed": true
+    },
+    "SixEventAccess": {
+      "sha256": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
+      "source_sha256": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
+      "object_sha256": "741fe422846dac20ab9266295224b4174185abcaace7471657cc6a09cfc28252",
+      "resumed": true
     },
     "LineCharts": {
       "sha256": "b7257f657e0b448109fa8cee21ea2e93cbfed6e3d8da969359e42bf0275468b4",
-      "object_sha256": "293cb995f5a61a32bb6d2b4779bead23ff8afdfe0429c0b236df24ba5f677393",
       "source_sha256": "b7257f657e0b448109fa8cee21ea2e93cbfed6e3d8da969359e42bf0275468b4",
-      "reused_verified_step_this_run": true
+      "object_sha256": "293cb995f5a61a32bb6d2b4779bead23ff8afdfe0429c0b236df24ba5f677393",
+      "resumed": true
     },
     "LineFieldBridge": {
       "sha256": "433536429cb022b3b0ca5c536af004244a3aa95611325164c665780610a9ef0d",
-      "object_sha256": "93009c86c1f4f21c6755e1c0e3d7b5d174646f906f5b935fa7085fde25c139cb",
       "source_sha256": "433536429cb022b3b0ca5c536af004244a3aa95611325164c665780610a9ef0d",
-      "reused_verified_step_this_run": true
+      "object_sha256": "93009c86c1f4f21c6755e1c0e3d7b5d174646f906f5b935fa7085fde25c139cb",
+      "resumed": true
     },
     "LineIdentity": {
       "sha256": "2c4f3388b6ba7c99672c83be04b3c7ba05cad287e99bd424b7742d58f1842662",
-      "object_sha256": "3081daa4bff9697849a0ebcfc85e2255b77b7ecdde77dc39ab230e5c93d44679",
       "source_sha256": "2c4f3388b6ba7c99672c83be04b3c7ba05cad287e99bd424b7742d58f1842662",
-      "reused_verified_step_this_run": true
+      "object_sha256": "3081daa4bff9697849a0ebcfc85e2255b77b7ecdde77dc39ab230e5c93d44679",
+      "resumed": true
     },
     "LineOrder": {
       "sha256": "46b8007e0cff52f042ccdf77c4e4054e4664c96b6e0057acdef63f1ca6363aa6",
-      "object_sha256": "120a965add817ab9652340e5228d12b2f19b0db9c4863d0e46e621b807dfbe62",
       "source_sha256": "46b8007e0cff52f042ccdf77c4e4054e4664c96b6e0057acdef63f1ca6363aa6",
-      "reused_verified_step_this_run": true
+      "object_sha256": "120a965add817ab9652340e5228d12b2f19b0db9c4863d0e46e621b807dfbe62",
+      "resumed": true
     },
     "LineOrigin": {
       "sha256": "005dfccd0168582a8ad48b2f3b5f21fef685386023b486e5a32864bf2ef921a5",
-      "object_sha256": "a8ad8900c355027e37eb3ec5ca3e148f29a377b72617f2aac9551aaef3e56a45",
       "source_sha256": "005dfccd0168582a8ad48b2f3b5f21fef685386023b486e5a32864bf2ef921a5",
-      "reused_verified_step_this_run": true
+      "object_sha256": "a8ad8900c355027e37eb3ec5ca3e148f29a377b72617f2aac9551aaef3e56a45",
+      "resumed": true
+    },
+    "MinimumMetricResponseOrder": {
+      "sha256": "123dcd71809a1fdf79e4c863694a15b1557439e06c3b1cfe43a39a8b79da9c51",
+      "source_sha256": "123dcd71809a1fdf79e4c863694a15b1557439e06c3b1cfe43a39a8b79da9c51",
+      "object_sha256": "acd5525de9494858ed4be03242f6d165fcff022da8b6024f4aa346c7d79d9a9b",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "OccupiedFullProfileGerms": {
+      "sha256": "0fe706402db369de6ead2b7adbbafba73d434f09a2f13526d03c9aa889ed3b6a",
+      "source_sha256": "0fe706402db369de6ead2b7adbbafba73d434f09a2f13526d03c9aa889ed3b6a",
+      "object_sha256": "e0cff75b5fcf7bee195e2aeebfb4a3e2161732bbb3a74abcda20d92e53603a2e",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "OriginalWardLocalization": {
+      "sha256": "c4d1d77994b5b61f63688dcc2da4694e7c753b7668105274a5a7d37af7753d82",
+      "source_sha256": "c4d1d77994b5b61f63688dcc2da4694e7c753b7668105274a5a7d37af7753d82",
+      "object_sha256": "bb9ee454eb52cd992a683d9926ca02eba37b4d1f478ef034f4536384050b034a",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "SmoothMinimumEinstein": {
+      "sha256": "b06bad5e576f58612c96a07a0d93abd6a9b519adaa60ad232de99312f476ff66",
+      "source_sha256": "b06bad5e576f58612c96a07a0d93abd6a9b519adaa60ad232de99312f476ff66",
+      "object_sha256": "83b2aa02b6963359b55ebc1b9f27da1d064291f47233bb9d4c4a5ad2844d2d39",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "CompactRelativeGauge": {
+      "sha256": "116a1f5e06c6d2e5496dd3244ae62a9c02539c824c8a361be04bbc21afb615d1",
+      "object_sha256": "773fbbf8e4275e7db1306e6d64958cadecb19d9cf2f45ca17b8370a916395376",
+      "compile_seconds": 26.09,
+      "source_sha256": "116a1f5e06c6d2e5496dd3244ae62a9c02539c824c8a361be04bbc21afb615d1"
     },
     "LineArchive": {
       "sha256": "68132d054d53127759ae777e5d05487c333077b6be13c7a45dfa412c51cfb641",
-      "object_sha256": "dfe00e0f6dc6937ba7f31c342c83a9484bda9447279cb486d54aad8b5b40318f",
       "source_sha256": "68132d054d53127759ae777e5d05487c333077b6be13c7a45dfa412c51cfb641",
-      "reused_verified_step_this_run": true
+      "object_sha256": "dfe00e0f6dc6937ba7f31c342c83a9484bda9447279cb486d54aad8b5b40318f",
+      "resumed": true
+    },
+    "OccupiedMinimumEinstein": {
+      "sha256": "06cc4891621daf196384f80d80dd5261ae416eeeb2b100422a318dff4abc1b66",
+      "source_sha256": "06cc4891621daf196384f80d80dd5261ae416eeeb2b100422a318dff4abc1b66",
+      "object_sha256": "3459f7c943d28e023c50e128a4d6249f6fffd1a3bea2fba3d939a47f2a8bb17e",
+      "resumed": true,
+      "fresh_in_earlier_pass_this_edition": true
+    },
+    "MetricDivergenceTransport": {
+      "sha256": "fe1fad9549a519558d94ca0c57e5e6feb99d1ea4d79bac27c8f1cbd903d1284f",
+      "object_sha256": "3e43d31d5332b93a20f60bfc864593f6a488a9fe41c14955e38d38271ad1267c",
+      "compile_seconds": 24.97,
+      "source_sha256": "fe1fad9549a519558d94ca0c57e5e6feb99d1ea4d79bac27c8f1cbd903d1284f"
+    },
+    "ObservedOrderMinimum": {
+      "sha256": "84db85490cc902da7a4e908500d6698979976069d8016a1b63bedba142543bf7",
+      "object_sha256": "26626708e8223e5db8f62e61613d17671da1b69152e3c0d1eb9d6d7df37b1826",
+      "compile_seconds": 25.39,
+      "source_sha256": "84db85490cc902da7a4e908500d6698979976069d8016a1b63bedba142543bf7"
     },
     "PreparationPublication": {
-      "sha256": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b",
-      "object_sha256": "2be66d1d68994083e9540e48d91f0759e00ad80ece1827e96058e1f43bf0889e",
-      "compile_seconds": 23.84,
-      "source_sha256": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b"
+      "sha256": "01dbbd48aef5c625e8c8a8d86f204aa84ac0c2ba4d73d08c318a834c9dadf198",
+      "object_sha256": "3b48dd319efd392211e758096828b812d4d865c64fe92697afef11e0b2eeee13",
+      "compile_seconds": 23.39,
+      "source_sha256": "01dbbd48aef5c625e8c8a8d86f204aa84ac0c2ba4d73d08c318a834c9dadf198"
     }
   },
+  "hash_fields": {
+    "sha256": "source bytes, identical to source_sha256",
+    "object_sha256": "compiled .olean bytes"
+  },
+  "checked_native_source_hashes": 1056,
   "reused": "Prebuilt pinned native project dependencies and mathlib",
   "warnings_as_errors": "All publication sources. The unmodified native Stage 4 root uses its original warnings policy.",
   "kernel_replay": {
@@ -222,7 +301,18 @@
     "OccupiedSmoothMetricResponse": "replaying OccupiedSmoothMetricResponse",
     "FourDimensionalMetricResponse": "replaying FourDimensionalMetricResponse",
     "FourDimensionalDiv2": "replaying FourDimensionalDiv2",
-    "SmoothMetricResponse": "replaying SmoothMetricResponse"
+    "SmoothMetricResponse": "replaying SmoothMetricResponse",
+    "OccupiedMetricGerms": "replaying OccupiedMetricGerms",
+    "MinimumMetricResponseOrder": "replaying MinimumMetricResponseOrder",
+    "ObservedOrderMinimum": "replaying ObservedOrderMinimum",
+    "SmoothMinimumEinstein": "replaying SmoothMinimumEinstein",
+    "CompactRelativeGauge": "replaying CompactRelativeGauge",
+    "OccupiedLieReadings": "replaying OccupiedLieReadings",
+    "OriginalWardLocalization": "replaying OriginalWardLocalization",
+    "OccupiedFullProfileGerms": "replaying OccupiedFullProfileGerms",
+    "OccupiedRestOperationQueries": "replaying OccupiedRestOperationQueries",
+    "OccupiedMinimumEinstein": "replaying OccupiedMinimumEinstein",
+    "MetricDivergenceTransport": "replaying MetricDivergenceTransport"
   },
   "audited_axioms": {
     "AASCSemanticExhaustion.Div2Four.component_zero": [
@@ -404,131 +494,285 @@
       "propext",
       "Classical.choice",
       "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_safe_operand_image": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCKleinGordon.original_eh_actual_act_curve_admitted": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.compact_source_lie_tensor_is_actual": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.constructed_source_closed_ward_iff": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.eh_original_geometric_general_closure": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.invariant_baseline_unique_metric_multiple": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.exists_admitted_operand_eq_germ": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.exists_smooth_symmetric_field_eq_germ_on_open": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.exists_admitted_operand_of_chart_germ": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.exists_admitted_operand_eq_framed_germ": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.exists_admitted_operand_eq_normal_chart_germ": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.local_response_germs": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.coordinate_divergence_of_equal_germs": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.original_eh_natural_under_smooth_coordinates": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.smooth_normal_frame_operand": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.first_jet_natural_response_unique_baseline": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.active_natural_response_order_lower_bound": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.smooth_activity_of_regular_two_jet_activity": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.occupied_eh_least_intrinsic_order": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.least_active_closed_metric_response_order": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_eh_realizes_occupied_lie_readings": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_lie_observations_least_order": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.einstein_form_at_observed_minimum": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.smooth_minimal_einstein_form_of_cubic_ward": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.every_active_einstein_pair_occurs_at_minimum": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.compact_pullback_preserves_occupied_action": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.compact_pullback_curve_has_zero_action_derivative": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.occupied_lie_probe_has_standing": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.compact_lie_readings_iff_same_divergence": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.occupied_lie_readings_iff_same_current": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.regular_density_currents_of_same_lie_readings": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.smooth_raised_components": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.occupied_lie_readings_force_normal_closure": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.occupied_tensor_readout_represents": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_lie_readings_close_normal_germ": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_lie_readings_close_normal_patch": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_lie_readings_close_every_normal_chart": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_lie_readings_close_cubic_witness": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.nonclosure_has_occupied_lie_witness": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.smooth_frame_natural_of_regular": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.full_readings_identify_occupied_response": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.germ_local_response_eq_eh_of_all_occupied_profiles": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.different_germ_has_occupied_compact_test": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_profiles_determine_eh_on_smooth_chart": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCKleinGordon.CanonicalLicensing.SRIntegration.same_ray_arrivals_can_lose_original_rest_interchange": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCKleinGordon.CanonicalLicensing.SRIntegration.occupied_rest_answers_differ_despite_all_ray_arrivals": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.minimum_response_from_occupied_lie_readings": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.normal_chart_tensor_partial": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.normal_chart_original_divergence": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.flat_first_affine_divergence": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.centered_normal_divergence_transport": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.centered_normal_pullback_metric_germ": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCSemanticExhaustion.centered_normal_divergence_zero_iff": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "AASCOccupiedProfiles.original_lie_readings_close_in_original_coordinates": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
     ]
   },
-  "checked_native_source_hashes": 1056,
-  "hash_fields": {
-    "sha256": "input source bytes, identical to source_sha256",
-    "source_sha256": "input source bytes",
-    "object_sha256": "freshly compiled .olean bytes"
-  },
-  "native_capstone": "AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr",
-  "public_base": {
-    "public_repository": "https://github.com/somamaley-ux/aasc-structural-unification-interior",
-    "public_head": "7e58f29b4b8975e88dff285dc58acef812e1630e",
-    "public_parent": "aee47c9d31738765eda544e299ec8e48bdc6900e",
-    "checked_changed_git_blobs": {
-      "README.md": "3bde64576631666ea8c2999422af19b7dd0a015d",
-      "audit/ProjectionCoverage.lean": "d9ba5060c9cce27e31d7231341aff7fe8b2cd453",
-      "metadata/export-files.json": "364f258aff5e25dfd38331d47882cf5b8af9a049"
-    },
-    "public_export_verified_sha256_files": 5592,
-    "native_sources_matched_to_accepted_and_cached_build": 1056,
-    "accepted_supplement_paths": {
-      "CompactMetricResponse.lean": [
-        "audit/CompactMetricResponse.lean"
-      ],
-      "FiniteInertialComparison.lean": [
-        "audit/FiniteInertialComparison.lean"
-      ],
-      "OccupiedConeScale.lean": [
-        "audit/OccupiedConeScale.lean"
-      ],
-      "OccupiedMetricProfiles.lean": [
-        "audit/OccupiedMetricProfiles.lean"
-      ],
-      "OccupiedScalarFlow.lean": [
-        "audit/OccupiedScalarFlow.lean"
-      ],
-      "OriginalWavepacketDetermination.lean": [
-        "audit/OriginalWavepacketDetermination.lean"
-      ],
-      "ExactPairMeetings.lean": [
-        "causal-access/audit/six_event/ExactPairMeetings.lean",
-        "six-event/lean/ExactPairMeetings.lean"
-      ],
-      "OriginalRayWavefront.lean": [
-        "causal-access/audit/six_event/OriginalRayWavefront.lean",
-        "six-event/lean/OriginalRayWavefront.lean"
-      ],
-      "SixEventAccess.lean": [
-        "causal-access/audit/six_event/SixEventAccess.lean"
-      ],
-      "WavefrontWitness.lean": [
-        "causal-access/audit/six_event/WavefrontWitness.lean",
-        "six-event/lean/WavefrontWitness.lean"
-      ],
-      "AccessDeletion.lean": [
-        "physical-interior/AccessDeletion.lean"
-      ],
-      "CausalIncidence.lean": [
-        "physical-interior/CausalIncidence.lean"
-      ],
-      "LineArchive.lean": [
-        "physical-interior/LineArchive.lean"
-      ],
-      "LineCharts.lean": [
-        "physical-interior/LineCharts.lean"
-      ],
-      "LineFieldBridge.lean": [
-        "physical-interior/LineFieldBridge.lean"
-      ],
-      "LineIdentity.lean": [
-        "physical-interior/LineIdentity.lean"
-      ],
-      "LineOrder.lean": [
-        "physical-interior/LineOrder.lean"
-      ],
-      "LineOrigin.lean": [
-        "physical-interior/LineOrigin.lean"
-      ],
-      "LinePacket.lean": [
-        "physical-interior/LinePacket.lean"
-      ],
-      "LineResponse.lean": [
-        "physical-interior/LineResponse.lean"
-      ],
-      "LineVacuum.lean": [
-        "physical-interior/LineVacuum.lean"
-      ],
-      "LocalAuditCone.lean": [
-        "physical-interior/LocalAuditCone.lean"
-      ],
-      "LocalExperiment.lean": [
-        "six-event/lean/LocalExperiment.lean"
-      ],
-      "MultiRecordRelay.lean": [
-        "six-event/lean/MultiRecordRelay.lean"
-      ],
-      "OrderObstruction.lean": [
-        "six-event/lean/OrderObstruction.lean"
-      ]
-    }
-  },
-  "native_lake_build": {
-    "command": "lake --no-cache build PreparationPublication",
-    "scope": "Freshly derived publication modules and unchanged actual joint entry point under Lake, using read-only pinned native/mathlib and rebuilt older publication imports. The full native dependency graph was not rebuilt from source in this command.",
-    "lean_sources": {
-      "FourDimensionalDiv2": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
-      "SmoothMetricResponse": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
-      "FourDimensionalMetricResponse": "515e2a11d8b787e0938c40dfe1924fd19bf5a2d3ee4e564ee347852e388172c3",
-      "OccupiedSmoothMetricResponse": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
-      "TravelTimePolarization": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
-      "TransitiveRestRotations": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e",
-      "NativeTransitiveRestFrame": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5",
-      "PreparationPublication": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b",
-      "PreparationPublicationAudit": "8217771698dc9cb391f039fdf6b61bcb5a185f5d99cfa25a9b5431c97e8ee906"
-    },
-    "objects_present": true
-  },
-  "exact_lakefile_parsed": true,
-  "lake_dependency_setup": "For the local publication-target build, separate source-free Lake packages exposed the cached Lean object roots of the pinned native project, its mathlib overlay, and the rebuilt earlier supplements. The same seven new source files, joint entry point and axiom audit were compiled by Lake. The distributed Lake file retains its ordinary pinned mathlib git dependency and its declaration was separately elaborated.",
-  "bootstrap_scope": "The 1,056-file native dependency graph and complete third-party toolchain were not recompiled afresh in this publication run.",
-  "source_scope": "All 25 distinct previous proof modules from the accepted project's supplement directories and the upstream task-coverage audit were recompiled with the original Stage 4 root. Seven new proof modules and the publication import were then compiled. The 36 axiom queries were checked by a fresh client.",
-  "public_module_source_sha256": {
+  "public_base": "f60ef6980eacaa280ae8acf954b3838d993c9cfa",
+  "public_base_tree": "de6e7a740fa7f9c8a70fe7ba8153ef1c8d3b5e51",
+  "source_hashes": {
     "AccessDeletion.lean": "5922d2ee074e58c42492a90b979961af2c24995663dce3ecafab10511614df33",
     "CausalIncidence.lean": "5fd54a260201709d792c9616c637a15f2516f0890d3ac573c3cda74e8791da4f",
     "CompactMetricResponse.lean": "081d89a491bfa4fac0fdec1796b9e526bfb5bfc8e1adbf81e4c16d218f6e18de",
+    "CompactRelativeGauge.lean": "116a1f5e06c6d2e5496dd3244ae62a9c02539c824c8a361be04bbc21afb615d1",
     "ExactPairMeetings.lean": "91ccecf1ebdff645a1df8ea14de308e0bff63bc7f039731336b398ee65d2c489",
     "FiniteInertialComparison.lean": "a63743468d4c7e3439a2186c5c32b532b8098ce28712235dbe22a5b2b4df8bfe",
     "FourDimensionalDiv2.lean": "c691a3bf062d6bb9f8689538e7fef56971a2e031c6e989b6b9fd46cb8168a0f6",
@@ -544,23 +788,84 @@
     "LineVacuum.lean": "44a8594dcfab4c6f12c219dd66070ec7c2fb53c4c6146fbdea6db4dc8ea04495",
     "LocalAuditCone.lean": "204b1a9e9fc7a3ece319d3c970f211fb052e0a0cdf9f8151bedde5fd6a705f51",
     "LocalExperiment.lean": "8d331bd579649e399188e799cc58197bcf3a60157d7bff60c8378d6006314364",
+    "MetricDivergenceTransport.lean": "fe1fad9549a519558d94ca0c57e5e6feb99d1ea4d79bac27c8f1cbd903d1284f",
+    "MinimumMetricResponseOrder.lean": "123dcd71809a1fdf79e4c863694a15b1557439e06c3b1cfe43a39a8b79da9c51",
     "MultiRecordRelay.lean": "4d46ef85ada51b7a39de7694b77ac1c5d8198e220e3664357c1ff08009856153",
     "NativeTransitiveRestFrame.lean": "cd9f830829c58e03a350c7d3267f168886c46e411de44f136699ba6f43ea55f5",
+    "ObservedOrderMinimum.lean": "84db85490cc902da7a4e908500d6698979976069d8016a1b63bedba142543bf7",
     "OccupiedConeScale.lean": "c3896586e513e47be24bc97733326254bb553bcc68394e81e7731c99e4dbd084",
+    "OccupiedFullProfileGerms.lean": "0fe706402db369de6ead2b7adbbafba73d434f09a2f13526d03c9aa889ed3b6a",
+    "OccupiedLieReadings.lean": "1ebfa74348659079d9521457c73615f853b2105936c1282addc913ee676d69d2",
+    "OccupiedMetricGerms.lean": "8d9c6c197fac22fa5fd03cd6df2afe4fe3e2c0a3af52b7912f2ba1fc9d49e886",
     "OccupiedMetricProfiles.lean": "2e69e5e29f7ef676622be39cabf6854cda303dee934c15ba9a1f95c056c11e73",
+    "OccupiedMinimumEinstein.lean": "06cc4891621daf196384f80d80dd5261ae416eeeb2b100422a318dff4abc1b66",
+    "OccupiedRestOperationQueries.lean": "5b86ae303b02e7b7ad7cb9b8487abe6c17fcdaf8f6052ac8bd331a837d08aed1",
     "OccupiedScalarFlow.lean": "5fd7e1d16a20095bf64cf0c93df24c737119cbb9182454c3a6de6d800c5e5cbf",
     "OccupiedSmoothMetricResponse.lean": "81b8e883aa8f8c19e5fd81e3ab4a5e03fb2e3fa7e8010ff15b9a97227bd81dff",
     "OrderObstruction.lean": "bdb71fc17272759a820e903f1ab52a627130b1535e56b25ec78b63753e2e389d",
     "OriginalRayWavefront.lean": "7d315ca0f91b9aea3636c99ba7c12f672c57403b476ff69e295b64a470a9da30",
+    "OriginalWardLocalization.lean": "c4d1d77994b5b61f63688dcc2da4694e7c753b7668105274a5a7d37af7753d82",
     "OriginalWavepacketDetermination.lean": "fb85a5b4f3b217c55e2c817b34a99224f74e83a44ef3ed4ff24dabce45b78962",
-    "PreparationPublication.lean": "2368022e79e7bf076865cfbe0aef4ca8447d695740240443f871fd66c793366b",
-    "PreparationPublicationAudit.lean": "8217771698dc9cb391f039fdf6b61bcb5a185f5d99cfa25a9b5431c97e8ee906",
+    "PreparationPublication.lean": "01dbbd48aef5c625e8c8a8d86f204aa84ac0c2ba4d73d08c318a834c9dadf198",
+    "PreparationPublicationAudit.lean": "f84c9c4a39ab9ae784b0623e6da3e6700e087d6dc75f8b52d0b09d14e1e5603d",
     "SixEventAccess.lean": "ad61b3682683ee95b8b1c4fc4999011542d1f453f4fbe326c76b93b9613e5b8d",
     "SmoothMetricResponse.lean": "11e4274e9ef0fc8b18754168c5ef4f56b4b4eb57d3c2467deb280e408f348756",
+    "SmoothMinimumEinstein.lean": "b06bad5e576f58612c96a07a0d93abd6a9b519adaa60ad232de99312f476ff66",
     "TransitiveRestRotations.lean": "14bccb575ed96257c84b1b59cd4915187b873d3b54c516e91b937c3cabb9fa8e",
     "TravelTimePolarization.lean": "634f2a4ec6643f731945ba957e6a3795e59bc6fa33c8cb46737b906b4326de2e",
     "WavefrontWitness.lean": "ef4240fb6b91d5a4b1b118dc9fef681e271d28257e4494b7e9ecc9044cc80a07"
   },
-  "audited_client_sha256": "8217771698dc9cb391f039fdf6b61bcb5a185f5d99cfa25a9b5431c97e8ee906",
-  "external_result": "The natural-tensor deduction of the differential coefficient symmetries from off-shell conservation is the cited Lovelock step. The finite dimension-four obstruction, affine profile implication, original-germ classification and occupied EH profile are checked in Lean."
+  "new_modules": [
+    "OccupiedMetricGerms",
+    "MinimumMetricResponseOrder",
+    "ObservedOrderMinimum",
+    "SmoothMinimumEinstein",
+    "CompactRelativeGauge",
+    "OccupiedLieReadings",
+    "OriginalWardLocalization",
+    "OccupiedFullProfileGerms",
+    "OccupiedRestOperationQueries",
+    "OccupiedMinimumEinstein",
+    "MetricDivergenceTransport"
+  ],
+  "freshly_recompiled": [
+    "CompactRelativeGauge",
+    "MetricDivergenceTransport",
+    "MinimumMetricResponseOrder",
+    "ObservedOrderMinimum",
+    "OccupiedFullProfileGerms",
+    "OccupiedLieReadings",
+    "OccupiedMetricGerms",
+    "OccupiedMinimumEinstein",
+    "OccupiedRestOperationQueries",
+    "OriginalWardLocalization",
+    "PreparationPublication",
+    "SmoothMinimumEinstein"
+  ],
+  "resumed_objects": 34,
+  "checked_dependency_revisions": 9,
+  "native_lake_build": {
+    "command": "lake --no-cache build PreparationPublication",
+    "scope": "Freshly derived publication modules and unchanged actual joint entry point under Lake, using read-only pinned native/mathlib and rebuilt older publication imports. The full native dependency graph was not rebuilt from source in this command.",
+    "lean_sources": {
+      "OccupiedMetricGerms": "8d9c6c197fac22fa5fd03cd6df2afe4fe3e2c0a3af52b7912f2ba1fc9d49e886",
+      "MinimumMetricResponseOrder": "123dcd71809a1fdf79e4c863694a15b1557439e06c3b1cfe43a39a8b79da9c51",
+      "ObservedOrderMinimum": "84db85490cc902da7a4e908500d6698979976069d8016a1b63bedba142543bf7",
+      "SmoothMinimumEinstein": "b06bad5e576f58612c96a07a0d93abd6a9b519adaa60ad232de99312f476ff66",
+      "CompactRelativeGauge": "116a1f5e06c6d2e5496dd3244ae62a9c02539c824c8a361be04bbc21afb615d1",
+      "OccupiedLieReadings": "1ebfa74348659079d9521457c73615f853b2105936c1282addc913ee676d69d2",
+      "OriginalWardLocalization": "c4d1d77994b5b61f63688dcc2da4694e7c753b7668105274a5a7d37af7753d82",
+      "OccupiedFullProfileGerms": "0fe706402db369de6ead2b7adbbafba73d434f09a2f13526d03c9aa889ed3b6a",
+      "OccupiedRestOperationQueries": "5b86ae303b02e7b7ad7cb9b8487abe6c17fcdaf8f6052ac8bd331a837d08aed1",
+      "OccupiedMinimumEinstein": "06cc4891621daf196384f80d80dd5261ae416eeeb2b100422a318dff4abc1b66",
+      "MetricDivergenceTransport": "fe1fad9549a519558d94ca0c57e5e6feb99d1ea4d79bac27c8f1cbd903d1284f",
+      "PreparationPublication": "01dbbd48aef5c625e8c8a8d86f204aa84ac0c2ba4d73d08c318a834c9dadf198",
+      "PreparationPublicationAudit": "f84c9c4a39ab9ae784b0623e6da3e6700e087d6dc75f8b52d0b09d14e1e5603d"
+    },
+    "objects_present": true
+  },
+  "exact_lakefile_parsed": true,
+  "proof_scope": "## Occupied metric readings and minimum differential order\n\n`OccupiedMetricGerms.lean` constructs bounded compact metric operands with the same germ as a locally smooth Lorentzian metric in a normalized chart. The cutoff equals one on a neighborhood. This supplies equality of response derivatives wherever a local response agrees on that neighborhood. `OccupiedFullProfileGerms.lean` shows that matching every original compact variation identifies the specified Einstein–Hilbert response even for a natural germ-local rival without an assigned differential order or action.\n\n`OccupiedLieReadings.lean` constructs compact metric Lie probes on occupied operands, checks their admission along short variation rays, and relates their readings to the represented source divergence. `OriginalWardLocalization.lean` transfers those comparisons to smooth normal charts and the curved cubic metric witness. A nonzero normalized divergence supplies a compact Lie test whose reading differs on an occupied operand.\n\n`CompactRelativeGauge.lean` proves that the original relative Einstein–Hilbert action has the same value on two occupied operands related by a certified compact pullback on its invariant patch. A parameter family retaining these certificates near zero has zero action derivative there.\n\n`MetricDivergenceTransport.lean` calculates how the divergence of a smooth symmetric tensor transforms between the input chart and its centered normal chart. The occupied Ward corollary uses the tensor's covariance on the chart germ to conclude zero divergence in the original coordinates at every smooth, framed Lorentz point. This transport is proved at the tensor level without assuming that divergence is covariant.\n\n`MinimumMetricResponseOrder.lean` defines differential order by factorization through the actual metric jet. A natural response of order zero or one is a constant metric multiple on smooth Lorentzian operands. The original active, closed Einstein response attains order two. `SmoothMinimumEinstein.lean` classifies the active second-order responses with the differentiated natural-tensor component identities, and constructs an example for each allowed coefficient pair. `OccupiedMinimumEinstein.lean` connects the occupied Lie readings to the cubic conservation test and gives the minimum order and unique Einstein coefficient pair together. The smooth classification records the published Lovelock implication from smooth geometric naturality and off-shell conservation to the differential component identities as an external mathematical input. The coefficient obstruction and the subsequent use of those identities are checked in Lean.\n\n`ObservedOrderMinimum.lean` minimizes directly over natural active responses reproducing the original compact Lie readings. The actual Einstein–Hilbert response witnesses attainability in this comparison class. The source-derived bound and the unique Einstein coefficient pair for a smooth minimizer are combined in `einstein_form_at_observed_minimum`.\n\n`OccupiedRestOperationQueries.lean` compares two kinds of query on the same original finite-ray preparation. Retaining just the identity frame comparison leaves the answers to every ray-arrival query unchanged. The original occupied source admits the proper half-turn that sends the first unit spatial direction to its negative at one tick; the restricted collection loses that interchange. This reduction of the available operations changes the complete protocol.",
+  "bootstrap_scope": "The pinned compiled native project and mathlib dependencies were reused. All native source hashes were checked against the pinned build.",
+  "audited_client_sha256": "f84c9c4a39ab9ae784b0623e6da3e6700e087d6dc75f8b52d0b09d14e1e5603d"
 }

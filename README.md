@@ -1,5 +1,9 @@
 # Premetric Structural Unification
 
+## Minimum metric response order and occupied comparisons
+
+The [publication proof map](publication/README.md) connects the new occupied metric tests and minimum-order results with the source, scalar and inertial comparisons from the previous publication.
+
 ## Original preparations and their responses
 
 The [publication entry point](publication/PreparationPublication.lean) connects the
